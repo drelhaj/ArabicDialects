@@ -1,0 +1,24 @@
+Correctly Classified Instances        6371               83.6528 %
+Incorrectly Classified Instances      1245               16.3472 %
+Kappa statistic                          0.794 
+Mean absolute error                      0.2513
+Root mean squared error                  0.3322
+Relative absolute error                 79.1542 %
+Root relative squared error             83.3676 %
+Coverage of cases (0.95 level)          99.3566 %
+Mean rel. region size (0.95 level)      81.896  %
+Total Number of Instances             7616     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.809     0.058      0.786     0.809     0.797      0.91     EGY
+                 0.851     0.05       0.828     0.851     0.839      0.929    GLF
+                 0.849     0.042      0.857     0.849     0.853      0.922    LAV
+                 0.803     0.024      0.832     0.803     0.817      0.955    MSA
+                 0.855     0.032      0.879     0.855     0.867      0.953    NOR
+Weighted Avg.    0.837     0.043      0.837     0.837     0.837      0.932
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/AllClassesTruncateSMO.dat =====

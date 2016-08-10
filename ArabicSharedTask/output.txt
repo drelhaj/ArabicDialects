@@ -1,0 +1,261 @@
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2140               83.0423 %
+Incorrectly Classified Instances       437               16.9577 %
+Kappa statistic                          0.6362
+Mean absolute error                      0.1696
+Root mean squared error                  0.4118
+Relative absolute error                 35.7167 %
+Root relative squared error             84.5204 %
+Coverage of cases (0.95 level)          83.0423 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             2577     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.893     0.268      0.84      0.893     0.866      0.812    EGY
+                 0.732     0.107      0.812     0.732     0.77       0.812    MSA
+Weighted Avg.    0.83      0.206      0.829     0.83      0.829      0.812
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_MSA_EGY.dat =====
+
+
+
+======================================================================================================================
+
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2239               83.8263 %
+Incorrectly Classified Instances       432               16.1737 %
+Kappa statistic                          0.6393
+Mean absolute error                      0.1617
+Root mean squared error                  0.4022
+Relative absolute error                 34.5381 %
+Root relative squared error             83.1147 %
+Coverage of cases (0.95 level)          83.8263 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             2671     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.934     0.321      0.829     0.934     0.878      0.806    GLF
+                 0.679     0.066      0.859     0.679     0.758      0.806    MSA
+Weighted Avg.    0.838     0.226      0.841     0.838     0.834      0.806
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_MSA_GLF.dat =====
+======================================================================================================================
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2335               84.6935 %
+Incorrectly Classified Instances       422               15.3065 %
+Kappa statistic                          0.6592
+Mean absolute error                      0.1531
+Root mean squared error                  0.3912
+Relative absolute error                 33.1209 %
+Root relative squared error             81.3921 %
+Coverage of cases (0.95 level)          84.6935 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             2757     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.917     0.276      0.854     0.917     0.884      0.82     LAV
+                 0.724     0.083      0.832     0.724     0.774      0.82     MSA
+Weighted Avg.    0.847     0.206      0.846     0.847     0.844      0.82 
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_MSA_LAV.dat =====
+======================================================================================================================
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2359               90.3485 %
+Incorrectly Classified Instances       252                9.6515 %
+Kappa statistic                          0.7926
+Mean absolute error                      0.0965
+Root mean squared error                  0.3107
+Relative absolute error                 20.4278 %
+Root relative squared error             63.9202 %
+Coverage of cases (0.95 level)          90.3485 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             2611     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.834     0.053      0.906     0.834     0.869      0.89     MSA
+                 0.947     0.166      0.902     0.947     0.924      0.89     NOR
+Weighted Avg.    0.903     0.123      0.904     0.903     0.903      0.89 
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_MSA_NOR.dat =====
+======================================================================================================================
+
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2603               81.5987 %
+Incorrectly Classified Instances       587               18.4013 %
+Kappa statistic                          0.6314
+Mean absolute error                      0.184 
+Root mean squared error                  0.429 
+Relative absolute error                 36.8067 %
+Root relative squared error             85.7982 %
+Coverage of cases (0.95 level)          81.5987 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             3190     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.74      0.109      0.869     0.74      0.799      0.815    EGY
+                 0.891     0.26       0.777     0.891     0.83       0.815    NOR
+Weighted Avg.    0.816     0.186      0.823     0.816     0.815      0.815
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_EGY_NOR.dat =====
+
+======================================================================================================================
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2566               76.9185 %
+Incorrectly Classified Instances       770               23.0815 %
+Kappa statistic                          0.5326
+Mean absolute error                      0.2308
+Root mean squared error                  0.4804
+Relative absolute error                 46.2977 %
+Root relative squared error             96.2266 %
+Coverage of cases (0.95 level)          76.9185 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             3336     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.664     0.137      0.814     0.664     0.731      0.764    EGY
+                 0.863     0.336      0.741     0.863     0.798      0.764    LAV
+Weighted Avg.    0.769     0.242      0.775     0.769     0.766      0.764
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_EGY_LAV.dat =====
+
+======================================================================================================================
+
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2477               76.2154 %
+Incorrectly Classified Instances       773               23.7846 %
+Kappa statistic                          0.5203
+Mean absolute error                      0.2378
+Root mean squared error                  0.4877
+Relative absolute error                 47.609  %
+Root relative squared error             97.5797 %
+Coverage of cases (0.95 level)          76.2154 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             3250     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.623     0.106      0.847     0.623     0.718      0.758    EGY
+                 0.894     0.377      0.715     0.894     0.794      0.758    GLF
+Weighted Avg.    0.762     0.246      0.779     0.762     0.757      0.758
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_EGY_GLF.dat =====
+
+======================================================================================================================
+
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2451               71.4577 %
+Incorrectly Classified Instances       979               28.5423 %
+Kappa statistic                          0.4324
+Mean absolute error                      0.2854
+Root mean squared error                  0.5342
+Relative absolute error                 57.1204 %
+Root relative squared error            106.8835 %
+Coverage of cases (0.95 level)          71.4577 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             3430     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.836     0.4        0.665     0.836     0.741      0.718    GLF
+                 0.6       0.164      0.793     0.6       0.683      0.718    LAV
+Weighted Avg.    0.715     0.28       0.731     0.715     0.711      0.718
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_LAV_GLF.dat =====
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+
+======================================================================================================================
+
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2467               75.1218 %
+Incorrectly Classified Instances       817               24.8782 %
+Kappa statistic                          0.5004
+Mean absolute error                      0.2488
+Root mean squared error                  0.4988
+Relative absolute error                 49.773  %
+Root relative squared error             99.7727 %
+Coverage of cases (0.95 level)          75.1218 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             3284     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.858     0.36       0.712     0.858     0.778      0.749    GLF
+                 0.64      0.142      0.813     0.64      0.716      0.749    NOR
+Weighted Avg.    0.751     0.253      0.762     0.751     0.748      0.749
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_NOR_GLF.dat =====
+======================================================================================================================
+
+===== Loaded dataset: arff/Arb2Classes.arff =====
+
+Correctly Classified Instances        2556               75.8457 %
+Incorrectly Classified Instances       814               24.1543 %
+Kappa statistic                          0.5149
+Mean absolute error                      0.2415
+Root mean squared error                  0.4915
+Relative absolute error                 48.3994 %
+Root relative squared error             98.3864 %
+Coverage of cases (0.95 level)          75.8457 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             3370     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.794     0.28       0.755     0.794     0.774      0.757    LAV
+                 0.72      0.206      0.762     0.72      0.74       0.757    NOR
+Weighted Avg.    0.758     0.245      0.759     0.758     0.758      0.757
+
+===== Evaluating on filtered (training) dataset done =====
+===== Training on filtered (training) dataset done =====
+===== Saved model: model/Arb2ClassesSMO_Reduced_NOR_LAV.dat =====
+
+======================================================================================================================
+
+
+======================================================================================================================
+
+
+======================================================================================================================

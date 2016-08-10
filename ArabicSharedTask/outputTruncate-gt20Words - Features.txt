@@ -1,0 +1,25 @@
+Present Project Directory : E:\workspace\ArabicSharedTask
+===== Loaded dataset: arff/AllClassesFeaturesTrunc20.arff =====
+
+Correctly Classified Instances        6440               84.5588 %
+Incorrectly Classified Instances      1176               15.4412 %
+Kappa statistic                          0.8052
+Mean absolute error                      0.2508
+Root mean squared error                  0.3316
+Relative absolute error                 79.0054 %
+Root relative squared error             83.2194 %
+Coverage of cases (0.95 level)          99.2778 %
+Mean rel. region size (0.95 level)      81.5861 %
+Total Number of Instances             7616     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.826     0.055      0.796     0.826     0.811      0.913    EGYpos
+                 0.864     0.053      0.822     0.864     0.842      0.927    GLFpos
+                 0.849     0.04       0.864     0.849     0.857      0.926    LAVpos
+                 0.789     0.017      0.873     0.789     0.829      0.953    MSApos
+                 0.878     0.03       0.887     0.878     0.882      0.959    NORpos
+Weighted Avg.    0.846     0.041      0.847     0.846     0.846      0.934
+
+===== Evaluating on filtered (training) dataset done =====
