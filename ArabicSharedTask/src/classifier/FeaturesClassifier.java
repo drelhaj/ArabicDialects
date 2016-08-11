@@ -58,7 +58,7 @@
 			}
 			public static void main (String[] args) throws Exception {
 			
-				FeaturesFilteredClassifier.predict();
+				FeaturesClassifier.predict();
 
 				
 			}

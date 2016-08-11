@@ -1,0 +1,47 @@
+
+package arabic;
+
+import java.io.File;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import org.apache.commons.io.FileUtils;
+
+public class CombineFiles {
+	static String dialect = "MSA";
+	static String dirFrom = "E:\\arabicSharedTaskGit\\ArabicSharedTask\\dataset2\\"+dialect;
+	static String dirTo = "E:\\arabicSharedTaskGit\\ArabicSharedTask\\all";
+	
+	static int wordCount = 0;
+	static String content = "";
+	static int fileCount = 0;
+	static String fileName = "";
+	static String fileNameTmp = "";
+
+	public static void main(String[] args) throws IOException {
+		File file2  = new File(dirTo);
+		file2.mkdir();
+		
+
+		PrintWriter out = new PrintWriter(dirTo + File.separator + "all"+dialect+".txt");
+
+		File folder = new File(dirFrom);
+		File[] listOfFiles = folder.listFiles();
+
+		for (int i = 0; i < listOfFiles.length; i++) {
+			File file = listOfFiles[i];
+			if (file.isFile()) {
+
+				content = FileUtils.readFileToString(file);
+
+				out.println(content);
+				out.flush();
+			}
+		}
+		out.flush();
+
+		out.close();
+
+	}
+
+}

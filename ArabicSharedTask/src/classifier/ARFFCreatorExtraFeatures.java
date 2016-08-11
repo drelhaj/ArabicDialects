@@ -17,6 +17,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.commons.io.FileUtils;
+//import org.project.osman.process.OsmanReadability;
 
 /**
  * Class to create ARFF files by reading textual data from a directory where
@@ -29,10 +30,14 @@ import org.apache.commons.io.FileUtils;
 public class ARFFCreatorExtraFeatures {
 
 	static PrintWriter writer;
-	
+	//static OsmanReadability osman = new OsmanReadability();
 
-	public static void main(String[] args) throws ClassNotFoundException, IOException {
+
+	public static void main(String[] args) throws ClassNotFoundException, IOException, InterruptedException {
 	
+	//	osman.loadData();
+
+		
 		String arffDirectory = "arff";//where you want to save the ARFF File
 		File arffDir = new File("arff");
 		arffDir.mkdir();
@@ -40,7 +45,7 @@ public class ARFFCreatorExtraFeatures {
 		String datasetDirectory = "datasetpos";//where your dataset is (should contain sub-directories for each class (label or attribute).
 		String[] classes = getClassNames(datasetDirectory);//get the classes (@attribute) names by simply reading the sub-directory names.
 		System.out.println(Arrays.toString(classes));
-		createArffHeader(arffDirectory+"/AllClassesFeaturesTrunc20.arff", Arrays.toString(classes).trim(),"text String");//method to create the ARFF file, the third argument is the datatype you may need to change this manually at some point (e.g. "String, String, Int, Int")
+		createArffHeader(arffDirectory+"/AllClassesFeaturesTrunc20withReadability.arff", Arrays.toString(classes).trim(),"text String");//method to create the ARFF file, the third argument is the datatype you may need to change this manually at some point (e.g. "String, String, Int, Int")
 
 		for (int x = 0; x < classes.length; x++) {
 			System.out.println(classes[x]);
@@ -54,7 +59,8 @@ public class ARFFCreatorExtraFeatures {
 	}
 
 			   
-			
+	
+	
 	
 	/**
 	 * print files contents and assign class (attribute) names to each line
@@ -2655,6 +2661,8 @@ public class ARFFCreatorExtraFeatures {
 		writer.println("@ATTRIBUTE يلحق NUMERIC");
 		writer.println("@ATTRIBUTE يلزم NUMERIC");
 		writer.println("@ATTRIBUTE يمشي NUMERIC");
+		writer.println("@ATTRIBUTE readability NUMERIC");
+
 		writer.print("\n");
 		writer.println("@data");
 		writer.flush();
@@ -2685,8 +2693,9 @@ public class ARFFCreatorExtraFeatures {
 	 * @param className
 	 * @return
 	 * @throws IOException
+	 * @throws InterruptedException 
 	 */
-	public static String[] readFiles(String classDirectory, String className) throws IOException {
+	public static String[] readFiles(String classDirectory, String className) throws IOException, InterruptedException {
 		String[] tagsArray = readLines("tags.txt");
 		String[] keywordsArray = readLines("keywords.txt");
 		
@@ -2706,7 +2715,9 @@ public class ARFFCreatorExtraFeatures {
 					String tagsCount = countFrequency(content, tagsArray);
 					String keywordsCount = countFrequency(content, keywordsArray);
 					//lines[i] = className + "," + "'" + content.replaceAll("\n", "").replaceAll("\r", "").replaceAll(",", " ").replaceAll("'", " ").replace("_", " ").replace("-", " ").replace("&", " ").replace("%", " ").replaceAll(" +", " ").trim() + "'";
-					
+			//		String contentTA = osman.addTashkeel(content);
+					//System.out.println(contentTA);
+				//	double osmanScore = osman.calculateOsman(contentTA.replaceAll("[a-zA-Z]+", ""));
 					lines[i]=className + "," + uniqueTags + tagsCount + keywordsCount;
 					System.out.println(lines[i]);				}
 				else {
