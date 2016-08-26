@@ -6,6 +6,5 @@
 	<classpathentry kind="lib" path="E:/workspace/jarfiles/weka-3.7.3.jar"/>
 	<classpathentry kind="lib" path="E:/workspace/jarfiles/stanford-postagger-full-2011-04-20/stanford-postagger-2011-04-20.jar"/>
 	<classpathentry kind="lib" path="E:/workspace/jarfiles/commons-lang-2.0.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Osman"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

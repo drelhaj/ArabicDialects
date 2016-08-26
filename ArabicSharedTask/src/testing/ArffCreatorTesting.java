@@ -18,8 +18,8 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.commons.io.FileUtils;
-import org.project.osman.process.OsmanReadability;
+//import org.apache.commons.io.FileUtils;
+//import org.project.osman.process.OsmanReadability;
 
 /**
  * Class to create ARFF files by reading textual data from a directory where
@@ -29,7 +29,7 @@ import org.project.osman.process.OsmanReadability;
  * @author Mahmoud El-Haj @ Lancaster University
  *
  */
-public class ArffCreatorTesting {
+public class ArffCreatorTesting {/*
 
 	static PrintWriter writer;
 	static OsmanReadability osman = new OsmanReadability();
@@ -58,13 +58,13 @@ public class ArffCreatorTesting {
 	
 	
 	
-	/**
+	*//**
 	 * print files contents and assign class (attribute) names to each line
 	 * assuming directory names are the labels (e.g. put positive reviews in a
 	 * directory called Positive and another for Negatives)
 	 * 
 	 * @param lines
-	 */
+	 *//*
 	public static void printToARFF(String[] lines) {
 
 		for (int x = 0; x < lines.length; x++) {
@@ -74,12 +74,12 @@ public class ArffCreatorTesting {
 
 	}
 
-	/**
+	*//**
 	 * create ARFF File and its headers (usually called once)
 	 * 
 	 * @param arffFile
 	 * @throws FileNotFoundException
-	 */
+	 *//*
 	public static void createArffHeader(String arffFile, String classes, String classesTypes)
 			throws FileNotFoundException {
 		writer = new PrintWriter(arffFile);
@@ -888,7 +888,7 @@ public class ArffCreatorTesting {
 	
 	
 	
-	/**
+	*//**
 	 * get names of sub-directories (attributes/classes names). I treat each
 	 * sub-directory as a class name (make sure no other sub directories
 	 * presented) this makes the code flexible to accept more than 2 classes
@@ -896,7 +896,7 @@ public class ArffCreatorTesting {
 	 * 
 	 * @param datasetDir
 	 * @return
-	 */
+	 *//*
 	public static String[] getClassNames(String datasetDir) {
 		String[] subdirectories = new File(datasetDir).list();
 		return subdirectories;
@@ -904,7 +904,7 @@ public class ArffCreatorTesting {
 	}
 	
 	
-	/**
+	*//**
 	 * get text files from classes directories and write contents to arff file
 	 * 
 	 * @param classDirectory
@@ -912,7 +912,7 @@ public class ArffCreatorTesting {
 	 * @return
 	 * @throws IOException
 	 * @throws InterruptedException 
-	 */
+	 *//*
 	public static String[] readFiles(String[] instances) throws IOException, InterruptedException {
 
 		String[] tagsArray = readLines("E:/arabicSharedTaskGit/ArabicSharedTask/keywords/tags.txt");
@@ -1009,7 +1009,7 @@ public class ArffCreatorTesting {
 		return instances;
 	}
 	
-/*	public static String[] readFiles(String classDirectory, String className) throws IOException {
+	public static String[] readFiles(String classDirectory, String className) throws IOException {
 		String[] tagsArray = readLines("tags.txt");
 		String[] keywordsArray = readLines("keywords.txt");
 
@@ -1032,14 +1032,14 @@ public class ArffCreatorTesting {
 			}
 		}
 		return lines;
-	}*/
+	}
 
 	   
-/**
+*//**
 * remove null entries from array		
 * @param v
 * @return
-*/
+*//*
 public static String[] clean(final String[] v) {
  List<String> list = new ArrayList<String>(Arrays.asList(v));
  list.removeAll(Collections.singleton(null));
@@ -1180,5 +1180,5 @@ public static String[] clean(final String[] v) {
 		}
 		return "No match";
 	}
-	
+	*/
 }

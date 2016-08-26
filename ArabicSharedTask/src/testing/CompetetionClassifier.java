@@ -33,14 +33,15 @@ import weka.classifiers.trees.J48;
 			 */
 			
 		static PrintWriter writer;
-		
+		static int counter = 0;
 		public static void predict(String trainingFile, String testingFile) throws Exception {
 			writer = new PrintWriter("arff/competetion/"+trainingFile.replace("arff/", "").replace(".arff", "")+".txt");
 			
 			Classifier classifier = null;
 
 
-			
+			System.out.println("==========================================================================");
+
 			System.out.println("read training arff");
 
 			Instances train = new Instances(new BufferedReader(new FileReader(trainingFile)));
@@ -51,8 +52,7 @@ import weka.classifiers.trees.J48;
 			unlabeled.setClassIndex(0);
 
 			// training
-			String[] algorithms = {"j48","smo"};//,"nb","knn"};
-			//String[] algorithms = {"j48"};
+			String[] algorithms = {"j48"};//,"nb","knn"};
 
 			for(int w=0; w<algorithms.length;w++){
 				
@@ -90,14 +90,20 @@ import weka.classifiers.trees.J48;
 			Instances labeled = new Instances(unlabeled);
             
 			// label instances
+			writer.println();
+			writer.println("=========================================================");
+			writer.println("		Testing Results			");
+			writer.println("=========================================================");
+
 			for (int i = 0; i < unlabeled.numInstances(); i++) {
 				double clsLabel = classifier.classifyInstance(unlabeled.instance(i));
 				labeled.instance(i).setClassValue(clsLabel);
-				System.out.println(clsLabel + " -> " + unlabeled.classAttribute().value((int) clsLabel));
-				writer.println("=========================================================");
-				writer.println(clsLabel + " -> " + unlabeled.classAttribute().value((int) clsLabel));
+				System.out.println(++counter + " -> " + unlabeled.classAttribute().value((int) clsLabel));
+				writer.println(counter + " -> " + unlabeled.classAttribute().value((int) clsLabel));
 				writer.flush();
 			}	
+			writer.println("=========================================================");
+
 			
 			}
 			
@@ -110,15 +116,9 @@ import weka.classifiers.trees.J48;
 */
 				
 			}
-			public static void main (String[] args) throws Exception {
+			public static void mainClass() throws Exception {
 				long startTime = System.currentTimeMillis();
 				CompetetionClassifier.predict("arff/AllCL.arff","arff/ArffCompetetionCL.arff");
-				CompetetionClassifier.predict("arff/AllTrainingDatabothsCUTS.arff","arff/ArffCompetetion.arff");
-				//CompetetionClassifier.predict("arff/AllCLandGR.arff","arff/Trunc20withReadabilityandFreqListsReducedTest.arff");
-/*				CompetetionClassifier.predict("arff/AllSCandGR.arff","arff/Trunc20withReadabilityandFreqListsReducedTest.arff");
-				CompetetionClassifier.predict("arff/AllSCandCL.arff","arff/Trunc20withReadabilityandFreqListsReducedTest.arff");
-				CompetetionClassifier.predict("arff/Allkeywords.arff","arff/Trunc20withReadabilityandFreqListsReducedTest.arff");
-				CompetetionClassifier.predict("arff/AllSC.arff","arff/Trunc20withReadabilityandFreqListsReducedTest.arff");*/
 				
 				long estimatedTime = System.currentTimeMillis() - startTime;
 				
@@ -133,4 +133,6 @@ import weka.classifiers.trees.J48;
 
 				
 			}
+			
+			
 	}

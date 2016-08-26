@@ -14,16 +14,16 @@ public class RunTesting {
 
 	
 	
-	public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException{
+	public static void main(String[] args) throws Exception{
 		
-		tagger =  new MaxentTagger("E:/workspace/jarfiles/stanford-postagger-full-2011-04-20/models/arabic-accurate.tagger");
+		tagger =  new MaxentTagger("stanford-postagger-full-2011-04-20/models/arabic-accurate.tagger");
 
 		
 		String text = new String(Files.readAllBytes(Paths.get("testing.txt")), StandardCharsets.UTF_8);
 		//System.out.println(text);
 		String textArabic = convertToArabic(text);
 		//System.out.println(textArabic);
-		System.out.println(textArabic);
+		//System.out.println(textArabic);
 		String[] sentences = textArabic.split("\n");
 		
 		String[] sentPos = new String[sentences.length];
@@ -33,10 +33,11 @@ for(int i = 0; i<sentences.length;i++){
 			
 	sentPos[i] = tagArbText(sentences[i]);
 
-		System.out.println(sentPos[i]);
+		//System.out.println(sentPos[i]);
 		}
 
-ArffCreatorTesting.runArffCreator(sentences);
+	ArffCreatorTestingCL.runArffCreator(sentences);
+	CompetetionClassifier.mainClass();
 
 
 	}
