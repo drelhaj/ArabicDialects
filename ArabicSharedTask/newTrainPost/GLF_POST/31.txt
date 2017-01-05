@@ -1,0 +1,1 @@
+الله/NNP يعينك/VBP ./PUNC هل/RP من/IN المعقول/DTNN سعر/NN هذه/DT الأرض/DTNN و/CC في/IN الحمراء/DTNN نصف/NOUN مليون/CD قول/NN مليونين/JJ او/CC أكثر/JJ ./PUNC يعني/VBP الله/NNP يهونها/NN عليك/JJ و/CC يعوظك/VBP خير/NN ./PUNC 

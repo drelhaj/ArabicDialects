@@ -1,0 +1,1 @@
+داهوم/NNP ياشين/NNP الحسد/DTNN والله/NNP العظيم/DTNNP طلع/VBD واحد/NN نصراوي/NNP لااذكر/NNP اسمه/NNP وقال/NN النصر/DTNNP احق/VBD بلقب/NN نادي/NN القرن/DTNN ياساده/NNP ياكرام/NNP اذا/IN ماانتم/NNP مقتنعين/JJ فيه/NNP ليش/NNP تطالبون/VBP فيه/NNP لناديكم/NNP 

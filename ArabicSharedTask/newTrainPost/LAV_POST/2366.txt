@@ -1,0 +1,1 @@
+مرة/NN ولد/VBN ضغير/NN ،/NN اول/ADJ ما/WP بلش/VBD يحكي/VBP صار/VBD ينادي/VBP على/IN اخوه/NN ،/NN مات/NNP اخوه/NNP ./PUNC صار/VBD ينادي/VBP على/IN امه/NN ،/NN ماتت/VBD امه/NN ./PUNC صار/VBD ينادي/VBP على/IN خاله/NN فمات/NNS خاله/JJ ./PUNC صار/VBD ينادي/VBP على/IN ابوه/NNP مات/NNP ابن/NN الجيران/DTNN !!!/CD 

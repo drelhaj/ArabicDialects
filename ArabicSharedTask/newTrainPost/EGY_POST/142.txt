@@ -1,0 +1,1 @@
+بعض/NOUN الرجال/DTNN ./PUNC في/IN الدول/DTNN العربية/DTJJ والاوربية/JJ تشارك/VBP الزوجة/DTNN زوجها/NN في/IN مصاريف/NN البيت/DTNN كامل/NNP -LRB-/PUNC ففتي/NNP ففتي/NNP -RRB-/PUNC ./PUNC اضافة/NN الى/IN ذلك/DT :/PUNC في/IN مصر/NNP مصاريف/NN الزواج/DTNN مقسمة/JJ بين/NN الرجل/DTNN و/CC زوجتة/NN في/IN كل/NOUN شيء/NN ./PUNC 

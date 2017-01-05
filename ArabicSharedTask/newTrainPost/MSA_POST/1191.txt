@@ -1,0 +1,1 @@
+13/CD -/PUNC سُبْحـانَ/NNP اللهِ/DTNNP وَبِحَمْـدِهِ/NN عَدَدَ/NN خَلْـقِه/NN ،/NN وَرِضـا/NN نَفْسِـه/NN ،/NN وَزِنَـةَ/NN عَـرْشِـه/NN ،/NN وَمِـدادَ/NN كَلِمـاتِـه/NNP ./PUNC -LRB-/PUNC ثلاثاً/CD -RRB-/PUNC -LRB-/PUNC مسلم/NNP 4\/2090/CD -RRB-/PUNC 

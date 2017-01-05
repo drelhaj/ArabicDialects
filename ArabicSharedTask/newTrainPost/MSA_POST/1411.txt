@@ -1,0 +1,1 @@
+هذا/DT الموضوع/DTNN له/NN جذور/NN صهيونيه/NN ،/NN وهو/NN تخطيط/NN لما/NNP سيأتي/NNP ،/VBD عندما/NN يتم/VBP هدم/NN المسجد/DTNN الاقصى/DTNNP _/PUNC لا/RP سمح/VBP الله/NNP _/PUNC سينظر/NNP المسلمون/DTJJ فيجدون/NNP ان/IN قبه/NN الصخره/DTNN ما/RP زالت/VBD قائمه/NN ،/NN وعندها/NN سيعتبرون/NNS الموضوع/DTNN بسيط/JJ ولا/NN يحتاج/VBP اي/NOUN ضجة/NN ./PUNC 

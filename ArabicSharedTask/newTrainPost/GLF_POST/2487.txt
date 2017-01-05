@@ -1,0 +1,1 @@
+انا/PRP طول/NN الخادمه/DTNN تشتغل/VBP عندي/NN ماعطيها/NN مرتبها/JJ الا/RP بعد/NN 6/CD اشهر/NN ارسل/VBD لها/NN راتب/NN شهرين/NNS والباقي/JJ لين/JJ تسافر/VBP والحمدلله/NN ضبطت/VBN معي/JJ ./PUNC ./PUNC 

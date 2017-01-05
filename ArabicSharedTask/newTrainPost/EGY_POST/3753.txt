@@ -1,0 +1,1 @@
+عناوين/NN لاتعبر/NNP عن/IN المضمون/DTNN امانة/NN اية/NOUN وهم/NN كل/NOUN الفرقة/DTNN دى/VBD ليهم/NN اى/NOUN لة/NN بالامانة/NN كلهم/JJ من/IN المرتزقة/DTNN والمستفيدين/VN من/IN سوء/NN الحكم/DTNN وفسادة/NN ./PUNC 

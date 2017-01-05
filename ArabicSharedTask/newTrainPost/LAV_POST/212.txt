@@ -1,0 +1,1 @@
+ان/VBP الفيصلي/DTNNP بطل/NN الكاس/DTNN من/IN دون/NN باقي/NN الفرق/DTNN الاخرى/DTJJ ./PUNC ./PUNC انا/PRP هيك/NNP حاس/NNP ./PUNC ./PUNC وليس/NNP كما/CC فسرتها/NNP انت/PRP على/IN هواك/NN ورغباتك/JJ يا/RP سمور/NNP 

@@ -1,0 +1,1 @@
+والفيصلي/NNP بطل/NN الكاس/DTNN ورافع/NN الراس/DTNN ./PUNC ./PUNC علشان/NN ما/WP تزعل/VBP 

@@ -1,0 +1,1 @@
+!/PUNC ولا/NN عنا/VBD صار/VBD القتل/DTNN عادي/NN مو/NNP اشي/NNP غريب/NNP !/PUNC كل/NOUN يوم/NN على/IN الصفحة/DTNN الرئيسة/DTJJ زي/NN فرض/NN الصلاة/DTNN !/PUNC لا/RP حول/NN ولا/NN قوة/NN الا/RP بالله/NNP 

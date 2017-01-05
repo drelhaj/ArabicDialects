@@ -1,0 +1,1 @@
+د/NN ./PUNC عمر/NNP الريماوي/DTNNP رسئيس/NN جامعة/NN البلقاء/DTNN التطبيقية/DTJJ ./PUNC 

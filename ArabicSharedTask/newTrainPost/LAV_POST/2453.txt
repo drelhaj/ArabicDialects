@@ -1,0 +1,1 @@
+يعني/VBP مبسوطين/NNS على/IN خيبتكو/NNP انو/NNP مات/NNP 4/CD امريكان/NN .../PUNC ./PUNC ماهم/NNP كل/NOUN يوم/NN بموت/VBD 100/CD واحد/NN افغاني/JJ بضبه/NN امريكيه/NNP .../PUNC على/IN شو/NNP مبسوطين/NNP .../PUNC ./PUNC 

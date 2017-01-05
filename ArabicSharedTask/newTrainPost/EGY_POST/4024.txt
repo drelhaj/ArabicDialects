@@ -1,0 +1,1 @@
+بصراحه/NNP انا/NNP فرحان/NNP باخلاقك/NNP ياكابتن/NNP حسام/NNP انت/PRP وشيكابالا/NN وعبد/NN الواحد/DTNN السيد/DTNN وربنا/NNP معاكم/NNP ويوفقكم/NNP بس/NN بصراحه/NNP فرق/NN كبير/JJ بينك/NNP وبين/NNP اخوك/NNP وهو/NNP دائما/NN بتاع/NN مشاكل/NN وبياخدك/NNP معاه/NNP بذنبه/NNP ربنا/NNP يهديه/NNP 

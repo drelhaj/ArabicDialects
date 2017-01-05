@@ -1,0 +1,1 @@
+كنت/VBD أظن/NNP أن/NNP -LRB-/PUNC طفاقة/NN -RRB-/PUNC سائقي/NNS الباصات/DTNNS فقط/RB لدينا/NN بالقصيم/NNP ./PUNC ./PUNC الظاهر/DTNN أن/NN الشركه/DTNN يجب/VBP تغييرها/NN من/IN الأساس/DTNN ./PUNC ./PUNC 

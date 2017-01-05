@@ -1,0 +1,1 @@
+حسبي/NNP الله/NNP على/IN من/WP نفخ/NN في/IN القربه/DTNNP لين/NNP كبرت/VBD ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+انشاء/NN الله/NNP يصير/VBP الوضع/DTNN جخه/NN ./PUNC وعن/VBD جد/NN خبر/NN جميل/JJ جدا/NN و/CC نتمنا/NN التقدم/DTNN و/CC الرفعة/DTNN لبلدنا/NNP الاردن/DTNNP 

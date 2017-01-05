@@ -1,0 +1,1 @@
+كله/NNP حكي/NNP فاضي/NNP وحكي/NNP جرايد/NN الفيصلي/DTNNP زعيم/NN وعميد/NN ومارد/NNP وامبراطور/NNP وقاهر/NN وسيد/NN وملك/NN الكره/DTNN الاردنيه/DTJJ .../PUNC ./PUNC 

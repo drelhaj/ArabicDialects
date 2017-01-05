@@ -1,0 +1,2112 @@
+ل/IN مافي/NNP زعيم/NN طالما/IN المارد/DTNN لاخضر/NNP يحلق/VBP ويحصد/NN جميع/NOUN البطولات/DTNNS باذن/NNP الله/NNP الدرع/DTNN ./PUNC الدوري/DTNN ./PUNC كاس/NN الكوس/DTNN ./PUNC كاس/NN الاردن/DTNNP ./PUNC وابطال/NNP العرب/DTNN باذن/NNP الله/NNP للوحدات/NNS .../PUNC السنه/DTNN احنا/NN غييييييييييييير/NNP مع/NN نجوم/NN الحدات/DTNNS فقط/RB استمتع/VBD وتفرج/NN ما/WP تحكي/VBP لا/RP برشا/NN ولا/NN ريال/NNP لاخضر/NNP وبس/NN وسلم/NN سلامات/NNS كلنا/NN بنحبك/NNP يا/RP وحدات/NNS .../PUNC رجب/NNP اللالا/DTNNP 
+
+عنجد/NN الجنون/DTNN فنون/NN وسلامات/NNS 
+
+طب/NN ما/IN احنا/NN في/IN الاردن/DTNNP اخنرعنا/VBD الجميد/DTNN السائل/DTJJ عبر/NN تطوير/NN تكنولوجيا/NN جديدة/JJ لهرسه/NN و/CC ما/WP رحنا/VBD فضحنا/NN العالم/DTNN في/IN هالاختراع/DTNN العظيم/DTJJ .../PUNC يللا/NN النا/NN الجنة/DTNN و/CC ارتفاع/NN الكوليسترول/NNP 
+
+لو/IN يكون/VBP فيه/NNP شرح/NN لطبيعة/NN هالكمبيوتر/NNP و/CC ليش/NNP بهالسعر/NNP و/CC شو/NNP هي/PRP امكانياته/NN 
+
+طبعا/NN اشي/NNP حلو/NNP كتير/NNP هالاختراع/NNP بس/NN المصيبه/DTNN بس/NN واذا/NN اجا/NN البلد/DTNN بيصير/NNP حقو/NNP اضعاف/NN مضاعفه/NN !!/NN وبصفي/NNS كمبيوتر/NNP غالي/NN قليل/JJ الي/IN راح/NN يحصلو/VBP .../PUNC يعني/VBP ما/WP ستفدنا/VBD اشي/NN ./PUNC ./PUNC واااك/NNP وااااك/NNP واااك/NNP 
+
+شكلو/VBD هاد/NNP تبع/VBD الطلاب/DTNN اللي/WP بحكي/JJ و/CC بغني/JJ 
+
+الحمد/NN لله/NN الف/CD مره/NN وبعدد/NN سنوات/NNS الفرقة/DTNN بين/NN الإخوة/DTNN اللي/WP جمع/VBD شملكم/NN على/IN هالأرض/NNP وفي/NNP هالبلد/NNP الطيبة/DTNNP ./PUNC يا/RP ويلي/NNP عليكم/NNP يا/RP الفلسطينيين/DTNNS من/IN يوم/NN يومكم/VBP وانتو/NNP متفرقين/NNS ومشتتين/JJ ./PUNC ./PUNC الله/NNP لا/RP يسامح/VBP اللي/WP كان/VBD السبب/DTNN 
+
+اتمنى/VBP انو/NN تكون/VBP الانتخااابات/DTNNS عااادله/NN وما/NN يستحقها/VBP الا/RP الي/IN بيستااهلها/NN 
+
+وياااريت/NNP ما/RP يكون/VBP كل/NOUN واحد/NN فاضي/JJ اشغال/NN نزل/VBD حالو/NNP على/IN الانتخااابات/DTNNS :/PUNC -RRB-/PUNC 
+
+يعنى/VBN انا/PRP مش/NN عارفه/JJ والله/NN احنا/NN باخر/NN الزمان/DTNN يعنى/VBP الواحد/DTNN بعمل/NN حالوا/VBD زلمة/NN وعلى/NN مين/NN على/IN مرته/NN 
+
+أكيد/VBD هذا/DT من/IN الطفر/DTNN ولا/NN مين/NN عاقل/NN بحط/NN ابنو/NNP بمدرسة/NNP حكومة/NN بعد/NN ما/IN تخلت/VBD الحكومة/DTNN عنه/NN !!!/NN ؟/NN ؟/NN ؟/CD 
+
+شو/NNP بدي/NN احكي/VBP يعني/VBP محكيه/NN خالصه/JJ السولافه/DTNN !!!!/CD 
+
+شو/NNP هاد/NNP 
+
+اللي/WP زي/NN هيك/NNP مش/NN لازم/JJ يطلع/VBP من/IN السجن/DTNN 
+
+والله/NN الابن/DTNN لازم/VBD ينعدم/VBP في/IN حدا/NN عندة/NN قلب/NN بيعمل/NN هيك/NNP في/IN والدة/NN عنجد/NN اااااااااااااااااخر/NN زمن/NN 
+
+الأخوان/DTNN اللي/WP قاعدين/JJ بنتقدوا/VBD ./PUNC ./PUNC الموقع/DTNN جيد/JJ بالنسبه/NN لأنه/NN النسخه/DTNN الأولى/DTJJ .../PUNC البرمجيات/DTNNS بالعادة/NNP بتاخد/NNP أكثر/NNP من/IN نسخه/NNP -LRB-/PUNC iتeرaتioن/NNP -RRB-/PUNC حتى/IN تنضج/VBN .../PUNC -LRB-/PUNC Iتeرaتiثe/NN سةiرaل/NN دeثeلoةمeنت/NNP -RRB-/PUNC يعني/VBP مثلا/NN الفيسبوك/DTNN ،/VBD للي/NNP بتذكروا/NNP قبل/NN 6/CD سنين/NNS و/CC بقارنوا/VBD بوضعوا/NNP الحالي/DTJJ بعرف/NN انه/NN ما/IN الهم/DTNN علاقه/NN ببعض/NN .../PUNC يا/RP أخوان/NN شويت/NNP صبر/NN وبكفي/JJ تشاؤوم/VBP وسلبيه/NN .../PUNC الأمور/DTNN بتاخذ/NN وقت/NN ./PUNC ./PUNC وخاصة/NN البرمجيات/DTNNS ./PUNC ./PUNC الويندوز/DTNN -LRB-/PUNC او/CC حتى/IN اللينوكس/DTNN -RRB-/PUNC اول/ADJ ما/WP يطلع/VBP بكون/NN مليء/JJ بالأخطاء/JJ التقنيه/DTNN -LRB-/PUNC بuغس/NNP -RRB-/PUNC وبرجع/NN بتعدل/NNP وبتصلح/NNP .../PUNC مش/NN نهاية/NN العالم/DTNN والفكرة/NN ممتازة/JJ وفي/JJ الها/NN أكثر/NN من/IN الف/CD مجال/NN تطور/NN ./PUNC 
+
+نفسي/NNP اعرف/VBP امانة/NN عمان/NNP شو/NNP دخلها/NN بتخفيض/NN الاسعار/DTNN ليش/NN ما/WP تزفت/VBD هالشوارع/NN المكسرة/DTNN احسنلها/NN 
+
+والله/NN هاد/NN التكسي/DTNN المميز/DTJJ ما/WP يطول/VBP عنا/VBD بالاردن/NNP من/IN كتر/NN ما/NN الدولة/DTNN بتشجع/NN الاستثمار/DTNN الأجنبي/DTJJ ./PUNC ./PUNC والله/NN الحكومة/DTNN لتقرف/NN كل/NOUN المستثمرين/DTNNS بهالقرارات/NNS والتعقيدات/NNS لحد/NNP ما/WP يطفشو/VBP .../PUNC ياعمي/VBP شوفو/NNP كيف/WRB اسلوب/NN تعامل/NN دبي/NNP مع/NN المستثمر/DTNN الاجنبي/DTJJ ./PUNC ./PUNC خلي/NN البلد/DTNN تتحرك/VBP والناس/NN تعتاش/NN من/IN وراهم/NN ./PUNC أول/VBD ما/WP يجي/VBP مستثمر/NN أجنبي/JJ ويقعد/JJ مع/NN الحكومة/DTNN في/IN اجتماع/NN إنو/VBD والله/NN حابين/JJ نستثمر/VBP عندكو/NNP بالاردن/NNP ،/VBD الحكومة/DTNN عطول/NN بتمد/NN ايدها/NN يلا/NN ادفع/VBP ضرايب/NN استثمار/NN وضرايب/NN ارباح/NN وضرايب/NN ع/NN الضرايب/DTNN ./PUNC ولما/NN يجي/VBP التكسي/DTNN المميز/DTJJ يشجع/VBP الشغل/DTNN بيقلك/NN احنا/NN بنقرر/NNP عنك/NNP ./PUNC ./PUNC يا/RP حبيبي/NNP ./PUNC ./PUNC 
+
+مبروك/VN فوز/NN المارد/DTNN ولكن/NNP عندي/NNP وجهه/NNP نضر/VBP ان/IN دفاع/NN الوحدات/DTNNS منتهي/JJ وكثير/NN الاخطاء/DTNN والبهداري/JJ على/IN الحامي/DTNNP والبارد/NNP بشتت/VBD خارج/NN الملعب/DTNN يعني/VBP لو/IN كان/VBD امبارح/VBP لاعب/NN مهاري/JJ مثل/NN ابو/NNP كشك/NNP او/CC المحارمة/DTNNP كان/VBD الله/NNP وحدو/VBD بعلم/NN شو/NNP صار/VBD فيناوعلى/NNP سيرة/NN المحارمة/DTNNP الدرع/DTNN باولو/NNP وهدو/NNP شوي/NNP يا/RP جمهور/NN الوحدات/DTNNS بلاش/NN يصير/VBP فينا/NNP زي/NN الدوري/DTNN 
+
+الزعيم/DTNN بطل/NN الدوري/DTNN يأمر/VBP ويدلل/NN وين/NN حاب/NN تلعب/VBP الاتحاد/DTNN تحت/NN امرك/NN مش/NN انتا/VBD الزعيم/DTNN والعميد/NN والنسر/NN الازرق/DTNN والعمده/NNP والقابك/NNP عده/NNP الزعيم/DTNN ناويها/NN ليله/NN ولا/NN كل/NOUN الليالي/DTNN 
+
+حابب/VBD تلعب/VBP في/IN ستاد/NN عمان/NNP الدولي/DTJJ ؟/VBD ؟/NN اؤمر/NN تطاع/VBP 
+
+حابب/VBD تلعب/VBP في/IN استاد/NN الامير/DTNN محمد/NNP بالزرقاء/NNP ؟/VBD ؟/NN من/IN عيوني/NNS الثنتين/DTNNS 
+
+وبعض/VBP الناس/DTNN لما/IN يشوفوا/VBP زوجين/NNS متفقين/JJ شو/NNP بحكوا/NNP :/PUNC -/PUNC 
+
+والى/VBD كل/NOUN زوجين/NNS متفاهمين/JJ لا/RP تسمعوا/VBP كلام/NN الناس/DTNN وطنشوا/VBD وهلا/NN عمي/NN وهلا/NN خالي/JJ 
+
+الامر/DTNN المهم/DTJJ بالموضوع/NNP لو/NNP تقدم/VBD للزوجة/NN كنوز/NN من/IN ذهب/NN ومرة/NN من/IN المرات/DTNNS بصير/NN مشكلة/NN بينك/NNP وبينها/NN بتنسى/NN كل/NOUN اشي/NN وبتحكي/JJ اصلا/NN انتا/VBD ماعملتلي/NNP اشي/NNP بحياتك/NNP هاي/NNP قاعدة/NN عند/NN كل/NOUN النساء/DTNN مابتركز/NNP بالمشكلة/NNP بجيب/NNP كل/NOUN المشاكل/DTNN الي/IN راحت/NN وبتحطها/NN على/IN الطاولة/DTNN والزوج/NN مش/NN فاضي/JJ لهيك/VBD امور/NN اما/CC بختصر/NN وبتمشي/NNS الحياة/DTNN اما/RP لازم/VBD يلاحق/VBP الزوجة/DTNN وبتصير/NN مشكلة/NN تانية/JJ من/IN الاخر/DTNN خلي/NN الحياة/DTNN تمشي/VBP احسن/JJR ./PUNC 
+
+الحمد/NN لله/NN رب/NN العالمين/DTNNS انا/PRP وزوجي/JJ كتير/NN متفاهمين/NNS وبنحل/JJ دائما/JJ مشاكلنا/JJ داخل/NN البيت/DTNN عشان/NNP هيك/NNP اهل/NN زوجي/JJ بيحاولو/NN دايما/JJ يخربو/VBP بيني/NNP وبين/NNP زوجي/NNP وبيحكولو/NNP انو/VBD انت/PRP محكوم/JJ 
+
+بس/NN ياللله/NNP بطلعلها/NNP اللي/WP ما/RP يطلع/VBP لغيرها/NN شو/NNP بدو/NN يصر/VBP يعني/VBP طالما/IN انا/PRP متفاهم/JJ معها/JJ 
+
+المنتخب/DTNN من/IN دون/NN لعبين/NN من/IN غزلان/NNP الشمال/DTNN يعني/VBP الرمثا/DTNNP ما/WP بصير/VBD منتخب/NN 
+
+ازا/NNP بدك/VBD المنتخب/DTNN ينجح/VBP بلاش/NN رافت/NNP علي/IN بس/NN حط/VBD حسن/NNP عبد/NNP الفتاح/DTNNP بالتشكيلة/NNP وشيل/NNP حسونة/NNP الشيخ/DTNN ليس/VBD استهانة/NN بمستواه/NNP ولكن/NNP لانه/NNP كبر/VBD وعطاؤه/NNP قل/VBD عن/IN ما/WP سبق/VBD وكمان/NN بنصحك/NNP تشيل/NNP باسم/NNP فتحي/NNP من/IN التشكيلة/DTNN بكفي/NNP اخطاءه/NNP الواضحة/DTJJ مع/NN الوحدات/DTNNS ويمكن/NN لازم/JJ تجيب/VBP عبدالاله/NN الحناحنة/DTNN لانه/NN المنتخب/DTNN بحاجته/NN كتير/NN 
+
+بطل/NN يا/RP عمر/NNP يا/RP صديقي/JJ ان/IN شاء/VBD الله/NNP للاعلى/NNP يا/RP رب/NN والله/NN يوفئك/VBP ويوفئ/NN الشباب/DTNN البائية/DTJJ يا/RP رب/NN 
+
+فيصلي/NNP حنا/NNP عزوتك/NNP ./PUNC 
+
+بالسلامة/NNP للاعبي/NNP الزعيم/DTNN ./PUNC ./PUNC عبدالهادي/NNP المحارمة/DTNNP وزين/NN الخوالدة/DTNN بعد/NN الاصابة/DTNN التي/WP تعرضا/VBD لها/NN مؤخرا/JJ ./PUNC ./PUNC بس/NN انا/PRP مستغرب/JJ من/IN عبدالهادي/NNP كيف/WRB وقع/VBD مع/NN انو/NN صاحب/NN لياقة/NN بدنية/JJ عالية/JJ !!/VBD بس/NN سلامات/NNS يا/RP ابو/NNP العبد/DTNNP وما/NN تشوف/NN شر/NN 
+
+بالتوفيق/NNP للمدرب/NNP واللاعب/NNP السابق/DTJJ هشام/NNP عبدالمنعم/NNP في/IN فريقه/NNP الجديد/DTJJ بني/NN ياس/NN الاماراتي/DTNN والذي/NN سيدرب/NN الفئات/DTNNS العمرية/DTJJ فيه/NNP ./PUNC ./PUNC بالفعل/NNP انك/VBD ريحت/NNP راسك/NNP وعملت/VBD عين/NN العقل/DTNN يا/RP كابتن/NN هشام/NNP 
+
+سلامات/NNS يا/RP محارمة/NN بس/NN دير/NN بالك/NNP لأنه/NNP العنب/DTNN أخضر/NNP وأحمر/NNP :/PUNC -RRB-/PUNC -RRB-/PUNC ووووه/NNP ووووه/NNP ووووه/NNP .../PUNC 
+
+سبق/VBD وقلت/NN وانا/NN واثق/JJ من/IN كلامي/NNS انوا/VBD المدرب/DTNN هشام/NNP مكسب/NN لاي/NNP نادي/NN ممكن/JJ يدرب/VBP فيه/NNP واحنا/NNP في/IN نادي/NN الوحدات/DTNNS اللي/WP رح/VBD نخسرك/VBP على/IN كل/NOUN حال/NN بالتوفيق/NN يا/RP هشام/NNP والله/NNP يفتحا/VBP عليك/NN كمان/NN وكمان/NN ونشوفك/NNP باكبر/NNP الاندية/DTNN مدرب/NN ناجح/NN ويصير/NNP راتبك/NNP بزيادة/NNP كمان/NN صفر/NN على/IN يمين/NN الرقم/DTNN ./PUNC 
+
+هاي/NNP الحوادث/DTNN كثير/NN تكررت/VBD ،/PRP ولو/NNP أن/NN صاحب/NN السلاح/DTNN بينحبس/NN زي/NN بغرموا/VBD ساعتها/NN بتصير/NN العالم/DTNN تضب/VBP السلاح/DTNN في/IN مكان/NN صح/VBD وا/VB بتخلي/NNP اولادها/NNP تلعب/VBP فيه/NNP ولا/NN تنضفه/NN .../PUNC هاي/NNP مسخرة/VN 
+
+أتوافق/VBD مع/NN الإخوة/DTNN ,/PUNC هي/PRP يعني/VBP بدها/NN تمنع/VBP أكل/NN ما/WP حلل/VBD الله/NNP ؟/NN قال/VBD معاناة/NN !/PUNC هو/PRP إحنا/VBD بنعذبهم/NN قبل/NN ما/WP نذبحهم/VBP ؟/NN !!!/NN بعدين/NN الراعي/DTNN اللي/WP بعيش/VBN على/IN بيع/NN الغنم/DTNN من/IN وين/NN يطعمي/VBP عيلته/NN ؟/NN !!!/NN أمّا/NN قصة/NN !/PUNC 
+
+يعني/VBP جايه/NNP تقاطع/NN ذبح/NN الحيوانات/DTNNS على/IN وجه/NN رمضان/NNP ؟/VBD ؟/NN ّ/NN شو/NNP بدنا/NN نوكل/VBP في/IN هذا/DT الشهر/DTNN ؟/NN !/PUNC نقضيها/NN بطاطا/NN وبندوره/NNP برأيك/NNP ؟/VBD ؟/PRP يا/RP شيخه/NNP هو/PRP في/IN بعد/NN اللحم/DTNN الاحمر/DTJJ واللحم/NN الابيض/DTNN المتوسط/DTJJ ؟/VBD ؟/NN !!!!!!/NN اللحمه/DTNN وبس/NN والباقي/NNS خس/NN 
+
+كل/NOUN العالم/DTNN عم/IN بساو/NNP هذه/DT المسيرة/DTNN مش/NN بس/NN في/IN عمان/NNP ،/VBD وكل/NN كان/VBD واقف/JJ مع/NN السيدة/DTNN التي/WP تلبس/NN الزي/DTNN ،/VBD بس/NN احنا/NN ما/IN بنحب/NN اي/NOUN ايش/NN بوعي/JJ الناس/DTNN وبفهمهم/NN ،/NN خليها/NN مثل/NN النعام/DTNN !/PUNC 
+
+مع/NN انها/NN لازم/JJ تعمل/VBP تصريح/NN للقيام/NN بهيك/NNP فعاليات/NNS ./PUNC ./PUNC 
+
+وين/NN المحافظ/DTNN عنو/NNP 
+
+لا/RP تقلي/VBP ولا/NN اقلك/NN هادا/NN جزاءه/NN لانه/NNP ركبو/NNP لا/RP حول/NN الله/NNP الناس/DTNN ما/WP عندها/VBD ضمير/NN يتذكرو/VBP اهل/NN المصاب/DTNN انه/VBD رح/NN ييجيهم/VBP يوم/NN ويصير/NN فيهم/NNP اكتر/NNP من/IN حمود/NNP خطيته/NN برقبهم/NNP صار/VBD هلا/NNP عزيز/NNP وغالي/NNP عليهم/NNP بحطو/NNP بخاص/NN طيب/JJ ادفعوا/VBD معاه/NN طالما/IN حطيتو/NNP بخاص/NNP الله/NNP يفرجها/VBP عليك/NNP يا/RP حمود/NNP ويخرج/NNP هالافندي/NNP من/IN الخاص/DTNN 
+
+اي/RP على/IN هالخبرية/JJ الماساوية/DTNN 
+
+اي/RP شو/NNP هذا/DT ؟/NN ؟/NN !/PUNC 
+
+يعني/VBP اذا/IN قريبه/NN نط/NN لانه/NNP خايف/NNP على/IN حاله/NN هو/PRP شو/NNP ذنبه/NN المسكين/DTNNS لو/IN ضل/VBD راكب/NN بالسيارة/NNP كان/VBD ماصارله/NNP شي/NNP وبعدين/NNP هو/PRP ما/WP حكاله/VBD نط/NN اوف/NNP والله/NNP حرام/NN اللي/WP بصير/VBN ولا/NN كبة/NN بلا/NNP لانه/NNP حب/NN يعمل/VBP خير/NN 
+
+وليش/NN المريض/DTNN ما/WP يروح/VBP على/IN مستشفى/NN حكومي/JJ ؟/VBD 40/CD الف/CD على/IN شو/NNP ؟/NN اي/NOUN لو/IN اخذوه/VBD بطيارة/NN على/IN روسيا/NNP كان/VBD تعالج/VBP وقعد/NN بفندق/NN 5/CD نجوم/NN باقال/NN من/IN 10/CD الاف/CD .../PUNC 
+
+مبروك/VN على/IN الاردن/DTNNP ,/PUNC بس/NN يا/RP رايات/NNS تشيلو/NNP معاق/JJ و/CC وضع/NN ذوي/NN الاحتاجات/DTNNS الخاصة/DTJJ ./PUNC 
+
+يا/RP اولاد/NN الحلال/DTNN انتو/VBD نسيتو/NNP ضريبة/NN الهواء/DTNN الي/IN منتنفسه/NN متى/WRB بدكم/VBD تحطو/NN هالضريبة/JJ من/IN شان/NN الله/NNP زهقتونا/NNP يعني/VBP بهالايام/NN الواحد/DTNN مش/NN لاقي/JJ بيت/NN باقل/NNP من/IN 200/CD دينار/NN بالشهر/NN وكل/NN راتبه/NN لا/RP يتجاوز/VBP ال/DT 400/CD طيب/NNP شو/NNP الحل/DTNN فهمونا/NNP 
+
+انا/PRP مع/NN اخويه/NN محمد/NNP المعااايطه/DTNNP بالي/NNP بحكيه/NNP ./PUNC ./PUNC جد/NN مشان/NNP الله/NNP حد/NN يحس/NN فينا/NNP وضعنا/VBD بسوووء/NNP :/PUNC -LRB-/PUNC الله/NNP يهوووونها/NNP 
+
+والله/NN الحكومة/DTNN محتارة/NN شو/NNP بدها/NN تحط/VBP ضريبة/NN .../PUNC ما/WP ضل/VBD شي/NNP إلا/NN وصار/NN لعيه/NN ضريبة/NN إلا/NN الهواء/DTNN .../PUNC بجوز/NN كمان/NN كم/PRP$ من/IN يوم/NN يفرضوا/VBP ضريبة/NN عليه/NNP .../PUNC ما/WP في/IN شي/NNP بعيد/JJ .../PUNC الله/NNP يهوًنها/NNP علينا/NNP 
+
+ليش/NNP ؟/VBD ما/WP بتكفي/VBD ضريبة/NN المسقفات/DTNNS ورسوم/NN التسجيل/DTNN والتراخيص/NN اللي/WP إلها/VBD اول/ADJ ما/WP إلها/VBD اخر/JJR ؟/NN ليش/NN الدولة/DTNN تشاركني/VBP في/IN أجرة/NN الشقة/DTNN اللي/WP أنا/VBD اشتريتها/NN بفلوسي/NNP وبتعبي/NNP وتحويشة/NN عمري/JJ ؟/VBD بدكوا/NN تلحقوني/JJ على/IN ال/DT 100/CD دينار/NN اللي/WP بيجوني/JJ من/IN الشقة/DTNN كمان/NN ؟/NN ومقابل/NN شو/NNP ؟/VBD شو/NNP الخدمات/DTNNS اللي/WP بتعطوني/VBP إياها/NN بالمقابل/NNP ؟/NN التعليم/DTNN غالي/NN زي/NN ./PUNC النار/DTNN وأسعار/NN البنزين/DTNN كأن/NNP رواتبنا/NNP فوق/NN الألف/DTNN دينار/NN والدجاج/NN واللحم/NN أصبح/NN من/IN الترف/DTNN والفواكه/NNP بطر/NNP والشوارع/NN كلها/NN مطبات/NNS وحفر/NN والمجاري/JJ فايضة/JJ في/IN شوارع/NN اربد/NNP والكرك/NNP .../PUNC يا/RP جماعة/NN قولولي/NNS وين/NN الضرائب/DTNN بتروح/NN ؟/NN 
+
+معقول/JJ هاي/NNP المرأة/DTJJ عم/IN تحاول/VBP تقلد/NN سيدنا/NNP آدم/NNP و/CC حوا/VBD لما/NNP غطواحالهم/NNP بورق/NNP الجنة/DTNN .../PUNC عنجد/NN ممكن/JJ 
+
+هاي/NNP البدية/DTJJ واللي/NNP جاي/NNP أصعب/NNP 
+
+في/IN اشي/NN بالدنيا/NNP ازكى/JJR من/IN الخس/DTNN ,/PUNC ,/PUNC 
+
+زي/NN كان/VBD ما/WP عنا/VBD غير/NN هالمشكلة/NN 
+
+الله/NNP يحمينا/VBP من/IN هنسوان/NNS الي/IN كل/NOUN يوم/NN بطلع/NN النا/VBD وحدة/NN تعمل/VBP فكرة/NN جديدة/JJ والله/NN نايس/NNP والله/NNP يخلي/VBP حقوق/NN المرءة/DTNN وبسبة/NN للاكل/NN القلاية/DTNN اكلة/NN معدنا/JJ 
+
+انا/PRP مش/NN عارفه/NN ليش/NN هالتعليقات/NNS المعارضة/DTNN بس/NN بظن/NN لو/IN انه/VBD شب/VBD الي/IN عمل/NN هيك/NNP ما/WP رح/VBD نلاقي/VBP كل/NOUN ها/PRP$ التعليقات/DTNNS 
+
+انا/PRP بحكيلك/NN ليش/NNP يا/RP يارا/VBP انتي/NN عم/NN بتعلقي/JJ على/IN الموضوع/DTNN من/IN النت/DTNN يلي/VBP عندك/NN بالبيت/NNP وانا/NNP عم/NN بجاوبك/NNP من/IN مكتبي/NNS الخاصي/DTNN ونحن/NNP جماعه/NNP مزودين/VN بتقارير/NN وأدله/NN ووقائع/JJ على/IN الموضوع/DTNN يا/RP يارا/VBP بطبيعة/NN عملي/JJ ما/IN انا/PRP ما/WP بقدر/VBD احكيلك/NN تفصيل/NN مفصله/NN بس/NN بحكيلك/NN انه/NN قرار/NN الأجهزه/DTNN الأمنيه/DTJJ كان/VBD على/IN غاية/NN من/IN الدقه/DTNN 
+
+وبعدين/NNS يا/RP يارا/VBP جايكي/JJ الخبر/DTNN انا/PRP جمعيه/NN بيتا/NN هكلانه/NNP همك/NNP وهم/NN غيرك/NNP اذا/IN بتوكلي/NNP نبات/VBD ولا/NN بتوكلي/NNP لحم/NN حيواني/JJ لكي/JJ اصحي/VBP والله/NN يا/RP يارا/NN الموضوع/DTNN كبير/JJ كتير/JJ في/IN المستقبل/DTNN خذي/NN المعنى/DTNN العام/DTJJ للي/NNP بحكيلك/NNP اياه/NNP والتفاصيل/NNP استنتيجيها/NN بفهماتك/NNP واذا/NNP اليوم/DTNN الخس/DTNN فوق/NN الملابس/DTNN بكرا/NNP الملفوف/DTNNP على/IN الجلد/DTNN مباشره/NNP 
+
+يعني/VBP هو/PRP كل/NOUN واحد/NN طخت/VBD براسو/NNP فكرة/NN يريد/VBP الموافقة/DTNN عليها/NN و/CC تطبيقها/NN !!/NN يا/RP عمي/JJ ما/WP دامك/VBD مصرة/JJ على/IN الأكل/DTNN النباتي/DTJJ إبدأي/NNP بأهلك/NNP أولادك/NNP جيرانك/NNP .../PUNC أطلبي/NNP مقابلة/NN تلفزيونية/JJ لتذكير/NN الناس/DTNN بفوائده/NNP !!/NNP أما/NN الأفكار/DTNN المجونة/DTJJ تدعوا/VBD الناس/DTNN لمخاطبتك/NNP بصاحبة/NNP الأعمال/DTNN الجنونية/DTJJ ./PUNC 
+
+الفكرة/DTNN حلوة/JJ لكن/CC الدعوة/DTNN لها/VBD بهذه/NN الطريقة/DTNN عجيبة/JJ غريبة/JJ ./PUNC بعدين/NN الناس/DTNN هون/NN مش/NN باقية/JJ توكل/VBP لحم/NN ودجاج/NN وكل/NN اكلهم/NN نواشف/NN وبندورة/NN وبطاطا/NN وكمان/NN خس/NN -/PUNC بعدين/NNP مش/NN خايفه/NN الناس/DTNN تتشجع/VBP للفكرة/NN ويوكلوا/NNP الخس/NNP اللي/WP لابسته/NN ؟/VBD ؟/NN ؟/NN ؟/CD 
+
+هلأ/VBD فرقت/NN هالنص/NN متر/NN !!/NN 
+
+يعني/VBP والله/NN فعلا/NN اشي/NN غريب/NN انه/NN فريق/NN بعراقةوتاريخ/NN النادي/DTNN الفيصلي/DTNNP انه/VBD يعسكر/VBP وين/NNP في/IN -LRB-/PUNC سوريا/NNP -RRB-/PUNC 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+يا/RP جماعه/NN مدرب/NN الفيصلي/DTNNP مش/NN اكرم/NNP سلمان/NNP في/IN الدرع/DTNN المدرب/DTNN الحقيقي/DTJJ هو/PRP راتب/NN العوضات/DTNNS والفيصلي/DTJJ خسر/VBD المباراة/DTNN لاكن/NNP في/IN نفس/NN الوقت/DTNN انجاز/NN للاعبين/NNS الشباب/DTNN على/IN كل/NOUN حال/NN موعدنا/NN 13\/8/CD 
+
+و/CC معروف/JJ انو/VBD الدرع/DTNN بطوله/NN تنشيطيه/NN لكن/VBP غبر/NN الفيصلي/DTNNP ماخذها/NN عنجد/NN مشان/JJ يسجل/VBP انو/NN جاب/NN بطوله/NN وبفكر/NN انو/NN رح/NN يقدر/VBP يوصل/VBP لمرتبه/NN الزعامه/DTNN 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+الستلايت/DTNN والانترنت/VBD ما/WP خلا/VBD ولا/NN بقا/NN اشي/NN واحنا/NN مش/NN ناقصين/NNS الشركات/DTNNS الخلوية/DTJJ تدوشنا/NN وتوجع/NN روسنا/NNP غصب/NNP عنا/VBD 
+
+بس/NN همنا/VBD نعرط/VBP وبكون/NNS الواحد/DTNN حامل/NN خلويين/JJ وبنفس/NN الايد/DTNN -LRB-/PUNC لاحظوا/VBD بنفس/NN الايد/DTNN -RRB-/PUNC بكيت/VBD الدخان/DTNN المالبورو/DTJJ ومرات/NNS المحفظة/DTNN كمان/NN .../PUNC والطامة/NN الكبرى/DTJJR انوا/VB ما/WP بشتغل/VBD وما/NN في/IN بجيبتوا/NNP دينار/NN ./PUNC ./PUNC 
+
+الدريم/DTNN تيم/NNP خسر/VBD اربعه/NNP مش/NN معقول/JJ هم/PRP بفكروا/VBD حالهم/NN الوحدات/DTNNS يلعبوا/VBP بالرديف/NNP ويفوزا/NNP باللقب/NNP 
+
+بدي/NN ادخل/VBD بالموضوع/NNP على/IN طول/NN 
+
+البقعة/DTNN و/CC شباب/NN الأردن/DTNN مش/NN عوايدهم/NN و/CC كنت/VBD متوقعهم/NN أفضل/JJ من/IN هيك/NNP 
+
+عشان/NNP هيك/NNP 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+رفعتو/NNP راس/NNP الأردن/DTNNP فوق/NN وبتستاهلوا/VBD أحلى/NN استقبال/NN 
+
+للاسف/NN يا/RP سعادة/NN النقيب/DTNN كله/NNP كلام/NN فاظي/JJ ,/PUNC والنقابه/NN شريك/NN رئيسي/JJ في/IN الوضع/DTNN المتردي/DTJJ الذي/WP وصل/VBD اليه/NNP التمريض/DTNN الان/DTNN ,/PUNC لو/IN تهمكم/VBP مصلحه/NN اعضائكم/NN امنعو/NNS التدريب/DTNN في/IN وزارة/NN الصحه/DTNN حتى/IN تجبروا/VBD الوزارة/DTNN على/IN التعين/DTNNS وامنعو/NNP الممرضات/DTNNS الفلبينيات/DTJJ الي/IN معبيات/NNS عمان/NNP 
+
+و/CC شو/NNP نزلها/NNP على/IN بير/NNP معلش/NN بدنا/NN نفهم/VBP أصلا/NN و/CC الله/NN الرجال/DTNN بيخافوا/NNP ينزلوا/VBP على/IN بير/NNP المي/DTNNP كيف/WRB ببنت/VBD 17/CD سنة/NN 
+
+طيب/NNP شوفو/NNP غير/NN مدارس/NN عمان/NNP 
+
+حالة/NN مثل/NN غيرة/NN تعالوا/VBD شوفو/NNP في/IN جرش/NN فية/NN امر/NN منة/JJ وساكتين/JJ 
+
+كلنا/VBD بنعرف/NN نقرا/VBP وكلنا/NN بنعرف/NN نوصل/VBP للمعلومه/NNP 
+
+الي/IN صار/VBD الها/NN 10/CD سنين/NNS وهي/JJ عبء/NN 
+
+زمان/NN والله/NN عن/IN الاخبار/DTNN الحلوة/DTJJ يعني/VBP بتصير/NN فاتورة/NN الكهرباء/DTNN تيجي/VBP اقل/JJR لانو/NN المفاعل/DTNN اكيد/JJ بنتج/NN طاقة/NN بتكفي/NN كل/NOUN الاردن/DTNNP 
+
+شي/NNP حلو/NNP بس/NN كنت/VBD اتمنى/VBP يعملو/VBP اعتصام/NN ليفكو/NNP الحصار/DTNN مش/NN من/IN جهة/NN اسرائيل/NNP عن/IN غزة/NNP بس/NN ليفكوه/NNP عن/IN غزة/NNP من/IN جهة/NN مصر/NNP 
+
+خلي/NN فيروز/NNP اللي/WP تبرعت/VBD باجر/NN حفلة/NN بعمان/NNP في/IN الثمانينات/DTNNS للكتائب/NN واشترطت/NN الدفع/DTNN كاش/NNP -LRB-/PUNC 100.000/CD دولار/NN لليلة/NN بعمان/NNP -RRB-/PUNC ما/WP تزعلو/VBP مني/VBN لاني/NNP دايخ/NNP 
+
+??!!!!/VBD هادا/NNP اللي/WP شاطرين/NNS فيه/NNP ولا/NNP اثر/NN الخبر/DTNN على/IN لحظة/NN من/IN تفكيري/NN في/IN امور/NN اكبر/JJR من/IN هيك/NNP 
+
+طيب/NNP شو/NNP بالنسبه/NNP للعالم/NNP الي/IN مو/NN لاقيه/NN تاكل/VBP والي/NN قرب/NN رمضان/NNP وما/NNP معها/NN تجيب/VBP خبز/NN 
+
+مين/NN فيروز/NNP ؟/VBD في/IN امور/NN وقضايا/NN اهم/JJR من/IN هيك/NNP بتستنى/NNP تلبوا/VBD ندائها/NN مش/NN فيروز/NNP 
+
+يعني/VBP مافي/NNP عندنا/NN هم/PRP$ الا/RP غنت/VBD فيروز/NNP ولا/NNP منعت/VBD فيروز/NNP ./PUNC شو/NNP هالمشكلة/NNP العظيمة/DTJJ يعني/VBP اذا/IN عنت/VBD بدنا/NN نرجع/VBP الاقصى/DTNNP يا/RP جماعة/NN سيبكم/JJ من/IN هالحكي/NNP وركزو/NNP في/IN امور/NN اهم/JJR بلا/NNP سفيرة/NN نجوم/NN بلا/NNP سفينة/NN فضائية/JJ !!!!!/JJ 
+
+معلش/NN خليها/NN تاخد/NN قسط/NN من/IN الراحه/DTNN خلص/VBD بكفيها/NN ما/WP تعبت/VBD 
+
+أواه/NNP يا/RP أردن/VBD أنت/NN لها/NN مصراع/NN باب/NN الشمس/DTNN و/CC إنفتحا/NN 
+
+يعني/VBP الست/DTNNP فيروز/NNP غنت/VBD ولا/NN ماغنت/NNP بالنسبة/NNP الي/IN عادي/NN 
+
+شو/NNP رايحين/VBG عالجهاد/NN الفيروزي/DTNN يا/RP شباب/NN ./PUNC 
+
+مدرب/NN بحضر/NN مباريات/NNS الدرع/DTNN اكيد/JJ بكون/NN نايم/NNP مش/NN شايف/NNP حداو/NNP في/IN غشاوه/NNP علي/NNP عينه/NNP وما/NN بشوف/NN المهندس/DTNN رافت/NNP علي/NNP او/CC ما/WP بده/VBD يشوفه/VBP قال/VBD بقول/NN العمر/DTNN لازم/JJ تعلمت/VBD من/IN مدربين/NNS كاس/NN العالم/DTNN اذا/IN كان/VBD عندك/NNP عقلية/NN مدرب/NN كيف/WRB بختارو/NNP الخبره/DTNNP وما/NN بهمهم/NN العمر/DTNN بتوفيق/NNP لمنتخبنا/NNP بدون/IN المدرب/DTNN عدنان/NNP 
+
+ثانيا/ADJ مبروك/NN للشاطر/NN حسنن/JJ مع/NN انه/NN لازم/JJ يكون/VBP من/IN زمان/NN بالمنتخب/NN بس/NN مش/NN عارف/NNP شو/NNP القصة/DTNN مع/NN حمد/NNP والوحدات/NNS !!!!!/VBD وانشاء/NN الله/NNP يا/RP محارمة/NN انك/VBD تكون/VBP ظهير/NN المنتخب/DTNN لانك/NNP بتستاهل/NNP احسن/VBD ظهير/NN بالاردن/NNP الا/RP اذا/IN فكر/NN حمد/NNP زي/NN ما/WP بفكر/VBP راح/NN يكون/VBP حكي/JJ تاني/NN وقتها/NN ./PUNC 
+
+وين/NNP رافت/NNP علي/NNP يا/RP حمد/NNP ولا/NN القرار/DTNN مش/NN بايدك/NNP افضل/JJR لاعب/NN في/IN الاردن/DTNNP 
+
+إنتي/NNP أم/NNP كلثوم/NNP العصر/DTNN هادا/NNP والله/NNP ./PUNC ./PUNC 
+
+هاي/NNP هي/PRP تشكيلة/NN منتخبنا/JJ الوطني/DTNN إلي/NN راح/NN تشارك/VBP في/IN كأس/NN العالم/DTNN ولا/NN شو/NNP ؟/NNP ؟/CD 
+
+بعدين/NNP وين/NNP لاعبينا/NNP الأردنيين/DTJJ إلي/NNP بدرسو/NNP بإميركا/NNP زي/NN ليث/NNP وغيرو/NNP ؟/CD 
+
+الوحدات/DTNNS زعيم/NN البطولات/DTNNS ./PUNC ./PUNC مش/NN لأنه/NNP غيرنا/NNP تركلنــا/NNP اياها/NNP 
+
+خلّو/VBD اللعيبة/DTNN توكل/NNP و/CC تدلّع/NN ./PUNC ./PUNC من/IN أبو/NN زغلة/NN جيبولهم/NNP مناسف/NN وفروج/NN وفتة/NN بالصنوبر/NNP :/PUNC -RRB-/PUNC -RRB-/PUNC 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+شو/NNP قصة/NN لعيبة/NN الوحدات/DTNNS مش/NN عاجبهم/JJ الطعام/DTNN يعني/VBP شو/NNP بدكم/NN مناسق/JJ يا/RP جماعة/NN المدرب/DTNN يحدد/VBP لكم/VBG نوعية/NN الطعام/DTNN المفيد/DTNN و/CC لا/RP يحتوي/VBP على/IN الدسم/DTNN الزائد/DTJJ خاصة/NN ما/WP شفنا/VBD بعض/NOUN اللاعبين/DTNNS في/IN زيادة/NN في/IN الوزن/DTNN مثل/NN عامر/NNP ذيب/NNP و/CC الضميري/DTNNP ,/PUNC 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+مبرووك/VN للوحدات/NNS بطولة/NN الدرع/DTNN وعقبال/NN الدوري/DTNN والكاس/NN وكاس/NN الكؤوس/DTNN وسلم/NN سلم/NN سلامات/NNS كل/NOUN البطولات/DTNNS للوحدات/NNS 
+
+انا/PRP من/IN كفرنجه/NN انا/NN واحد/JJ من/IN سبعه/NN انسحبوا/VBD من/IN معسكر/NN السرو/DTNN لسؤ/NN التنضيم/DTNN بالمعسكر/NNP وكمان/NNP انه/VBD المسافه/DTNN بين/NN المعسكر/DTNN وكتيبه/NN 81/CD بالزرقاااااء/NN طويله/NN ومش/NN بس/NN هيك/NNP المنامات/DTNNS اشي/VB بخزي/NN الفرشات/DTNNS مرطبات/NNS وكل/NN 6بغرفه/NN وحده/NN ياسوسنه/NNP خليكي/NNP ديمقراطيه/NNP ورجاء/NN توصلي/NNP رسالتي/NNS للمجلس/NNP الاعلى/DTJJ الشباب/DTNN احنا/NN مش/NN ضدهم/NN بس/NN امصاريف/NN الي/IN بدفعوها/NN اكتر/NN بسرقوها/NN المشرفين/DTNNS والله/NN حرام/NN كمان/NN مره/NN بتوسل/NN الكوا/DTNN انكوا/VBD توصل/VBD رساله/NN للمجلس/NNP وهاي/NNP الاسمااء/DTNN السبعه/DTNN :/PUNC 
+
+التقرير/DTNN مش/NN مزبوط/NN المالك/DTNN رح/NN يرفع/VBP الايجار/DTNN بنسبة/NN مقبولة/JJ حتى/IN يبقى/VBP المستأجر/DTNN الحالي/DTJJ ولو/VBD رفعه/NN بنسبة/NN مبالغ/NN فيها/NN سيترك/NNP المستأجر/DTJJ ولن/NN يأتي/VBP بديل/NN ،/JJ في/IN حال/NN السعر/DTNN غير/NN مناسب/NN للمستأجر/NNP الحالي/DTJJ وتم/VBD اخلاء/NN الماجور/DTNN سياتي/NNP شخص/NN اخر/JJ لاستئجاره/NN وعمل/NN نشاط/NN فيه/NNP وتشغيل/NNP اشخاص/NN وبالتالي/JJ خلق/NN فرص/NN عمل/NN جديدة/JJ ./PUNC مختصر/NN الحديث/DTNN لن/RP يكون/VBP هناك/RB فقدان/NN فرص/NN عمل/NN وهذه/NN الاشاعات/DTNNS تنشر/VBN من/IN قبل/NN اشخاص/NN مستفيدين/VN من/IN عقود/NN اجار/NN بمبالغ/NNP سخيفة/JJ ./PUNC 
+
+انا/PRP مش/NN عارف/NNP الشباب/DTNN الاردنيين/DTJJ عاطلين/VN عن/IN العمل/DTNN ومش/NN لقيين/JJ شغل/VBD خصوصا/NN بالمناطق/NNP المكتظة/DTJJ سكانيا/JJ ,/PUNC ,/PUNC ,/PUNC وانظروا/VBD الى/IN سجلات/NNS اي/NOUN شركة/NN خاصة/JJ كم/PRP$ عدد/NN الطلبات/DTNNS وانظروا/VN الى/IN وسط/NN البلد/DTNN كم/PRP الشباب/DTNN من/IN الصباح/DTNN نازل/VBP وحامل/NN عدة/JJ البناء/DTNN ليلقى/NN اي/NOUN عمل/NN وانظروا/VBD الى/IN البلديات/DTNNS كم/PRP$ عدد/NN الشباب/DTNN المقدمين/DTJJ على/IN عامل/NN نظافة/NN ,/PUNC ,/PUNC ,/PUNC فاي/NN مهنة/NN بقيت/VBD لكي/NNP لا/RP يعمل/VBP بها/NN المواطنين/DTNNS ورغم/NN كل/NOUN ذلك/DT نجد/VBP العمالة/DTNN الوافدة/DTJJ بكل/VBD صوب/NN واتجاه/NNP ,/PUNC ,/PUNC فهؤلاء/NN الشباب/DTNN ان/IN لم/RP يجدوا/VBP عمل/NN فستزيد/NN حجم/NN الجريمة/DTNN وسينحرف/NN الشباب/DTNN وسيضرر/NN كل/NOUN المجتمع/DTNN ايضا/RB العمالة/DTNN الوافدة/DTJJ تحول/VBD الى/IN بلادها/NN مبالغ/NN مالية/JJ طائلة/NN سنويا/NN وبالعملة/NNP الصعبة/DTJJ -LRB-/PUNC الدولار/DTNN -RRB-/PUNC وهذه/NN المبالغ/DTNN المالية/DTJJ ان/IN بقيت/VBD داخل/NN الوطن/DTNN فانها/NN ستدفع/VBN عجلة/NN التنمية/DTNN بشكل/NN كبير/JJ ./PUNC 
+
+ما/WP كنا/VBD نشوف/VBP ازعر/NN في/IN الشارع/DTNN 
+
+ابصر/VBD المصاري/DTNN بودوهم/NNP فرنسا/NNP ولا/NN بضلو/NNP عنا/VBD ؟/NN 
+
+اول/ADJ مرة/NN بسمع/NN انه/NN جمال/NN الشمايلة/DTNN كان/VBD وزير/NN فلم/NN نسمع/VBP له/NN اي/NOUN تصريح/NN ,/PUNC الله/NNP يعطيهم/VBP العافية/DTNN ./PUNC نفسي/NNP اعرف/VBP ليش/NN الوزير/DTNN بيدخل/NNP وليش/NNP بيطلع/NN من/IN الوزارة/DTNN 
+
+والله/NN تعبنا/VBD واحنا/NN بنستنى/NNP ,/PUNC ,/PUNC ,/PUNC ,/PUNC بيغيرو/NNP الوزير/DTNN وكل/NNP اشي/NNP بيجي/NNP على/IN راس/NN طلاب/NN التوجيهي/DTJJ 
+
+عنجد/VBD شو/NNP الفايدة/NN كم/PRP$ وزير/NN وكم/NN وزاررة/NN راحت/NN وأجت/NN بس/NN شو/NNP الفايدة/DTJJ ./PUNC 
+
+من/IN الآخر/DTNN ارفعو/NNP التسعيرة/DTNN قد/RP ما/RP بدكو/VBD وبلاها/NN حجج/NN فارطة/JJ غير/NN مقنعة/NN 
+
+اذا/IN في/IN خسارة/NN فهي/NNP نتيجة/NN اختلاسات/NNS لا/RP اكثر/NOUN و/CC لا/RP هاظي/VBP حجة/NN عشان/NN يرفعوا/VBP اسعار/NN الكهربا/DTNN ويدمروا/VBD المواطن/DTNN فوق/NN ما/IN هوة/NN ميت/JJ !!!/VBD 
+
+شو/NNP القصه/DTNN يا/RP عالم/NN قبل/NN شوي/NNP نفس/NN الشي/DTNNP شقيق/NN يطعن/VBP شقيقه/NN حتى/IN الموت/DTNN 
+
+شو/NNP اللي/WP صاير/VBD بطلنا/NN نتحمل/VBP بعض/NOUN 
+
+والله/NN ما/WP بعرف/VBD شو/NNP بدي/NN احكي/VBP 
+
+يعني/VBP مو/NNP ل/IN 50/CD الف/CD مشترك/NN بس/NN جزء/NN الشركات/DTNNS بس/NN واكيد/NN نسبة/NN المشتركين/DTNNS السكنيين/DTJJ اكبر/JJR بكثير/NN من/IN المشتركين/DTNNS التجاريين/DTJJ !!/NN 
+
+اكيد/JJ رح/NN ترتفع/VBP اسعار/NN البطاقات/DTNNS وبشكل/NN كبير/JJ واكيد/JJ ما/WP رح/VBD تنزل/VBP اسعار/NN الانترنت/DTNNP رح/NN تكون/NN واجه/VBD اعلانية/JJ بتخفيض/NN النت/NN بس/NN تروح/VBP بدك/NN تشترك/VBP بطلوعلك/NN شغلات/NNS الها/NN اول/ADJ مالها/NN اخر/JJ 
+
+وانتهت/VBD قصد/NN ابو/NNP غالب/NNP من/IN ايام/NN رايح/NN جاي/NNP وسلملي/NNP على/IN ابو/NNP غالب/NNP 
+
+ممكن/JJ اسأل/NN سؤال/NN ليش/NN ستاد/NN عمان/NNP كما/CC مسكر/NNP أي/NNP لو/IN بتوسعوا/VBD فيه/NNP لصار/NNP خالص/VBD صارله/NN سنة/NN مسكر/JJ بكفي/JJ بعدين/NN كأس/NN الكؤوس/DTNN لازم/VBD ينلعب/VBP بالقويسمة/NN لعدة/NN اسباب/NN :/PUNC 1-مكانه/CD في/IN العاصمة/DTNN عمان/NNP 2-افضل/NNP ارضية/NN ملعب/NN في/IN الأردن/DTNN 3-مدرجاته/NN اكبر/JJR وافضل/NN من/IN ملعب/NN الزرقاء/DTNNP 
+
+فوت/VBD ع/NN جريدة/NN الغــــد/DTNN ./PUNC ./PUNC بتكيّــف/NNP ./PUNC ./PUNC بتكيّـــف/NNP 
+
+لو/IN بروح/VBD الوحدات/DTNNS يلعب/VBP شدة/NN بنروح/NN نهتف/NN و/CC احنا/NN ملوك/NN الطرنيــــب/DTNN و/CC القص/DTNN بإيدنا/NNP ./PUNC 
+
+وحمدلله/NN عالسلامة/JJ يا/RP سمور/NN ،/VBD أنا/NN قلت/VBD يمكن/VBP الأنتين/DTNNS وقع/NN عندي/JJ طلع/VBD البث/DTNN متوقف/JJ من/IN عندكم/NN ./PUNC 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+ومعلش/NNP يا/RP لاعبينا/VBD اصبر/NN عشان/NN نوصل/VBP للي/NN بدنا/NN اياه/NNP 
+
+أحسن/VBD خطوة/NN بتكون/NN انو/NN الطلبات/DTNNS تصبح/VBP مباشرة/NN ./PUNC القطاع/DTNN العام/DTJJ بلتزم/NNP في/IN الدفع/DTNN للشركة/NN الخارجية/DTNN والشركة/NN الخاصة/DTNN بتاخد/NN عمولتها/NN !/PUNC 
+
+بعدين/NN الوكيل/DTNN لما/IN يقوم/VBP بدوره/NNP صح/VBD ما/WP بنحلقلو/VBD من/IN الشركة/DTNN الاجنبية/DTJJ 
+
+بدك/NNP تشتري/VBP 
+
+جد/NN يا/RP جماعه/NN مال/NN الناس/DTNN صارت/VBD تآكل/VBP بعض/NOUN اتقوا/VBD ربنا/NN صار/VBD القتل/DTNN متل/NN شربت/NN المي/DTNNP عنا/VBD 
+
+الله/NNP يحفظلنا/VBP اياك/NN انته/NN والدكتور/NNP عبدالحميد/NNP ,/PUNC والله/NN انكوا/VBD تاج/NNP راسنا/NNP 
+
+طيب/NNP هو/PRP لو/IN صبر/NN وراح/NN ع/NN دكتور/NN تجميل/NN ./PUNC هوا/NN مو/NNP أحسن/NNP من/IN نانسي/NNP وهيفا/NNP !!!/VBD هيهم/NNP تغيروا/VBD كليا/NN !!/NN بعدين/JJ يا/RP شباب/NN الشب/DTNN مهما/WP يكون/VBP فيو/NNP عيوب/NN بياخد/NN أحسن/NNP بنت/NNP .../PUNC 
+
+واحد/NN ازعر/VBP ضريب/NN امواس/NN بشوه/NNP شاب/VBD ابن/NN ناس/JJ ./PUNC بروح/VBD ابن/NN الناس/DTNN يشتكي/VBP للشرطة/NN بصيروا/NNP يضحكوا/VBP عليه/NN وطبعا/NN مش/NN رح/NN يمسكوا/VBP الازعر/DTNN -LRB-/PUNC على/IN الاقل/DTJJR لازم/VBD تيجي/NNP عليه/NNP عشر/CD شكاوي/NN -RRB-/PUNC واذا/NN الشرطة/DTNN جابت/VBD الازعر/DTNN وتحاكم/NN بكون/NN الحكم/DTNN 3/CD اشهر/NN مع/NN امكانية/NN دفع/NN بدل/NN مالي/JJ وبطلع/JJ عشان/NN يكمل/VBP الزعرنة/DTNN وضرب/NN الامواس/DTNN ./PUNC يا/RP جماعة/NN انا/PRP بحكي/JJ عن/IN تجربة/NN مع/NN هيك/NNP قصص/NN ./PUNC وحسبنا/NNP الله/NNP ونعم/NN الوكيل/DTNN 
+
+انا/PRP عتال/NN في/IN سقف/NN السيل/DTNN متى/WRB بيجي/NNP دوري/NNP اسير/NN وزير/NN 
+
+أغلب/NN الوزراء/DTNN الذين/WP خرجوا/VBD من/IN الحكومة/DTNN يحصلون/VBP على/IN تقاعد/NN من/IN الضمان/DTNN الاجتماعي/DTJJ ،/VBD والآن/NN سيحصلون/NNP على/IN تقاعد/NN مدني/NN ،/NN وبكرة/NN لما/NNP بصيروا/NNP أعيانه/NNP أو/NNP نواب/NN سيحصلون/JJ على/IN راتب/NN من/IN ميزانية/NN الدولة/DTNN ؛/VBD فهل/NN معالي/NNP وزير/NN المالية/DTNN ''/NN متحوط/JJ لذلك/VBD ''/NN ،/NN لأنه/NN وكما/NN يعلم/VBP معاليه/NN ''/NN التحوط/DTNN المالي/DTJJ ''/NN يُعد/VBP ركيزة/NN من/IN ركائز/NN الإستقرار/DTNN المالي/DTJJ ./PUNC وللمواطنين/NNS الأردنيين/DTNNS الغلابا/DTJJ أقول/NN لا/RP تسألوا/VBP أين/NN تذهب/VBP مصاري/NN الحكومة/DTNN ،/NN فقد/VBD عرفتم/NNP الآن/NN واحدا/JJ من/IN أوجه/NN إنفاقها/NN ./PUNC على/IN العموم/DTNN ألف/VBD ألف/NN مبروك/NN للوزاراء/DTNNS الجدد/DTJJ ،/VBD وللقدماء/NN أقول/NN ،/NN لا/RP تخافوا/VBP بتردوا/NN ترجعوا/NN ،/NN وإذا/NN مش/NN أنتم/VBD فأبناؤكم/NNP سيخلفونكم/NNP في/IN مواقع/NN قد/RP تكون/VBP أهم/NN من/IN مواقعكم/NN ./PUNC 
+
+كنت/VBD اتمنى/VBP اني/NNP اشوف/NN وزارة/NN للتموين/NNP .../PUNC 
+
+مشان/NNP الله/NNP 
+
+ايمتى/NNP النتائج/DTNN 
+
+شو/NNP صار/VBD فيها/NN 
+
+والله/NN الأيام/DTNN اللي/WP مرقوا/VBD كنت/NNP -LRB-/PUNC مفصول/JJ وشكرا/NN -RRB-/PUNC ./PUNC عجقة/NN كتير/NN وشغل/NN ومناسبات/NNS وهيك/NNP ./PUNC اليوم/DTNN الصبح/DTNN شربت/NNP كاسة/NNP شاي/NNP عدلت/VBD مزاجي/JJ ./PUNC بعدين/NN شفت/NN الخبر/DTNN في/IN الغد/DTNN وصار/NN معي/JJ صدمة/NN عاطفية/JJ :/PUNC -LRB-/PUNC 
+
+لعنة/NN الله/NNP عليهم/NNP وين/NNP ما/WP يرووحو/VBP انشالله/NN ربنا/NNP بيحرقهم/NNP حرق/NN قبل/NN ما/WP يفكروا/VBP بهيك/NNP شي/NNP وبيخسف/NNP الأرض/DTNN فيهم/NNP خسف/NNP .../PUNC لاحول/NNP ولا/NNP قوة/NN الا/RP بالله/NNP .../PUNC 
+
+ليش/VBD هيك/NNP الطلاب/DTNN صايرين/JJ او/CC ليش/NN هيك/NN النتائج/DTNN صايرة/JJ 
+
+بدكم/VBD مشاعر/NN وبدك/NN احاسيس/NN وبدكم/NN عواطف/NN جياشه/NN وحب/NN دائم/JJ ومشاعر/NN فياضه/NNP مليئه/NNP بالحب/NNP والحنين/NNP والاوضاع/NN زي/NN الزفت/DTNN والحياه/NNP صعبه/NNP والاسعار/NNP مرتفعه/NNP والبنزين/NNP مولع/NN ودرجه/NN الحراره/DTNN مليون/NN والبندوه/NN غاليه/NNP واحمر/NNP على/IN ابوي/NNP بطيخ/NNP 
+
+من/IN وين/NNP نجيب/NNP مشاعر/NN والجيبه/NN فاضيه/NN ومن/NN وين/NN نحس/NN واحنا/NN مخدرين/NNS وكل/NN واحد/JJ فين/NNP كل/NOUN يوم/NN مخدر/JJ بكل/VBD انواع/NN الابر/DTNN ابره/NNP ارتفاع/NN الاسعار/DTNN وابره/NN النكد/DTNN والروتيين/DTJJ اليومي/DTJJ وابره/NNP وين/NNP رايح/NNP وين/NNP جاي/NNP وبدكم/NNP احساس/NN 
+
+لولا/IN جريدة/NN الغــد/DTNN شو/NNP كان/VBD صاير/NNP فيــــنا/NNP ؟/CD !/PUNC 
+
+عم/NN بحكي/JJ عن/IN جد/NN ./PUNC ./PUNC مش/NN كنـــا/NN آكليــنا/NN ؟/NN !/PUNC 
+
+اقسم/VBD بالله/NNP انك/VBD رجل/NN وصاحب/NN كلمه/NNP صادقه/NNP بكفي/NNP يا/RP ادارة/NN النادي/DTNN حرام/NN عليكم/NN اتقوا/VBD الله/NNP لا/RP مصاري/JJ ولا/NN اجور/NN ولاسؤال/NN ولا/NN متابعه/JJ يعني/VBP البطوله/DTNN ما/WP بتيجي/VBD ببلاش/NN بدها/NN تعب/NN خلونا/NN نفرح/VBP ياعالم/NNP ادعموا/VBD فريق/NN اليد/DTNN ومنك/NNP لله/NNP يا/RP اللي/WP بدك/VBD تحل/VBP الفريق/DTNN 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS وسمعونا/VBD صوتكم/NN او/CC كتابتكم/NN او/CC ارائكم/NN ولسه/NN ولسه/NN كأس/NN الكؤؤس/DTNN على/IN الابواب/DTNN 
+
+الوحداتييه/DTNN كلهم/NN يريدون/VBP رأفت/NN 
+
+وين/NNP يا/RP عزيزي/NNP بدك/NNP هاظ/NNP الشي/DTNNP في/IN حارتنا/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN امبوسبل/NN ما/IN دام/VBD المناسف/DTNN موجودة/JJ 
+
+إزا/VBD ''/NN بيمرؤ/NN ''/NN على/IN قولة/NN اللبنانية/DTNN يا/RP ''/VBD عزيزتي/NNS الغــد/DTNN ''/NN :/PUNC -RRB-/PUNC 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+مشان/NNP الله/NNP حدا/NN ينتبه/VBP للقدس/NNP و/CC التهجير/DTNN و/CC الهدم/DTNN و/CC الاستيطان/DTNN ./PUNC 
+
+يا/RP جماعة/NN السرطان/DTNN مش/NN مخلّــي/JJ إشي/JJ ./PUNC 
+
+شوب/VBD السعودية/DTNNP وطفر/NN الاردن/DTNNP وغبرة/NN الطريق/DTNN 
+
+يا/RP جماعة/NN الموجه/DTJJ ستستمر/NNP فوق/NN ال/DT ؤ/NN #/NN 1635/CD ;/PUNC ؤ/NN #/NN 1637/CD ;/PUNC درجة/NN لمدة/NN ؤ/NN #/NN 1633/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC أيام/NN على/IN الأقل/DTNN فخذو/NNP احتياطاتكم/NNP فدائرة/NNP أرصادنا/VBD تعطينا/NN الخبر/DTNN بالقطارة/NNP وكأن/NNP الموجه/DTJJ ذنبهم/NN وبيحاولو/NNS يخبوها/NN بدلا/NN من/IN إعلام/NN الناس/DTNN لكي/NNP يأخذو/NNP احتياطاتهم/NNP ./PUNC 
+
+هيك/NNP بدنيا/JJ كيف/WRB بالاخرة/NNP الله/NNP .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC ./PUNC يبعدناعن/VBP نار/NN جهنم/NN 
+
+وبعدها/NN دائرة/NN الجمارك/DTNN بتعتبر/NNP المكيف/DTNNP بالسيارة/NNP من/IN الكماليات/DTNNS يعني/VBP بالمنطقة/DTNN الحرة/DTJJ بسجلوا/VBD لغاية/NN الجمرك/DTNN الاضافات/DTJJ :/PUNC 
+
+عن/IN جد/NN شو/NNP هاد/NNP ؟/VBD ؟/NN ؟/CD 
+
+يا/RP اخي/VBP الي/IN بيفكر/NN احسن/JJR من/IN الي/IN عندو/NN جي/NN بي/NN اس/NN 
+
+عن/IN جد/NN انا/NN بدي/NN سجادة/NN زيها/NN ./PUNC ./PUNC يمكن/VBP كل/NOUN 13/CD يوم/NN بصلي/NN صلاة/NN وحدة/NN صحيحة/JJ 
+
+لازم/VBD أخربط/NN في/IN عدد/NN الركعات/DTNNS زي/NN الله/NNP واحد/NN ./PUNC 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+اول/ADJ شي/NNP بسلم/NNP على/IN كل/NOUN وحداتي/NNS في/IN الموقع/DTNN وخاصة/NN على/IN سمور/NN والطريفي/NNS وخليهم/JJ يعرفو/VBP مين/NN الزعيم/DTNN رافت/NNP على/IN ياكايدهم/NNP خليهم/NNP ايشوفوك/NNP وعلمهم/NN اصول/NN الفن/DTNN 
+
+سلم/VBD سلامات/NNS مسكين/JJ يا/RP وحدات/NNS ولا/NN بطوله/NN خارجيه/NNP 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+مسكين/JJ اللي/WP ما/WP عنده/VBD وحدات/NNS 
+
+سلم/VBD سلامات/NNS كل/NOUN البطولات/DTNNS للوحدات/NNS 
+
+سلم/VBD سلامات/NNS كل/NOUN البطولات/DTNNS للوحدات/NNS 
+
+بكفي/NNP احلام/NN بكفي/NNP اوهام/NN بكفي/NNP حجج/NN 
+
+طيب/NNP مادام/NNP انو/VBD فريق/NN الرديف/DTNN تبعكو/NNP فاز/VBD زمان/NN بهالبطولة/JJ ./PUNC ./PUNC ليش/NNP الوحدات/NNP وبكامل/NNP نجومه/NNP وقواه/NNP خسر/VBD البطولة/DTNN الماضية/DTJJ ولم/NN يحرزها/NN مثل/NN بقية/NN الاندية/DTNN 
+
+عنجد/VBD وبعدين/NNS مع/NN حوادث/NN الباصات/DTNNS ،/VBD ،/NN لازم/JJ يكون/VBP تدابير/NN وقائية/JJ لإنهاء/NN أو/NN الحد/DTNN من/IN حوادث/NN الباصات/DTNNS في/IN الاردن/DTNNP ،/NN ،/CD 
+
+والدليل/NN على/IN هادا/NN الحكي/DTNN هوه/NNP واقعنا/NNP المرير/DTJJ ./PUNC ./PUNC دراسة/NN 4/CD سنوات/NNS من/IN جهد/NN وعنا/NN .../PUNC لحتى/NN بلاخر/NN نقعد/VBP في/IN البيوت/DTNN .../PUNC 
+
+معظم/NOUN المعلقين/DTNNS القوا/VBD باللوم/NNP على/IN الفقر/DTNN والحاجة/VN كمبرر/NN لارتكاب/NN الجريمة/DTNN ،/VBD وانا/NN اقول/VBP اكثر/JJR من/IN نصف/NOUN الشعب/DTNN الاردني/DTJJ فقير/JJ ودون/JJ خط/NN الفقر/DTNN ومع/NN هذا/DT لم/RP يفكر/VBP احد/NN منهم/NN بالتكسب/NNP الوظيفي/DTJJ فكيف/NNP بالسرقة/NNP والقتل/NNP ،/VBD وللعلم/NN انا/PRP بعرف/NN القاتل/DTNN وعندو/NNP مطعم/NN ومصاري/JJ خيرات/NNS الله/NNP 
+
+شو/NNP جنس/NN هالبشر/NNP هاي/NNP ،/VBD وكمان/NN مشارك/NN بجنازتها/NN وسايق/NN الامبيلانص/DTNN ،/VBD والله/NN الدنيا/DTNN اخر/NN زمن/NN .../PUNC 
+
+يعطيكم/VBP العافيه/DTNN والله/NN الحمامات/DTNNS بدها/NN كمان/NN دعم/NN منكم/JJ انتوا/VBD النشامى/DTNN 
+
+احلى/VBD موقع/NN للتعرف/NN والزواج/NN خصوصا/NN انه/NN بروفايل/NNP البنت/DTNNP بكون/NNP قدامك/NNP ومافي/NNP داعي/NN تغلب/NN حالك/NN وتسال/NN عنها/NN الجيران/DTNN والاصدقاء/NN ,/PUNC اذا/IN البروفايل/DTNN كويس/NNP بتتوكل/NNP على/IN الله/NNP وبتزوجها/NN 
+
+والله/NN بصراحه/NNP الفيس/NNP بوك/NNP أحلى/VBD موقع/NN في/IN العالم/DTNN .../PUNC كتير/NNP حلو/NNP 
+
+وين/NN القيم/DTNN والمبادئ/NN يلي/VBP كنت/NNP اشوفها/VBD على/IN التلفزيون/DTNN ايام/NN وجها/NN لوجه/NNP 
+
+أنا/VBD أعيش/NN في/IN بلد/NN أجنبي/NNS ،/NN وبدي/JJ ادفع/VBP شؤ/NN #/NN 1633/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC ضرايب/NN بس/NN بعرف/NN كيف/WRB سوف/RP استفيد/VBD منها/NN ،/NN علاج/NN بلاش/NN ،/NN دراسه/NN بلاش/NNP في/IN أحسن/NN الجامعات/DTNNS بالعالم/NNP 
+
+اناحاجز/NNP بعد/NN يومين/NNS وعندي/NN اربع/CD اولاد/NN يعني/VBP لازم/JJ ادفع/VBP ششششششششششششششششششو/NNP 
+
+يعني/VBP ازا/NNP كنت/NNP مفكر/NNP اروح/VBD على/IN بلدي/NNS هلا/NNP بطلت/NN ,/PUNC عمري/NN ما/IN بدي/NN اشوفها/NN من/IN كتر/NN ما/WP بسمع/VBN في/IN ضرايب/NN ,/PUNC بطلت/NN قادر/JJ احفظ/VB عدد/NN الضرائب/DTNN و/CC الرسوم/DTNN الي/IN لازم/JJ تندفع/VBP في/IN نزله/NN شهر/NN الاجازه/DTNN خلص/VBD بطلت/NN انزل/VBD اوفرلي/NNP و/CC خليني/NNP انزل/VBD على/IN تركيا/NNP احلى/VBD واوفر/NN لجيبتي/NNS زي/NN مابعملوا/VBD كل/NOUN المتغربين/DTJJ الي/IN بعرفهم/NN على/IN تركيا/NNP او/CC ماليزا/NNP وبلا/NN مصاريف/NN عالفاضي/JJ ما/IN بنستفيد/NN منها/JJ اشى/VBD 
+
+يا/RP ريت/NNP حد/NN يفهمنا/NNP شو/NNP الخدمات/DTNNS اللي/WP راح/VBD يقدموها/VBP مقابل/NN 8/CD دنانير/NN لكل/NN مغادر/JJ يعني/VBP مثلا/NN راح/NN يقدمو/VBP وجبة/NN غداء/NN ./PUNC الموضوع/DTNN تغيير/NN تسمية/NN فقط/RB من/IN ضريبة/NN مغادرة/NN الى/IN بدل/NN خدمات/NNS من/IN الضرائب/DTNN للجمارك/NNP وكون/NNP الضريبة/DTNN كانت/VBD أقل/VBD على/IN غير/NN الأردني/DTNN هيك/NNP بكون/NNP التحصيل/DTNN أكثر/NNP ./PUNC افهموها/NN 
+
+الله/NNP يخليلنا/VBP الحكومة/DTNN الرشيدة/DTJJ و/CC يكثر/VBP من/IN امثالها/NN ,/PUNC عن/IN جد/NN اشي/NN بيرفع/NN الراس/DTNN 
+
+هي/PRP المشكلة/DTNN مش/NN ب/IN 8/CD أو/NN 10/CD دنانير/NN .../PUNC احنا/NN اصلا/NN ما/IN بنعرف/NN ليش/NN القرار/DTNN طلع/VBD قبل/NN 7/CD شهور/NN عشان/NN يلتغى/VBN ./PUNC ./PUNC !!/NN و/CC بالمناسبة/NN بحكو/NNP كثير/NN عن/IN العجز/DTNN بس/NN ما/IN حد/NN حكالنا/VBD من/IN وين/NN اجا/NN ./PUNC ./PUNC اذا/IN كل/NOUN اشي/NN انا/PRP و/CC انتا/VBD بندفعوا/NNP الطاق/DTNN طاقين/JJ ./PUNC .50/CD %/PUNC عجز/NN من/IN اجمالي/NN الناتج/DTNN القومي/DTJJ من/IN وين/NNP اجونا/VBD يا/RP عالم/NN !!!!/JJ 
+
+و/CC قال/VBD أمي/NNP الله/NNP يحفظها/VBP مش/NN عاجبها/JJ أني/JJ مهاجر/NN على/IN كندا/NNP و/CC بدها/NN أظل/NN هون/NN على/IN مبدأ/NN ''/NN من/IN طين/NN بلادك/NNP لط/VBD على/IN خدودك/NNP ''/NNP -LRB-/PUNC أو/NNP أشي/NNP مثل/NN هيك/NNP -RRB-/PUNC لأ/VBD يا/RP أمي/NN طين/JJ بلادي/JJ بكره/NN رح/NN نصير/VBP نوكله/NN من/IN الجوع/DTNN و/CC رح/NN تنفرض/VBP عليه/NN رسوم/NN و/CC جمارك/NN و/CC ضرايب/NN و/CC نبطل/VBP نلاقيه/NNP و/CC رح/NN يجي/VBP اليوم/DTNN اليوم/DTNN اللي/WP انتي/NN تلحقيني/NNP فيه/NNP و/CC تتركي/VBP البلد/DTNN واللي/NNP فيها/NNP 
+
+وصارت/VBD الناس/DTNN تشتري/VBP من/IN الشام/DTNNP كل/NOUN شي/NNP ./PUNC ./PUNC ومين/NN المستفيد/DTNN .../PUNC 
+
+علشان/NNP هيك/NNP رجعت/VBD المي/DTNNP لمجاريها/NN وما/NN في/IN شام/NN من/IN يوم/NN واريح/JJ او/CC اللي/WP بحب/NN يروح/VBP على/IN المطاعم/DTNN الشامية/DTJJ في/IN عمان/NNP وبس/NNP 
+
+خلوها/NN 10/CD دنانير/NN ويا/NN ريت/NNP مبين/VN على/IN حكومتنا/NN ./PUNC ./PUNC يعني/VBP مخصصات/NNS الجمارك/DTNN كتير/NNP كتيرة/NNP ./PUNC ./PUNC والمفروض/NN نعمل/VBP تقشف/NN لانه/NN الوضع/DTNN والميزانية/JJ ما/IN بتسمح/NN ./PUNC ./PUNC لعل/VBP وعسى/NN انهم/NN يزبطو/VBP طريق/NN الازرق/DTNN حدود/NN العمري/DTNNP ./PUNC ./PUNC خط/NN دولي/JJ متل/JJ العمى/DTNN .../PUNC انا/PRP مو/NNP شايف/NNP ولا/NN صحفي/JJ اتكلم/VBP في/IN هذا/DT الموضوع/DTNN ./PUNC ./PUNC شوفو/VBD عدد/NN الحوادث/DTNN والوفيات/NNS اللي/WP بتصير/NN ./PUNC ./PUNC يا/RP رب/NN اقرا/VBP بكرا/NNP مقال/NN عن/IN هدا/NN الموضوع/DTNN .../PUNC باي/NNP 
+
+صار/VBD اللي/WP بده/VBD صحن/NN ينزل/VBP عالشام/NN .../PUNC هجنه/NNP 
+
+بس/NN حاب/NN اعرف/VBP ايش/NN رأي/NN الاخوة/DTNN القراء/DTNN بهيك/NNP قرار/NN ,/PUNC انا/PRP صراحة/NN لا/RP تعليق/NN لاني/JJ صراحة/NN قربت/NN انفزر/NNP ./PUNC انا/PRP بصراحة/NN مش/NN شغال/JJ على/IN الخط/DTNN رايح/NNP جاي/NNP يعني/VBP رجعوها/NN ولا/NN لاء/NN مو/NN فارقة/JJ معاي/JJ بس/NN انا/PRP مو/NNP عارف/NNP ليه/NNP هيك/NNP بساوو/NNP ./PUNC نفسي/NNP اقرا/VBP خبر/NN يكون/VBP لصالح/NN هالمواطن/NNP الغلبان/DTNNP 
+
+فعلا/NN اجت/VBD الحزينة/DTJJ تفرح/VBP ما/WP لاقت/VBD مطرح/NN ،/CD 
+
+احنا/NN الشعب/DTNN مغلوب/NN ع/NN امرنا/NNP الله/NNP يحميكم/VBP يا/RP شعب/NN فلسطين/NNP والله/NN انكم/NN رافعين/VN شرف/NN امه/NN محمد/NNP صلى/VBD الله/NNP عليه/NNP وسلم/VBD طبعا/NN الشرفاء/DTNN منكم/JJ 
+
+بدي/NN أسأل/NNP مين/NNP اللي/WP طلع/VBD الغوريلا/DTNNP اللي/WP بالصورة/JJ من/IN مستشفى/NN المجانين/DTNNS شكلوا/VBD في/IN عندهم/NN منوا/VBD كثير/NN !!!!!!!!!!/DTNN 
+
+الله/NNP يرحمهم/VBP كانو/NNP مناح/NN 
+
+الله/NNP يرحمهم/VBP و/CC يصبر/VBP اهلهم/NN يا/RP رب/NN شو/NNP هلا/NNP اهمال/NN و/CC الله/NNP لن/RP نتقدم/VBP و/CC لا/RP خطوة/NN ما/IN دام/VBD الوضع/DTNN هيك/NNP حرام/NN مش/NN لازم/JJ يكون/VBP عند/NN كل/NOUN حا/NNP وية/NN جزء/NN مخصص/JJ للنفايات/DTNNS الخطرة/DTJJ شاطرين/NNS نبني/VBP تقاطعات/NNS و/CC جسور/NN الخ/NN لازم/JJ نبني/VBP البشر/DTNN اولا/ADJ و/CC بعدين/NNS الحجر/DTNN و/CC لا/RP حول/NN ولا/NN قوة/NN الا/RP بالله/NNP 
+
+هلا/NNP مش/NN كل/NOUN البنات/DTNNS والستات/NNS زي/NN بعض/NOUN هلا/NNP لازم/VBD لما/IN ست/CD تشوف/NN انو/NN الرجل/DTNN اعتذر/VBD لازم/JJ هي/PRP بالمقابل/NN انها/NN تقدر/VBN هاد/NN الشي/DTNNP وبكفيها/NN الست/CD شعور/NN الندم/DTNN الي/IN ببينها/NN اليا/NN الرجل/DTNN ومش/NN بالضروره/NNP انو/NNP يعتذر/VBP بطريقه/NN مبالغ/NN فيها/NNP 
+
+يا/RP نيالي/NNP انا/NNP وحداتي/NNP 
+
+سلم/VBD سلامات/NNS كل/NOUN البطولات/DTNNS للوحدات/NNS 
+
+غريب/JJ جدا/NN ان/IN تتحدث/VBP ان/IN فوزكم/NN بالبطولات/NNS عاديا/JJ بعد/NN الفرحة/DTNN الهستيرية/DTJJ بهدية/NN الدوري/DTNN من/IN شباب/NN الاردن/DTNNP و/CC لا/RP تنسوا/VBP رايح/NN جاي/NNP 
+
+وسلم/VBD سلمات/NNS الدوري/DTNN وكاس/NN الكؤوس/DTNN وكاس/NN الاردن/DTNNP وكاس/NN الاتحاد/DTNN الاسيوي/DTJJ للزعيم/NNP 
+
+من/IN متى/WRB اصبح/VBD المنشيه/DTNN والجزيره/NNP من/IN الكبار/DTNN طبعا/NN كبار/JJ بالاخلاق/JJ وليس/NN كبار/JJ بالزعامه/JJ على/IN كل/NOUN حال/NN خليكو/NN طبلو/NNP وزمرو/NNP لنهاية/NN الموسم/DTNN وبيجي/NNP الزعيم/DTNN الفيصلي/DTNNP بيوخذ/NN الدوري/DTNN من/IN امام/NN انظاركم/NN بدون/IN تزمير/NN ولا/NN تطبيل/NN لان/NNP الفيصلي/DTNNP وجمهوره/NNP منعودين/VN على/IN هيك/NNP انجازات/NNS 
+
+افهم/VBP الي/IN بتحكيه/NN يوم/NN ما/IN فاز/VBD الفيصلي/DTNNP بدرع/NNP صار/VBD انجاز/NN تاريخي/JJ ويوم/JJ ما/WP طلعتو/VBD من/IN الدور/DTNN الاول/ADJ صار/VBD خشبة/NN 
+
+الوحدات/NNP لما/NNP اجالوه/NNP اكرم/NNP سلمان/NNP كان/VBD عنده/NNP خامه/VBD لاعبين/NNS على/IN مستوى/NN عالي/JJ ,/PUNC بس/NN مع/NN احترامي/NN لنادي/NNP الفيصلي/DTNNP فريق/NN كبار/JJ السن/DTNN واكرم/NNP سلمان/NNP ما/WP راح/VBD يعمل/VBP الشيء/DTNN الكثير/DTNN مع/NN الفيصلي/DTNNP لانه/NNP مع/NN الاسف/DTNN ماعنده/NNP محمد/NNP محارمه/NNP ورامي/NN الردايده/DTNN ولا/NN عامر/NNP ابو/NNP حويطي/NNP ولا/NNP مالك/NNP شلبية/NN ولا/NN يحيى/NNP جمعة/NNP والحبل/NNP عالجرار/NNP -LRB-/PUNC ما/WP شاء/VBD الله/NNP -RRB-/PUNC عين/VBD الحسود/DTNN فيها/NN عود/NN 
+
+وانا/VBD شايف/NNP انو/NNP ماشاءالله/NNP اصدقاءنا/VBD الوحداتيين/DTNNS تعليقاتهم/VBP معبية/JJ الموقع/DTNN -/PUNC اللهم/NN زد/NN وبارك/NNP -/PUNC 
+
+بطولات/NNS دوري/NN 3/CD اضعاف/NN بطولات/NNS فريقكو/NNP ./PUNC ./PUNC مش/NN انجاز/NN تاريخي/JJ ؟/VBD ؟/CD 
+
+بطولات/NNS درع/NN اكثر/JJR مما/NN حصل/VBD عليه/NNP فريقكو/NNP ./PUNC ./PUNC مش/NN عاجبكو/NNP 
+
+ياعمي/VBP اللي/WP مالو/VBD بالبطولات/NNS ولا/NN بالقاراة/NNP الاسيوية/DTJJ او/CC العربية/DTJJ لا/RP يحكي/VBP 
+
+انا/PRP بثني/JJ على/IN كلام/NN مغترب/NN وبقلوا/JJ صح/VBD لسانك/NNP هي/PRP هيك/NN الامور/DTNN لو/IN انوا/VBD الفريق/DTNN الاول/ADJ في/IN الفيصلي/DTNNP جاهز/JJ كان/VBD شارك/VBD بس/NN مثل/NN ما/IN قلت/VBD نص/NN اللعيبة/DTNN حردانيين/NNS والباقية/JJ ما/WP عندهم/VBD لياقة/NN عشان/NNP هيك/NNP شارك/VBD الفيصلي/DTNNP بالفريق/NN الرديف/DTNN 
+
+على/IN كل/NOUN حال/NN انا/PRP بحب/NN اذكر/VBP الناس/DTNN انوا/VBD الوحدات/DTNNS لما/IN اخذ/NN الاربع/DTNN بطولات/NNS كانت/VBD البطولة/DTNN الاولى/ADJ عن/IN طريق/NN الرديف/DTNN -LRB-/PUNC الدريم/DTNN تيم/NNP الوحداتي/DTNNP -RRB-/PUNC اللي/WP هلا/NNP نصوا/VBD بلعب/NN بالفريق/NNP الاول/ADJ احنا/NN اللي/WP عنا/VBD دريم/NNP تيم/NNP مو/NNP غيرنا/NNP 
+
+يعني/VBP ادارة/NN الفيصلي/DTNNP لما/NNP شافت/NNP فريقك/NNP الاول/ADJ -LRB-/PUNC الماجيك/DTNNP -RRB-/PUNC في/IN حالة/NN مزرية/JJ من/IN اللياقة/DTNN ونص/NN اللاعبين/DTNNS حردانين/NNS 
+
+والله/NN يا/RP كابتن/NN المفروض/DTNN حمزة/NNP في/IN المنتخب/DTNN الاول/ADJ لانه/NNP افضل/JJR لاعب/NN ناشء/JJ في/IN الاردن/DTNNP الي/IN قده/NN في/IN اوربا/NN لاعبو/NNS في/IN كاس/NN العالم/DTNN دير/NN بالك/NNP على/IN حمزه/NNP 
+
+يا/RP حكومتنا/VBD الرشيدة/DTNN وين/NN تطبيق/NN توفير/NN الامن/DTNN الاجتماعي/DTJJ للمواطن/NNP ./PUNC ./PUNC وين/NN كمان/NN تطبيق/NN ما/WP تقولون/VBP بأن/NN تحسين/NN معيشة/NN المواطن/DTNN الاردني/DTJJ هو/PRP اولويتكم/NNP ./PUNC ./PUNC مشان/NNP الله/NNP يا/RP ناس/JJ يا/RP شعب/NN نفسي/VBP حدا/NN يقولي/VBP شو/NNP معنى/NN اللي/WP قاعد/VBP بصير/NN ،/NN مش/NN قادر/JJ افهم/VBP نفسية/NN الحكومة/DTNN !!!/CD 
+
+والله/NN يجيرنا/VBP من/IN كل/NOUN ما/WP هو/PRP مساعد/NN على/IN ارتفاع/NN حرارة/NN الجو/DTNN والانسان/NNP المغلوب/DTJJ على/IN امره/NN والذي/JJ لا/RP يملك/VBP مكيف/NN تبريد/NN في/IN سيارته/NN او/CC بيته/NN ،/NN الله/NNP يبعد/VBP عنا/VBD الاخبار/DTNN التي/WP تساهم/VBP في/IN تنشيف/NN وعدم/NN ترطيب/NN الجو/DTNN العام/DTJJ والله/NN يستر/VBP علينا/NN من/IN كلشي/NNP مش/NN مليح/JJ ./PUNC 
+
+مش/NN راح/NN احكي/VBP اشي/NN الا/RP تاملو/NNP بالصوره/NNP 
+
+صورة/NN تخاطب/VBP الجميع/NOUN ./PUNC ./PUNC بس/NN ولا/NN حدا/NN هون/NNP 
+
+عزيزي/NNP حزب/NNP جبهة/NN العمل/DTNN ارسى/VBN على/IN بر/NN مرة/NN بتشارك/NNP و/CC مرة/NN بتقاطع/NN يعني/VBP هي/PRP لعبة/NN الشاطر/DTNN السي/NNP سو/NNP مثلا/NN 
+
+ان/VBP شاء/VBD الله/NNP بعد/NN كل/NOUN تاخير/NN خير/NN ان/IN شاء/VBD الله/NNP والله/NNP ينجح/VBP كل/NOUN طلاب/NN التوجيهي/DTJJ الله/NNP يوفئكم/NNP ما/WP تخوف/VBD يا/RP طلاب/NN الله/NNP معنا/NN وحسبي/NNP الله/NNP ونعم/NN الوكيل/DTNN واانا/NNP توجيهي/NNP الحمد/NN الله/NNP ع/NN خير/NN 
+
+بكفي/NNP حرام/NN عليكم/NN اعطونا/NN موعد/NN بكفي/NNP تلعبوا/VBD فينا/NNP ما/WP ضل/VBD اعصاب/NN عند/NN الواحد/DTNN خلص/VBD طلعوهم/NN جد/NN تعبنا/VBD وقرفنا/NN واحنا/NNP نستنى/NNP 
+
+يعني/VBP نحنا/NN مقدرين/NNS جهودكم/JJ ودقتكم/JJ لكن/VBP نحنا/NN مو/NNP طالبين/VN غير/NN تحددولنا/NN موعد/NN وبس/NN .../PUNC مشان/NNP الله/NNP اعطونا/VBD موعد/NN حقيقي/JJ 
+
+طيب/NNP ليش/NNP هيك/NNP بعملو/NNP بس/NN عالقليل/NNP يعطونا/NNP موعد/NN محدد/JJ حتى/RP لو/IN متأخر/JJ .../PUNC والله/NN زودوها/NN واستنينا/NNP كتيير/NNP ليش/NNP بلعبو/NNP بأعصابنا/NNP يطلعو/VBP هالنتائج/NN خلينا/NN نخلص/VBP ويخلصو/NNP كل/NOUN مرة/NN واحد/JJ بحكي/VBP شي/NNP وبعديين/NNS يعني/VBP 
+
+كل/NOUN فترة/NN شوراع/NN اربد/NN بترجع/NN لورا/NNP ومحرومة/JJ من/IN ابسط/JJR حقوق/NN بما/NN فيها/NN الصيانة/DTNN البسيطة/DTJJ هل/RP البلدية/DTNN عاجزة/JJ عن/IN طمم/NN حفرة/NN هنا/RB او/CC هنا/RB بالاسفلت/VBD والمشكلة/NN اذا/IN بعملو/VBD صيانة/NN لحفرة/NN او/CC منهل/NN او/CC مكان/NN تمديد/NN كهربا/NN او/CC مي/NNP يا/RP اما/RP بعملو/VBD الاسفلت/DTNN بارز/JJ عن/IN مستوى/NN الشارع/DTNN او/CC هابط/NN لتحت/NN يعني/VBP هيك/NNP هيك/NNP اكلتها/NN السيارات/DTNNS لمتى/VBD يعني/VBP واخرتـــــــها/NN 
+
+الله/NNP يعينك/VBP يا/RP ابو/NNP محمد/NNP هناك/RB الاف/NN مثلك/NN مشردين/JJ .../PUNC ./PUNC ايه/NN يكفي/VBP انك/NN لا/RP تدفع/VBP مسقفات/NNS وضرائب/NNP الله/NNP يستر/VBP ما/WP يدفعون/VBP عن/IN قطعة/NN الارض/DTNN لانك/VBD ساكن/NN في/IN عمان/NNP 
+
+الله/NNP يتمملكم/VBP على/IN خير/NN وانشاالله/NN مزيد/NN من/IN التقدم/DTNN والنجاح/NN لكم/VBG معلوماتكم/NN دقيقه/NN ومواضيعكم/NN شيقهوجميله/NNP وانا/NNP بطالعها/NN دايما/JJ اول/ADJ باول/NNP موفقين/NNP يا/RP غد/NN 
+
+عادي/NN احنا/NN شعب/NN اخر/JJ همنا/VBD المصاري/DTNN .../PUNC و/CC مش/NN عارفين/NNS وين/NN بدنا/NN انبعزق/NN مصارينا/JJ ./PUNC ./PUNC حتى/RP الحكومة/DTNN عم/NN بتفكر/NN توخذ/NN عينة/NN من/IN الشعب/DTNN الاردني/DTJJ و/CC تودية/NN على/IN اليونان/DTNNP على/IN شان/NN تحل/VBP الازمة/DTNN الاقتصادية/DTJJ باوروبا/NNP 
+
+واللة/NN يا/RP عمي/NN جبتها/NN سالك/JJ على/IN شوارع/NN عمان/NNP حريقا/NN :/PUNC -RRB-/PUNC 
+
+انا/PRP شايفة/JJ انه/NN لازم/JJ نرجع/VBP للحمام/NNP الزاجل/DTJJ ارخص/JJ واحسن/JJ 
+
+والله/NN انه/VBD حرام/NN عليكم/JJ بدل/NN ما/WP تصرف/VBD علينا/NN الحكومة/DTNN احنا/NN قاعدين/NNS بنصرف/NNP عليها/NNP :/PUNC -LRB-/PUNC 
+
+العاطل/DTNN بالموضوع/NNP الرطوووووووبة/DTNNP .../PUNC والاعطل/NN من/IN هيك/NNP انه/VBD الجو/DTNN مرات/NNS بكون/NNP غباااااااار/NNP ورطوبة/NN وحرارة/JJ مع/NN بعض/NOUN .../PUNC 
+
+ههههههههه/NNP ما/WP حدا/VBD احسن/JJR من/IN حدا/NN ./PUNC ./PUNC عشان/NNP تحسو/VBP فينا/NNP احنا/NN اللي/WP في/IN الخليج/DTNNP 
+
+لييش/NNP يعني/VBP والله/NN ازهقنا/NNP هال/NNP الزي/DTNN واقرفنا/NNP حالنا/VBD في/IN خلص/VBD غيرو/NNP واتوكلو/NNP على/IN اللة/NN مش/NN صنع/NN قنبلة/NN ذرية/JJ الشغلة/DTNN 
+
+شكراااااااااا/VBD كثييييييير/NNP اخيرا/NN خلي/NN هيك/NNP احسن/JJR ولا/NN يخلو/VBP لون/NN خمري/JJ 
+
+مشان/NNP الله/NNP غيروه/NNP 
+
+الله/NNP يكون/VBP في/IN عون/NN كل/NOUN توجيهي/NNS السنه/DTNN لانهم/NNP عنجد/NNP تعذبو/NNP 
+
+يا/RP رب/NN انوا/VBD النتائج/DTNN اتكون/VBP الاسبوع/DTNN هاد/NNP يعني/VBP الخميس/DTNN او/CC الجمعه/DTNN وتطلع/NN ونكون/JJ ناجحين/JJ كلنا/VBD ونخلص/NN ونفرح/NN فرحة/NN العمر/DTNN كله/NN ونرتاح/NN .../PUNC ويا/NN رب/NN اني/JJ انا/PRP عبدالكريم/NNP انجح/JJR بالتوجيهي/NNP واجيب/NNP معدل/NN عالي/JJ وتنجح/NN هدير/NN بنت/NNP عمتي/NNP وتجيب/NNP معدل/NN عالي/JJ كمان/NN وكل/NN طلاب/NN التوجيهي/DTJJ وننال/NN يلي/VBP في/IN بالنا/NNP انا/NNP وهدير/NNP وكل/VBD طلاب/NN التوجيهي/DTJJ يا/RP رب/NN يا/RP كريم/NNP .../PUNC 
+
+بس/NN الصراحة/DTNN سنة/NN التوجيهي/DTJJ سنة/NN حلوة/JJ جدا/NN وخاصة/NN انوا/VBD بكون/NNP فيها/NNP احلى/VBD صحبة/NN واصحاب/NN العمر/DTNN عنجد/NN من/IN كل/NOUN قلبي/NN الله/NNP يجازي/VBP هيك/NNP سنة/NN لانها/NN بتعطيك/NNP احلى/VBD اشي/NN وبالمقابل/NN بتوخد/NN منك/NN احلى/JJR واجمل/NN واروع/JJ اشي/VB .../PUNC -LRB-/PUNC اخوكم/NN عبد/NNP -RRB-/PUNC 
+
+الله/NNP يعينكم/VBP ./PUNC ./PUNC فعلا/NN شي/NNP بوتر/NNP ./PUNC ./PUNC بس/NN توكلوا/VBD على/IN الله/NNP تعالى/VBD و/CC تفائلوا/VBD خيرا/NN ./PUNC ./PUNC وإن/NN شاء/VBD الله/NNP يكون/VBP وجه/NN الوزير/DTNN الرائع/DTJJ البرفسور/DTNN خالد/NNP الكركي/DTNNP وجه/VBD سعاده/NNP وفرح/NN ./PUNC ./PUNC 
+
+قديش/NN بدفع/NN انا/PRP اول/ADJ واحد/NN ببيع/NN صوتي/JJ 
+
+لو/IN حطو/VBD 8/CD دنانير/NN ضريبة/NN رح/NN تضل/NN ارخص/JJ من/IN العقبة/DTNN :/PUNC ؛/CD 
+
+شو/NNP يعني/VBP هيك/NNP بيمنعو/NNP الشعب/DTNN يطلع/VBP من/IN الأردن/DTNN ما/WP تخافو/VBP ان/IN شاء/VBD الله/NNP بيزيد/NN الأقبال/DTNN على/IN السياحة/DTNN الخارجية/DTJJ بتضل/NN احسن/JJR من/IN العقبة/DTNN اللي/WP كلها/VBD استغلال/NN بيفكروا/NNP حالهم/NNP بأرووبا/NNP .../PUNC 
+
+يعني/VBP مابكفي/NNP ارتفاع/NN درجات/NNS الحراره/DTNN وكمان/NN ضرايب/NN جديده/NN البطاقات/DTNNS الخلويه/DTJJ وضرايب/NN المغادره/DTNN 
+
+انابنسبه/VBD الي/IN اروح/NN عسوريا/NNP اوفرلي/NNP شقق/NN ارخص/JJ وأكل/JJ احسن/VBD وأرخص/NN وخضار/NN ومي/NN وجه/NN حسن/NNP 
+
+اما/RP اذابدي/NNS اروح/VBP العقبه/DTNN الشقه/DTNN ؤ/NN #/NN 1637/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC دينار/NN وأكل/NN غالي/NN ومافي/JJ مكان/NN نقعد/NN فيه/NNP كله/NNP صار/VBD للفنادق/NN وبأسعار/NN غاليه/NNP جدآ/NN وجو/NN زي/NN النار/DTNN وبقعد/NN ؤ/NN #/NN 1637/CD ;/PUNC ساعات/NNS لما/IN اصل/NN العقبه/DTNN يعني/VBP نص/NN يوم/NN راح/NN عطريق/NN اما/CC سوريا/NNP ساعتين/NNS بكون/NNP بقلب/NNP دمشق/NNP والله/NN يستر/VBP من/IN الضرايب/DTNN الجايه/DTJJ بعين/NNP الله/NNP 
+
+الحكومة/DTNN ماهمها/NN غير/NN تلم/NN مصاري/JJ من/IN الشعب/DTNN 
+
+بصراحة/NN اسوا/JJR خط/NN نقل/NN في/IN الاردن/DTNNP باصات/NNS طبربور/NNP لا/RP تغيير/NN ابدا/NN على/IN عدد/NN الباصات/DTNNS او/CC حتى/RP تحسينها/NN .../PUNC منطقة/NN كاملة/JJ ما/RP فيها/VBN الا/RP 5/CD باصات/NNS و/CC الله/NNP حرام/NN اناشد/VBP المسؤلين/DTNNS باتخاذ/NN الاجراءات/DTNNS بالنسبة/NN لباصات/NNS طبربور/NNP 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+لا/RP تحاولو/VBP هاي/NNP المرة/DTNN اللقب/DTNN للزعيم/NNP وانا/NNP بتحدى/NNP 
+
+ومسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــءــءــدات/NNS ©/JJ 
+
+روعه/NNP هاي/NNP الكلمات/DTNNS والله/NN بتجنن/NN نيال/NN الغد/DTNN يا/RP على/IN وكل/NN عام/NN وهي/CD بالف/VBD خير/NN بس/NN بدي/NN احكي/VBP مرة/NN ثانيه/NNP 
+
+وانا/VBD متوقع/NN انو/NN فريق/NN المنشيه/DTNN رح/NN يوخد/VBP الدرع/DTNN انشاء/NN الله/NNP 
+
+الواحد/DTNN بطل/NN ينزل/VBP على/IN العقبة/DTNN مش/NN لانو/NNP بيروح/NNP على/IN سوريا/NNP والضريبة/NN القيمتها/DTNN 5/CD +/NN 8/CD دنانير/NN مش/NN السبب/DTNN ./PUNC ./PUNC لكن/VBP لانو/NNP مش/NN حابب/NN الواحد/DTNN يتخالف/VBP 4/CD او/CC 5/CD مخالفات/NNS على/IN الطريق/DTNN +/NN الفنادق/DTNN اسعارها/NN خيالية/JJ يعني/VBP العروض/DTNN الخاصة/DTJJ حولين/NN العالم/DTNN افضل/JJR و/CC ارخص/JJ ./PUNC ./PUNC 
+
+انا/PRP مواطن/NN من/IN الزرقاء/DTJJ يوميا/NN عنا/VBD بالزواهرة/NN حي/NN السلام/DTNN حرق/NN الحاويات/DTNNS عشان/NN يوفروا/VBP عدد/NN نقلات/NNS السيارات/DTNNS حرق/NN الحاويات/DTNNS عنا/VBD بالحي/NNS اكثر/JJR من/IN 2سنتين/CD بعد/NN غلا/NN الديزل/DTNN وفروا/VBD واحنا/NN بنختنق/NNP 
+
+يعني/VBP التجار/DTNN مش/NN رادين/JJ لا/VBP ع/NN وزير/NN ولا/NN ع/NN شرطة/NN ولا/NN ع/NN اي/NOUN نوع/NN رقابة/NN -LRB-/PUNC عصيان/NN قانون/NN من/IN التجار/DTNN -RRB-/PUNC وفوق/NN هيك/NNP الناس/DTNN مش/NN حاسبة/NN حساب/NN لحدا/NN والألعاب/NNP النارية/DTJJ ويمكن/NN الأحرى/DTNN نسميها/NN -LRB-/PUNC متفجرات/NNS شديدة/JJ الأزعاج/DTNN -RRB-/PUNC موجودة/JJ بالأسواق/NN واكثر/NN من/IN قبل/NN قرار/NN منع/NN استيرالدها/NN وفوق/NN هيك/NNP لسه/NNP موضوع/NN اطلاق/NN الاعيرة/DTNN النارية/DTJJ موجود/NN وبكثرة/JJ ./PUNC أنا/VBD كنت/NNP ساكن/NN في/IN قرية/NN وحديثآ/NN رحلت/NN للعاصمة/NN وكنت/NN افكر/VBP انه/NN الطخ/DTNN بالقرى/VBD اكثر/JJR من/IN عمان/NNP او/CC المدن/DTNN الرئيسية/DTJJ بس/NN طلعت/VBD غلطان/NNP والعكس/NNP هو/PRP الصحيح/DTNN ./PUNC يوميا/NN اسمع/VBP صوت/NN اطلاق/NN الاعيرة/DTNN النارية/DTJJ في/IN المنطقة/DTNN التي/WP اسكن/VBP فيها/NN والتي/NNS لا/RP تبعد/VBP مئات/NNS الامتار/DTNN عن/IN المركز/DTNN الامني/DTJJ ومع/NN ذلك/DT ما/RP زالت/VBD الظاهرة/DTNN مستمرة/JJ وبازدياد/NNP مضطرد/NNP -LRB-/PUNC يا/RP جماعة/NN انا/PRP بحكي/JJ عن/IN عمان/NNP وتحديدآ/NNP صويلح/NNP واكثر/NNP تحديدآ/VBP في/IN نص/NN صويلح/NN -RRB-/PUNC ومش/NN بس/NN طخ/NN مسدس/NN لا/RP بل/CC اسلحة/NN اوتوماتيكية/JJ -LRB-/PUNC رشاش/NN -RRB-/PUNC اللي/WP الكل/NOUN بعرف/NN انه/NN ممنوع/JJ اقتنائة/JJ او/CC حمله/NN وتصل/NN محاكمته/NN حد/NN علمي/JJ امام/NN محكمة/NN أمن/NN الدوله/DTNN ومع/NN هيك/NNP لا/RP حياة/NN لمن/NN تنادي/VBP _/PUNC سارحة/NN والرب/NN راعيها/NN _/PUNC لأيمتى/NNP هالموال/NNP ؟/CD 
+
+ومتى/VBD سيصدع/NN المواطن/DTNN لأمر/NN القانون/DTNN ومتى/NN رح/NN نمون/VBP عالتجار/NN الحيتان/DTNN ؟/VBD ؟/NN ؟/NN ؟/CD 
+
+بالمختصر/VBD احنا/NN بدنا/NN عنب/NN ما/IN بدنا/NN نقاتل/VBP الناطور/DTNNP .../PUNC يعني/VBP فيه/NN قانون/NN والقانون/NNP يجب/VBP -LRB-/PUNC يجب/VBP -/PUNC يجب/VBP -/PUNC يجب/VBP -RRB-/PUNC أن/NN يحترم/VBP وان/NNP يفعل/VBP والا/NN لا/RP جدوى/NN من/IN وجوده/NN ولا/NN جدوى/NN لوجود/NN حراس/NN القانون/DTNN ومنفذيه/NNP 
+
+عالاقل/VBD هيك/NNP قانون/NN للمصلحة/NN العامه/DTNN وهو/NN اولى/ADJ بأن/NN ينفذ/VBP والباقي/NNS عندكوا/NNP .../PUNC .../PUNC ./PUNC ز/NN 
+
+الحمد/NN لله/NN رب/NN العالمين/DTNNS واخيرا/NN رح/NN يعلنوها/VBP للنتائج/NN اي/NOUN والله/NN انحرقت/VBD اعصابنا/NN واحنا/NN بنستنى/NNP بكفي/NNP 
+
+الله/NNP يوفئكم/VBP بالنجاح/NN وبمعدل/NN عالي/JJ ويا/VBD طلاب/NN ماتخافوا/NNP ان/IN شاء/VBD الله/NNP معنا/NN 
+
+تحيه/VBP طيبه/NN وبعد/NN ./PUNC ./PUNC اتمنى/VBP للجميع/NN التوفيق/DTNN بهذه/NN الامتحانات/DTNNS ./PUNC و/CC اتمنى/VBP على/IN وزارة/NN التربيه/DTNN ان/IN تسترد/VBP شيئاً/NN من/IN ثقتها/NN المستنفذه/DTNN فكيف/NNP للأردن/NNP المتحضر/DTJJ و/CC التكنولوجي/DTJJ ان/IN يخطيء/VBP بنتائج/NNP التوجيهي/DTJJ و/CC يعتذروا/VBP بأعذار/NNP واهيه/NNP ./PUNC ./PUNC و/CC حقيقة/NN الامر/DTNN ان/IN واسطات/NNS التعين/DTNNS لها/NN الدور/DTNN الاساسي/DTJJ و/CC مسؤولينا/NN مع/NN الاسف/DTNN غير/NN مسؤولين/NNS ./PUNC ./PUNC فمهما/NN كانت/VBD اخطاؤهم/JJ هي/PRP ترمى/VBN على/IN كاهل/NN ./PUNC ./PUNC الموظفين/DTNNS الصغار/DTJJ ./PUNC ./PUNC -/PUNC الناس/DTNN طلعت/VBD على/IN القمر/DTNN و/CC احنا/NN نتائج/NN مو/NNP عارفين/NNP ننشرها/NNP -/PUNC ./PUNC ./PUNC 
+
+يعني/VBP جد/NN وزارة/NN التربيةوالتعليم/DTNN مملللة/NN ./PUNC لو/IN قرار/NN عاطل/JJ كان/VBD صاروا/VBD منفذينوا/NN بس/NN لانه/NNP شي/NNP منيح/NNP بدل/NN هل/RP زي/NN المقرف/DTNN اللي/WP بلبسوا/VBD لطلاب/NN المدارس/DTNN الحكومية/DTJJ الذي/WP ينم/VBP عن/IN قلة/NN زوق/NNP مقارنه/NNP مع/NN الدول/DTNN المجاورة/DTJJ على/IN الاقل/DTJJR مش/NN مقارنه/NN مع/NN الدول/DTNN الاجنبية/DTJJ 
+
+حرام/NN كل/NOUN اسبوع/NN بحي/NN الاسكان/DTNN بقطعوا/NNP المي/DTNNP 3/CD ايام/NN والاربعاء/NN بتيجي/JJ والله/NN حرام/NN 
+
+مشان/NNP الله/NNP حدى/VBD يجي/VBP يشوف/NN الطرة/DTNN ،/VBD يشوف/VBP الشوارع/DTNN والحفر/NN ولكم/NN ساحة/NN بيت/NN رئيس/NN البلدية/DTNN مزفت/NNP أحسن/NNP من/IN كل/NOUN شوارع/NN سهل/NN حوران/NNP ./PUNC 
+
+تأخير/VBP التوجيهي/DTJJ الى/IN هذه/DT الدرجه/DTNN فيه/NNP خطأكبير/NNP رمضان/NNP قادم/JJ والناس/NN من/IN الحر/DTNN مش/NN عارفين/JJ يحكو/VBP ./PUNC ./PUNC كنت/VBD الان/DTNN في/IN المستشفى/DTNN -LRB-/PUNC مش/NN رمضان/NNP -RRB-/PUNC والجميع/NNP معصب/NNP -LRB-/PUNC شوب/NNP -RRB-/PUNC كيف/WRB بدنا/NN نتابع/VBP معاملاتنا/NN في/IN هذه/DT الظروف/DTNN 
+
+بصراحة/NN مافي/JJ غير/NN خدمة/NN سم/NN البدن/DTNN وقلة/NN القيمة/DTNN وبدكم/NN عليها/NN ضريبة/NN 
+
+قعدنا/VBD بالحدود/NNP 5/CD ساعات/NNS بس/NN عشان/NN نختم/VBP والطريق/NN كلها/NN ما/IN اخدت/VBD ساعتين/NNS يلا/NN مادام/JJ في/IN دفيعة/NN زيدو/NNP الضرايب/DTNN 
+
+والله/NN الشام/DTNNP خربت/VBD من/IN يوم/NN ما/WP لغو/VBD الضريبة/DTNN 
+
+يعني/VBP بعدين/NNP كل/NOUN شوي/NNP ضرائب/NN و/CC ما/WP بعرف/VBD شو/NNP .../PUNC الحمد/NN لله/NN أني/NN مو/NNP عايش/NNP بالاردن/NNP :/PUNC -RRB-/PUNC :/PUNC -RRB-/PUNC طيب/NNP شو/NNP راح/NN تستفيدو/VBP من/IN هاي/NN الخدمات/DTNNS ارحمونا/NNP 
+
+انته/VBD احكي/VBP قدما/NN بدك/NN تحكي/VBP الكهرباء/DTNN قاطعه/NN مافي/JJ حد/NN راح/NN يرد/VBP عليك/NN بس/NN اذا/IN قصرة/NNP بدفع/VBD فاتورة/NN الكهربا/DTNN اكيد/JJ بتلاقي/NN كل/NOUN الشركه/DTNN عندك/NNP !/PUNC 
+
+وزارات/NNS وحكومات/NNS لا/RP تفكر/VBP الا/RP بالجبايه/NN من/IN المواطن/DTNN للعلم/NNP انا/NNP بصرف/NNP على/IN الوزراء/DTNN انا/PRP وانتو/NNP ومع/NN هيك/NNP برجعو/NNP بحطو/NNP حلول/NN لاي/NNP مشكله/NNP بتواجههم/NNP من/IN جيوبنا/NNP 
+
+الاردن/DTNNP رح/VBD يضل/VBP اولا/ADJ وماحد/NN راح/NN يقدر/VBP عليه/NN لا/RP يهودي/NN ولا/NN عربي/JJ والاردن/JJ قوة/NN وعزيمه/NN والله/NN يحميكي/VBP يا/RP بلدي/NNS وضلي/JJ اولا/ADJ دائما/NN وابدا/NN والله/NN يرحم/VBP الشب/DTNN ويجعل/NN مثواه/NN الجنه/DTNN ويصبر/NNP اهله/NNP وامه/NNP يارب/NNP ./PUNC ./PUNC الله/NNP ياخدهم/VBP بس/NN يا/RP حسرتي/JJ على/IN الشب/DTNN راح/NN بعز/NN شبابوالله/NN يرحمو/VBP .../PUNC والاررررررررررررررررردن/NNP اوووووووووووووووووولا/NNP 
+
+الاردن/DTNNP اردنا/VBD ابو/NNP حسين/NNP قايدنا/NNP 
+
+انشاللة/NN بضل/NNP ابو/NNP حسين/NNP على/IN راسنا/NN من/IN فوق/NN ويضل/NN عالم/NN اردني/JJ مرفوع/JJ في/IN عالي/JJ انشاللة/NN 
+
+حسبي/NNP الله/NNP ونعمل/NN الوكيل/DTNN الله/NNP ينتقم/VBP من/IN كل/NOUN واحد/NN بتمنا/NN الشر/DTNN لللأردن/NNP 
+
+ولله/NN دمرو/NN السياحة/DTNN شو/NNP بدهم/NNP يحكو/VBP السياح/DTNN الي/IN في/IN العقبة/DTNN لا/RP حول/NN ولاقوة/NN الا/RP با/NNP الله/NNP 
+
+الله/NNP يشافي/VBP المصابين/DTNNS ويكون/NNP معهم/NNP لانه/NNP اجت/VBD هالشغله/NNP على/IN غير/NN الوارد/DTNN لاننا/VBD وحاب/NN نعرف/VBP شو/NNP رد/NN فعل/NN حكومتنا/JJ على/IN هيك/NNP شغله/NNP وبتمنى/NNP للمصابين/NNP كل/NOUN الشفاء/DTNN العاجل/DTJJ من/IN قلبي/NNS وبحب/JJ اسال/VBP هل/RP المصابين/DTJJ من/IN الامن/DTNN العام/DTJJ ولا/NN من/IN الشارع/DTNN العام/DTJJ .../PUNC حفظ/NN الله/NNP اردننا/VBD الغالي/DTNN .../PUNC 
+
+أنا/VBD بستنا/NN أشوف/NN شو/NNP ردة/NN فعل/NN حكومتناالرشيدة/JJ على/IN هيك/NNP موضوع/NN ./PUNC 
+
+ماشي/NNP صاروخ/NN بالغلط/JJ بتحكوا/VBD ،/NN أكيد/NN بالغلط/JJ ؟/VBD ؟/NN ؟/NN نزل/VBD بالغلط/NNP شو/NNP إجراءات/NNS حكومتنا/JJ على/IN هيك/NNP موضوع/NN ؟/NN ؟/CD 
+
+شو/NNP هالخبر/NNP عل/NN الصبح/DTNN و/CC مين/NN اللي/WP عمل/VBD هيك/NNP !!/NN طمنونا/NNP يا/RP عالم/NN و/CC الله/NNP إنسم/VBD بدنا/NN في/IN الغربة/DTNN لا/RP حول/NN و/CC لا/RP قوة/NN إلا/NN بالله/NNP !!!!/NNP 
+
+طبعا/NN اكيد/JJ نتمنى/VBP السلامة/DTNN للجميع/DTJJ و/CC خصوصا/NN انو/VBD خطيبتي/NNS بالعقبة/JJ !!!/VBD 
+
+الله/NNP يستر/VBP .../PUNC شو/NNP هالقصة/NNP 
+
+لهيك/VBD ما/WP بنحكي/VBD غير/NN حسبي/NNP الله/NNP ونعم/NN الوكيل/DTNN 
+
+العالم/DTNN بتحكي/JJ صباح/NN الخير/DTNN و/CC أهل/NN العقبة/DTNN بحكو/NNP صباح/NN الصواريخ/DTNN !!/NN لا/RP حول/NN و/CC لا/RP قوة/NN إلا/NN بالله/NNP ./PUNC 
+
+يعني/VBP ليش/NNP مستغرب/NN ؟/NN ألا/NN يعتبر/VBP الأردن/DTNN عدوا/NN لها/NN ؟/NN فالأردنيون/JJ الذي/WP يعتبرونها/VBP صديقة/JJ ـ/NN وهم/NN قلة/NN مارقة/JJ والحمد/JJ لله/NN ./PUNC 
+
+كل/NOUN اردنيوا/VBD الانتماء/DTNN و/CC هاشميو/NNP الولاء/DTNN ما/WP في/IN فرق/NN بين/NN شمال/NN و/CC جنوب/NN كل/NOUN و/CC احد/NN و/CC انا/PRP عني/JJ بتمنى/NN انه/NN رقعة/NN الدوري/DTNN تخرج/VBP من/IN عمان/NNP و/CC اربد/NNP و/CC تصير/VBP موزعه/NNP على/IN كل/NOUN انحاء/NN الاردن/DTNNP يعني/VBP ايصير/NNP دوراي/NNP ادندية/JJ من/IN جديع/NN نحافظات/NNS اللمملكة/DTNN بهتقد/NNP هيك/NNP بصير/NNP دوري/NN جماهيري/JJ م/IN ش/NN زي/NN ما/IN بشوف/NN انه/VBD في/IN اندية/NN ما/WP في/IN الها/NN جماهير/NN 
+
+بس/NN انا/PRP بشوف/NN انه/NN دوري/NN اذا/IN كان/VBD في/IN نادي/NN من/IN العقبة/DTNN و/CC اخر/NN من/IN معان/NNP و/CC الطفيلة/DTNN و/CC اريد/VBP وو/NNP المفرق/DTNN .../PUNC الخ/NN بصير/NN دوري/NN اله/NN طعمه/NNP 
+
+موضوع/NN حكينا/NN فيه/NNP كثير/NN و/CC الاخضر/DTNN الان/DTNN متزعم/JJ و/CC متربع/JJ على/IN عرش/NN الكرة/DTNN الاردنية/DTJJ 
+
+ان/VBP شاء/VBD الله/NNP الاسابيع/DTNN هاي/NNP كلها/NNP احتفالات/NNS وتتويجات/NNS للوحداااات/DTNNS الكبير/DTJJ والملاعب/NN ستكشف/NN هذا/DT 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+نعن/VBD ايها/RP الاخوه/DTNN بدايه/NN البطولات/DTNNS درعاويه/NNP وحداتييه/NNP 
+
+الوحدات/DTNNS بطل/NN الدرع/DTNN يا/RP نيالي/VBP انا/PRP وحداتي/JJ 
+
+هذا/DT الخبر/DTNN المفرح/DTJJ اخيرا/NN جبنا/VBD لاعب/NN زي/NN العالم/DTNN والناس/NNP جونيورز/NNP اسطورة/NN الزعيم/DTNN الجديد/DTJJ ان/IN شاء/VBD الله/NNP كل/NOUN البطولات/DTNNS الاردنية/DTJJ للزعيم/NNP -LRB-/PUNC الاردني/DTJJ -RRB-/PUNC 
+
+مش/NN عارف/NNP شو/NNP احكي/VBP عن/IN جد/NN برفعوا/NNP الراسس/DTNNP ماشالله/NNP من/IN المعسسكر/DTNN التدريبي/DTJJ في/IN الصين/DTNNP لهلا/NN ولا/NN خسسساره/NN احلى/JJR نشامى/NN والله/NN منتخب/NN يرفع/VBP الراس/DTNN لازم/JJ كل/NOUN الدعم/DTNN من/IN كل/NOUN الاردن/DTNNP وشعبها/NN لهيك/NN منتخب/NN بطل/NN بمعنى/NNP الكلمه/DTNNP ياريت/NNP منتخب/NN الكره/DTNN يصير/VBP متلله/NN ويغاروا/NNP شوي/NNP من/IN هيك/NNP انجازات/NNS مشرفه/JJ 
+
+يا/RP جماعة/NN بدنا/NN الملعب/DTNN يوم/NN الجمعه/DTNN فل/NNP و/CC الزفه/DTNN بعد/NN المباراة/DTNN مبروك/NN للزعييييييم/NNP 
+
+لا/RP حدا/NN يقول/VBP خشبة/NN ولا/NN حدا/NN يقول/VBP تركناها/NN ./PUNC ./PUNC الدرع/DTNN أخضــر/NNP وعالمصـــــــدار/NNP بإذن/NNP الله/NNP و/CC أول/VBD الغيث/DTNN قطرة/NN ./PUNC 
+
+مين/NN ما/IN شاف/JJ الوحدات/DTNNS ./PUNC ./PUNC مين/NN ما/WP خاف/VBD الوحدات/DTNNS ./PUNC ./PUNC مين/NN ما/WP استمتع/VBD بالوحدات/NNS 
+
+يا/RP اخوان/NN مش/NN قلنالكم/NN الدرع/DTNN للزعيم/NNP الجديد/DTJJ للكرة/NN الاردنية/DTNN لا/RP اتعبوا/VBP حالكم/NN وقلنالكم/NN ما/WP في/IN غير/NN الوحدات/DTNNS القطب/DTNN الوحيد/DTJJ للكرة/NN الاردنية/DTNN ما/WP صدقتوا/VBD ومرة/NN ثانية/ADJ مبروك/JJ الدرع/DTNN يا/RP زعيم/NN وهنيئيا/JJ لبلدك/VBD وجمهورك/NNP بك/NNP يا/RP اخضر/JJ يا/RP رافع/VBD راسنا/NN وشكرا/NN شكرا/NN شكرا/NN اللي/WP ما/WP بتمر/VBD سنة/NN الا/RP وتحصد/NN اما/CC جميع/NOUN البطولات/DTNNS او/CC بعضها/NN لكن/VBP المهم/DTNN ان/IN الاربع/DTNN بطولات/NNS لا/RP تفارقك/VBP وشكرا/NN يا/RP بطل/NN 
+
+الحياه/DTNN في/IN عمان/NNP يوم/NN الجمعه/DTNN رايحه/NNP تختلف/VBP عن/IN كل/NOUN جمعه/NNP سيارات/NNS جماهيير/NN غناء/NN احتفالات/NNS في/IN كل/NOUN مكان/NN 
+
+بنقول/NNP الف/CD مليون/NN مبروك/NN للقلعة/NN الخضراء/DTNN اللعب/DTNN الجميل/NNP والفوز/NNP على/IN شقيقه/NN الرمثا/DTNNP والف/NN تحية/NN لحارس/NN مرمى/NN نادي/NN الرمثا/DTNNP الرائع/DTJJ وبصراحة/NN كتير/NN عجبني/JJ وبتمنى/JJ انو/VBD ينضم/VBP للمنتخب/NN ,/PUNC وبصراحة/NN الي/IN تعليق/NN على/IN القلعة/DTNN الخضراء/DTJJ يا/RP ريت/NNP الجهاز/DTNN التدريبي/DTJJ ينتبه/VBP انو/NN الوحدات/DTNNS بحاجة/NN الى/IN هداف/NN قناص/NN وبحاجة/JJ الى/IN مدافع/NN قشاش/NN وهيك/NNP بكون/NNP الفريق/DTNN مكتمل/NN الخطوط/DTNN لانو/NNP بصراحة/NNP القلعة/DTNN الخضراء/DTJJ بيفتقد/NNP لهدول/NNP اللاعبين/DTNNS ./PUNC وان/NNP شاء/VBD الله/NNP الدرع/DTNN اخضر/JJ وسنة/NN خضراء/JJ وتحياتي/JJ الى/IN كل/NOUN وحداتي/NNS 
+
+يا/RP جماعه/NN ليش/NNP مستعجلين/VN على/IN الزلمه/DTNN .../PUNC والله/NN حرام/NN عليكم/NN هيك/NNP .../PUNC كنتو/NNP ستنيتو/NNP شوي/NNP حتى/IN يكملهم/VBP لل100/NN .../PUNC والله/NN غلبتو/NNP حالكم/NNP و/CC حمدالله/NNP على/IN السلامه/DTNN ./PUNC 
+
+قلبي/NNP معاك/NNP ودااعيلك/NNP الله/NNP يقومك/VBP بالسلامة/NN يااروحي/NNP 
+
+يعني/VBP اذا/IN الي/IN اطلق/VBD الصاروخ/DTNN و/CC كان/VBD يقصد/VBP اسرائيل/NNP بحب/NN اطمنه/NN انو/NN ما/IN صابهم/NN اشي/JJ و/CC الي/IN بدو/NN يحارب/VBP اسرئيل/NN يخاربها/NN بس/NN مش/NN عحسابنا/NN بطلق/NN صاروخ/NN مش/NN عارف/NNP يةجه/NNP الله/NNP لا/RP يسامح/VBP جميع/NOUN من/IN اشترك/NN بالعمليه/NNP هاي/NNP 
+
+وعلى/VBD شو/NNP ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN اللي/WP بدو/NN ينتخب/VBP ينتخب/VBP واللي/NN ما/IN بده/NN عمرينه/NNP 
+
+ليش/NNP بدهم/NNP يعرضو/VBP جدول/NN الناخبين/DTNNS 
+
+يعني/VBP على/IN شو/NNP يعترضو/VBP ؟/NN ؟/NN ؟/CD 
+
+موجة/NN الحر/DTNN اعلنو/VBD عنها/NN الو/NNP ما/WP بدت/VBD راح/NN تنتهى/VBP الاربعاء/DTNN بعدين/NNP قالو/NNP الخميس/DTNN واليوم/NNP بيقولو/NNP الجمعة/DTNN خايف/NN كل/NOUN يوم/NN يزيدو/VBP شوي/NNP ويخلص/NNP رمضان/NNP ومسلسل/NN باب/NN الحراره/DTNN ما/WP خلص/VBD !!/NN 
+
+عنجد/VBD هاي/NNP صدمة/NN عاطفية/JJ ولازم/JJ تتسجل/VBP في/IN التاريخ/DTNN 
+
+المفروض/DTNN الاتحاد/DTNN يعمل/VBP المباراة/DTNN في/IN القويسمة/DTNN لانها/NN في/IN العاصمة/DTNN والشغلة/NN منطقية/JJ 
+
+والفاضي/NNP بعمل/NNP قاضي/NNP 
+
+اللي/WP محروم/JJ من/IN الفوز/DTNN على/IN شباب/NN الاردن/DTNNP من/IN 6/CD سنين/NNS هو/PRP المسكين/DTNNS 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+كمل/NNP معروفك/NNP و/CC اكتبلنا/NNP مين/NNP الاداري/DTJJ اللي/WP حكى/VBD هذا/DT الكلام/DTNN ,/PUNC 
+
+واللي/NNP كانوا/VBD بدهم/NN يحققوا/VBP كل/NOUN البطولات/DTNNS يقعدوا/VBP يتحلوا/VBP كنافه/NN على/IN حسابي/NNS من/IN عند/NN السهل/DTNN الاخضر/DTJJ ويقعدوا/VBD على/IN الطاولات/DTNNS 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+تحييه/VBP وحداتييه/NNP الى/IN جميع/NOUN الجماهيير/DTNN الاردنييه/DTJJR ويا/NN اخوان/NN الدرع/DTNN خلص/VBD والجمعه/NN النهائي/DTNN وسلم/NN سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+ههه/VBD معاك/NN حق/NN من/IN الطبيعي/DTNN تركض/VBP من/IN الفرح/DTNN اي/NOUN واحد/NN بفوز/JJ على/IN الزعيم/DTNN هيك/NNP بعمل/NNP 
+
+ولا/VBD بدي/NN أشرب/NN كاسة/NN الشاي/DTNNP كمان/NN ./PUNC منيح/NN هيك/NNP ؟/NNP ؟/CD 
+
+ياخساره/VBP عجوك/NNP ياعماااااااااااااااااااااان/NNP 
+
+والله/NN العظيم/DTNNP صرت/VBD افكر/VBP بالانتحار/NN و/CC مش/NN قادر/JJ اتحمل/VBP اكثر/NOUN من/IN هيك/NNP لانه/NNP انا/PRP عندي/JJ ظروف/NN خاصه/NN ولا/NN اخرج/VBD من/IN البيت/DTNN ابدا/NN وكل/NN ما/WP قطعت/VBD الكهرباء/DTNN تصيبني/VBP نوبات/NNS اختناق/JJ ./PUNC ./PUNC 
+
+مش/NN عارف/NNP شو/NNP اعمل/VBD بهيك/NNP عيشة/NN ما/WP فيها/VBD مي/NNP ولا/NN كهرباء/NN والله/NNP العظيم/DTJJ الموت/DTNN اشرف/NNP من/IN هيك/NNP ذل/NN ./PUNC 
+
+ما/WP فهمنا/VBD شو/NNP العلاقه/DTNN بين/NN نفوق/NN التوائم/DTNN التلات/DTJJ مع/NN وقوف/NN تحرك/NN القطعه/DTNN اللحميه/DTJJ .../PUNC ؟/VBD ؟/NN ؟/NN ؟/NN يعني/VBP أكيد/NN في/IN سبب/NN علمي/JJ مقنع/JJ .../PUNC ؟/VBD ؟/NN ؟/JJ و/CC كيف/WRB كانت/VBD تتحرك/VBP هاي/NNP القطعه/DTNNP 
+
+يا/RP رورو/NNP االنتائج/NN بتوصل/NN المدرسة/DTNN على/IN ال/DT 8/CD بس/NN قبل/NN الساعة/DTNN 11/CD ما/WP بتاخديها/NN 
+
+متا/VBD نتائجنااااا/NN ؟/NN ؟/NN ؟/VBD مشان/NNP الله/NNP الساعة/DTNN 8/CD ولا/NN على/IN 11/CD .../PUNC جاوبونيييي/NNP والله/NNP على/IN نااااااار/NNP 
+
+مني/VBN ومنكم/NN باجلها/NN لنتائج/NNP طلاب/NN السنة/DTNN الجاي/DTJJ .../PUNC والله/NNP حلو/NNP مع/NN بعض/NOUN بكونو/NNP 
+
+وين/NN الدليل/DTNN انها/NN انتحرت/VBD ؟/NN ؟/NN بلكي/NNP حدا/NN قتلها/NN ؟/NN ؟/CD 
+
+بتلاقي/NN الواحد/DTNN راكب/VBD سيفيا/NNP ومش/NN مخلي/JJ شغلة/JJ بالشارع/JJ الا/RP حاطها/NN فيها/NN طبعا/NN اهم/JJR شي/NNP شعار/NN الثور/DTNN ابو/NNP قرون/NN 
+
+هذا/DT اصلا/NN غير/NN انو/NN ممنوع/JJ هذا/DT الحكي/DTNN من/IN الشرطة/DTNN 
+
+اللي/WP بعمل/VBD هيك/NNP حركات/NNS بكون/NN عندو/NNP نقص/NN عاطفي/JJ ونقص/JJ في/IN شخصيته/NN ومفكر/NN ما/WP حدا/VBD معو/NN سياره/NN غيرو/NNP .../PUNC مع/NN العلم/DTNN انو/VBD السياره/DTNN اللي/WP معو/VBD اولها/NN 100/CD واخرها/NN 100/CD وغير/NN هيك/NNP بتلاقي/NNP بلفلف/NNP بشوارع/NNP بعز/NNP الحر/DTJJ وفاتح/NN الشبابيك/DTNN ورافع/NN صوت/NN المسجل/DTNN على/IN الاخر/DTNN وحاط/NNP تامر/NNP حسني/NNP او/CC مصطفى/NNP قمر/NN ومش/NN فاهم/NNP شي/NNP من/IN الاغاني/DTNN الهابطه/DTJJ اللي/WP حاطها/JJ ./PUNC ./PUNC بس/NN شوفيني/NNP يا/RP جارتنا/NNP .../PUNC -LRB-/PUNC يعني/VBP انو/NN هوه/NNP كلاس/NNP وطنط/NN -RRB-/PUNC يرحم/VBP جدك/NNP مات/NNP من/IN الصدا/DTNN 
+
+نفسي/VBP أفهم/NN كيف/WRB محطة/NN بتشتغل/NN 24/CD ساعة/NN وبتخسر/NN ؟/NN ولما/NN تتخصخص/VBP بتصير/NN تربح/VBP ؟/NN !!/NN ما/IN بصير/NN الحكومة/DTNN تبيع/VBP أي/NN إشي/NN إلا/NN إذا/NN وافقت/VBD أغلبية/NN الشعب/DTNN ،/VBD هذه/DT أملاك/NN عامة/JJ ./PUNC ./PUNC انا/PRP من/IN الآن/DTNN مش/NN موافقة/NN 
+
+خصخصني/NNP شوي/NNP شوية/JJ .../PUNC خصخصني/JJ وخذ/NN مصاريي/NNS 
+
+لانو/NNP املكو/NNP هذا/DT الموسم/DTNN بس/NN ببطولة/NN الدرع/DTNN وبس/NNP 
+
+وبغير/NN هيك/NNP لا/RP تحلمو/VBP ./PUNC ./PUNC هذا/DT اذا/IN اخذتو/VBD الدرع/DTNN حتى/IN 
+
+انا/PRP بقترح/NN انوا/VBD يحطوا/VBP للكاتب/NN عبد/NNP المنعم/DTNNP سمور/NNP زاويه/NNP في/IN صحيفة/NN الغد/DTNN .../PUNC 
+
+نعم/UH .../PUNC أنا/VBD وحداتي/NNS ./PUNC ./PUNC ويا/VBD نيالي/NNP .../PUNC وألدرع/NNP أخضر/NNP .../PUNC والسوبر/NNP وحداتي/NNP .../PUNC إنشاء/NN ألله/NN .../PUNC وينك/NNP يا/RP ألشاطر/NNP حسن/NNP .../PUNC وينك/NNP يا/RP محارمه/NNP .../PUNC ألدوري/NNP أخضر/NNP .../PUNC بلا/NNP نزاع/NN .../PUNC 
+
+1-الدرع/CD وحداتي/NNS أخضر/JJ ./PUNC ./PUNC والحلوان/NNP راح/VBD يكون/VBP كنافة/NN نابلسية/JJ 
+
+ومسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+اللاعب/DTNN هرب/VBD ولساتنا/NN بالدرع/NNP شو/NNP بتجيبوه/NNP نصابيين/NNS ولا/NN لعيبة/NN 
+
+وكان/NN تصريحات/NNS ورده/NN فعل/NN الوحدات/DTNNS اداره/NNP ولاعبيين/NNP وجمهور/NNP بأن/NNP ملعب/NN الزرقاء/DTNNP ملعب/NN جميل/NNP وسيتحول/NNP الى/IN اخضر/JJ ومدينه/NN الزرقاء/DTNNP ستتحول/NNP الى/IN خضراء/JJ في/IN سهره/NNP رمضانييه/NNP حلوه/NNP بين/NN الاشقاء/DTNN الوحداتييه/DTJJ والفيصلاوييه/NNP 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+ما/WP ضل/VBD غير/NN هيك/NN نطالب/VBP بلاعب/NN من/IN نادي/NN معين/NNP مو/NNP عشان/NNP سواد/NN عيون/NN المنتخب/DTNN لا/RP والله/NN بكفي/JJ يا/RP .../PUNC والله/NN علني/JJ هيك/VBD مو/NNP حلوه/NNP 
+
+يارئيس/NNP البلديه/DTNNP انتا/VBD قاعد/NN بتهدر/NN اموال/NN الناس/DTNN على/IN الارصفه/DTNN وهي/NNP ليست/VBD بحاجه/NN الى/IN تغيير/NN وخصوصا/NN الجزيره/DTNN الوسطيه/DTJJ اللي/WP على/IN طريق/NN صالة/NN الشرق/DTNN الى/IN حواره/NNP انا/PRP مابدي/JJ ادفع/VBP ضريبه/NN علشان/NN نزبط/VBP رصيف/NN مابدو/NNP تغيير/NN .../PUNC الاسراف/DTNN حرام/NN 
+
+ميشان/NNP اللة/NN مافي/JJ وظائف/NN بديوان/NN الخدمة/DTNN المدنية/DTJJ وما/NN في/IN نشر/NN قوائم/NN 
+
+ممكن/JJ تفوزو/VBP على/IN الجزيره/DTNN اما/CC على/IN الفيصلي/DTNNP جد/NN بتحلمو/NNP وانتو/NNP صاحيين/NNS الجمعه/DTNN قادم/JJ وسنريكم/JJ 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+الوحدات/DTNNS جاهز/JJ فنيا/JJ بدنيا/JJ تكتيكيا/JJ جمهوريا/JJ ملعب/NN النار/DTNN والانتصار/NNP غدا/NN نار/NN وحريقه/NN الجماهيير/DTNN تواقه/NN لحصد/NN الدرع/DTNN لتكون/NNP فاتحه/NNP الموسم/DTNN وحداتييه/NNP لتكون/NNP الافراح/DTNN وحداتييه/NN ونهتف/NN بصوت/NN عال/JJ وصريح/JJ 
+
+سلم/VBD سلامات/NNS فش/NN احلى/JJR من/IN الوحدات/DTNNS 
+
+والله/NN العنوان/DTNN هو/PRP اللي/WP جذبني/VBP لحتى/NN اقرا/VBP الموضوع/DTNN بالاكمل/NNP والموضوع/NNP عن/IN جد/NN كان/VBD معبر/NN ومفيد/NN وممتع/NN بنفس/NN الوقت/DTNN جزاك/NNP الله/NNP خيرا/NN يا/RP استاذ/NN جلال/NNP الخوالدة/DTNN 
+
+كلامك/NN صحيح/JJ اخ/NN جلال/NNP تخيل/NN اليوم/DTNN على/IN الفيس/NNP بوك/NNP كل/NOUN االاردنيين/NNS بيحكوا/NNP عن/IN الشووب/DTNN وإنها/NN مولعه/NN مش/NN غلط/NN وكل/NN واحد/JJ حر/JJ بس/NN يعني/VBP اذا/IN واحد/CD بفكر/NN يزور/VBP الاردن/DTNNP ببطل/NNP .../PUNC صح/VBD 
+
+الله/NNP يديمكم/VBP فخر/NN للأردن/NNP يا/RP قوات/NNS الأمن/DTNN وأنا/VBD متابع/NN للكثير/NN من/IN القضايا/DTNN التي/WP تنشرها/VBP الجرائد/DTNN وأعانكم/NNP الله/NNP ./PUNC 
+
+صباح/NN الخير/DTNN للجميع/DTJJ الصراحه/DTJJ خبر/NN بفتح/NN النفس/DTNN عالصبح/NNP هيك/NNP الواحد/DTNN بحس/NNP حالو/NNP بالاردن/NNP بلد/NN الامان/DTNN والله/NN يقوي/VBP احهزه/NN الامن/DTNN وترجع/NN علاقتهم/NNP طيبه/NNP بالمواطنين/NNP على/IN اساس/NN الرئيسي/DTJJ وهو/NNP احترامنا/NNP كمواطنين/NNP 
+
+مشان/NNP الله/NNP طولتوا/VBD علينا/NN كتير/NN احنا/NN على/IN اعصابنا/NN مشان/NNP الله/NNP ريحونا/NNP وطلوا/VBD العلامات/DTNNS 
+
+احلى/VBD شي/NNP بالدنيا/NNP النجاح/DTNN وخاصة/NN فرحة/NN الشب/DTNN او/CC البنت/DTNN بنتائجو/NNP بالتوجيهي/NNP لانو/NNP برايي/NNP انو/NNP التوجيهي/DTJJ بيكون/NNP الطالب/DTNN بحرب/NN نفسية/JJ كبيرة/JJ بس/NN بالجامعة/NN ما/WP بكون/VBD الضغط/DTNN كتير/NN على/IN الواحد/DTNN وبدعي/NNS لكل/VBD طالب/NN درس/NN انو/NN ينجح/VBP وانا/NN كمان/NN وانشالله/NNP بتفرحو/NNP وبتفرحو/NNP اهلكم/NNP يا/RP رب/NN اخوكم/NN محمد/NNP 
+
+النتائج/DTNN عالموقع/VBD عل/NN ساعة/NN 8:00/CD ؟/NN ؟/NN ؟/CD 
+
+على/IN الانترنت/DTNNP أي/VB ساعة/NN ؟/NN ؟/NN ؟/NN عالثامنة/JJ كمان/NN ؟/NN ؟/NN ؟/NN ؟/NN !!!!/JJ 
+
+-LRB-/PUNC يا/RP ربي/NNP شو/NNP هاد/NNP عنجد/NNP حرام/NN -RRB-/PUNC ./PUNC ./PUNC للأسف/NN عتلك/NN العباره/DTNN التي/WP تحمل/VBP معاني/NN الإعتراض/DTNN على/IN القدر/DTNN و/CC إرادة/NN الله/NNP عزوجل/NNP ./PUNC ./PUNC و/CC تطلق/VBP حكما/NN بالتحريم/NNP عشيء/NN من/IN سنن/NN الحياه/DTNN الكونيه/DTJJ ./PUNC ./PUNC جميعنا/VBD متضايقين/NNS ولكن/JJ لن/RP نستطيع/VBP تغير/NN الجو/DTNN ولا/NN القدر/DTNN ./PUNC ./PUNC ونقول/NN الحمدلله/DTNN على/IN كل/NOUN شيء/NN ولنصبر/JJ ./PUNC ./PUNC وندعو/NNP الله/NNP العون/DTNN والتيسير/NNP ./PUNC ./PUNC 
+
+يا/RP ربي/NNP شو/NNP هاد/NNP عنجاد/NNP حرام/NN احنا/NN ما/IN عنا/VBD مروحة/NN و/CC لا/RP مكيف/JJ و/CC كل/NOUN يوم/NN بنصحى/VBD عرقانين/NNS كل/NOUN اواعينا/NN مبلولين/JJ من/IN كتر/NN الشوب/DTNN و/CC ما/WP معنا/NN نشتري/VBP شو/NNP نعمل/VBP حتى/IN الثلاجة/DTNN خربانه/NNP الله/NNP يعينا/NNP 
+
+والحمد/NNP لله/NNP شو/NNP بدنا/NN نعمل/VBP 
+
+بكير/NNP خليها/NN كمان/NN والله/NN نعيمأ/NN 
+
+انا/PRP بعاني/JJ من/IN قلق/NN متواصل/JJ مشان/NN الله/NNP بدنا/NN نرتاح/NN بكفي/NNP اعصابنا/NNP والله/NNP تلفت/VBD 
+
+مش/NN فاهم/NN النتائج/DTNN بالمدرسة/JJ قبل/NN الإنترنت/DTNN ارجو/VBP التوضيح/DTNN 
+
+ممممممممممم/NN يارب/VBP ينجحنا/NN كلنا/NN بس/NN المصيبه/DTNN موقع/NN الوزاره/DTNN من/IN هلأ/NN معلق/JJ هع/NN هع/NN 
+
+الله/NNP يفرح/VBP كل/NOUN طلاب/NN التوجيهي/DTJJ وبتمنى/JJR ما/WP يصير/VBP احزان/NN بدل/NN الافراح/DTNN بسبب/NN العيارات/DTNNS النارية/DTJJ والالعاب/NN الناريةوبهديهم/DTNN اغنية/NN احلام/NN -LRB-/PUNC نجحنا/VBD والله/NN وفقنا/NN واخر/NN صبرنا/NNP نلنا/NNP -RRB-/PUNC 
+
+عنجد/NNP و/CC الله/NNP اشي/NNP بخزي/NNP 
+
+والله/NN حرام/NN يلي/VBP بصير/NNP والله/NNP 
+
+شو/NNP ها/PRP$ 
+
+شو/NNP القصه/DTNN ./PUNC ./PUNC شكلها/NN أصبحت/VBD ظاهره/NN يوميه/NNP ومتكرره/NNP ./PUNC ./PUNC والمصيبه/NN الأكبر/DTNN أنه/NNP اخوه/NNP ./PUNC ./PUNC 
+
+وبعدين/NNS مع/NN الناس/DTNN كل/NOUN يوم/NN إنتحار/NN مقتل/NN مصرع/NN إستشهاد/NN شو/NNP هاد/NNP وبعدين/NNP ما/WP حلنا/VBD نستقر/VBP شوية/NN ؟/CD 
+
+شو/NNP اللي/WP حاصل/JJ يا/RP عالم/NN شو/NNP اللي/WP صاير/VBD 
+
+الانسان/DTNN لما/IN يتالم/VBP شو/NNP بحكي/NNP 
+
+من/IN كام/NN يوم/NN ماما/NNP حكتلي/NNP جيب/NNP وانت/NNP مروح/NN ضمة/NN نعنع/VBP انا/PRP بشتريها/NN من/IN زمان/NN في/IN بريزة/NNP صارة/NNP بعشرين/NNP قرش/NN عشان/NNP رمضان/NNP ليش/NNP بستغلو/NNP الناس/DTNN برمضان/NNP ولله/NNP حرام/NN عليهم/JJ بدل/NN ما/WP يصفو/VBP النية/DTNN برمضان/NNP بسيرو/NNP اشرار/NNP الله/NNP يهدي/VBP الجميع/NOUN 
+
+عن/IN جد/NN لازم/JJ الحكومه/DTNN تعمل/VBP قروض/NN للزواج/NN حتى/IN تيسر/VBD امور/NN الشباب/DTNN وكمان/NN شو/NNP ذنب/NN البنات/DTNNS 
+
+#/NN NاMع/JJ ?/PUNC 
+
+اول/ADJ شي/NNP ببارك/NNP لا/RP الطريفي/DTNN الوحداتي/DTJJ لاصيل/NNP وكل/NNP الوحداتيه/NNP ومسسسسسسسسسسسسسسسكين/NNP يلي/VBP ما/WP عندو/VBD مصداااااااااااااار/NN 
+
+اولا/ADJ ''/NN تحياتي/VBP للجميع/NN وبدون/JJ استثناء/NN ./PUNC ثانيا/ADJ ''/VBD الحمد/NN لله/NN على/IN المستوى/DTNN الرائع/DTJJ لنادي/NNP الرمثا/DTNNP -LRB-/PUNC غزلان/NNP الشمال/DTNN -RRB-/PUNC وانشاء/NNP الله/NNP راح/NN تكمل/VBP بالمركز/NNP الثالث/ADJ ./PUNC ثالثا/ADJ ''/NN ابارك/NN فوزكم/NNP يا/RP وحدات/NNS ببطولة/NN الدرع/DTNN للموسم/DTJJ الحالي/DTJJ بالرغم/NNP اني/NNP كنت/NNP اتمنى/VBP ان/IN يكون/VBP فريقي/NNS -LRB-/PUNC الرمثا/DTNNP -RRB-/PUNC طرف/NN في/IN المباراة/DTNN النهاية/DTNN ./PUNC رابعا/ADJ ''/VBD نادي/NN المنشيه/DTNNP ممثل/NN عشائر/NN بني/NNP حسن/NNP عشيرة/NNP المليون/DTJJ اعترف/VBD اني/NNP بني/NNP حسن/NNP واعتز/NNP وافتخر/NNP ولكني/NNP كرويا/NN ''/CD -LRB-/PUNC رمثاوي/NNP -RRB-/PUNC اتمنى/VBP للمنشية/NN تقديم/NN مستوى/NN طيب/JJ اليوم/DTNN ولكن/NN ليس/VBD الفوز/DTNN ./PUNC خامسا/ADJ ''/VBD جمهور/NN نادي/NN الرمثا/DTNNP انتم/PRP يامن/VBP سميتكم/NN الرقم/DTNN الصعب/DTJJ ارفعو/NNP راسكم/NNP فوق/NN فثمار/NN الرمثا/DTNNP قطفها/NN بدا/VBD والدوري/NNS والكاس/NNP موعدنا/NNP انشاء/NN الله/NNP 
+
+منشية/NN بني/NNP حسن/NNP رح/NNP تنتزع/VBP المركز/DTNN الثالث/ADJ من/IN الرمثا/DTNNP 
+
+لا/RP تغلبوا/VBP حالكم/NN يا/RP ناس/NN ان/IN شاء/VBD الله/NNP الدرع/DTNN اخضر/JJ والباقي/NNS عالطريق/JJ 
+
+مسكين/JJ الي/IN ما/WP عندو/VBD وحدات/NNS 
+
+ما/WP في/IN مجال/NN رح/NN نحصد/VBP كل/NOUN البطولات/DTNNS 
+
+ان/IN شاء/VBD الله/NNP اليوم/DTNN اول/ADJ كاس/NN بيطلع/NN المصدار/DTNN وراح/NN يمهد/VBP الطرق/DTNN لباقي/NN الكؤوس/DTNN وعقبال/NN البطولات/DTNNS الخارجيه/DTJJ وان/NNP شاء/VBD الله/NNP انشوف/NN الاخ/DTNN عبد/NNP المنعم/DTNNP سمور/NNP بالاحتفالات/NNP وتحيه/NNP لعبدالمنعم/NNP سمور/NNP وقناته/NNP 
+
+سلم/VBD سلامات/NNS لحمد/JJ في/IN التشكيله/DTNN كل/NOUN الامنيات/DTNNS 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+ليش/NNP هل/RP الحكي/DTNN امبين/NN الموضوع/DTNN الوزارة/DTNN ليس/VBD لها/NN القدرة/DTNN على/IN نشر/NN العلامات/DTNNS على/IN الانترنت/DTNNP خوفاُمن/NNP تكرار/NN خطأ/NN الدورة/DTNN السابقة/DTJJ كل/NOUN هل/RP تاخير/NN هييك/NNP طلع/VBD معاكوا/NN .../PUNC .../PUNC 
+
+احسن/VBD انو/NN الوزير/DTNN عمل/NNP هيك/NNP لانو/NNP لو/IN ما/WP عمل/VBD لكان/NN صار/VBD بينا/NNP مثل/NN الفصل/DTNN الاول/ADJ ويارب/NN اني/NNP انجح/JJR واجيب/NN معدل/NN عالي/JJ والكل/JJ ينجح/VBP 
+
+طب/NN يعني/VBP كيف/WRB بدها/VBD توصل/VBG المدارس/DTNN كلها/NN بنفس/NN الوقت/DTNN واذا/NN وصلت/VBD على/IN المدارس/DTNN هات/VBD خلي/NN واحد/JJ يخلي/VBP الطلاب/DTNN يصفوا/VBP على/IN الدور/DTNN وبكل/NN ادب/NN يوخدوا/VBP نتائجم/NN ولا/NN غير/NN يموت/VBP ناس/NN بكرا/NNP زي/NN الحج/DTNN دعس/NNP قاعدين/NNP منرجع/NN لورا/NNP بس/NN وبعدين/NNS الي/IN مدرستو/NNS بعيدة/JJ شو/NNP يروح/VBP يخيم/NN غاد/NNP والله/NNP اشي/NNP بقهر/NNP كثييييييير/NNP 
+
+بس/NN مو/NNP تعملو/NNP فينا/NNP متل/NN الفصل/DTNN الاول/ADJ 
+
+هيك/NNP وزارة/NN بتفكروا/VBD الناس/DTNN لعبة/NN عندكم/NN يعني/VBP راح/NN تجلطونا/NN طلعوهم/NN بنفس/NN الوقت/DTNN شو/NNP بصير/NNP بتخرب/NN الدنيا/DTNN يعني/VBP 
+
+يا/RP رب/NN النجاح/DTNN لكل/VBD طلاب/NN التوجيهي/DTJJ والي/NN كمان/NN .../PUNC .../PUNC .../PUNC 
+
+ضل/VBD عوج/NN اكتر/NN من/IN هيك/NNP !!!/CD 
+
+ياالله/VBP والله/NN اعصابي/JJ تلفت/VBD وحاسة/NN حالي/JJ رح/NN انهار/NN ياااارب/VBP ينجحنا/NN يا/RP رب/NN 
+
+يا/RP رب/NN التوفيق/DTNN اولا/ADJ للجميع/NN والنا/NN كلنا/VBD والله/NN يستر/VBP يوم/NN السبت/DTNN وادعولنا/VBD يا/RP شباب/NN 
+
+يعني/VBP بتهبلو/NNP ولا/NNP بتهبلو/NNP ؟/VBD ؟/NN !!/NN 
+
+هيك/VBD وزير/NN الصحة/DTNN طاااااااااااار/NNP 
+
+لجأ/VBD الى/IN اغلاق/NN هاتفه/NN الخاص/DTNN يعني/VBP هو/PRP مافي/JJ حدا/NN وراه/NN 
+
+و/CC سعادة/NN الرئيس/DTNN الوزراء/DTNN يلتقي/VBP مع/NN عائلة/NN اسبانية/JJ ./PUNC ./PUNC شو/NNP خص/VBD هذا/DT بهذا/NN 
+
+الله/NNP اكبر/JJR دنيا/NN اخر/JJ زمن/NN الاخ/DTNN بقتل/NNP اخوه/NNP يعني/VBP شوي/NNP كمان/NN كل/NOUN شي/NNP بصير/NNP طبيعي/NN وبنصير/NN نشوف/VBP الغلط/DTNN ونسكت/NNP 
+
+بس/NN القفز/DTNN بالماء/NNP بيكون/NNP كتير/NNP حلو/NNP مع/NN الجو/DTNN اللي/WP بالعقبه/VBP وزي/NN السمكه/DTNN ناط/VBD الشب/DTNN 
+
+بكرا/NNP ما/WP راح/VBD نلاقي/VBP هاي/NNP النعمة/DTNN 
+
+و/CC بعدين/VBD رفع/NN رفع/NN اصلا/NN الشركات/DTNNS الخلوية/DTJJ هي/PRP كسبانة/NN لانه/NNP هاي/NNP الايام/DTNN بطل/NN حدا/NN قادر/JJ يستغني/VBP عن/IN الموبايل/DTNN بس/NN شكله/NN بدنا/NN نرجع/VBP لعصر/NN التلفونات/DTNNS الارضية/DTJJ احسن/JJR و/CC الله/NNP حراااااااااااااااام/NNP 
+
+بنستاهل/NNP خليكم/NNP بس/NN شاطرين/NNS تتشكونوا/VBP 
+
+مسكين/JJ اللي/WP ما/WP عنده/VBD وحدات/NNS 
+
+وكانا/NN نعرف/VBP سطوة/NN الوحدات/DTNNS على/IN كل/NOUN الفرق/DTNN بدون/IN منازع/NN ولسه/NN مش/NN عاجبهم/JJ 
+
+وسلم/VBD سلامات/NNS هذا/DT هوا/NN الوحدات/DTNNS 
+
+الوحدات/DTNNS ما/WP لعب/VBD مع/NN ليفربول/NNP لعب/VBD مع/NN الجزيره/DTNN ومحلاه/NNP لو/IN ما/WP فاز/VBD ولو/NNP في/IN حق/NN كان/VBD اكلو/VBD 4/CD قوال/NN من/IN الشوط/DTNN الاول/ADJ بس/NN الحكم/DTNN الله/NNP يسلمه/NNP صار/VBD يصفر/VBP على/IN الرايحه/DTNN والجايه/NNP والا/NNP كيف/WRB لازم/VBD يفوز/VBP الوحدات/DTNNS وبعدين/NNS بييجو/NNP وبيحكو/NNP فوز/NN مستحق/JJ ,/PUNC لا/RP تنسو/VBP يا/RP اخوان/NN انه/VBD فريق/NN الوحدات/DTNNS هوالفريق/DTJJ الوحيد/DTJJ الي/IN لعب/NN بكامل/NN لعبيته/NN بالدرع/JJ وهاي/JJ ميزه/NN منيحه/NN الهم/DTNN بس/NN برضو/NNP ادائهم/NNP مش/NN مقنع/JJ والانانيه/NN لسا/NN بتزيد/NN بين/NN اللعيبه/DTNN 
+
+اذا/IN بلشنا/VBD الدوري/DTNN باخطاء/NN تحكيميه/NN هيك/NNP الله/NNP يستر/VBP من/IN الي/IN جاي/NNP يا/RP اتحاد/NN يعني/VBP حسن/NNP عبد/NNP الفتاح/DTNNP وعامر/NNP ذيب/NN ما/WP كانو/VBD يمثلوا/VBP بس/NN الجزراوي/DTNN مثل/NN الله/NNP يستر/VBP من/IN الجاي/DTNN ,/PUNC مبروك/VN للوحدات/NNS وحسن/NNP عبد/NNP الفتاح/DTNNP احسن/VBD لاعب/NN موجود/NN بالاردن/NNP هسا/NNP 
+
+الوحدات/DTNNS شارك/VBD برضو/NNP بالرديف/NNP وفاز/NNP فيه/NNP بينما/IN انتو/VBD راح/NN فيكم/NNP الاهلي/DTNNP بالاربعة/JJ رغم/NN انه/NN طالع/JJ جديد/JJ من/IN الدرجة/DTNN الاولى/ADJ ومنيح/NN ما/IN صاروا/VBD دزينة/NN 
+
+-LRB-/PUNC الوحدات/DTNNS يتجلى/VBP -RRB-/PUNC الدرس/DTNN راح/VBD الفيصلي/DTNNP يعلمكو/NNP اياه/NNP الاسبوع/DTNN الجاي/DTJJ 
+
+لاتحلمو/NNP تشوفوا/VBP غير/NN الدرع/DTNN 
+
+المنشية/DTJJ فريق/NN باين/NNP عليه/NNP رح/NN يقلب/VBP موزين/NNS الكرة/DTNN الاردنية/DTJJ بنتمنالة/NN النجاح/DTNN 
+
+انه/VBD لعب/NN امس/NN ليفرجيك/NN الفن/DTNN يا/RP حمد/NNP 
+
+اه/VB يا/RP حياتي/JJ الدرع/DTNN وحداتي/NNS 
+
+قلنا/VBD سلم/NN سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNP -LRB-/PUNC تحققت/VBD بعون/NNP الله/NNP تعالى/VBD -RRB-/PUNC 
+
+سلم/VBD سلامات/NNS كأس/NN الكؤؤس/DTNN للوحدات/NNS 
+
+سلم/VBD سلامات/NNS خلص/VBD درع/NN الاتحاد/DTNN صار/VBD بالوحدات/NNS 
+
+مبروووك/NNP للأخضر/NNP الفوز/DTNN بأول/NNP بطوله/NNP من/IN بطولات/NNS الاتحاد/DTNN الأردني/DTJJ وانشالله/NNP اربع/CD بطولات/NNS السنه/DTNN للاخضر/NNP مع/NN احترامنا/NN لكل/NN الفرق/DTNN المشاركه/DTJJ بس/NN المارد/DTNN بيظل/NNP مارد/NNP وللأمام/NNP ان/IN شاء/VBD الله/NNP 
+
+اول/ADJ اشي/NN منقول/JJ مبروك/JJ للوحدات/NNS الفوز/DTNN بالدرع/DTJJ ,/PUNC وثاني/NN اشي/NN حابب/JJ اقول/VBP انو/NN من/IN العيب/DTNN وصف/VBD لاعب/NN بالعجوز/NNP ,/PUNC رأفت/VBD علي/IN لاعب/NN قدير/NN ويستحق/NNP منا/NN كل/NOUN الاحترام/DTNN ./PUNC ./PUNC 
+
+الحكم/DTNN ما/WP كان/VBD موفق/JJ ./PUNC و/CC الوحدات/DTNNS ما/WP كان/VBD فريق/NN كبير/JJ امبارح/JJ ./PUNC 
+
+جرش/VBD عمرها/NN ما/IN بتتغير/NNP .../PUNC ما/WP فيه/NN جديد/JJ بالموضوع/JJ 
+
+انا/PRP جبت/VBD معدلي/JJ الفصل/DTNN التاني/DTNN في/IN الدوره/DTNN الصيفيه/DTJJ 90.1/CD وتخصصي/NN علمي/JJ بطلعلي/JJ هندسه/NN بالاردنيه/NNP 
+
+انا/PRP فلسطنية/JJ درست/VBN في/IN الاردن/DTNNP كافة/NN المراحل/DTNN الدراسية/DTJJ ليش/NNP مش/NN من/IN حقي/NN ادرس/VBP زي/NN الطلاب/DTNN الاردني/DTJJ ؟/CD 
+
+درجة/NN الحرارة/DTNN 50/CD درجة/NN .../PUNC بقولها/NN وبتوكل/NN .../PUNC 
+
+رجعنا/VBD للفلم/NNP الهندي/DTNNP تبع/VBD ال/DT 39/CD درجه/NN .../PUNC اعلنوا/VBD درجة/NN الحرارة/DTNN الحقيقيه/DTJJ 
+
+صح/VBD بحكي/NNP أنا/VBD ولا/NN غلط/NN ؟/NN لأن/NN معاقبة/NN المدخنين/DTNNS والدخان/NNS منتشر/JJ في/IN كل/NOUN مكان/NN وفي/NN كل/NOUN المحلات/DTNNS عبارة/NN عن/IN تخدير/NN للشعب/NN ./PUNC 
+
+أصلاً/VBD الناس/DTNN بتدخن/NN من/IN القهر/DTNN ./PUNC لو/IN يمنعوا/VBD صناعة/NN واستيراد/NN الدخان/DTNN الناس/DTNN رح/NN تصحى/NN ./PUNC ورح/VBD تتغير/VBP أشياء/NN كتير/NN للأحسن/NNP في/IN الأردن/DTNN ./PUNC 
+
+طيب/NNP هيك/NNP حليت/NNP مشكلة/NN القطايف/DTNN شو/NNP بالنسبة/NNP للحمة/NN والرز/NNP والسكر/NNP والزيت/NNP والدجاج/NN والاجبان/NNS والمعلبات/NNS ؟/VBD شو/NNP البديل/DTNN ؟/CD 
+
+والله/NN آخر/NN زمن/NN .../PUNC بطلع/NN سعر/NN الجبن/DTNN أو/VBD الجوز/DTNN مع/NN القطايف/DTNN والقطر/NN يتعدى/VBP ال4/DTNN دنانير/NNP .../PUNC 
+
+والله/NN أشتريلي/JJ بدالهم/NN قطع/NN جاتوه/NN ما/WP بتتعدى/VBD ال2/CD دينار/NN -LRB-/PUNC أي/NN بنص/NN السعر/DTNN -RRB-/PUNC .../PUNC ووفر/NNP للعيد/NNP يا/RP معلم/NN 
+
+والله/NN لا/RP أعرف/VBP أي/NN واحدولا/NN واحدة/JJ منهم/JJ لكن/VBP والله/NN فرحت/NN لهم/NN ولذويهم/JJ من/IN كل/NOUN قلبي/NN لأنهم/NN مفخرة/NN لذويهم/NN ولكل/NN الأردنيين/DTNNS حقا/NN إنكم/NN رائعون/JJ وتستحقون/JJ كل/NOUN ماهو/NN رائع/JJ فجعل/NNP الله/NNP نجاحكم/VBP في/IN سبيله/NN وسبيل/NN وطنناالغالي/JJ ياايتها/VBP الشعل/DTNN المتقدة/DTJJ في/IN سماء/NN العلم/DTNN والمعرفة/NN 
+
+لأسباب/NN إخترعها/NN البعض/NOUN بإتحاد/NN الكرة/DTNN ما/WP تلومو/VBP حمد/NNP وحمد/NN نفسو/NNP داخلياً/NNP عارف/NNP هذا/DT الحكي/DTNN ./PUNC 
+
+حسن/NNP عبد/NNP الفتاح/DTNNP رح/NN يلعب/VBP باليابانيين/NNS لعب/NN زي/NN ما/IN عملها/NN بالكريين/JJ قبل/NN هالمرة/NN و/CC الكل/NOUN شاهد/NN و/CC الي/IN ما/WP بعرف/VBD يشوف/VBP مباراتنا/NNS مع/NN كوريا/NNP الجنوبية/DTJJ على/IN ال/DT يouتuبe/VBP و/CC لو/IN سمحتم/VBD ما/WP تطالبو/VBP برافت/NNP لانو/NNP اعتزل/VBD دوليا/JJ و/CC الموضوع/DTNN المفروض/DTJJ زمان/NN اتسكر/NNP و/CC صراحة/NN مش/NN المفروض/DTNN يكون/VBP اي/NOUN لاعب/NN بالمنتخب/JJ مواليد/NN السبعينييات/DTNNS بالمنتخب/DTJJ لا/RP رافت/NNP ولا/NNP غيرو/NNP و/CC انا/PRP بحكيلكم/JJ لا/RP تهتمو/VBP كثير/NN لموضوع/NN رافت/NNP لانو/NNP خط/NN الوسط/DTNN ما/WP بنخاف/VBD عليه/NN بوجود/NNP الذيب/DTNN و/CC الشاطر/DTNN 
+
+لو/IN سئل/VBN اي/NN اعلامي/JJ عربي/JJ نفس/NN السؤال/DTNN لأجاب/NN بالمثل/NNP ./PUNC و/CC على/IN فكرة/NN لا/RP تستغربوا/VBP إذا/NN قلتلكم/NN انه/NN كثيرين/JJ برة/NN ما/WP بيعرفوا/VBD غيره/NNP في/IN ملاعبنا/NNP ./PUNC 
+
+ويوم/NN الجمعة/DTNN راح/NN يعرفوه/VBP اللي/WP ما/IN عاملين/NNS حالهم/JJ مابيعرفوه/JJ جوة/JJ ,/PUNC ./PUNC 
+
+كنت/VBD احترم/NN آراء/JJ الأخ/DTNN سيف/NN ظنا/NN بأنه/NN بيشجع/NN اللعبة/DTNN الحلوة/DTJJ رغم/NN تعصبه/NN النادوي/DTNNP ./PUNC ولكن/VBN شده/NN على/IN يد/NN المدرب/DTNN لعدم/NNP ضمه/NNP افضل/JJR لاعب/NN انجبته/NN ملاعبنا/NNP لا/RP تعبر/VBP عن/IN مهنية/NN من/IN ناحية/NN ولا/NN عن/IN غيرة/NN على/IN قميص/NN المنتخبمن/DTNN ناحية/NN أخرى/JJ ./PUNC 
+
+بس/NN حاب/NN اعرف/VBP المحترفيين/DTNNS اللي/WP برا/NN الاردن/DTNNP ما/WP بيعرفوا/VBD يلعبوا/VBP مثلا/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 
+
+يعني/VBP انو/NN احنا/NN اتفقنا/VBD إن/NN كل/NOUN البطولات/DTNNS غير/NN بطولة/NN الدرع/DTNN مهمة/NN ،/NN وهذا/JJ باتفاق/JJ الجميع/NOUN ،/VB مع/NN انو/NN الوحدات/DTNNS بحكي/NN كل/NOUN البطولات/DTNNS مهمة/NN ،/NN لكن/VBP خليني/NN أحكي/VBP الحد/DTNN الأدنى/DTJJ انه/VBD غير/NN بطولة/NN الدرع/DTNN كل/NOUN شي/NNP مهم/JJ ،/NN بس/NN أتمنى/NN من/IN الاخوان/DTNN إذا/NN خسروا/VBD أي/VB بطولة/NN ما/WP أسمع/VBD مثل/NN هذه/DT الكلمات/DTNNS مرة/NN أخرى/VBN ،/CD 
+
+يعني/VBP يا/RP سيد/NNP سيف/NNP ماشاء/NNP الله/NNP مبين/VN من/IN كلامك/NN انكو/NNP كتير/NNP بتحبونا/NNP والله/NNP ياصاحبي/NNP ماهو/NNP هيك/NNP يعني/VBP لازم/JJ نتمنا/NN الخير/DTNN لبعض/VBD اكتر/NN من/IN هيك/NNP وبالنسبه/NNP للمقال/NNP بلعكس/NNP انا/NNP قرأتو/NNP منيح/NNP وبتمعن/NNP نعم/NN همو/NNP حكو/NNP انها/NN بطوله/NN ليست/VBD في/IN مستوها/NN ولكن/NN القصد/DTNN انها/NN ليست/VBD في/IN مستوها/NN هذا/DT العام/DTNN فقط/RB فهي/VB بطوله/NN تتنافس/VBP عليها/NN جميع/NOUN الانديه/DTNN والشاطر/VN الي/IN يكسسبها/NN وايضا/NN وحسب/NN معلوماتي/JJ انها/VBD بطوله/NN قديمه/NN لا/RP اعرف/VBP متى/WRB انطلقت/VBD 
+
+كالعادة/NNP يخرج/VBP في/IN بداية/NN كل/NOUN موسم/NN جمهور/NN الفيصلي/DTNNP -/PUNC الذي/WP لا/RP نراه/VBP الا/RP في/IN مباريات/NNS الوحدات/DTNNS -/PUNC و/CC يبدأ/VBP في/IN الحديث/DTNN عن/IN الانجازات/DTNNS التي/WP حدثت/VBD ايام/NN حرب/NN القرشلة/DTNNP .../PUNC بالاضافة/NN الى/IN سلسلة/NN الوعيد/DTNN و/CC التهديد/DTNN و/CC الاسطوانة/DTNN التي/WP حفظناها/VBD عن/IN ظهر/NN قلب/NN و/CC التي/WP تظل/VBP تكرر/VBP في/IN كل/NOUN يوم/NN حتى/IN يوم/NN مباراة/NN الوحدات/DTNNS و/CC الفيصلي/DTNNP .../PUNC و/CC بعد/NN خسارة/NN الفيصلي/DTNNP المعتادة/DTJJ يضطر/VBP الجمهور/DTNN تغيير/NN الاسطوانة/DTNN و/CC استخدام/NN اسطوانة/NN الحكام/DTNN ./PUNC ./PUNC و/CC بعد/NN ما/IN نزهق/VBP و/CC يزهقو/VBP من/IN اسطوانة/NN الحكام/DTNN ,/PUNC بيغيرو/NNP الاسطوانة/DTNNP و/CC بيشغلولنا/NNP اسطوانة/NN الادارة/DTNN و/CC المشاكل/DTNN الادارية/DTJJ .../PUNC و/CC في/IN ذلك/DT الحين/DTNN يكون/VBP الوحدات/DTNNS قد/RP حصد/VBD من/IN 75/CD %/PUNC الى/IN 100/CD %/PUNC من/IN البطولات/DTNNS و/CC بعد/NN نهاية/NN الموسم/DTNN و/CC بداية/NN الموسم/DTNN الجديد/DTJJ بيرجعو/NNP يشغلو/NNP أول/NNP اسطوانة/NN -LRB-/PUNC التهديد/DTNN و/CC الوعيد/DTNN و/CC الانجازات/DTNNS اللي/WP حكينا/VBD عنها/NN -RRB-/PUNC و/CC هكذا/RB لغاية/NN ما/IN الله/NNP يفرجها/VBP و/CC يصيرو/VBP يعرفو/NNP يلعبو/VBP او/CC يغيرو/VBP النشاط/DTNN لنادي/NNP طائرة/NN -LRB-/PUNC بس/NN برضو/NNP رح/NN يطلعلهم/VBP الوحدات/DTNNS بطل/NN الطائرة/DTNN !/PUNC !/PUNC !/PUNC !/PUNC !/PUNC !/PUNC و/CC الله/NNP معهم/NN حق/NN يحتارو/NNP يعني/VBP شو/NNP يعملو/NNP ؟/VBD ؟/NN !!!/NN -RRB-/PUNC .../PUNC 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+انا/PRP متاكد/JJ يا/RP اخي/VBP لو/IN اخذتوا/VBD بطولت/NN حارات/NNS الا/RP تعملوها/NN احسن/JJR من/IN كاس/NN العالم/DTNN على/IN فكره/NN ما/WP راح/VBD نقع/VBD وقعة/NN الفيصلي/DTNNP الذي/WP هو/PRP عايش/NNP في/IN الماضي/DTNN الى/IN الان/DTNN 
+
+بعون/NNP الله/NNP وحداتي/NNP رايح/NNP رايح/NNP وحداتي/NNP جاي/NNP وحداتي/NNP محمل/NN درع/NN وكأس/NNP وجاي/NNP 
+
+الوحدات/NNP وبس/NNP 
+
+على/IN سيرة/NN المشاركات/DTNNS الخارجية/DTJJ لو/IN سمحت/VBD ياسيد/NN حسن/NN ممكن/JJ تتحفنه/VBP بمشاركات/NNS الوحدات/DTNNS الخارجية/DTJJ طبعا/NN اشي/NN بفرح/NN القلب/DTNN ما/WP شاء/VBD الله/NNP ./PUNC احنا/NN والشباب/NN الاردن/DTNNP منخلص/JJ مع/NN بعض/NOUN لانه/NN احنى/VBD عندنا/NN انجاز/NN خارجي/JJ مش/NN زي/NN ناديك/NNP الى/IN صارلي/NNS 100/CD سنة/NN بدور/NN يتاهل/VBP على/IN الدور/DTNN الثاني/ADJ اوصلو/VBD لربع/NN الى/IN وصلو/NNP الزعيم/NN الفيصلي/DTNNP بعدين/NNP تعال/NNP احكي/VBP ./PUNC ومسكين/NNP يلي/VBP عمره/NN ماوصل/NN الدور/DTNN الثاني/ADJ وراح/NN تبقى/VBP يا/RP فيصلي/NNP تاج/NNP على/IN رؤؤس/NN جميع/NOUN الاندية/DTNN ./PUNC 
+
+و/CC الا/RP زي/NN كل/NOUN سنه/NN نحضر/VBP مباراة/NN بضحك/NNP و/CC جمهور/NN تنحرق/VBP اعصابه/NN 
+
+ومسكين/NNS اللي/WP ماعندو/NNP زعيم/NN 
+
+باذن/VBD يوم/NN الجمعة/DTNN سيظهر/NNP الوحدات/NNP علو/NN كعبه/NN ويتوج/NN بكاس/NNP السوبر/DTJJ بس/NN انشالله/NN اخوانا/NN الفيصلاوية/DTNN ما/WP يصيرو/VBP يحكو/VBP بطولة/NN تحضيرية/JJ او/CC مش/NN ولا/NN بد/NN 
+
+يا/RP وحدات/NNS امشي/VBP واتمختر/NNP الجمعة/DTNN الجاي/DTJJ الزرقا/DTJJ اخضر/JJ 
+
+الجمعة/DTNN الجاي/DTJJ بيكون/NNP رمضان/NNP 
+
+الوحداتية/NN مبسوطين/JJ ع/IN الاااااااااااخر/DTNN يالله/VBP حرام/NN خليهم/NN يفرحوا/VBP لانه/NN الدوري/DTNN طار/VBD من/IN بين/NN ايديهم/NNP بنشوفكم/NNP الجمعة/DTNN 
+
+وين/NN قناة/NN سمور/NN اكيد/JJ صارت/VBD ع/NN الهوت/DTNN بيرد/NNP هههههههههههههه/NNP 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+وكأس/NN الكؤوس/DTNN رح/NN يكون/VBP فيصلاوي/NNP برقم/NNP 14/CD الدوري/DTNN فيصلاوي/NNP برقم/NNP 32/CD 
+
+عمار/NNP يا/RP وحدات/NNS العز/DTNN و/CC الله/NNP العز/DTNN بيلبقلك/NNP 
+
+يا/RP حبي/JJ و/CC عشقي/JJ ان/IN شاء/VBD الله/NNP تكون/VBP فاتحة/JJ خير/NN و/CC بدنا/NN جمهور/NN مثالي/JJ و/CC تشجيع/NN أنيق/JJ و/CC الوقوف/DTNN خلف/NN الأخضر/DTNN في/IN جميع/NOUN المناسبات/DTNNS و/CC خصوصا/NN يوم/NN الجمعة/DTNN ان/IN شاء/VBD الله/NNP بتكمل/NN الفرحة/DTNN ./PUNC 
+
+و/CC عن/IN جد/NN مسكين/JJ اللي/WP ما/WP عندو/VBD وحدات/NNS 
+
+اسوأ/VBD من/IN مطارنا/NN يمكن/VBP ما/WP في/IN ،/NN صراحة/NN بكفي/NN بس/NN الواحد/DTNN يدخل/VBP المطار/DTNN بشم/NN ريحة/NN الدخان/DTNN في/IN كل/NOUN محل/NN ،/NN وما/NN في/IN عربايات/NNS للشنط/NN ،/NN والازمة/JJ الي/IN برة/NN شكلها/NN بالمرة/NNP مش/NN حضاري/JJ ولا/NN كأنو/NNP الواحد/DTJJ في/IN مطار/NN ،/NN بتحس/NN حالك/NN بسوق/NN خضار/NN والناس/NNP فوق/NN بعض/NOUN ،/PRP يا/RP خوفي/NNP المطار/DTNN الجديد/DTJJ يكون/VBP في/IN نفس/NN الغلطات/DTNNS وبنكون/NN ولا/NN استفدنا/VBD اشي/NN ،/NN شعارا/NN لمطار/NNP الجديد/DTJJ حلو/NNP بس/NN التطبيق/DTNN الاهم/DTJJR ،/PRP يا/RP اخوان/NN مطارات/NNS العالم/DTNN كلها/NN ما/WP بتشم/VBD ريحة/NN دخان/NN الا/RP في/IN مطارنا/NNP بعبق/NNP تعبيق/NN ،/NN ولا/NN الحمامات/DTNNS اشي/VB مش/NN طبيعي/JJ كأنك/VBN في/IN حمامات/NNS مدرسة/NN مش/NN مطار/NN ،/NNP وهذا/NNP وبنحكي/NNP انو/NNP عنا/VBD سياحة/NN ؟/NN ؟/NN دخيلكم/NN طيب/JJ السائح/DTNN بس/NN يشوف/VBP هذا/DT كلو/NN كيف/WRB بدو/NN يقتنع/VBP انو/NN راح/NN يستمتع/VBP اقل/JJR ما/WP فيها/VBD خلينا/NN نضحك/VBP على/IN السياح/DTNN في/IN المطار/DTNN وبعدين/NNS يدبرو/VBP حالهم/NN ،/NN طبعا/NN من/IN اهم/JJR المشاكل/DTNN شوفير/NNP التكسي/DTNNP تاع/NN المطار/DTNN يعني/VBP تسعيرتو/NN محددة/JJ بس/NN كذا/NN واحد/JJ حكالي/JJ انو/VBD قززهم/NN شفير/NN التكسي/DTNN عشان/NN يدفعلو/VBP ''/NN بقشيش/NN ''/NN وروالهم/NN حكايات/NNS بتحزن/NNP عشان/NNP يوخذ/VBP خمس/CD ليرات/NNS زيادة/NN الو/NNP ./PUNC 
+
+بره/NN شفير/NN التكسي/DTNN ولا/NN بحكي/JJ معك/JJ اذا/IN انتا/VBD ما/WP اتحركشت/VBD في/IN عنا/VBD بصير/NNP كأنو/NNP بعرفك/NNP من/IN 150/CD سنة/NN 
+
+نفسي/VBP اشوف/NN تمر/VBP الاردن/DTNNP واوكل/NNP منه/NNP بدل/NN ما/IN يتم/VBP تصديره/NN لبرا/NN ؟/NN لأنني/JJ سمعت/VBD ان/IN التمر/DTNN الاردني/DTJJ من/IN اجود/NN انواع/NN التمور/DTNN في/IN العالم/DTNN وحتى/VBN انه/NN يباع/VBN بالحبة/NN الواحده/DTNN 
+
+اذا/IN ممكن/JJ نقابتا/NN اصحاب/NN المخابز/DTNN والمطاعم/NN والحلويات/NNS او/CC اي/NOUN موحد/NN لله/NN يتنازل/VBP و/CC يفهمنا/VBP ايش/NN سعر/NN تكلفة/NN هذا/DT الصنف/DTNN علشان/NN نشتريه/NNP بهيك/NNP سعر/NN على/IN كل/NOUN حال/NN الي/IN شايف/NN انه/NN اساسي/JJ بقدر/VBD يعمله/VBP بالبيت/NN بكل/NN سهولة/NN بلكي/NNP بنفوت/NNP عليهم/NN مهرجان/NN الجشع/DTNN الي/IN بفتتحو/NNP بشهر/NNP الرحمات/DTNNS 
+
+ولا/VBD شو/NNP رايكو/NNP 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+عشان/NNP هيك/NNP راح/NN نعطيكم/VBP بس/NN كأس/NN الكؤوس/DTNN و/CC باقي/NN البطولات/DTNNS نعتذر/VBP 
+
+مش/NN تاركينكو/NNP تحكوا/VBD 
+
+نعم/UH المفروض/DTJJ الفيصلي/DTNNP الزعيم/DTNN يخرج/VBP خروج/NN كلي/JJ من/IN جدول/NN الدوري/DTNN ليتفضى/NNP للبطولات/NNS الخارجيه/DTNN التي/WP لها/VBD معه/NN قصة/NN شوق/NNP وحنين/NNP ويلعب/NNP الزعيم/DTNN الفيصلاوي/DTJJ مع/NN من/IN يتربع/VBP على/IN صدارة/NN ترتيب/NN الدوري/DTNN لتكون/NNP هي/PRP المباراة/DTNN النهائيه/DTJJ ليش/NN الزعيم/DTNN يغلب/VBP حاله/NN ماهي/JJ معروفه/JJ الدوري/DTNN محسوم/JJ محسوم/JJ لصالحه/NN واتوقع/NN انه/NN بكون/NNP النهائي/DTJJ فيصلاوي/NNP فيصلاوي/NNP عفوا/VBD انا/PRP ما/WP خربطت/VBD ماهو/NNP المنشيه/NNP يعتبر/VBN فيصلاوي/NNP واتوقعه/NNP هذا/DT الموسم/DTNN هو/PRP وصيف/NN الزعيملما/DTNN يقدمه/VBP من/IN عروض/NN قويه/JJ جدا/NN انشاء/NN الله/NNP بكون/NNP القطب/DTNN الثاني/ADJ للكرة/NN الاردنيه/DTNN بعد/NN الفيصلي/DTNNP لميت/VBD والفيصلي/NNS بطابق/NN وباقي/NNS الفرق/DTNN بطابق/NNP ثاني/NNP 
+
+يا/RP اخوان/NN بتعرفوا/VBD شغلة/NN اللي/WP نجح/VBD بالفصل/NNP اللاول/DTNNP نجح/VBD بالفصل/NNP الثاني/DTNNP والباقي/NNS عندكم/JJ 
+
+والله/NN رفعت/VBD راسنا/NN يا/RP ملكاوي/JJ 
+
+كل/NOUN المصاري/DTNN رايحة/NN للجيبة/JJ و/CC الناس/DTNN ما/WP عندها/VBD كهربا/NN عشان/NNP اتعيش/NNP ,/PUNC حسبيا/NNP الله/NNP ونعم/NN الوكيل/DTNN عليهم/NNP ./PUNC 
+
+والله/NN اشي/NN بسم/NN البدن/DTNN ,/PUNC يعني/VBP لو/IN حط/VBD سكينة/NN في/IN بطنوا/NN ما/WP بنقول/VBD اشي/NNP ,/PUNC 
+
+يعني/VBP على/IN مين/NN عم/NN تضحكو/VBP نؤجل/NN ؟/NN ؟/CD 
+
+يعني/VBP ايش/NNP يعني/VBP عصى/NN و/CC لا/RP اطاع/VBP اوامر/NN الربوت/DTNN الامريكي/DTJJ التابع/DTJJ للصهاينة/NNP باراك/NNP اوباما/NNP ؟/VBD ؟/NN ؟/NN يعني/VBP لا/RP فاد/NN و/CC لا/RP ضر/NN الامة/DTNN العربية/DTJJ ،/NN يصطفلوا/VBP ببعض/NN و/CC كما/CC يقول/VBP المثل/DTNN :/PUNC طز/NNP يا/RP حمد/NNP !/PUNC 
+
+3/CD ليش/NN ما/WP حدا/VBD يعرف/VBP بهيك/NN رحلات/NNS الا/RP بعد/NN السفر/DTNN ؟/VBD 
+
+يا/RP جماعة/NN الصيام/DTNN اجرو/VBD عند/NN الله/NNP كبير/JJ لسا/NN ما/WP بلش/VBD رمضان/NNP 
+
+حرام/NN يا/RP جماعه/NN والله/NN اللي/WP بصير/VBN حرام/NN وذنب/NN كبير/JJ الله/NNP يلطف/VBP بنا/NN 
+
+شو/NNP بدنا/NN نحكي/VBP شو/NNP بدنا/NN نعلق/JJ خلص/VBD تعبنا/VBD ملينا/NN الامر/DTNN لله/NN بيده/NN الخير/DTNN وهو/VBD على/IN كل/NOUN شي/NNP قدير/NNP هو/PRP قادر/JJ على/IN كل/NOUN شي/NNP 
+
+الله/NNP أكبر/VBD شو/NNP هاد/NNP 
+
+أما/VBD غباء/NN وأما/NN ناس/NN عم/NN تقتل/VBP حالها/NN وفكرها/NN رح/NN ترتاح/VBP 
+
+اللهم/NN اشفيهم/NN يا/RP رب/NN ديرو/NNP بالكو/NNP على/IN خزاناتكو/NN نظفوها/NN بعدين/JJ اي/RP شي/NNP في/IN الصيف/DTNN قابل/VBD لان/NNP يحدث/VBP هالامور/NN الجو/DTNN الحار/DTJJ يفسد/VBP الاطعمه/DTNN 
+
+هههههه/NNP انت/PRP مفكر/NN الجامعات/DTNNS الأردنية/DTJJ بتدفع/NN ضرايب/NN أصلاً/NN ؟/NN ؟/VBD صباح/NN الخييييييييير/DTNN بالليل/NNP 
+
+ولي/NN بتسوق/NN بعرف/NN انه/NN الاسعار/DTNN ارتفعت/VBD وخاصةاسعار/NN المؤسستين/DTNNS المدنية/DTJJ والعسركية/NN ولي/NN بروح/NN بعرف/NN انه/VBD في/IN فرق/NN 
+
+اي/NOUN هو/PRP في/IN حدا/NN قادر/JJ يشتري/VBP هاي/NNP الايام/DTNN بعدين/NNP مشان/NNP اشتري/VBD كيلو/NN سكر/NN لازم/JJ ادخل/VBP على/IN النت/DTNN مشان/NN اشوف/NN سعره/NNP هيك/NNP كتييير/NNP كتييير/NNP كتييييير/NNP 
+
+فش/VB عندكو/NN منح/NN محاسبة/NN ؟/NN علينا/NN اقساط/NN بلاوي/NNP ./PUNC ./PUNC بس/NN بدك/NNP مين/NNP يدفع/VBP !!/NN 
+
+و/CC الله/NNP برأيي/NNP بدل/NN الفضايح/DTNN ينسحبوا/VBP أحسنلهم/NN إمبارح/NN الفريق/DTNN كان/VBD عبارة/NN عن/IN فريق/NN ميت/JJ لا/RP حول/NN له/NN و/CC لا/RP قوه/VBP كيف/WRB بكره/NN مع/NN الأرجنتين/DTNNS و/CC أميريكا/NN شو/NNP رح/NN يسوي/VBP 200-10/CD إنسحبوا/NN بشرف/JJ 
+
+ياسمور/NNP ./PUNC ./PUNC اللي/WP بدق/VBD الباب/DTNN بسمع/NN الجواب/DTNN 
+
+وسلم/VBD سلامات/NNS ستذرفون/NNP الكثير/DTNN من/IN الدمعات/DTNNS 
+
+وتحياتي/NNP لسمور/NNP حبيبي/NNP ولا/NN تزعل/NN مني/VBN 
+
+وسلملي/NNS على/IN الزرقاء/DTNNP التي/WP ستتحول/VBN الى/IN خضراء/JJ والا/NN ايش/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 
+
+سلم/VBD سلامات/NNS ولا/NN تحلم/VBP يا/RP سيف/NN ال/DT خطاب/NNP بأيه/NNP بطولات/NNS 
+
+مشان/NNP الله/NNP ليش/NNP هيك/NNP يالإتحاد/NNP ليش/NNP هيك/NNP ياالإعلام/NNP .../PUNC بس/NN الإهتمام/DTNN بكرة/NN القدم/DTNN ./PUNC ./PUNC ؟/VB !/PUNC ؟/VB !/PUNC ؟/VB !/PUNC 
+
+سلم/VBD سلامات/NNS للمنتخب/NN كل/NOUN الامنيات/DTNNS 
+
+هلأ/VBD الموضوع/DTNN يهم/VBP مرضى/NN الجمعية/DTNN ولا/NN هو/PRP لرئيس/NN الجمعية/DTNN ؟/VBD ؟/NN بصراحة/NN ما/WP فهمت/VBD يعني/VBP همي/NN قابلين/NNS انو/VBD المريض/DTNN يوخد/VBP دم/NN وقت/NN ما/WP بده/VBD ولا/NN لازم/JJ يوخد/VBP وحدتين/NNS بس/NN كل/NOUN شهر/NN ؟/NN ؟/CD 
+
+نيال/NN العدو/DTNN الصهيوني/DTJJ بالقيادة/NNP الفلسطينية/DTJJ يلي/VBP بتخدمها/NN أكثر/NN ما/WP بتيخدم/VBD العدو/DTNN نفسه/NN !!!/CD 
+
+نيالكم/VBP عن/IN جد/NN توقيت/NN كتير/NN مناسب/JJ يا/RP ريت/VBD احنا/NN القطاع/DTNN الخاص/DTJJ زيكم/NN الشغل/DTNN ما/WP راح/VBD يطير/NN 
+
+صدقوني/NNP إني/NNP حاسس/NNP ان/IN الدوام/DTNN من/IN 9:30/CD إلى/NN 2:30/CD خطأ/NN ،/NN يعني/VBP مع/NN طول/NN يوم/NN رمضان/NNP ايش/NNP بدو/NN ايسوي/NN الموظف/DTNN بس/NN يخلص/VBP دوامه/NN ؟/NN لا/RP تحكولي/VBP بدو/NN يروح/VBP يتعبد/VBP الله/NNP في/IN هذا/DT الشهر/DTNN الفضيل/DTJJ ،/VBD لأنو/NN 90/CD %/PUNC من/IN الموظفين/DTNNS بيروح/NNP على/IN البيت/DTNN ينام/VBP ،/NN وهذا/NN بحد/NN ذاته/NN صعب/JJ على/IN الناس/DTNN بالذات/NNS المدخنين/DTNNS ./PUNC ./PUNC 
+
+يا/RP رب/NN نلاقي/JJ رزقة/JJ غير/NN هاي/NN الشغله/DTNN 
+
+ولله/VBD منيح/NN ها/PRP$ القرار/DTNN ،/CD ،/NN 5/CD ساعات/NNS دوام/NN في/IN رمضان/NNP منيحة/NN ،/NN ،/CD 
+
+خلينا/VBD انعيش/NN ونشعر/NN بنفس/NN ظروف/NN إخواننا/JJ في/IN غزة/NNP ./PUNC و/CC شو/NNP يعني/VBP يقطعوها/NN كم/PRP$ ساعة/NN ,/PUNC استعد/VBD ليوم/NNP الحشر/DTNN ./PUNC 
+
+عزيزي/NNP ابو/NNP عزوز/NNP انتو/NNP يللي/NNP عايشين/NNP في/IN الخليج/DTNNP بتبالغو/NNP كتير/NNP في/IN موضوع/NN درجة/NN الحراره/DTNN و/CC لما/IN حكوا/VBD قبل/NN كم/PRP$ يوم/NN انه/NN الحراره/DTNN وصلت/VBD في/IN عمان/NNP 42/CD هادا/NN كان/VBD في/IN الظل/DTNN يعني/VBP الحراره/DTNN في/IN الشاره/DTNNP و/CC داخل/NN السيارات/DTNNS كانت/VBD اقل/JJR شي/NNP 46/CD هو/PRP 47/CD و/CC هادا/NN بدون/IN كونديشين/NNS مو/JJ زي/NN عندك/NN الكونديشين/DTNNS في/IN كل/NOUN محل/NN وما/NN بتعيشوا/NNP بدونو/NNP 
+
+هاد/VBD الي/IN ضايل/NN علينا/NNP 
+
+لو/IN عنا/VBD رطوبة/NN الإمارات/DTNNS بجوز/NNP تنتحروا/VBD على/IN هالحكي/NNP .../PUNC الفتوى/DTNN في/IN مكانها/NN والله/NN أعلم/NN لأنهم/NN بعمرو/NN البلد/DTNN مش/NN بخربوهاذ/NN والشوب/NNP اللي/WP عندهم/VBD مع/NN الرطوبة/DTNN لا/RP يطاق/VBP ولو/NN لعدة/NN دقائق/NN وحتى/JJ بليالي/JJ الصيف/DTNN ./PUNC 
+
+والله/NN عالم/NN هاي/NNP 
+
+وشو/VBD نحكي/VBP عن/IN خادمات/NNS المنازل/DTNN المسلمات/DTJJ اللي/WP بتقضيها/NN شغل/NN من/IN الساعه/DTNN 6/CD الى/IN الساعة/DTNN 1/CD بالليل/NNP 
+
+بعدين/NNP الدين/DTNNP معاملة/NN اذا/IN كان/VBD الصووم/DTNN بمنعك/NNP تعمل/VBP اعمالك/NN اللي/WP كنت/VBD تعملهاا/NN وانتاا/NNP بغيير/NNP رمضاان/NNP لا/RP تصووم/VBP 
+
+لانووو/NNP معاملات/NNS الخلق/DTNN اهم/JJR عندا/NNP الله/NNP 
+
+والله/NN انها/NN فتوى/NN بمحلها/NN لاني/JJ كل/NOUN يوم/NN بسال/NN حالي/JJ مليون/JJ مره/NN كيف/WRB العمال/DTNN هون/NNP بل/CC امارات/NNS راح/NN يقدرو/VBP على/IN الصيام/DTNN 
+
+شو/NNP هالافتاءات/NNP هاي/NNP ما/WP شاء/VBD الله/NNP لعاد/NN ما/IN حدا/VBD بصوم/NNP رمضان/NNP على/IN هالحكي/NNP ./PUNC 
+
+هلأ/VBD الكل/NOUN بسير/NN يا/RP حرام/NN عامل/NN تحت/NN الشمس/DTNN ورمضان/NN بذهب/NN هيك/NNP هباءا/NNP منبثا/NN 
+
+ليس/VBD بغريب/NN من/IN اليهود/DTNN ان/IN يعملو/VBP مثل/NN هيك/NNP قنوات/NNS وليس/NNP بصعب/NNP عليهم/NNP 
+
+أكيد/VBD النايل/DTNN سات/NNP معطينهم/NNP الضوء/DTNN الاخضر/DTJJ ./PUNC ./PUNC وبصراحة/NN ما/WP رح/VBD تكون/VBP اكثر/JJR انحيازية/NN من/IN قناة/NN العربية/DTNN والحرة/NN اللي/WP بيحكوا/VBD عن/IN الشهداء/DTNN قتلى/NN و/CC عن/IN العمليات/DTNNS الاستشهادية/DTJJ ارهابية/JJ ./PUNC ./PUNC والقناة/NN عم/NN تلعب/VBP على/IN الوتر/DTNN الحساس/DTJJ لانه/NNP اغلب/NOUN الشعوب/DTNN العربية/DTJJ ماكله/NN هوا/NN من/IN الناحية/DTNN الاقتصادية/DTJJ 
+
+احنا/NN العرب/DTNN شاطرين/NNP بالشعارات/NNP 
+
+ذ/VBD يا/RP ريت/NN يجيبو/VBP أفلام/NN عربية/JJ يوم/NN الجمعة/DTNN وانشالله/NNP ما/WP يهتموا/VBP في/IN مباريات/NNS الوحدات/DTNNS و/CC الفيصلي/DTNNP ./PUNC 
+
+كم/NN واحد/JJ لازم/JJ يموت/VBP أو/NN تصير/VBP معه/NN إعاقة/NN دائمة/JJ من/IN ورا/NN الرصاص/DTNN الطايش/DTJJ عشان/NN الناس/DTNN تبطل/VBP هالعادة/NNP إللي/NNP ما/WP إلها/VBD علاقة/NN لا/RP بالرجولة/JJ ولا/NN بالأخلاق/NN ؟/CD 
+
+ياجماعة/VBP على/IN شوو/NNP فرحانيني/NNP هاا/NNP كلووو/NNP توجيهي/NNP مافي/NNP دولة/NN في/IN العالم/DTNN الا/RP بالاردن/NNP بتلقى/NNP النااس/DTNNP بتفرح/NN بتوجيهي/JJ في/IN اوروباا/NN الواحد/DTNN بياخد/NN الدكتوراة/DTNN ولا/NN حدا/NN بيعرف/NN عنوو/NN وصحيحي/JJ من/IN قاال/NN 
+
+احنا/NN هيك/NNP العرب/DTNN دائما/NN نعاكس/NN العالم/DTNN و/CC نعاكس/NN التطور/DTNN و/CC التحديث/DTNN 
+
+السؤال/DTNN انه/VBD لاسمح/NNP الله/NNP صار/VBD زلزال/NN ./PUNC ./PUNC شو/NNP رح/NNP يكون/VBP التعويض/DTNN ؟/NN فنادق/NN خمس/CD نجوم/NN ./PUNC ./PUNC يبنوا/VBP بيوت/NN جديدة/JJ ./PUNC ./PUNC سيارات/NNS ./PUNC ./PUNC علاج/NN طبي/JJ ؟/VBD اصلا/NN ما/WP رح/VBD يكون/VBP حدا/NN عايش/NNP عشان/NNP يستفيد/VBP من/IN التامين/DTNN اللي/WP دفعه/VBN ./PUNC ./PUNC 
+
+ولكم/VBN انا/PRP كل/NOUN فاتورتي/NNS ضرايب/JJ ./PUNC ./PUNC انا/PRP قاعد/NN على/IN هالعتمة/NN !!!!!!!!!!!!/DTNN 
+
+يا/RP عمي/NN لو/IN الناس/DTNN تعدل/VBP في/IN مصروفها/NN زي/NN الايام/DTNN العادية/DTJJ ما/WP في/IN تاجر/NN برفع/NN سلعة/NN عندوا/VBD بس/NN التجار/DTNN بدهم/NN يربحوا/VBP واحنا/NN ما/WP بنحكي/VBP اشي/NN بالعكس/NNP بنروح/NNP وبنشتري/NNP وبنتبضع/NN زي/NN كأنوا/VBD ما/WP علينا/VBD ديون/NN وعايشين/NNS براتب/NN اشي/JJ من/IN الاخر/DTNN 
+
+والله/NNP احسن/VBD اشي/NN اصير/NN تاجر/NN ،/NN والله/NN الواحد/DTNN بربح/NNP منكم/NNP بلاوي/NNP على/IN البارد/DTNNP المستريح/DTJJ ومن/NN غير/NN اي/NOUN تعليق/NN ./PUNC 
+
+والله/NN عقدها/NN يا/RP ابطال/NN وإلى/NN الأمام/DTNN يا/RP منتخبنا/NN الغالي/DTNN وأثبتوا/VBD يوما/NN بعد/NN يوم/NN وبطولة/NN تلو/NN بطولة/NN أن/NN ''/NN الشجرة/DTNN التي/WP ترمى/VBN بالحجارة/NN !!!/NN هي/PRP وحدها/NN الشجرة/DTNN المثمرة/DTJJ .../PUNC فكيف/NN إذا/NN كان/VBD الثمر/DTNN ذهبا/NN وفضة/NN وبرونز/NN ''/NN كل/NOUN الحب/DTNN والاحترام/NN والفخر/NN والاعتزاز/NN بكم/NN جميعا/NOUN من/IN قمة/NN الهرم/DTNN الوظيفي/DTJJ في/IN اتحاد/NN الكراتية/DTNN وحتى/NN القاعدة/DTNNP عنجد/NN بترفعوا/NN الراس/DTNN .../PUNC رجال/NN والله/NN ./PUNC 
+
+سلم/VBD سلامات/NNS خالد/NNP سعد/NNP ناوي/NNP على/IN الوحدات/DTNNS ؟/CD 
+
+-/PUNC الاخ/DTNN محمد/NNP السوالمة/DTNNP ./PUNC ./PUNC بلشنا/VBD نتخوث/VBP عبعض/NN ؟/NN ؟/NN !!/NN هاي/NNP الزرقاء/DTJJ والنتيجة/NN ستكون/NN زرررقاء/JJ 
+
+-/PUNC الاخ/DTNN انس/NNP ./PUNC ./PUNC ومنين/NNS جايبلي/JJ هالاحصائية/JJ ؟/VBD ؟/NN ؟/NN طيب/JJ انا/PRP حر/JJ وبدي/JJ احسبها/JJ من/IN الموسم/DTNN الماضي/DTJJ لحد/NNP اليوم/DTNN ./PUNC ./PUNC الزعيم/DTNN 1/CD الوحدات/DTNNS لا/RP شيء/NN مزبوط/JJ ??/VBD والا/NN انا/PRP غلطان/NN مادم/NN كل/NOUN واحد/NN بحسبها/NN على/IN كيفو/NNP ؟/NNP ؟/CD 
+
+بس/NN حاب/NN احكي/VBP ل/IN سيف/NN ال/DT خطاب/NN انك/VBD مسكين/JJ وكانك/NN من/IN ايام/NN الثمانين/DTJJ ولسى/JJR ما/WP صرت/VBD بعصرنا/NNP عصر/NN الوحدات/DTNNS الجميل00000/DTJJ 
+
+ان/VBP شاء/VBD الله/NNP صفر/NN عشان/NN يروحو/VBP مش/NN شايفين/NNS الضو/DTNN همو/NNP والجماهير/NNP تبعتهم/VBP عشان/NN مايعرفو/NNP كيف/WRB بدهما/NN يصمو/VBP ثاني/ADJ يوم/NN الفيصصصصصصصصصصصصصصلي/DTNNP 
+
+النتيجة/DTNN مبينة/NN ماحدا/NN بطلع/NN راس/NN مع/NN النسر/DTNN الازرق/DTJJ يا/RP جماعة/NN ,/PUNC لاتضيعوا/VBD الوقت/DTNN بالمناقشة/NNP ,/PUNC وتحية/NN للزعيم/NNP 
+
+طاق/VBD طاق/NN طاقيه/NN .../PUNC هذا/DT الكاس/DTNN عيديه/NNP 
+
+صاير/VBD تحكي/VBP مع/NN حالك/NNP و/CC اتجاوب/NNP .../PUNC معك/NN حق/NN صعبه/NN كثير/NN انك/VBD تقتنع/VBP انه/NN الزعامة/DTNN اضحت/VBD للمارد/NNP الاخضر/DTNNP و/CC الله/NNP صعبه/NNP ,/PUNC عموما/NN سنجيبك/NNP بالفم/NNP الملئان/DTJJ يوم/NN الجمعه/DTNN ,/PUNC 
+
+بعدين/NNP بتقول/NNP الفيصلي/DTNNP فاز/VBD ببطولة/NN كأس/NN الكؤوس/DTNN عام/NN 81/CD يا/RP صاحبي/NNS في/IN هذه/DT البطولة/DTNN كان/VBD عمر/NN الفيصلي/DTNNP خمسين/CD سنه/NN و/CC عمر/NN الوحدات/DTNNS وقتها/NN 3/CD سنوات/NNS تأسيس/NN الوحدات/DTNNS ,/PUNC مع/NN هيك/NNP الوحدات/NNP يتعادل/VBP مع/NN الفيصلي/DTNNP بعدد/NNP الفوز/DTNN ببطولة/NN كأس/NN الكؤوس/DTNN ,/PUNC و/CC لاحظ/VBD بطولات/NNS الوحدات/DTNNS بكأس/NN الكؤوس/DTNN اربع/CD مرات/NNS متتالية/JJ منذ/IN عام/NN 2000/CD لغاية/NN الان/DTNN دليل/NN انه/NN زمن/NN الوحدات/DTNNS و/CC زعامته/NN حضرت/NN و/CC سرقت/NN الزعامة/DTNN من/IN الفيصلي/DTNNP ,/PUNC 
+
+يا/RP ريت/NNP تتخلصوا/VBP من/IN عقدة/NN شباب/NN الاردن/DTNNP حتى/IN تعيدوا/VBP بعض/NOUN الشيئ/DTNN من/IN هيبة/NN الفيصلي/DTNNP المفقودة/DTJJ عشان/NN تقول/VBP الفيصلي/DTNNP الزعيم/DTNN و/CC انت/PRP مقتنع/VN مش/NN تقول/VBP زعيم/NN و/CC هناك/RB فريق/NN اردني/JJ مهيمن/JJ على/IN الفيصلي/DTNNP كيف/WRB صارت/VBD !!!/NN .../PUNC 
+
+كاس/NN الكؤوووووووس/DTNN ازرق/JJ ما/WP بدها/VBD 2/CD يحكو/VBP فيها/NN الكاس/DTNN ازرق/JJ 
+
+بما/NN إني/JJ من/IN قضاء/NN الرملة/DTNNP يا/RP سمور/NN ،/VBD وبمناسبة/NN الفوز/DTNN بكأس/NN الكؤوس/DTNN ،/NN حلّـيني/JJ كنافة/NN رملاويــة/NN الله/NNP يسعدك/VBP وأنا/NN بحـلّـــيك/NNP أزكى/VBD هريـــسة/NN ;/PUNC -RRB-/PUNC 
+
+محلا/NN سيجارة/NNP مع/NN كاسة/NN شاي/NNP نفطر/NNP 
+
+لا/RP اتعبو/VBP حالكو/NN الزعيم/DTNN الوحداتي/DTJJ راح/NN يعمل/VBP متل/NN ما/WP عمل/VBD قبل/NN سنتين/NNS راح/NN ياخد/VBP البطولات/DTNNS كلها/NN ان/IN شاء/VBD الله/NNP ./PUNC خلصنا/VBD الزعيم/DTNN الوحداتي/DTJJ ما/IN الو/NNP طريق/NN غير/NN حصد/VBD البطولات/DTNNS والدرع/NN بداية/NN الغيث/DTNN قطرة/NN وهاردلك/NN لجميع/NN الفرق/DTNN 
+
+اول/ADJ شي/NNP كل/NOUN عام/NN وانتم/CD بخير/NN بمناسبة/NN حلول/NN شهر/NN رمضان/NNP وباذن/NNP الله/NNP راح/VBD يكون/VBP الفوز/DTNN للوحدات/NNS لانو/NNP بستاهل/NNP والوحدات/NNS الامبراطور/DTNN 
+
+ياعمي/VBP الزعيم/DTNN زعيم/NN وشف/NN كبير/JJ لكل/VBD من/IN يريد/VBP ان/IN يقلد/VBP الفيصلي/DTNNP بالزعامه/NNP او/CC بالعماده/NNP وهذان/NNP المسميان/DTNNS لم/RP ياتو/VBP من/IN عبث/NN او/CC باجتماع/NN مجلس/NN الاداره/DTNN للتشاور/NNP على/IN ايجاد/NN لقب/NN او/CC مسمى/NN ليطلق/JJ على/IN الفيصلي/DTNNP والتصويت/NNP عليه/NNP مثل/NN اسم/NN المولود/DTNN جديد/JJ من/IN قبل/NN مايولد/NNP والعائله/NNP تشرق/VBP وتغرب/NN اللي/WP بده/VBD بسمي/NNP كذا/NNP وهذا/NNP بده/NNP كذا/NNP لحين/NNP يستقروا/VBP على/IN اسم/NN معين/JJ عند/NN ولادة/NN المولود/DTNN 
+
+هاي/NNP كاس/NN الكؤوس/DTNN من/IN عام/NN 81/CD والمتزعم/NN فيها/NN الزعيم/DTNN الحقيقي/DTJJ -LRB-/PUNC الفيصلي/DTNNP -RRB-/PUNC ولا/VBD في/IN تلك/DT السنه/DTNN كان/VBD الفيصلي/DTNNP يلعب/VBP مع/NN نفسه/NN فريق/NN أ/NN +/NN ب/IN لذلك/NN اقعد/VBP والبد/NN للزعامه/NN اصحابها/NN والتقليد/NN اعمى/JJ والله/NN العظيم/DTJJ اني/NNP بخجل/NNP لما/NNP بقلد/NN غيري/JJ ليس/VBD الزعامه/DTNN لقب/NN وهمي/JJ جيبو/NN بطولات/NNS قد/RP الزعيم/DTNN ومبروك/NNP عليكو/NNP اللقب/DTNN لقب/NN كاس/NN الكؤوس/DTNN لوحده/NNP بعددجميع/NNP القابكو/DTNNP مجتمعه/NN دوري/NN وكاس/NN وغيرها/NN انشاء/NN الله/NNP اللقب/DTNN الخامس/ADJ عشر/NN ومسكين/NNS اللي/WP ماعنده/NNP زعيم/NN والله/NN شيء/NN مضحك/JJ كل/NOUN موسم/NN 
+
+وسلم/VBD سلمات/NNS جميع/NOUN البطولات/DTNNS الرسميه/DTJJ انتبه/VBP جيدا/NN الرسميه/DTNN وليس/NN التنشيطيه/DTNN الاستعداديه/DTJJ للزعيم/NNP 
+
+يا/RP فيصلي/NNP كل/NOUN البطولات/DTNNS الك/VBD اكبر/JJR فوز/NN ماش/NNP الله/NNP 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+مسكين/JJ اللي/WP ما/WP عنده/VBD وحدات/NNS 
+
+على/IN هيك/NNP من/IN المستحيل/DTNN للمقاطعين/NN التراجع/DTNN خاصة/NN أن/NN قواعدهم/NN ما/WP سجلت/VBD يعني/VBP إذا/NN دخلوا/VBD الانتخابات/DTNNS بيخسروا/NNP لأنهم/NNP قرروا/VBD عدم/NN المشاركة/DTNN مسبقا/JJ وبالتالي/JJ الكثير/DTNN لم/RP يسجل/VBP ولا/NN بيصبح/NN انتحار/NN سياسي/JJ 
+
+ما/WP لفت/VBD انتباهي/JJ عدد/NN حالات/NNS الوفيات/DTNNS الكبيرة/DTJJ يعني/VBP القانون/DTNN يلزم/VBP الجميع/NOUN بالابلاغ/JJ عن/IN الوفيات/DTNNS خلال/NN فترة/NN ايام/NN كيف/WRB بيظهر/VBP اسماء/NN ناس/NN ماتوا/VBD من/IN سنة/NN أو/CD أشهر/NN وين/NN الربط/DTNN الالكتروني/DTJJ ولا/NN تشابه/VBP اسماء/NN 
+
+يعني/VBP صراحة/NN كنت/NNP بستنى/NNP هيك/NNP خبر/NN عشان/NNP ارجع/VBD انتخب/VBN ,/PUNC بس/NN مين/NN حشد/NN هاد/NNP ,/PUNC !!!!/NNP 1/CD 
+
+هذا/DT دليل/NN على/IN أننا/NN أمة/NN ''/NN شغل/NN طق/NN حنك/NN ''/NN -/PUNC لا/VBP أعرف/NN كم/PRP$ هي/PRP ميزانية/NN الدولة/DTNN في/IN الأردن/DTNN ،/VBD ليست/VBD بعيدة/JJ عن/IN هذا/DT الرقم/DTNN ./PUNC 
+
+اعدموا/VBD واحد/NN بس/NN من/IN هؤلاء/DT المستهترين/DTNNS والمتهورين/NNS وشوفوا/VBD كم/PRP رصاصة/NN رح/JJ تطلع/VBP بعد/NN هيك/NNP ./PUNC لكن/VBP اللي/WP رح/VBD يصير/VBP كالعادة/NNP :/PUNC فنجان/NNP قهوة/NNP وراحت/VBD على/IN الشهيد/DTNN وأهله/NNP ./PUNC حسبنا/VBD الله/NNP ونعم/NN الوكيل/DTNN 
+
+اي/RP شي/NNP بيصير/NNP منحمل/NN الحكومة/DTNN يا/RP اخوان/NN ما/WP بيصير/VBD هيك/NNP يعني/VBP قديش/NN حذرة/NN الحكومة/DTNN من/IN الامور/DTNN هاي/NNP وما/NNP في/IN فايدة/NN زي/NN الى/IN بيعاند/NNP بحالو/NNP .../PUNC .../PUNC .../PUNC .../PUNC ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 
+
+يا/RP عالم/NN الله/NNP اكبر/JJR اي/NOUN قسما/NN بالله/NNP اشي/NNP بقشعر/NNP البدن/DTNN ./PUNC ./PUNC شوف/NN قديش/NN اهله/NN تعبه/VBP لمن/NN كبروه/NN وشافو/NNP المر/DTNNP لمن/NNP صار/VBD شاب/NN ووصل/NN مرحلة/NN التوجيهي/DTJJ وراح/NN بشربة/NNP مي/NNP ./PUNC ./PUNC اي/RP يجعل/VBP لحدا/NN نجح/VBD اذا/IN بدي/NN اخسر/VBD شعره/NN من/IN شعر/NN ابني/NNP 
+
+يمكن/VBP تكون/NN نفايات/NNS سامة/JJ وخطيرة/JJ وتاثر/NN على/IN المياه/DTNN الجوفية/DTJJ مشان/NN هيك/NN الامانة/DTNN رافضة/VN بس/NN لو/IN المشروع/DTNN ما/IN اله/NN اضرار/NN كبيرة/JJ لكان/JJ حصل/VBD على/IN الموافقة/DTNN 
+
+ليش/VBD انت/PRP ما/WP بتعرفي/VBP انهم/NN وصلوا/VBD القمر/DTNN ؟/NN ؟/NN ؟/NN !!!!/JJ 
+
+منيح/NNP يلي/VBP اعترف/VBD انها/NN مجرد/NN خرافات/NNS ولسا/NN الاخ/DTNN بيحلم/NNP انو/NNP يغزو/VBP المريخ/DTNNP ليش/NN هما/PRP$ وصلو/VBD القمر/DTNN اصلا/NN 
+
+لا/RP تتخوفو/VBP ولا/NN عبالكو/NN الاسعار/DTNN مرتفعه/NN مليون/NN بالميه/NNP 
+
+انا/PRP لما/IN بدي/NN ادخل/VBP القدس/DTNNP بدخلها/NN حر/JJ رافع/VBD راسي/NNS ومش/NN تحت/NN حمايه/NN اسرائيليه/NNP .../PUNC 
+
+لو/IN كان/VBD الك/NN مسجون/JJ عند/NN الاحتلال/DTNN ما/WP بتزوره/VBP ؟/NN ولا/NN بتلعبوا/VBD بالناس/NNP باسم/NNP الدين/DTNNP 
+
+يعني/VBP وين/NNP كان/VBD كل/NOUN هالمده/NNP ساكت/NNP ,/PUNC لو/IN كان/VBD صحيح/JJ كان/VBD اعلن/VBD هالحكي/NNP من/IN من/WP شي/NNP تلات/NN سنوات/NNS 
+
+لو/IN فكرنا/VBD شوي/NNP بنلاحظ/NNP انو/NN واضح/JJ انو/VBD اسرائيل/NNP لانو/NNP كمية/NN المتفجرات/DTNNS المستخدمة/DTJJ كبيرة/JJ وقوية/JJ جدا/NN ادرجة/NN انها/NN حفرة/NN الشارع/DTNN تقريبا/NN 5/CD متر/NN للاسفل/NN وانا/NNP بنظري/NNP ما/WP في/IN مقاومة/NN تستطيع/VBP عمل/NN هذا/DT 
+
+والله/NN انسم/VBD بدني/NNP عساعة/NN هالصبح/NNP !!/CD 
+
+اللا/NN السيدقكaلiل/DTNN من/IN الأردن/DTNN انت/PRP تقول/VBP ان/IN التنين/DTNN اطقع/VBD من/IN بعضهم/NN البعض/NOUN على/IN اساس/NN انت/PRP احسن/JJR من/IN حسن/NNP نصرالله/NNP ؟/CD 
+
+لما/NNP اجوا/VBD يعملو/VBP فحص/NN للجهاز/NNP 
+
+وبعدين/NNS الأردن/DTNN منذ/IN فترة/NN طويلة/JJ ويأتينا/VBD القمح/DTNN من/IN أمريكا/NN وبأسعار/NN تفضيلية/JJ ونستورد/JJ من/IN بعض/NOUN الدول/DTNN كروسيا/JJ 
+
+لن/RP تسكت/VBP الحكومة/DTNN على/IN هذا/DT الامر/DTNN لانه/NN يعتبر/VBP زي/NN مقلب/JJ ،/VBD انا/PRP بحكي/JJ رح/NN يردو/VBP ينزلو/VBP الجمرك/DTNN بس/NN مو/NN مثل/NN أول/NN مرة/NN ،/NN وعقاباً/NN للشعب/JJ بعد/NN ما/IN ينزلوا/VBP الجمارك/DTNN بصير/NN ترخيص/NN السيارة/DTNN الهايبرد/DTJJ السنوي/DTJJ أغلى/VBD بكثير/NN من/IN السيارة/DTNN العادية/DTJJ .../PUNC معروف/NN هيك/NNP رح/NN يعملو/NNP ./PUNC 
+
+والله/NN مش/NN فاهم/NNP اشي/NNP 81/CD 40/CD 50/CD 55/CD 
+
+يعني/VBP لفة/NN على/IN البنك/DTNN الدولي/DTJJ اللي/WP اجبلا/VBD الاردن/DTNNP على/IN تقليل/NN الجمارك/DTNN راح/NN زاد/VBD المبيعات/DTNNS الى/IN مبيعات/NNS خاصة/JJ 81/CD %/PUNC 
+
+منشان/NNP الله/NNP لا/RP تشطبو/VBP ولا/NN سيارة/NN خلى/NN الحكومة/DTNN تخلل/VBD قراراتها/NN 
+
+كل/NOUN عام/NN وانتو/NNP بالف/NNP خير/NN يارب/VBP واهلنا/NN بخير/NNP وبلدنا/NNP الغالي/DTJJ الاردن/DTNNP بالف/NNP خير/NNP ,/PUNC وان/NNP شالله/NNP بكون/NNP رمضان/NNP عنا/VBD بالسعوديه/NNP كمان/NN بكره/NN يارب/VBP نصوم/NN سوا/NN .../PUNC 
+
+امبارح/VBP تسحرت/NN لبنة/JJ و/CC شاي/JJ و/CC صحيت/VBD اليوم/DTNN الصبح/DTNN ميت/JJ من/IN العطش/DTNN ؟/NN !!!/CD 
+
+ومش/VBD بس/NN هيك/NNP جمهورك/NN كبير/JJ بكل/NN القارات/DTNNS ./PUNC ./PUNC 
+
+اطمنك/VBD يافيصلاوي/NNP احنا/NN مابدنا/NN كاس/NN الكؤوس/DTNN بس/NN بل/CC الرباعيه/DTNN وشو/NNP ماقال/NNP الوحدات/NNP حنا/NNP معاه/NNP للموت/NNP 
+
+يعني/VBP انا/PRP مش/NN عارف/NNP عن/IN جمهور/NN الوحدات/DTNNS انتو/VBD ليش/NN بدكم/NN تحضرو/NN المباراه/DTNN يعني/VBP راح/NN تغلبو/NN حالكم/JJ على/IN الفاضي/DTNN انا/PRP برأي/JJ ما/WP تحضرو/VBP المباره/DTNN يعني/VBP الكأس/DTNN لفيصلي/NNP لفيصلي/NNP الزعيم/DTNN الاردني/DTJJ 
+
+ايوه/NNP ياعم/VBP هيك/NNP بنشجع/NN الرياضه/DTNN وندعمها/NN انديه/NNP تطالب/VBP برفع/NN حصتها/NN وانديه/NNP تطالب/VBP برفع/NN سعر/NN البطاقات/DTNNS والمشجع/DTJJ الاردني/DTJJ الله/NNP لايرده/NNP يا/RP اتحاد/NN القدم/DTNN خلي/NN الاسعار/DTNN مقبوله/NN كي/IN يستطيع/VBP المواطن/DTNN الاردني/DTJJ ويتشجع/NN لحضور/NN المباريات/DTNNS ارحموا/VB ما/WP بكفي/VBN غلاء/NN 
+
+يا/RP سيدي/NNP المهم/DTNN انوا/VBD نشوف/VBP لاعب/NN حلو/NNP وممتاز/NNP ./PUNC والله/NN يعطيكم/VBP العافية/DTNN 
+
+موضوع/NN لا/RP يهمنا/VBP كفيصلاويين/JJ ما/WP يهمنا/VBP هو/PRP الظفر/DTNN بلقب/NN كاس/NN الكؤوس/DTNN كيف/WRB وليش/VBN ما/WP بنعرف/VBD بنعرف/NN انو/NN الكاس/DTNN لازم/VBD يروح/VBP على/IN الشميساني/DTNN باقي/NN ما/WP تبقى/VBD ظروف/NN لا/RP شان/NN لنا/VBD بها/NN وسلامتكم/JJ ./PUNC 
+
+يبدو/VBP انه/NN الرجوب/DTNNP بمشي/NNP سياسة/NN تكسير/NN الراس/DTNN .../PUNC أنا/VBD رأي/NNP .../PUNC خلص/VBD انهاء/NN العقود/DTNN وحفظ/NN كرامة/NN الفريق/DTNN !/PUNC 
+
+ما/WP قدرنا/VBD نجيب/NNP لاعبين/NNS من/IN فلسطين/NNP بسبب/NN الاحتلال/DTNN اخذنا/VBD لاعبين/NNS الوحدات/DTNNS ./PUNC 
+
+لازم/VBD يتعاقبو/VBP على/IN هيك/NNP حركه/NNP و/CC المتواطىء/DTNN من/IN الاداره/DTNN لازم/VBD ينطرد/VBP من/IN النادي/DTNN 
+
+انا/PRP مع/NN الاخ/DTNN الطريفي/DTJJ لانو/NNP الرجوب/DTNNP معروف/NN شو/NNP هو/PRP كشخص/NN وانا/NN متأكد/JJ انو/VBD هددهم/NN ولولا/NN هاذا/NN الشئ/DTNN ماعملوا/VN هالعمله/NN وبالنهايه/NN لازم/JJ نكون/VBP عقلاء/NN والباقي/JJ عندكم/JJ 
+
+وبنرجع/VBD وبنحكي/NNP الله/NNP وحدات/NNS والقدس/NNP عربيه/NNP 
+
+خلي/NN المنتخب/DTNN الفلسطيني/DTJJ يستعد/VBP ويظهر/NN بصورة/NNP طيبة/NNP ومشرفة/NN اهم/JJR بكثير/NN من/IN كأس/NN الكؤوس/DTNN ,/PUNC بس/NN يا/RP ريت/NNP كان/VBD رد/NN الادارة/DTNN هيك/NNP من/IN البداية/DTNN ويا/NN ريت/NNP الرجوب/DTNNP ما/WP عمل/VBD هالعملة/NN السودا/DTNNP ./PUNC 
+
+كل/NOUN اشي/NN بهون/NN لعيون/NN فلسطين/NNP ,/PUNC ما/IN بدنا/NN الكاس/DTNN يوم/NN الجمعة/DTNN ./PUNC المهم/DTNN اهلنا/VBD ب/IN فلسطين/NNP ما/WP يزعلوا/VBP ./PUNC كل/NOUN التوفيق/DTNN للفدائي/JJ 
+
+كل/NOUN عام/NN والجميع/NN بالف/JJ خير/NN وانشاءالله/NN يكون/VBP شهر/NN خير/NN ورحمة/NN عالجميع/JJ بالنسبة/JJ للمنتخب/NN فللاسف/NN الاداء/DTNN بخوف/NNP كتير/NNP وكأنو/NNP اللاعبين/DTNNS هواة/NN مش/NN محترفين/NNS ومتأهلين/NNS لكأس/NN العالم/DTNN والاغرب/NN انو/NN ما/WP في/IN اي/NOUN نبرة/NN شديدة/JJ من/IN الصحف/DTNN الاردنية/DTJJ وكانو/VBD الي/IN بصير/NN اشي/NN عادي/NN مش/NN فضيحة/NN المنتخب/DTNN ما/WP فاز/VBD ولا/NN مباراة/NN بتمنا/NN من/IN جريدة/NN الغد/DTNN تكون/VBP اكتر/NN قسوة/NN عالمنتخب/JJ وما/NN يكون/VBP خبر/NN عادي/JJ وكأنو/NN نادي/NN مغمور/JJ الي/IN خسر/VBD مش/NN المنتخب/DTNN 
+
+انشاء/NN الله/NNP الوحدات/DTNNP رح/NN يمشي/VBP و/CC يتمختر/VBP لأنه/NN السوبر/DTNN اخضر/JJ .../PUNC و/CC على/IN طلوع/NN المصدار/DTNN يا/RP كأس/NN السوبر/DTNN .../PUNC ابو/NNP زمع/NNP السعهم/DTNN لسع/NN .../PUNC و/CC مسكين/JJ اللي/WP ما/WP عندو/VBD وحدات/NNS .../PUNC 
+
+عبدوش/NNP الدايش/DTNNP ./PUNC ./PUNC انا/PRP بدي/NN أظل/NN عايش/NNP 
+
+يوم/NN الجمعه/DTNN الكاس/DTNN ازرق/JJ و/CC زي/NN ما/WP بتوقع/VBD 3/CD او/CC 4/CD صفر/NN فوز/NN للفيصلي/NNP و/CC احلى/VBD فرحة/NN عند/NN باب/NN النادي/DTNN و/CC الكاس/DTNN ازرق/JJ 
+
+يا/RP وحدات/NNS امشى/VBD واتمختر/NNP 
+
+سلم/VBD سلامات/NNS صار/VBD الدرع/DTNN بالوحدات/NNS 
+
+بس/NN اسمع/VBP مني/VBN الدرع/DTNN وحداتي/NNS وكأس/NN الكؤؤس/DTNN وحداتي/NNP وانا/NNP وحداتي/NNP يا/RP نيالي/JJ ./PUNC 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+حضّـــرلي/NNP 10/CD كيلو/NN عصافيري/JJ ./PUNC ./PUNC وبــ15/NNP فلافل/NNP :/PUNC -RRB-/PUNC 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+يعني/VBP لما/NNP دولته/NNP بنزل/NNP عالسوق/NNP وبشتري/NNP الاغراض/DTNN لبيته/NN وبشوف/NN الاسعار/DTNN ساعيتها/NN ممكن/JJ اقتنع/VBD بالحكي/NNP 
+
+الرقيب/DTNN عمر/NNP الأن/NNP في/IN المدينه/DTNN الطبيه/DTJJ قي/NN عمان/NNP مصاب/NN بطلقتين/NNS في/IN الحلق/DTNN كان/VBD في/IN مستشفى/NN المفرق/DTNN بس/NN نقلوو/NNP بهلكبتر/NNP على/IN المدينه/DTNN الطبيه/DTJJ وسلامتكم/NNP وإنشاء/NNP الله/NNP ألف/VBD ألف/NN سلامه/NNP يا/RP رب/NN 
+
+الشرطي/DTNN كان/VBD جوى/NN المقهى/DTNN بدون/IN دعم/NN نهائي/JJ النوايسه/DTNN وإنطخ/NN بعدين/NNP إجا/NN دعم/NN 
+
+يا/RP خوفي/NNP يضيفوا/VBP ضريبة/NN ع/NN طرود/NN الخير/DTNN عشان/NN تكمل/VBP معنا/NN 
+
+امبارح/VBD قلتلكم/NNP إنكم/NNP اليوم/DTNN راح/NN تقولوا/VBP هيك/NNP ./PUNC شفتوا/VBD كيف/WRB إني/VB صرت/VBD عارفتلكم/NNP منيح/NNP ؟/CD 
+
+يعني/VBP شو/NNP هاي/NNP السياسية/DTJJ وليدة/NN تفاهة/NN اللحظة/DTNN ،/NN ماذا/WP لو/IN كان/VBD التاجر/DTNN مرتبط/JJ بعقود/NN ؟/NN لماذا/WRB تتدخل/VBP الحكومة/DTNN في/IN بعض/NOUN الأمور/DTNN و/CC لا/RP تتدخل/VBP في/IN غيرها/NN ،/NN لماذا/WRB أسبوع/VBN و/CC ليس/RP اسبوعان/VBP ،/NN شئ/NN محزن/JJ فعلا/NN هذا/DT القرار/DTNN بحد/NN ذاتة/NN ولكن/NN اسلوب/NN الادارة/DTNN المعدوم/DTJJ و/CC الضبابي/DTJJ 
+
+هذا/DT وحدات/NNS مش/NN اي/NOUN حدا/NN .../PUNC 
+
+اذاعة/NN عبدوش/NNP الدايش/DTNNP .../PUNC اذاعة/NN الوحداتي/DTNN العايش/DTJJ 
+
+ألف/VBD تحية/NN للنشمية/JJ الأردنية/DTNN الوحداتية/DTJJ و/CC تحية/NN للسلط/NN الأبية/DTNN و/CC الوحداتيين/DTNNS في/IN السلط/DTNN و/CC الكرك/DTNN و/CC اربد/NNP و/CC معان/NNP و/CC المفرق/DTNN و/CC العقبة/DTNN و/CC الطفيلة/DTNN و/CC الشوبك/DTNN و/CC عجلون/NN و/CC جرش/NN و/CC كلللللل/NN المحافظات/DTNNS .../PUNC و/CC انشاالله/NN يا/RP النشمية/DTNN بنحتفل/NNP بفوز/NNP الاخضر/DTNNP بالشماغ/NNP الاحمر/DTNNP و/CC المدرقة/DTNN الاردنية/DTJJ الاصيلة/DTJJ و/CC يا/RP محلى/NN الشماغ/DTNN الاحمر/DTJJ مع/NN الاخضر/DTNN الوحداتي/DTJJ .../PUNC و/CC تحياتي/VBP لكل/NN النشميات/DTNNS الاردنيات/DTJJ امثالك/NN 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+.../PUNC و/CC يا/RP النشامى/DTNN يا/RP مشجعين/NNS الوحدات/DTNNS مثل/NN ما/IN عودتونا/VBD بدنا/NN تزلزلو/NN الارض/DTNN زلاااااااااااااازل/NNP و/CC الله/NNP مع/NN الاخضر/DTNNP .../PUNC و/CC انا/PRP النشمية/DTNN الاردنية/DTJJ من/IN السلط/DTNN الابية/DTJJ 
+
+وبعدين/NNS اللعيبه/DTNN المحترفين/DTJJ لبو/VBD نداء/NN الوطن/DTNN وانا/NN متاكد/NN انو/VBD لو/IN واحد/CD من/IN لعبيتنا/NN الاردنية/DTNN لترك/NNP ناديه/NNP وراح/NN للمنتخب/NN طبيعي/JJ 
+
+كلنا/VBD شعب/NN اردني/JJ واحد/JJ ./PUNC ومش/VBD ناقصنا/NNP فرقة/NN على/IN فرقة/NN ./PUNC حتى/IN الواحد/DTNN صار/VBD الايام/DTNN هي/PRP يتفرق/VBP عن/IN اخوه/NN ابن/NN امه/NN وابوه/NNP ويشعر/NNP انه/VBD احسن/JJR من/IN الجميع/NOUN ./PUNC 
+
+بس/NN حاب/NN اضيف/VBP معلومة/NN انو/NN طول/NN عمروا/VBD كأس/NN البطولات/DTNNS بيجي/NNP للوحدات/NNP مش/NN الوحدات/DTNNS بيروج/NN يجيبو/VBP وبيجي/NNS لحالوا/VBD وبتكسي/NNS كمان/NN 
+
+6-1/CD يكثر/VBP خيرك/NNP انه/NNP معطينا/NNP هدف/NN والله/NN شو/NNP لو/IN انه/VBD بلعب/NN مع/NN منتخب/NN حارات/NNS ما/WP بوصل/VBD للنتيجه/NN هاي/NNP على/IN كل/NOUN حال/NN وغدا/NN لناظره/NN قريب/JJ 
+
+الوحدات/NNP اكبيررررررررررررررررر/NNP 
+
+والله/NN حرام/NN نادي/NN الرمثا/DTNNP افضل/JJR نادي/NN في/IN الاردن/DTNNP من/IN ناحيه/NN الشباب/DTNN بس/NN لاعبين/NNS اثنين/NNS بكفي/NNP افضل/JJR لاعب/NN في/IN الاردن/DTNNP في/IN الرمثا/DTNNP حمزه/NNP الدردور/DTNNP حمزة/NNP وبس/NNP افضل/JJR لاعب/NN في/IN الاردن/DTNNP انا/PRP عاشق/NN للاعب/NNP حمزة/NNP الدردور/DTNNP بتمنى/VBD انو/NN يقرى/VBP هذا/DT الكلام/DTNN حمزة/NNP ميسي/NNP الاردن/DTNNP حمزة/NNP الله/NNP يحفظاه/NNP الله/NNP لا/RP يحسدو/VBP 
+
+وصحتهم/DTNN النفسية/DTJJ عال/JJ العال/DTNNP طول/NN ما/IN ابو/NNP حسين/NNP قايدنا/VBD فكلنا/NN قلوبنا/NNP على/IN بعض/NOUN وبنحب/NN الاردن/DTNNP 
+
+وحب/NN الاردن/DTNNP مش/NN حكر/NN على/IN حدا/NN كلنا/NN بنحب/NN الاردن/DTNNP 
+
+اذاعة/NN عبدوش/NNP الدايش/DTNNP .../PUNC اذاعة/NN الوحداتي/DTNN العايش/DTJJ 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+سيكون/NNP الوعد/DTNN غدا/NN بالزرقاء/NN وراح/NN نفوز/NN 
+
+اخذنا/VBD الدرع/DTNN وبدنا/VBD الكأس/DTNN وبدنا/NNP 
+
+عنجد/NNP الفيصلي/DTNNP غير/NN شكلءمبروك/NN يا/RP محمد/NNP خير/NN لبسك/NN الفنيله/DTNN الزرقاء/DTJJ ومبروك/NNP يا/RP فيصلي/NNP عليكم/NNP محمد/NNP وان/NNP شاء/VBD الله/NNP وجهك/NN خير/NN بالتتويج/NNP بالكأس/NNP وراح/NN تكون/VBP الفرحه/DTNN فرحتين/NNS فرحه/NN الفوز/DTNN بالكأس/NNP وفرحه/NNP الفوز/DTNN على/IN الوحدات/DTNNS ويا/NN رب/NN خير/NN .../PUNC حموز/NNP الفيصلاوي/DTNNP 
+
+يا/RP زعيييييم/NNP الاردن/DTNNP يلا/NN شد/NN الهمة/DTNN 
+
+يعني/VBP بالله/NNP شو/NNP بدو/NN يدخل/VBP بصناعة/NN القطايف/DTNN كلو/VBD زي/NN بعضو/NNP شو/NNP رح/NN تحطوا/VBD في/IN ذهب/NN ولا/NN ألماس/NNP عمين/NNP بتتخوتوا/NNP 
+
+الحمد/NN لله/NN على/IN سلامته/NN و/CC انا/PRP بحكيلك/NN انه/VBD انت/PRP اللي/WP لازم/VBD ترفع/VBP عليهم/NN قضية/NN مو/NN العكس/DTNN 
+
+مش/NN المهم/DTNN انه/VBD المصاب/DTNN تم/VBD نقله/NN و/CC انقاذه/NN !!/NN و/CC الا/RP بس/NN بدنا/NN وجه/NN لبعض/NN اتهامات/NNS على/IN الفاضي/DTNN و/CC المليان/DTNNS 
+
+الله/NNP بعين/NNP !!/CD 
+
+يلا/NN ماعلينا/NN بنعوضها/NN ع/NN الشتويه/DTNN وبنسير/NNP سنافر/NNP امامير/NNP مو/NNP متلكو/NNP بتسيرو/NNP شرشبيل/NNP ع/IN البكير/DTNN هاهاهاها/NNP 
+
+انشاالله/NN بتامل/NN من/IN اهل/NN الخير/DTNN مساعدتهم/NN والله/NN يعينهم/VBP على/IN رمضان/NNP مساكين/NNP هالاطفال/NNP ناس/NN بتاكل/NN برمضان/NNP وبزيد/NNP الاكل/DTNN وبكبو/NNP وناس/NNP مش/NN لاقي/NNP شي/NNP تاكله/NNP لازم/VBD كل/NOUN واحد/NN يحس/VBP بالنعمه/NNP اللي/WP انعمها/VBD الله/NNP علينا/NNP ونشكره/NNP ونحمده/NNP ليل/NN نهار/NN على/IN هالنعم/NNP 
+
+انا/PRP اردني/JJ ,/PUNC من/IN اصل/NN نوري/NNP ,/PUNC ولا/NN عجب/NN ,/PUNC ''/NN لا/RP فضل/NN لعربي/JJ على/IN عجمي/NNS الا/RP بالتقوى/NNP ''/NNP ,/PUNC اليس/NNP هذا/DT الدين/DTNN ,/PUNC ,/PUNC و/CC تعالوا/VBD لأخبركم/NNP شيئأ/NNP ,/PUNC :/PUNC ما/WP في/IN حدا/NN احسن/JJR من/IN حدا/NN :/PUNC ,/PUNC ,/PUNC ,/PUNC ,/PUNC 
+
+يعني/VBP بدكم/NNP تحكوا/VBD ان/IN هيو/NNP في/IN فلوس/NNP مع/NN الناس/DTNN ,/PUNC هاذ/VBD لا/RP يمثل/VBP نبض/NN الشارع/DTNN الاردني/DTJJ ./PUNC 
+
+ههههههه/NNP ./PUNC ./PUNC انا/PRP لو/IN صارت/VBD معي/NN ما/IN بقبل/NN و/CC بطلع/NN من/IN الشقة/DTNN بدون/IN اواعي/NNP ./PUNC ./PUNC و/CC اذا/IN ناس/NN سألني/JJ بقلوا/VBD الدنيا/DTNN شوب/NNP و/CC مش/NN طايق/NN اوعية/NN ./PUNC ./PUNC والله/NN النصب/DTNN صاير/NN اشكال/NN الوان/NN ./PUNC ./PUNC الله/NNP يرحمنا/VBP برحمته/NN 
+
+الفرق/DTNN بين/NN الغربه/DTNN والاردن/NNP مو/NNP دايما/JJ سيء/NN بالعكس/NNP الواحد/DTJJ ممكن/JJ يخسر/VBP لمه/NN العيله/DTNN بس/NN بنفس/NN الوقت/DTNN بصلي/NNP التراويح/DTNN وهو/NNP مبسوط/NNP وبيختم/NNP القران/DTNNP مع/NN الامام/DTNNP وبحضر/NNP دعاء/NN ختم/NN القران/DTNNP 
+
+شو/NNP رأيكم/NNP انه/NN الوحدات/DTNNS و/CC بجدارة/NN الجدارة/DTNN 
+
+و/CC الفيصلي/DTNNP رافع/VBD راسنا/NN وين/NN ما/WP كان/VBD 
+
+و/CC مسكيييييييين/JJ الي/IN ما/WP عندو/VBD وحدات/NNS 
+
+سمور/NNP اقعد/VBD ببيتك/NNP احضر/VBP باب/NN الحاره/DTNN احسنلك/NNP -LRB-/PUNC كأس/NNP الاردن/DTNNP للفيصلي/NNP وشكلين/NNP ما/WP بنحكي/NN -RRB-/PUNC 
+
+ثالثا/ADJ الى/IN جميع/NOUN المعلقين/DTNNS الوحداتين/DTJJ -LRB-/PUNC كأس/NN الاردن/DTNNP للفيصلي/NNP وشكلين/NNP ما/WP بنحكي/NN -RRB-/PUNC 
+
+وسلملي/NNS عباب/NN الحاره/DTNN 
+
+و/CC يا/RP حصتي/NNP يا/RP ريت/NNP تبعتلــي/VBP ''/NN كنافة/NN رملاوية/JJ ''/VBD أو/NN ''/NN نابلسية/JJ ''/VBD لأني/NNP حالياً/NNP بتوحّــم/NNP ،/VBD ومش/NN لاقي/JJ بالسوق/JJ غير/NN البقلاوة/DTNN أوزعها/NN بعد/NN الفوز/DTNN الليلة/DTNN بعون/NNP الله/NNP ./PUNC 
+
+تحياتي/VBP الك/DTNN يا/RP سمور/NN يا/RP أصيل/NNP و/CC لعبدوش/NNP الدايش/DTNNP ./PUNC ./PUNC اللي/WP بخلّيني/NNP عايش/NNP 
+
+مسكين/JJ اللي/WP ما/WP عنده/VBD وحدات/NNS .../PUNC 
+
+وهذا/VBD الأردن/DTNN أردنا/VBD .../PUNC وابو/NNP حسين/NNP قايدنا/NNP 
+
+وهيك/NNP علمنا/NNP ابو/NNP حسين/NNP .../PUNC شعب/NN واحد/JJ مش/NN شعبين/NNS 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+سلم/VBD سلم/NN سلامات/NNS كاس/NN الكؤوس/DTNN للوحدات/NNS 
+
+مساء/NN الخير/DTNN للكل/NNP ورمضان/NNP كريم/NNP يارب/VBP الفوز/DTNN اليوم/DTNN بكون/NNP للزعيم/NNP الفيصلي/DTNNP والله/NNP مو/NNP خساره/NN الفندق/DTNN يلي/VBP ساكن/NN فيه/NNP مافي/NNP الجزيره/DTJJ واشتريت/NN كرت/NN ب/IN 100/CD دولار/NN لعيونك/NN يا/RP فيصلي/NNP سلااااااااااااام/NNP خاص/JJ جدا/NN للحناحنه/NNP واليوم/NNP يومك/NNP فيصلي/NNP بقلوبنا/NNP وين/NNP ما/WP كنا/VBD بالاردن/NNP او/CC خارج/NN الاردن/DTNNP 
+
+سلم/VBD سلامات/NNS كأس/NN الكؤؤس/DTNN للوحدات/NNS 
+
+الملعب/DTNN رايح/NNP يولع/NNP رايحه/NNP الزرقاء/DTJJ الليله/DTNN تهربج/NN تتصاعد/VBP فيها/NN الافراح/DTNN والاحزان/NNP في/IN ان/NN واحد/JJ 
+
+والى/VBD المقرشين/DTNNS اللى/WP طلعوا/VBD شمة/NN هوا/NN على/IN القمر/DTNN .../PUNC اذا/IN في/IN هوا/NN اصلا/NN 
+
+قناة/NN سمور/NN الوحداتيه/DTNN .../PUNC سلم/VBD سلامات/NNS الكاس/DTNN للوحدات/NNS 
+
+انشاءالله/NN الفوز/DTNN للوحدات/NNS والزرقاء/JJ راح/VBD يصير/VBP لونها/NN اخضــــــــر/JJ ./PUNC مaزeن/NNP aسسi/CD 
+
+الوحـــدات/DTNNS جايلك/NNP و/CC ناويــها/NNP ./PUNC 
+
+ومسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+يعني/VBP صحيح/JJ انا/PRP وحداتي/JJ حتى/IN النخاع/DTNN بس/NN والله/NN ابيخ/NN اشي/NNP بفرئه/NNP هو/PRP اذاعه/NN سمور/NN وعبدوش/NNP يا/RP اخي/VBP شو/NNP هالفن/NNP عنجد/NNP اشي/NNP بسم/NNP البدن/DTNN 
+
+3_مش/VBD فاهم/NNP كيف/WRB نادي/NN اليرموك/DTNNP بصرف/NNP ؟/VBD ؟/NN ؟/CD 
+
+نص/NN اللعيبه/DTNN اللي/WP تعاقد/VBD معاها/NN اليرموك/DTNNP .../PUNC بدخن/NNP وبتارجل/NNP وما/NN بتعرف/NN الفطبول/DTNN .../PUNC الخ/NN ./PUNC 
+
+6_نفسي/NNP اشوف/VBP كيف/WRB بلعب/VBD احمد/NNP هايل/NNP ؟/VBD ؟/NN ؟/CD 
+
+معك/NN حق/NN باللي/JJ كتبته/NN اخ/NN علي/IN وكان/NN يجب/VBP احترام/NN هذه/DT البطوله/DTNN .../PUNC الف/CD مبروك/NN للوحدات/NNS ومستقبل/NN مشرق/JJ للمنشيه/NN ويبقى/NN البطل/DTNN الواحد/DTJJ الاوحد/DTJJ هو/PRP الوحدااااااااااااااات/DTNNS 
+
+بروح/VBD بدم/NN نفديك/NNP يا/RP وحدات/NNS 
+
+مسكين/JJ اللي/WP ما/WP عنده/VBD وحدات/NNS 
+
+وهذا/VBD الأردن/DTNN أردنا/VBD .../PUNC وابو/NNP حسين/NNP قايدنا/NNP 
+
+وهيك/NNP علمنا/NNP ابو/NNP حسين/NNP .../PUNC شعب/NN واحد/JJ مش/NN شعبين/NNS 
+
+الحقيقة/DTNN هي/PRP مباراة/NN مولعة/JJ ونأمل/JJ ان/IN تكون/VBP جميلة/JJ وانشالله/NN الفوز/DTNN للوحدات/NNS ''/VBD ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN ''/NN 
+
+اليوم/DTNN بنتلاقى/VBD في/IN المباراه/DTNN وبنعرف/NNP مين/NNP الي/IN بدو/NN يوخذ/VBP الكأس/DTNN وانشالله/NN الكأس/DTNN ازرق/JJ فيصلاااوي/NNP -LRB-/PUNC الاردن/DTNNP اولا/ADJ والفيصلي/NNS الزعيم/DTNN -RRB-/PUNC 
+
+سلم/VBD سلاااامااات/NNS كل/NOUN البطولااات/DTNNS ل/IN الوحدات/DTNNS 
+
+الوحدات/NNP فايز/NNP على/IN الفيصلي/DTNNP سري/NNP مري/NNP يخلف/VBP على/IN شباب/NN الاردن/DTNNP الي/IN خلو/NN الفصلاويه/DTNN يقدروا/VBP يحكوا/NN 
+
+وحداتية/NN عاطووووووول/NNP 
+
+ياااا/VBP سلااااااااااام/NNP يعني/VBP اليوم/DTNN جو/NN رمضاني/JJ وفوز/NN الوحدات/DTNNS وبكون/NN معنا/NN تاني/NN لقب/NN عنجد/NN اشي/NN روووووووووووعه/NNP 
+
+والله/NN احلى/VBD مارد/NNP واحلى/NNP وحدات/NNS بالدنيا/JJ 
+
+ما/WP في/IN احلى/JJR من/IN الخاوه/DTNN كلقب/NN الدوري/DTNN الماضي/DTJJ الفيصلي/DTNNP عشره/NNP على/IN عشره/NNP غدا/NN رايحين/VBG بنشوف/NNP على/IN منبر/NN الغد/DTNN الرائع/DTJJ بكره/NN كله/NN فيصلاوي/NNP مبه/NN بالميه/NNP 
+
+انشاء/NN الله/NNP راح/NN الوحدات/DTNNS يفوز/VBP 3_0/CD 
+
+بصراحة/NN حتكون/JJ مباراة/NN قمة/NN بلا/NNP شك/NN ونفسي/JJ احضرها/JJ في/IN الملعب/DTNN بس/NN مني/VBN عارف/NNP كيف/WRB اروح/VBP للملعب/NNP ,/PUNC ,/PUNC لأن/VBD المباراة/DTNN حتحلص/NN في/IN وقت/NN متأخر/JJ وحتكون/JJ المواصلات/DTNNS لإربد/NN صعبة/JJ :/PUNC -RRB-/PUNC 
+
+حكي/NNP غريب/NNP وعجيب/NNP اشي/NNP بجنن/NNP حتى/IN هذا/DT الوقت/DTNN يوجد/VBN من/IN يحلم/VBP بشيء/NN من/IN الصهاينة/DTNN اقول/VBP لكم/VBG ولا/NN في/IN الاحلام/DTNN 
+
+بلش/NNP رمضان/NNP وبدل/NN ما/IN يكون/VBP شهر/NN خير/NN 
+
+من/IN المفروض/DTNN الحكومه/DTJJ تتخذ/VBP قرار/NN رادع/NN لانه/NN الموضوع/DTNN صار/VBD مسخره/JJ على/IN الساحه/DTNN الاردنية/DTJJ كل/NOUN يوم/NN والثاني/JJ بنسمع/NN زوج/NN قتل/NN زوجتة/NN او/CC اب/NN قتل/NN بنته/NN او/CC اخ/NN قتل/NN اخته/NN او/CC بنت/NN عمه/NN الخ/NN .../PUNC من/IN قصص/NN فلازم/NN الحكومة/DTNN تعمل/VBP لجنة/NN من/IN القضاه/DTNN مختصه/VN في/IN هذا/DT المجال/DTNN وعدم/NN تخفيف/NN الحكم/DTNN مهما/WP كان/VBD السبب/DTNN او/CC المسبب/VN والغاء/NN في/IN هذه/DT الحالات/DTNNS التنازل/DTNN الشخصي/DTJJ 
+
+طبيعي/NN يكون/VBP للتمر/NN كل/NOUN هاي/NN الفوائد/DTNN لأنه/NNP الرسول/NNP صلى/VBD الله/NNP عليه/NNP وسلم/VBD وصى/NN انه/NN يبقى/VBP ببيوتنا/NN دائما/NN برمضان/NNP وبغير/NNP رمضان/NNP حيث/WRB قال/VBD عليه/NN الصلاة/DTNN والسلام/NNP :/PUNC بيت/NNP ليس/VBD فيه/NNP تمر/VBP جياع/NN اهله/NN ./PUNC 
+
+والله/NNP انا/NNP شايف/NNP انو/NNP هيك/NNP مسلسلات/NNS ما/WP بتنفع/VBD برمضان/NN لازم/JJ يجيبوهابراس/VBP السنة/DTNN بس/NN برمضان/NN ما/WP بتزبط/VBD لانو/NNP الصيام/DTNN بدو/NN عبادات/NNS مش/NN راقصات/NNS وعاريات/NNS والله/NN يرحمنا/NNP برحمتة/NNP 
+
+مسلسل/NN حلووبيحك/JJ عن/IN 
+
+ولخمس/NN مواسم/NN راح/NN تضلوا/VBD محلك/NN سر/NN وكل/NN خساره/NN وانتم/NNP بخير/NNP 
+
+يعني/VBP احكيلنا/NN شغلة/JJ بتتصدق/JJ 
+
+البطولات/DTNNS كلها/NN للوحدات/NNS ،/NN خشبة/NN ،/NN تنكة/NN ،/NN شو/NNP ما/WP كانت/VBD البطولة/DTNN لازم/VBD يكون/VBP لونها/NN أخضر/JJ 
+
+يا/RP حيف/NN عالفئة/JJ الضالة/DTNN اللي/WP ا/PRP الها/NN شغل/NN غير/NN التخريب/DTNN والشغب/NNP في/IN الملاعب/DTNN 
+
+يعني/VBP اذا/IN خلوها/NN اول/ADJ مباراه/NN ولا/NN اخر/JJ مباراه/NN كلو/NN واحد/JJ هسه/NN الخوف/DTNN صار/VBD من/IN كفرسوم/NNP اكثر/JJR من/IN الفيصلي/DTNNP 
+
+عشائر/NN ./PUNC الشقباويه/DTNN ./PUNC تهنى/VBD ./PUNC ./PUNC الوحداتيه/DTNN ./PUNC المارد/DTNN ./PUNC الاخضررر/DTNN ./PUNC بالقب/NNP ,/PUNC ./PUNC العاشرررر/DTNN ./PUNC والثالث/NN ./PUNC على/IN ./PUNC التوالي/DTNN 
+
+يمكن/VBP لما/NNP يلعب/VBP شفيع/NN لحالو/NNP بفوزوا/NNP علينا/NNP 
+
+بالنسبه/NNP لمباراة/NNP الوحدات/NNP والفيصلي/NNP المحطه/DTJJ الاخيره/DTJJ .../PUNC انا/PRP بحكي/JJ انوا/VBD لازم/JJ ما/WP يكون/VBP في/IN مباراه/NN اصلا/NN .../PUNC 
+
+لانوا/VBD عمي/NN الوحدات/DTNNS كبير/JJ 
+
+لانوا/VBD عمي/NN الوحدات/DTNNS ما/WP في/IN زيوا/NNP 
+
+بدي/NN واحد/JJ يذكرني/VBP متى/WRB فاز/VBD اخر/JJR مرة/NN الفيصلي/DTNNP على/IN الزعيم/DTNN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 
+
+انا/PRP والله/NNP كنت/NNP خايف/NNP يصير/VBP فيهم/NNP اشي/NNP لكن/CC هل/RP معقول/JJ بان/VBD اداري/NN الفريق/DTNN هم/PRP من/IN يحرضون/VBP الفريق/DTNN وانا/NN بصراحه/NNP لم/RP افهم/VBP ليش/NNP عصبوا/VBD ثانيا/ADJ تحيه/VBP معطره/NN للنحم/NNP لؤي/NNP العمايره/DTNNP صاحب/NN الخلق/DTNN النبيل/DTJJ ثالثا/ADJ هل/RP يكون/VBP الاتحاد/DTNN جريء/JJ ويتخذ/NN عقوبات/NNS رادعه/JJ في/IN الفيصلي/DTNNP 
+
+مش/NN قلنالكم/NNP لو/IN بنلعب/NN بلاعب/NN واحد/JJ امام/NN الفيصلي/DTNNP راح/VBD نفوز/NN عليه/NNP واخر/NNP ست/CD سنوات/NNS بشهدوا/VBD عكلامي/NNS والله/NN والله/NN ما/IN زعيم/NN غيرك/NNP يا/RP وحدات/NNS الف/CD مبروك/NN كاس/NN الكؤوس/DTNN 
+
+كاس/NN الكؤؤس/DTNN صار/VBD في/IN الوحدات/DTNNS من/IN امس/NN وانتوا/VBD لساتكم/NNP نايمين/NNP فاز/VBD الوحدات/DTNNP عالفيصلي/JJ بهدف/NN برازيلي/NN 
+
+مسكين/JJ اللي/WP ما/WP عنده/VBD وحدات/NNS 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+وماعندهم/NN اي/NOUN اشي/NN اسمه/NN خبرة/NN .../PUNC 
+
+شو/NNP عملوا/VBD ؟/NN ؟/NN ؟/CD 
+
+الوحدات/NNP وبس/NNP والفيصلي/NNP ماله/NNP في/IN الفوز/DTNN نصيب/NN ./PUNC 
+
+بس/NN ما/WP سامع/VBD صوتهم/NN شباب/NN الفيصلي/DTNNP وله/NN نايمن/JJ من/IN القهر/DTNN ./PUNC 
+
+الف/CD مبروك/NN للمارد/NN الامبراطور/DTNN الفوز/DTNN بثاني/NNP القاب/NN الموسم/DTNN و/CC الف/CD مبروك/NN لاستمرار/NN سطوته/NN على/IN الفيصلي/DTNNP رايح/NNP جاي/NNP 
+
+شركات/NNS التامين/DTNN بضلها/NN مبسوطه/NN وهي/JJ بتاخذ/NN اقساط/NN التامين/DTNN 
+
+بدل/NN ما/WP حكينالك/VBD 
+
+شو/NNP رأيكم/NNP نعمل/VBP اسماء/NN الضرائب/DTNN ارقام/NN بدل/NN اسماء/NN 
+
+وهيك/NNP بيكون/NNP اسهل/JJR علينا/NN نعرف/VBP شو/NNP دفعنا/VBD وشو/NNP ضايل/NNP علينا/NNP 
+
+حاسس/NN حالي/JJ في/IN اليابان/DTNNP بعد/NN ما/IN قرأت/VBD هالمقالة/NN !!!/CD 
+
+شو/NNP القصة/DTNN يا/RP جماعة/NN الخير/DTNN ؟/VBD شو/NNP قصة/NN الزلال/DTNN يلي/VBP عم/NN بتشكل/NN خطر/NN قومي/JJ على/IN مقتنيات/NNS بلادنا/NNP و/CC يلي/VBP بحاجة/NN لخطة/NN طارئة/JJ حتى/IN نتفاداها/NN ؟/CD 
+
+والله/NN حرام/NN عليكم/JJ حتى/IN الرسالة/DTNN بدكم/NN تغلوها/NN 
+
+دوري/NNP الانجليزي/DTJJ عودنا/VBD ع/NN الحماس/DTNN والموسم/NNP هاد/NNP رح/NN يكون/VBP تار/NN وخصوصا/NN للمان/NN شيستر/NNP يونايتد/NNP للحصول/NNP ع/IN الانجاز/DTNN الثاني/ADJ بعد/NN الكاس/DTNN وايضا/NN تشلسي/NNP للحفاظ/NNP ع/NN الدوري/DTNN بعدما/NN ذهب/NN الكاس/DTNN بخساره/NNP من/IN المان/NN شسترا/NN 
+
+عنجد/NNP الله/NNP يعطيكو/NNP العافية/DTNN -LRB-/PUNC طالب/NN تجسير/NN مش/NN فاضي/JJ يحك/VBP راسو/NNP -RRB-/PUNC 
+
+شو/NNP مالها/NNP البلد/DTNN ؟/CD 
+
+ليش/NNP هيك/NNP ؟/CD 
+
+دخيـــــــــــــــل/NNP الله/NNP 
+
+شو/NNP يعني/VBP جمعتولنا/NN كل/NOUN هاي/NN الاخبار/DTNN بخبر/NN واحد/JJ منشان/JJ تسمو/VBP بدنا/NN مرة/NN وحدة/NN 
+
+و/CC الله/NNP مبين/NNP بدوا/VBD الوزير/DTNN يعلن/VBP ان/IN ما/WP في/IN ضريبة/NN للعام/NNP الحالي/DTJJ اكيد/JJ في/IN ضرائب/NN جديدة/JJ العام/DTNN القادم/DTJJ لان/NNP العام/DTNN الحالي/DTJJ خلاص/NN الموازنة/DTNN على/IN نهايتا/NNS 
+
+طيب/NNP والله/NNP كتر/NNP الله/NNP خيرك/NNP انو/VBD ما/WP في/IN ضرائب/NN جديدة/JJ على/IN الخلويات/DTNNS من/IN هون/NN لاخر/NN السنة/DTNN 
+
+وانا/VBD اسمعت/NN انو/NNP في/IN السنة/DTNN الجديدة/DTJJ في/IN زيادة/NN رواتب/NN عالية/JJ اكتير/NN عشان/NN هيك/NNP رح/NN تحضو/VBP ضرائب/NN اجديدة/JJ يالله/VBP ما/WP في/IN مشكلة/NN 
+
+سلم/VBD سلامات/NNS ضايل/NN بطولتين/NNS للوحدات/NNS 
+
+وهاردلك/NNP لاخواننا/NNP بالفيصيلي/NNP وبنقولهم/NNP خيرها/NN بغيرها/NN ومبروك/NN الوصافة/DTNN 
+
+الواحدات/DTNNS هو/PRP هو/PRP زعيم/NN بره/NN جوا/NN لانه/NNP بطل/NN 4/CD بطولاات/NNS في/IN العام/DTNN الماضي/DTJJ في/IN هذا/DT العام/DTNN دوريئن/NN والباقي/JJ على/IN الطريق/DTNN 
+
+ما/WP في/IN مدرب/NN بيجي/NNP عالوحدات/NNS الا/RP بزبط/NN ال/DT CV/CD تبعه/NN 
+
+يمكن/VBP لما/NNP يلعب/VBP شفيع/NN لحالو/NNP بفوزوا/NNP علينا/NNP 
+
+اي/NOUN والله/NN اسطوانه/NN ممله/NN ما/WP بيخسر/VBD الفيصلي/DTNNP الا/RP من/IN ظلم/NN الحكام/DTNN 
+
+اخر/JJR عشر/NN مباريات/NNS بين/NN الفيصلي/DTNNP والوحدات/NNS ومدربين/NNS الفيصلي/DTNNP انبح/VBD صوتهم/NN وهلكو/NNP من/IN الحكي/DTNN 
+
+يعني/VBP شو/NNP الحل/DTNN نعطيهم/VBP مدافعين/NNS من/IN عندنامثلا/NN ؟/NN ؟/NN ؟/NN !!!!!!/DTNN 
+
+الفيصلي/DTNNP مبارح/NN ما/WP خلا/VBD اشي/VB ما/WP سواه/VBN 
+
+هاردلك/NNP يا/RP لاعبين/NNS الفيصلي/DTNNP قدمتم/NN ما/WP عندكم/VBD وهاردلك/NN إلا/NN جماهيركم/NNP المتواضعة/DTJJ القليلة/DTJJ ./PUNC ./PUNC 
+
+اكرم/NNP سلمان/NNP :/PUNC ما/WP في/IN رباعيات/NNP باي/NNP -LRB-/PUNC بس/NN الوحدات/DTNNS ابو/NNP الرباعيات/DTNNP -RRB-/PUNC السنة/DTNN مافي/NNP القاب/NN ،/NN انصحك/NN فكر/NN في/IN الوصيف/DTNN يمكن/VBP تقدر/VBN تكون/VBP وصيف/NN بس/NN بطل/NN لاتحلم/JJ انت/PRP والفيصلي/JJ 
+
+9/CD -/PUNC الوحدات/NNP رايح/NNP جاي/NNP ان/IN شاء/VBD الله/NNP على/IN طول/NN 
+
+الكل/NOUN شاف/JJ المباراة/DTNN ولاحظ/NN انو/NN الفيصلي/DTNNP كان/VBD مسيطر/JJ اكثر/JJR 
+
+وانتو/NNP يا/RP وحداتية/JJ تذكرو/VBD مباراة/NN الوحدات/DTNNS وشباب/NN الاردن/DTNNP لما/NNP خسر/VBD الوحدات/DTNNS 
+
+اول/ADJ شي/NNP الحكم/DTNN مابعرف/NNP ايحكم/NNP السبب/DTNN ما/IN فوز/NN الفيصلي/DTNNP المباره/DTJJ ماكانت/NNP في/IN المستوي/DTNN ورافت/NNP ماكان/NNP في/IN المستوي/DTNN كان/VBD كل/NOUN باصاتو/NNP مو/NNP مزبوطه/NNP ووووووحداتي/NNP المارد/DTNN الاخضر/DTJJ والزرقا/NN قلبت/NN اخضر/JJ 
+
+يسلم/VBP ثمك/NN يا/RP ساره/NNP العبادي/DTNNP انتي/NN حكيتي/NNS اللي/WP لازم/VBD ينحكى/VBP ./PUNC ./PUNC بس/NN عتبي/JJ على/IN المسؤولين/DTNNS اللي/WP مش/NN ناويين/NNS يخلصونا/VBP من/IN هالفضايح/NNP اللي/WP بعملها/NN جمهور/NN الفيصلي/DTNNP ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 
+
+والله/NN حرام/NN يا/RP رافت/NNP كتير/NNP معذبهم/NNP مساكين/NNS هالفيصلي/JJ ضروري/JJ كل/NOUN مباراة/NN تعلم/VBP عليهم/NN انت/PRP وحليمو/NNS 
+
+العندليب/DTNN الاخضر/DTJJ نزعت/VBD قميصك/NN وانت/NNP تعلم/VBP العواقب/DTNN !!/NN ماذا/WP نسمي/VBP هذا/DT ؟/NN ؟/NN جرأة/NN ام/NN استهتار/NN ام/NN فرحة/NN هستيرية/JJ ؟/VBD لو/IN سجل/VBD الفيصلي/DTNNP التعادل/DTNN فيما/IN تبقى/VBP من/IN وقت/NN وفاز/JJ لا/RP سمح/VBP الله/NNP بركات/NNP الترجيح/DTNN ماذا/WP سيكون/VBP موقفك/NN ؟/NN ؟/NN وهل/NN ستسامحك/NN الجماهير/DTNN ؟/VBD ؟/NN مشان/NNP الله/NNP يا/RP حليمو/VBD احنا/NN بنحبك/NN بس/NN لا/RP تنسى/VBP انك/NN لاعب/NN محترف/JJ ./PUNC ومبروك/NNP البيبي/DTNNP ./PUNC 
+
+اللي/WP بحكي/VBP انو/NN الفيصلي/DTNNP عنده/NNP عقده/NNP اسمها/NN شباب/NNP الأردن/DTNNP بحب/NN ازيده/NNP بعقده/NNP ثانيه/NNP اسمها/NN حليمووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووو/NNP 
+
+1/CD دايما/JJ بيفتخرو/NNP بجمهورهم/NNP اللي/WP بلش/VBD يطلع/VBP من/IN المدرجات/DTNNS بعد/NN الهدف/DTNN عطول/NNP 
+
+اسلوب/NN الفرحة/DTNN ايها/RP اللاعب/DTNN المحترم/DTJJ غير/NN لائق/JJ ارجو/VBP مراعاة/NN ذلك/DT و/CC بالنهاية/NN لعبة/NN كرة/NN القدم/DTNN مرة/NN هيك/NNP و/CC مرة/NN هيك/NNP و/CC لا/RP يهمك/VBP يا/RP فيصلي/NNP و/CC الازرق/DTNN الزعيم/DTNN 
+
+الف/CD الف/CD مبروك/NN لنادي/NN الوحدات/DTNNS هذا/DT الفوز/DTNN وعقبال/NN الدوري/DTNN والكأس/NN والبطولة/NN الخارجية/DTNN وصور/NN ذيع/NN احسن/JJR جمهور/NN احسن/JJR تشجيع/NN الله/NNP اكبر/JJR السنة/DTNN كلها/NN اخضر/JJ بالزرقا/NN بمشي/NNP وبتمختر/NNP وحداتي/NNP ولابس/NN اخضر/JJ 
+
+عدنان/NNP حمدو/NNP يا/RP مدرب/NN المنتخب/DTNN يا/RP معلم/NN هل/RP شاهدت/VBD رأفت/NN علي/IN سؤال/NN سألناه/NNP الف/CD مره/NN وما/NN بدنا/NN ترد/VBP علينا/NN يا/RP ابو/NN الخطط/DTNN التكتيكيه/DTJJ انت/PRP ./PUNC 
+
+وسلم/VBD سلم/NN سلامات/NNS -LRB-/PUNC رايح-جاي/NNP -RRB-/PUNC للوحدات/NNS 
+
+شايفيين/NNS كيف/WRB مين/NN المارد/DTNN والزعيم/NNP ؟/NNP ؟/NNP الله/NNP يخليكم/VBP ماحدا/NN يقول/VBP ليش/NNP فاز/VBD الوحدات/DTNNP 
+
+وعن/VBD جد/NN .../PUNC عن/IN جد/NN .../PUNC ./PUNC مسكين/JJ اللي/WP ما/WP عنده/VBD وحدات/NNS ./PUNC 
+
+بدنا/NN بطولات/NNS بره/NNP خارجيه/NNP 
+
+سلم/VBD سلامات/NNS الرقم/DTNN -LRB-/PUNC 13/CD -RRB-/PUNC حلو/NNP على/IN الوحدات/DTNNS 
+
+سلم/VBD سلامات/NNS باب/NN الحاره/DTNN للوحدات/NNS 
+
+حليمو/NNP ضربكم/NNP بصاروخ/NNP ارض/NN جو/NN ومزق/NN شباك/NN العمايره/DTNN بقذيفه/NNP من/IN صنع/NN اردني/JJ وحداتي/JJ ماركه/NN مسجله/JJ 
+
+ما/WP بدنـــــا/VBD نحكي/VBP كثير/NN اليوم/DTNN 
+
+و/CC سلم/VBD سلامات/NNS الدوري/DTNN و/CC الكأس/DTNN على/IN خزاين/NN الوحدات/DTNNS جايات/NNS 
+
+يا/RP جماعه/NNP رمضان/NNP كريم/NNP ما/WP قالها/VBD سمور/NN سلم/NN سلامات/NNS كل/NOUN البطولات/DTNNS للوحدات/NNS يعني/VBP اتوقع/VBP اخر/NN السنه/DTNN هاي/NNP ينقلو/VBP الوحدات/DTNNS يخلو/VBP يلعب/VBP بدوري/NNP ثاني/NNP لانو/NNP ولا/NN فريق/NN قادر/NNP علينا/NNP وقالها/NNP خوري/NNP لما/NNP فزنا/VBD باخر/NNP دوري/NN نحو/NN 100/CD سنه/NN خضراء/JJ 
+
+عاد/VBD النية/DTNN انو/VBD مدرب/NN الفيصلي/DTNNP قال/VBD انو/NNP ناوي/NNP يحصل/VBP على/IN الأربع/DTNN ألقاب/NN ,/PUNC مبرووووووووووووووووووووووووك/NNP الوحدات/NNP الزعيم/DTNN ومن/NN يوم/NN يومكم/VBP رافعين/VN الراس/DTNN وبس/NNP 
+
+شفتوا/VBD كابتن/NN المنتخب/DTNN واخلاقه/DTJJ العالية/DTJJ شفتوا/VBD مين/NN بيستحق/NNP يحمل/VBP شارت/NN كابتن/NN المنتخب/DTNN وينك/NNP ياعدنان/NNP حمد/NNP شفت/NN المعلم/DTNN الفنان/DTNN الكبير/DTJJ رافت/NNP علي/NNP 
+
+وسلم/VBD سلامات/NNS زهقنا/NN بطولات/NNS 
+
+وهادرلك/NNP للفيصلي/NNP بنشوفكم/NNP بغلب/NNP ثالث/ADJ انشاء/NN الله/NNP 
+
+ثالثا/ADJ الى/IN جميع/NOUN المعلقين/DTNNS الوحداتين/DTJJ -LRB-/PUNC كأس/NN الاردن/DTNNP للفيصلي/NNP وشكلين/NNP ما/WP بنحكي/NN -RRB-/PUNC 
+
+وسلملي/NNS عباب/NN الحاره/DTNN 
+
+وسلم/VBD سلامات/NNS وبليله/NN بلبلوكي/NNP والكاس/NNP في/IN خزاين/NN الوحدات/DTNNS حطوكي/NNP 
+
+مبروك/CD الف/CD مبروك/NN لنادي/NN الوحدات/DTNNS الاردني/DTJJ ,/PUNC بداية/NN الموسم/DTNN طيبة/NNP وانشالله/NNP نحصد/VBP كل/NOUN البطولات/DTNNS .../PUNC يا/RP سيدي/NNP احمد/NNP عبد/NNP الحليم/DTNNP فرحان/NNP بالجول/NNP الي/IN جابه/NNP ,/PUNC وحقة/NN يفرح/VBP لما/IN يجيب/VBP جول/NNP بنهاية/NN المباراة/DTNN ,/PUNC وانا/VBD شايف/NNP انو/NNP مو/NNP مبالغ/NN بالفرحة/JJ .../PUNC الوحدات/DTNNS زعيم/NN زعيم/NN الكرة/DTNN الاردنية/DTJJ 
+
+والله/NN مش/NN عارف/NNP أكمل/NNP هو/PRP ضل/NN زعيم/NN غير/NN الوحدات/DTNNS 
+
+وين/NN الاتحاد/DTNN والمسؤولين/VN .../PUNC .../PUNC .../PUNC صراحة/NN للاسف/NN لايمكن/NNP الوصف/DTNN 
+
+والله/NNP الكبير/DTJJ بضلو/NN كبير/JJ .../PUNC والله/NN الشباب/DTNN برفعو/NNP الراس/DTNNP .../PUNC الله/NNP يحميكم/VBP .../PUNC مبرو/NN للمارد/NNP الاخضر/DTJJ ولسا/NN الحبل/DTNN على/IN الجرار/DTNN 
+
+وين/NN ما/WP بدكم/VBD يافيصلي/VBP رح/NN نلعب/VBP معكم/NN ورح/NN نضل/VBP نفوز/NN عليكم/NN بإذن/NNP الله/NNP ./PUNC 
+
+يعني/VBP يا/RP الفيصلاوية/DTNN تحججتوا/VBD بالحكم/NNP وجابولكو/NNP حكام/NN من/IN برة/NN وخسرتوا/VBD وتحججتوا/NN بالملعب/NNP وطلبتوا/VBD ملعب/NN الزرقا/DTNNP ولعبتوا/VBD علي/IN وخسرتوا/VBD وجيبتوا/NN مليون/NN مدرب/NN وخسرتوا/VBD وجيبتوا/VBD محترفين/NNS وخسرتوا/VBD .../PUNC ليش/NNP مش/NN راضيين/JJ تعترفوا/VBP انو/NN العيب/DTNN فيكو/NNP وانو/NNP بدكو/NNP فريق/NN من/IN اولو/NNP لا/RP اخروا/VBD 
+
+عزيزي/NNP الفيصلي/DTNNP ./PUNC ./PUNC بالنسبة/NN للدرع/NN حكيتوا/VBD عنه/NNP خشبة/NN ./PUNC ./PUNC كأس/NN الكؤوس/DTNN راح/NN تحكوا/VBD عنه/NN تنكـــة/NN مثلاً/NN ؟/NN !!/NN 
+
+ما/WP أزكى/VBD السحور/DTNN في/IN الزرقا/DTNNP 
+
+اولا/ADJ والله/NN ما/IN انا/PRP عارف/NNP اقوى/JJR دفاع/NN واقوى/JJ هجوم/NN والشوط/NN الثاني/DTNNP لعبتو/NNP كلو/NNP هجمات/NNS مرتدة/NN وللمرة/NN الثانية/ADJ هوالحض/NN الي/IN بوقف/NN بجنب/NN المارد/DTNN وبتخلى/DTJJ عن/IN الزعيم/DTNN انا/PRP مشجع/JJ فيصلاوي/NNP والزعيم/NNP هو/PRP الفيصلي/DTNNP بدون/IN منازع/NN وعشان/NN ما/IN تزعلو/VBP اذا/IN الوحدات/DTNNS بجيب/VBD زي/NN الفيصلي/DTNNP بطولة/NN اسيا/NNP انا/PRP اول/ADJ واحد/NN راح/NN يحكي/VBP للوحدات/NNS الزعيم/DTNN بس/NN هيك/NNP ما/RP بطلعلو/VBD الا/RP المارد/DTNN الاخضر/DTJJ 
+
+استحق/VBD الوحدات/DTNNS الفوز/DTNN والفيصلي/JJ لازم/JJ يدرب/VBP واسمعت/NN انهم/NN بحاولو/NNP مع/NN ميسي/NNP لكن/VBP رفض/NN التعليق/DTNN خليك/NN عل/NN لاعب/NN الوطني/DTNN احسنلك/DTJJ يا/RP فيصلي/NNP بلكي/NNP فلحت/NNP 
+
+هسا/VBD بحكو/NNP عن/IN الدوري/DTNN والكاس/NNP ذهب/VBD بس/NN لما/NNP يوخدهم/NNP الوحدات/NNP ابصر/VBD شو/NNP يحكوا/VBP عنهم/NN ،/NN ،/NN يمكن/VBP بلاستيك/NNP ./PUNC 
+
+يا/RP زلمة/NN مبروك/JJ للوحدات/NNS و/CC هاردلك/NNP للفيصلي/NNP ,/PUNC و/CC الي/IN بلعب/NN بخسر/NNP 
+
+عمي/VBD غيروا/VB نصف/NOUN الفريق/DTNN مشان/NN يكون/VBP في/IN امل/NN في/IN المنافسه/DTNN مع/NN العلم/DTNN هناك/RB شباب/NN ابدعوا/VBD ولهم/NN مستقبل/NN باهر/JJ اذا/IN تم/VBD الحفاظ/DTNN عليهم/NNP 
+
+الزعيم/DTNN هوالفيصلي/DTJJ .../PUNC ./PUNC راح/VBD تشوفو/NNP الفيصلي/DTNNP بالدوري/NNP شوراح/NNP يساوي/VBP .../PUNC .../PUNC ./PUNC ./PUNC 
+
+سلم/VBD سلامات/NNS كأس/NN الكؤؤس/DTNN للوحدات/NNS 
+
+طبيعي/NN ناخد/VBP لهسا/NN نصف/NOUN الالقاب/DTNN 
+
+ولكل/VBD الوحداتيه/DTNN الابطال/DTNN 
+
+مسكين/JJ اللي/WP ما/WP عنده/VBD وحدات/NNS 
+
+والله/NN كبير/JJ يا/RP وحدات/NNS من/IN يوم/NN يومك/VBP ورافع/NN راسنا/JJ ,/PUNC ,/PUNC ,/PUNC ,/PUNC ,/PUNC ,/PUNC جد/NN مش/NN عارفين/NNS شو/NNP نحكيلك/NNP كفيت/NNP ووفيت/NNP معنا/NN ,/PUNC ,/PUNC وانت/VBD دايما/JJ معلي/JJ راية/NN النادي/DTNN بالعلالي/NNP 
+
+والي/NN ما/WP عندو/VBD وحدات/NNS ,/PUNC ,/PUNC ,/PUNC ,/PUNC ,/PUNC راااحت/VBD على/IN شبابو/NNS 
+
+الوحدات/DTNNS يا/RP كايده/NN الوحدات/DTNNS يا/RP معلم/NN ولكن/NN المهم/DTNN في/IN الموضوع/DTNN 
+
+كول/NNP قطايف/NNP 
+
+وسلم/VBD سلامات/NNS الكاس/DTNN للوحدات/NNS 
+
+مسكيـــن/NNP اللــي/DTNNP ما/WP عنــــده/VBD وحـــــــدات/NNS ©/JJ 
+
+من/IN ليس/VBD له/NN وحدات/NNS طق/NN ومات/NNS -/PUNC ان/IN الوحدات/DTNNS لم/RP يلعب/VBP كما/CC اريده/VBP ان/IN بلعب/NNP ربما/RB لانه/NNP لم/RP يحب/VBP ان/IN يقسو/VBP على/IN الفيصلي/DTNNP كرمال/NN مدرب/NN الفيصلي/DTNNP الذي/WP ظن/VBD انه/NN يقدر/VBP ان/IN بفوز/NN بالبطولات/NNS كلها/NN فنسي/NNP انه/NNP كان/VBD مع/NN الوحدات/DTNNS واعتقد/DTJJ ان/IN الوحدات/DTNNS كان/VBD معه/JJ ./PUNC مسكين/JJ اللي/WP ماعنده/VBP وحدات/NNS يا/RP حرام/NN طق/NN ومات/NNS .../PUNC ./PUNC 
+
+كل/NOUN ما/WP نفوز/VBP عليكم/NN بتطلعولنا/NN بحجة/NN .../PUNC نفسي/NN نفوز/NN عليكم/JJ من/IN دون/NN ما/WP تتحججو/VBP ./PUNC ./PUNC ولله/NN زهقت/VBD من/IN حججكم/NN .../PUNC مرة/NN الحكم/DTNN ومرة/NN الارضية/DTNN ومرة/NN الشمس/DTNN كانت/VBD بعين/JJ لؤي/NN العمايرة/DTNN .../PUNC وعلى/VBD فكرة/NN انا/NNP عارف/NNP المرة/DTNN الجاي/DTJJ شو/NNP حجتكم/NNP .../PUNC حجتكم/NNP انو/NNP ضربة/NN العندليب/DTNN حامية/JJ ولؤي/JJ ما/WP عرف/VBD يصدها/NN .../PUNC خلص/VBD يا/RP عندليب/NN انت/PRP ما/WP تلعب/VBP المباراة/DTNN الجاي/DTJJ او/CC ازا/NNP بدك/NNP تلعب/VBP لا/RP تشوت/VBP صواااااااريييييييخ/NN شوووت/NNP عليه/NNP شوي/NNP شوي/NNP ماشي/NNP يا/RP حليمو/NNP .../PUNC وألف/NNP مبرووووك/NNP للوحدات/NNS وعقبال/NN الدوري/DTNN والكأس/NNP .../PUNC 
+
+الوحدات/DTNNS فاز/VBD وفاز/NN وفاز/NN مش/NN عارف/NNP من/IN ايش/NNP 
+
+وجماهيير/NN الفيصلي/DTNNP تقول/VBP ان/IN بطوله/NN الدرع/DTNN ترضيه/NN وبطوله/NN كأس/NN الكؤؤس/DTNN مباره/NN واحده/NN اي/NOUN مباره/NN عاديه/NN وان/NNP الدرع/DTNN خشبه/NN وكأس/NN الكؤؤس/DTNN تنكه/NN بقي/VBD الدوري/DTNN فهو/NNP زير/NNP ماء/NN وكأس/NN الاردن/DTNNP سخان/NNP شمسي/NNP والله/NNP حيرتونا/NNP يا/RP فيصلاويه/NNP انتوا/VBD لما/NNP تفوزا/NN بتقوموا/NN الارض/DTNN وما/NN بتقعدوها/NN اليس/NNP من/IN حقنا/NN ان/IN نفرح/VBP ان/IN نبتسم/VBP وكيف/NN لا/RP ونحن/VBN زعماء/NN الكره/DTNN الاردنيه/DTJJ بلا/NNP منازع/NNP بلا/NNP وصيف/NNP بلا/NNP شريك/NN والوحدات/NNS زي/NN الفريك/DTNNP ميحبش/NNP الشريك/DTNN 
+
+يعني/VBP بطولة/NN ماشي/NNP عشر/CD مباريات/NNS بصير/NN بس/NN رباعية/JJ شنص/NN يعني/VBP اعترفوا/VBD بالحق/NN الوحدات/DTNNS سابق/NN الفيصلي/DTNNP بعشر/NN سنوات/NNS ضوئية/JJ فليش/NN ما/WP تعترفوا/VBD والكل/NN بفوزوا/VBD عليكم/NN شنص/NN وانتوا/VBD عن/IN استحقاق/NN 
+
+كلوا/VBD لعيون/NNS الوحدات/DTNNS 
+
+اذاعة/NN عبدوش/NNP الدايش/DTNNP .../PUNC اذاعة/NN الوحداتي/DTNN العايش/DTJJ 
+
+اذاعة/NN عبدوش/NNP الدايش/DTNNP .../PUNC اذاعة/NN الوحداتي/DTNN العايش/DTJJ 
+
+احلى/VBD زعيم/NN وبكفي/NNS مشان/NNP الله/NNP اضلك/VBD تغلب/NN المساكين/DTNN 
+
+ما/WP بنط/VBD الا/RP الوحداتي/DTNN 
+
+للاشخاص/NN الي/IN ما/WP زالو/VBD يسألوا/VBP و/CC يتكلموا/VBP بالموضوع/NNP ,/PUNC القصة/DTNN كلها/NN شنص/NN ,/PUNC خلص/VBD بكفي/NNP المهم/DTNN مبروك/NNP للوحدات/NNP و/CC هاردلك/NNP للزعيم/NNP ,/PUNC و/CC الكبير/DTJJ كبير/JJ و/CC الي/IN نص/NN و/CC نص/NN و/CC نص/NN و/CC الشنص/DTNN شو/NNP حلو/NNP 
+
+زهقنا/VBD بطولات/NNS داخليه/NNP خلص/VBD وعلى/NN ادارة/NN الوحدات/DTNNS اللعب/DTNN بالرديف/NNP ورح/NNP يوخدوها/NNP ان/IN شاء/VBD الله/NNP بغض/NN النظر/DTNN دوري/NNP او/CC كأس/NNP او/CC سوبر/NNP ما/WP عادت/VBD تفرق/VBP وهسة/NN بدنا/NN بطولات/NNS خارجيه/NN منشان/JJ ننتقل/VBP للعالمية/NN لنادي/JJ بحجم/NN الوحدات/DTNNS وبحضور/NNP جمهوره/NNP الحضاري/DTJJ الواعي/DTJJ المنتمي/DTJJ والوفي/NNP لملكه/NNP وناديه/NNP العظيم/DTJJ 
+
+أولا/VBD مبروك/NN للزعيم/NNP .../PUNC ااه/NNP الوحدات/NNP الزعيم/DTNN لأنو/NNP بصراحة/NNP الزعيم/NN لازم/JJ يفوز/VBP و/CC اللي/WP ما/WP بيشوف/VBD منصة/NN التتويج/DTNN الا/RP عشان/NN يستلم/VBP الفضة/DTNN اسمو/VBD ''/NN وصيف/NN ''/NN 
+
+بعدين/NNP يا/RP جماعة/NN احنا/NN بدناش/NN نخلص/VBP من/IN الحجج/DTNN تبعت/VBD الفيصلاوية/DTNN ؟/NN ؟/NN ؟/NN !!!!/VBN مرة/NN بطلعولنا/NN بحجة/NN ارضية/NN الملعب/DTNN و/CC مرة/NN بحجة/NN انه/NN الهدف/DTNN تسلل/NN و/CC مرة/NN بحجة/NN انه/NN الحكم/DTNN لغى/VBD هدف/NN صحيح/JJ لحسونه/NN ''/NN اللي/WP كان/VBD باني/NNP غرفة/NN و/CC نايم/NN في/IN التسلل/DTNN ''/VBD بس/NN هل/RP مرة/NN في/IN نهفة/NN جديده/NN ''/NN الهدف/DTNN اجا/VBD بعد/NN انتهاء/NN الوقت/DTNN الاضافي/DTJJ ''/VBD ؟/NN ؟/NN !!!/NN هاااااااي/NNP جديده/NNP لنج/NNP .../PUNC بس/NN على/IN فكرة/NN الشوط/DTNN الثاني/DTNNP اعطاكم/NNP زياده/NNP 5/CD دقائق/NN عن/IN الوقت/DTNN الاضافي/DTJJ عشان/NNP تجيبو/NNP هدف/NN بس/NN كمان/NN ما/WP عرفتو/VBD تجيبوه/NN !/PUNC شو/NNP يعمل/VBP يعني/VBP يجيب/VBP جول/NNP عنكم/NNP عشان/NNP ترضو/NNP ؟/VBD ؟/NN ؟/NN .../PUNC اي/NOUN سيبوكو/NNS من/IN هل/RP عاده/NN 
+
+المعلم/DTNN رأفت/VBD بيمشي/NNP بالكرة/NNP .../PUNC وبتجاوز/NNP اول/ADJ لاعب/NN .../PUNC وبمد/NN الطابة/DTNN بالمقاس/NNP للعندليب/NNP والعندليب/NNP بيمشي/NNP وبيمشي/NNP وبسدد/NNP العندليب/DTNN صاروخ/NN ارض/NN ارض/NN 
+
+الف/CD مبروك/NN فوز/NN الوحدات/DTNNS المتتالي/DTJJ على/IN شقيقه/NN النادي/DTNN الفيصلي/DTNNP والوحدات/NNS يجب/VBP ان/IN يجد/VBP فريق/NN قوي/JJ يلعب/VBP ضده/NN لكي/JJ يزيد/VBP من/IN مستواه/NN ويطور/NN لعبه/NN وهزا/NN الفريق/DTNN طبعا/NN من/IN خارج/NN الاردن/DTNNP لانه/NNP لا/RP يوجد/VBN فريق/NN في/IN الاردن/DTNNP يستطيع/VBP ان/IN يجاري/VBP الوحدات/DTNNS في/IN لعبه/NN وخلص/NN بكفي/NNP ولازم/NNP نلعب/VBP معهم/NN بالفريق/NN الرديف/DTNN ومع/NN ذلك/DT انا/PRP متاكد/JJ ان/IN الفريق/DTNN الرديف/DTJJ سوف/RP يهزمهم/VBP ايضا/RB يعني/VBP شو/NNP بدنا/NN نعمللهم/NN مش/NN راح/NN نقدر/VBP نساعدهم/NN عشان/NN ياخدو/NNP بطوله/NNP الا/RP اذا/IN بقرر/VBD الوحدات/DTNNS انه/NN ما/WP يلعب/VBP في/IN احدى/NN البطولات/DTNNS وتحياتي/NNP للجميع/NNP 
+
+سلم/VBD سلامات/NNS درع/NN الاتحاد/DTNN للوحدات/NNS 
+
+سلم/VBD سلامات/NNS الدوري/DTNN للوحدات/NNS 
+
+سلم/VBD سلامات/NNS البطولات/DTNNS اللي/WP ضلت/VBD للوحدات/NNS 
+
+مسكين/JJ اللي/WP ما/WP عندو/VBD وحدات/NNS 
+
+فضّولنــا/NN الساحة/DTNN يا/RP شباب/NN للوحدات/NNS 
+
+والله/NN العز/DTNN بيلبقــــــــلك/NNP يا/RP وحدات/NNS 
+
+الي/IN بقرا/NN تعليقاتكم/NN بحس/NN انكم/NN بدكم/NN الزلمة/DTNN يشتغل/VBP ويروح/NN للبيت/NN ينظف/VBP وانتن/NN نايمات/NNS يا/RP صبايا/NN خلي/NN كل/NOUN وحده/NN تشوف/VBP امها/NN شو/NNP بتعمل/NNP بالبيت/NNP قبل/NN ما/WP تكتب/VBP اي/NOUN تعليق/NN !!!!!!!!!!/JJ 
+
+عشان/NN هيك/NNP انا/PRP بزعل/NN من/IN المطاعم/DTNN اللي/WP بتستنا/VBD رمضان/NNP وبتعمل/NNP صيانه/NN والله/NN رزقه/NN وبتكسبو/NNS اجر/NN بالعرايس/NNP الجداد/DTJJ 
+
+ناس/NN بتاكل/NN عشان/NNP تعيش/VBP و/CC ناس/NN عايشة/NNP عشان/NNP تاكل/NN ./PUNC رمضان/NNP بهاي/NNP البلد/DTNN شهر/NN اكل/NN و/CC عزايم/NN مش/NN شهر/NN صيام/NN بعدين/JJ يا/RP الاخي/NN المراة/DTNN مش/NN طباخة/JJ و/CC لا/RP خدامة/NN هاي/NNP دكتورة/NNP و/CC مهندسة/NN و/CC انسان/NN حابة/NN تطبخ/VBP لجوزها/NN جميل/NN ما/IN بتحب/NN بتساعدوا/VBD بالاكل/NNP او/CC بجيبوا/VBD من/IN بره/NN الدنيا/DTNN قيها/NN كثييييير/NN امور/NN اهم/JJR من/IN بطونكم/NN ./PUNC 
+
+هو/PRP الحقيقه/DTNN صار/VBD القطايف/DTNN والكعك/NNP بتمر/NNP جزء/NN لا/RP يتجزاء/VBP من/IN فرحه/NN العيد/DTNN ورمضان/NN فتعودت/NN الناس/DTNN على/IN هيك/NNP وما/NN بيشترو/NNP القطايف/DTJJ ولا/NN الكعك/DTNN بتمر/NNP الا/RP بالمناسبتين/NNS هدول/NNP 
+
+برأيي/NNP كل/NOUN اللي/WP بتحكيه/NN انا/PRP بعارضو/NNP بشكل/NN كبير/JJ شوف/NN الاسعار/DTNN بالمؤسسة/DTJJ العسكرية/DTJJ و/CC المدنية/DTJJ و/CC الاسعار/DTNN بالسوق/NNP وين/NNP الفرق/DTNN بين/NN السعرين/DTNNS بيروح/NNP ؟/NNP ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN للتجار/NN صح/VBD و/CC الا/RP لأ/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 
+
+عمرك/VBD ما/WP رح/VBD بسير/NN في/IN دراما/NN هون/NN بوجود/NNP هيك/NNP ممثلين/NNS و/CC مسلسلات/NNS 
+
+هذه/DT دوله/NN القانون/DTNN والمؤسسات/NNS مش/NN دوله/NNP الزعرن/DTNNP وزعرنه/NNP 
+
+الله/NNP حيو/VBD رجال/NN الامن/DTNN العام/DTJJ والله/NN انهم/NN رجال/NN 
+
+انا/PRP مع/NN انو/NN يكون/VBP هناك/RB عقاب/NN صارم/JJ ورادع/JJ يمنعهم/VBP من/IN انهم/NN يقومو/VBP بهذا/NN العمل/DTNN مرة/NN احرى/JJR مش/NN يقضوا/VBP فترة/NN في/IN السجن/DTNN وبعدها/NN ترجع/VBP حليمة/NN لعادته/NN القديمةولازم/DTNN ينعرف/VBP السبب/DTNN اللى/WP خلاهم/VBD يعملو/VBP هيك/NN احنا/NN بلد/NN محافظ/NN بشكل/NN عام/NN شو/NNP اللي/WP بخلي/VBN ناس/NN من/IN اهلو/NN يعمل/VBP هالفعل/NN الشائن/DTNN ؟/VBD ؟/NN ؟/NN سؤال/NN للحكومة/JJ 
+
+اكيد/JJ الي/IN صار/VBD غلط/NN وحرام/NN بس/NN شو/NNP السبب/DTNN الي/IN خلاهم/NN يعمل/VBP هيك/NNP شو/NNP دور/NN الحكومه/DTNN في/IN الموضوع/DTNN 
+
+وايضا/NN طريق/NN الغور/NN ا/IN قبل/NN يومين/NNS لحتى/JJ قطعت/VBD عنهم/NN وكان/NN لها/NN ست/CD ايام/NN دايره/NNP عندهم/NNP ./PUNC 
+
+ما/WP في/IN ادارة/NN من/IN قبل/NN السلطه/DTNN للدور/NNP قال/VBD مهندسين/NNS ومش/NN عارفين/NNS بوزعوا/NNP دور/NN للمي/JJ ./PUNC 
+
+لانو/NNP عندي/NNP استفسار/NN مهم/JJ وما/NN حدا/NN بردعلي/JJ الخط/DTNN مشغول/JJ ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 
+
+كيف/WRB اجيب/NNP خبرة/NN ؟/CD 
+
+شي/NNP حلووو/NNP 
+
+اصلا/NN انتو/NNP متاكدين/VN الظروف/DTNN الماديه/DTJJ والوضيفيه/NNP هي/PRP السبب/DTNN 
+
+انا/PRP ما/WP فهمت/VBD ايش/NN يعني/VBP مسناة/NN و/CC ايش/NN يعني/VBP مجرى/NN سيل/NN في/IN وسط/NN ارض/NN زراعيه/NNP و/CC لكن/CC ياأخي/VBP يسر/NN و/CC لا/RP تعسر/VBP و/CC ليكن/VBP في/IN قلبك/NN رأفة/NN و/CC رحمه/NN بهذا/NN العجوز/DTNN و/CC اعتبره/VBD ابوك/NNP حتى/IN لو/IN اذاك/VBN كيف/WRB و/CC الرسول/DTNN الللهم/DTJJ صلي/VBD و/CC سلم/VBD عليه/NNP اوصى/VBD بالجار/NNP الله/NNP يجعل/VBP الجنه/DTNN سكنك/NNP و/CC ارضك/NNP 
+
+اكيد/JJ اذا/IN فيه/NNP حريق/NN يركب/VBP سيارته/NN ويمشي/JJ ./PUNC ./PUNC مشكلة/NN يعني/VBP ؟/NN 
+
+وين/NN حق/NN الجار/DTNN على/IN الجار/DTNN 
+
+ليش/VBD سلامات/NNS وين/NN الابو/DTNN والاخو/NNP والام/NNP والزوج/NNP 
+
+ولو/VBD البنت/DTNN قلبها/NN مليان/NNP حب/NN وطاعه/NN لرب/NN العالمين/DTNNS ماراح/NN تطلع/VBP بهاللبس/NNP والمكياج/NNP 
+
+الله/NNP يرحم/VBP ايام/NN زمان/NN لمن/NN الرجال/DTNN كان/VBD يعتبر/VBN بنات/NNS الناس/DTNN اخواته/NN واهله/NNP 
+
+وبعدين/NNS فيه/NNP بعض/NOUN البنات/DTNNS من/IN لباسها/NN تعرف/VBP انها/NN .../PUNC ؟/CD 
+
+قال/VBD ايش/NNP شهامه/NNP .../PUNC 
+
+قال/VBD ايش/NNP قال/VBD بري/NNP 
+
+ايش/NNP يعني/VBP الاعبين/DTNNS اللي/WP قبله/NN !!/CD 
+
+اكثر/JJR من/IN ثلاثة/CD ارباع/NOUN المجتمع/DTNN هم/PRP تحت/NN الايذاء/DTNN من/IN زوجاتهم/NN ويتم/NNP استنزافهم/VBD الى/IN اقصى/JJR الحدود/DTNN ولم/NN نسمع/VBP من/IN يدافع/VBP عنهم/NN ويوعي/NNS النساء/DTNN ويعلمهن/NNP التعامل/DTNN الصحيح/DTJJ مع/NN الازواج/DTNN خصوصا/NN مع/NN شدة/NN الحياه/DTNN في/IN هذا/DT الزمن/DTNN ./PUNC صاير/NN التوجه/DTNN فقط/RB للمراءة/NN والرجل/NN ولاشي/NNP 
+
+معقوله/NN اللي/WP هشموا/VBD سيارة/NN الهيئة/DTNN !!/NN تركوا/VBD كل/NOUN السيارات/DTNNS و/CC هشموها/NN عشوائياً/NN 
+
+كويس/NNP هداف/NN رقم/NN واحد/JJ 
+
+أجل/VBD لعيون/NNS لبنان/NNP كم/PRP$ حسن/NN وحسنات/NNS تم/VBD وضعها/NN هونيك/NNP ./PUNC ./PUNC !/PUNC 
+
+يا/RP عمي/NN ع/IN الروءااان/DTNN .../PUNC ناس/NN عايشة/NNP حياتها/NN ولا/NN على/IN بالها/NN 
+
+حطو/VBD ميزانيه/NNP للعاطلين/NNP يا/RP عالم/NN 
+
+وماذا/NN عن/IN ابنائنا/NN في/IN امريكا/NNP ./PUNC ./PUNC اسالوهم/VBP عن/IN حجم/NN المعاناة/DTNN حتى/IN يتحصل/VBP على/IN نتفة/NN بكالوريوس/NNP ./PUNC 
+
+الي/IN ما/WP فهمت/VBD ايش/NN علاقة/NN الورثة/DTNN وليش/NN ما/WP يرثونة/VBP ,/PUNC اي/RP ذنبهم/NN ,/PUNC يعني/VBP ليش/NN يروح/VBP مال/NN المتوفي/DTJJ الى/IN بيت/NN المسلمين/DTNNS اذا/IN كان/VBD الشخص/DTNN حسب/NN ما/WP ذكرتواز/VBD 
+
+مشي/NNP حالك/NNP ./PUNC 
+
+السلام/DTNN عليكم/NN جميعا/NOUN انا/PRP بدي/NN اعرف/VBP شو/NNP دخل/VBD عدد/NN حمامات/NNS البيت/DTNN وعدد/NN الغرف/DTNN وعدد/VBD اجهزة/NN التلفزيون/DTNN والجوال/NNP والحاسب/NNP الالي/DTJJ الموجودة/DTJJ بعملية/NN التعداد/DTNN السكاني/DTJJ ارجو/VBP من/IN يعرف/VBP الاجابة/DTNN ان/IN يقولها/VBP وهناك/NN الكثير/DTNN من/IN الاسئلة/DTNN الغير/DTNN مهمة/NN يتم/VBP طرحها/NN ؟/NN ؟/NN ؟/CD 
+
+يعني/VBP ماتأكدوا/NNP انها/NN بنت/NNP الا/RP بالمستشفى/VBD ؟/NN ؟/NN ؟/CD 
+
+صراحه/NN مافيه/NN معلوم/JJ انا/PRP ايش/NN كلام/NN ؟/NN جيب/NN واحد/JJ شاهي/JJ صديق/NN 
+
+همس/VBD المشاعر/DTNN \//IN اذا/IN كان/VBD مايعرفها/NN ليش/NN يركبها/VBP معاه/NN على/IN اكيد/JJ كان/VBD ناوي/VBP نيه/NN ويستغل/NNP المسكينة/DTJJ 
+
+ايش/VBD قصة/NN مصانع/NN الاسفنج/DTNN حرائق/NN ور/NN بعض/NOUN 
+
+خلصووو/NNP 
+
+بس/NN ترجع/VBP المهر/DTNN الله/NNP لايهينها/NNP 
+
+والي/NN مو/NN عاجبها/JJ بيت/NN ابوها/NN موجود/JJ الى/IN زمن/NN معلوم/JJ 
+
+يلله/VBP اصلا/NN مافيه/NNP امل/NNP اتزوج/VBD طفران/NNS ههه/NNP 
+
+بس/NN يبقا/VBP للحوار/NN اهميه/NN مهماكانت/JJ نسبه/VBP الشلل/DTNN 
+
+الله/NNP يفرج/VBP علينا/NN وعليكم/NN وحلو/NNP منكم/NNP انكم/VBD نزلتوا/NN موضوع/NN بهالجريده/NNP 
+
+بالتوفيق/NN لليوث/NN اهم/JJR شي/NNP يقفلونالدفاع/VBP ولايستعجلون/NNP ويتسرعون/NNP بالفوز/NNP اذا/IN اتسرعو/VBD راح/NN نخسر/VBP كل/NOUN شي/NNP اتمنى/VBP من/IN اللعبين/DTNNS ان/IN ينتبهو/VBP لهالنقطه/NN واحنا/NN منتضرين/NNS ابداعاتهم/JJ اليوم/DTNN واتمنى/NN الحضور/DTNN الجماهيري/DTJJ من/IN الجانب/DTNN الشبابي/DTJJ وبقوه/NNP لمؤازرة/NNP الفريق/DTNN ويااارب/NNP نفوز/NNP هاليوم/NNP وبكل/NNP امباراه/NNP ونشاءلله/NNP نتغلب/VBP على/IN كل/NOUN الظروف/DTNN 
+
+يعطيك/VBP العافيه/DTNN '/PUNC وأنا/NN كان/VBD بدي/NN أعمل/VBD هيك/NNP بس/NN ماني/JJ عرفان/NN الفلفل/DTNN الحار/DTJJ شو/NNP حكايته/NNP مع/NN الشوكولا/DTNNP ./PUNC 
+
+يسعد/VBP مساكم/NN 
+
+اقول/VBP الله/NNP لا/RP يعمينا/VBP بس/NN .../PUNC فيه/NNP احلا/NN بكثييير/NNP 
+
+مثل/VBD ماقالو/NNP الاخوان/DTNN واكثر/NNP 
+
+ناس/NN تعرف/VBP تفكر/VBP وتعرف/NN تشتغل/VBP والدليل/NN شووفوا/NNP قطر/NNP امس/NN ./PUNC ./PUNC واليوم/NN فرررق/NN كبير/JJ في/IN جميع/NOUN المجالات/DTNNS 
+
+لما/NNP يخلص/VBP الدوام/DTNN يترك/VBP أ/NN -RRB-/PUNC شي/NNP بيده/NNP ويمشي/NNP لأنه/NNP انتهى/VBD دوامه/NNP وأنجز/NNP اللي/WP عليه/VBN لهذا/NN اليوم/DTNN 
+
+بس/NN مو/NNP كأنو/NNP البطلون/DTNNP اتحادي/NNP ./PUNC ؟/CD 
+
+ايش/VBD المقصد/DTNN يعني/VBP ؟/NN 
+
+الزعيم/DTNN ماينخاف/NNP عليه/NNP وكلنا/NNP معاااه/NNP 
+
+حبيب/NNP البي/NNP بندر/NNP 
+
+اي/NOUN رعب/NN ياعمي/VBP هذا/DT وهو/NN فايز/NNP عليكم/NNP بالخمسه/NNP مانقول/NNP الاحسبي/NNP الله/NNP على/IN لجنة/NN الانحطاط/DTNN 
+
+كل/NOUN هذا/DT فرح/NN بس/NN شكلها/NN فرحة/NN قصيره/NNP 
+
+معليش/VN على/IN الدخلة/DTNN 
+
+باذن/NNP الله/NNP وهو/VBD ما/WP خافو/VBD منه/NNP وازعجهم/NNP لانامت/NNP لهم/NN عين/NNP 
+
+ههه/NNP لهالدرجه/NNP مرعبكم/NNP فيقاروا/NNP :/PUNC -RRB-/PUNC 
+
+هذا/DT الأتحاد/DTNN اللي/WP غير/NN معترف/VN فية/NN رسميا/JJ ؟/VBD ؟/PRP متى/WRB يتم/VBP الأعتراف/DTNN فية/JJ من/IN قبل/NN الفيفا/DTNNP ؟/CD 
+
+طيب/NNP هالشي/NNP معروف/JJ من/IN زمااان/NNS !/PUNC 
+
+الله/NNP يخلف/VBP عليك/NN بس/NN لو/IN حاطلها/VBD الضلال/DTNN عن/IN البرد/DTNN وعن/NN الشمس/DTNN تضلل/VBP فيه/NNP كان/VBD ماصر/JJ الي/IN صار/VBD 
+
+الزعيم/NN محلي/JJ بس/NN خارجياً/NN قابلني/NNS المباريات/DTNNS الجايه/DTJJ اذا/IN فاز/VBD 
+
+وعشان/NNP الله/NNP يوفقكم/VBP اجتهدو/NNS وشدو/NNP حيلكم/NNP 
+
+عجبني/NNP كثييير/NNP 
+
+يعطيهم/VBP الف/CD عافيه/NN على/IN اهتمامهم/NN بهالفئه/NN الغاليه/DTNN علينا/NNP 
+
+عرض/NN رائع/JJ جدااا/NN شكر/NN ستc/NN على/IN هضا/NN العرض/DTNN الرائع/DTJJ جدااا/NN 
+
+صباح/NN المانجووو/DTNN بصراحة/NN شي/NNP حلو/NNP للمنطقة/NN والى/NN الامام/DTNN ان/IN شاء/VBD الله/NNP .../PUNC عاشق/NNP المانجو/DTNNP 
+
+بل/CC على/IN العمل/DTNN كلللووو/NNP 
+
+وبعدين/NNP تعال/VBP وصرح/NN على/IN كيفك/NNP 
+
+قضى/VBD وقدر/NNP صح/VBD بس/NN لو/IN نرجع/VBP لله/NN لكانت/NN الحوادث/DTNN أخف/NN من/IN ذالك/NN شوف/NN كيف/WRB أن/VBD رمضان/NNP تخف/VBP نسبه/NN الحوادث/DTNN فيه/NNP لنه/NNP الناس/DTNN بترجع/NN لله/NN في/IN الصيام/DTNN والقيام/NN والقران/JJ حتى/IN المشاكل/DTNN في/IN المحاكم/DTNN تخف/VBP 
+
+وفجأة/NN ظهر/NN بقوة/NN ايش/NN السبب/DTNN 
+
+محششين/NNS مسوين/JJ امسيه/NN ثقافية/JJ بعنوان/NNP :/PUNC 
+
+اللي/WP آيله/VBP الاول/ADJ بس/NN اعمل/VBP 
+
+يسلموو/VBP ع/NN المقال/DTNN 
+
+وين/NNP ايام/NN عدنان/NNP ولينا/NNP وهااايدي/NNP ياحلو/NNP هذيك/NNP الايام/DTNN 
+
+عمومآ/NN كاريكاتير/NNP حلو/NNP ويسعد/NNP لي/NNP مسائكم/NNP 
+
+ياحكومه/VBP وين/NN العقاب/DTNN الرادع/DTJJ بلاش/NN شغل/NN الواسطات/DTNNS في/IN مثل/NN هاالامور/NNP 
+
+والله/NN ما/IN شفت/NN زيها/NN 
+
+الله/NNP يكفينا/VBP الشر/DTNN 
+
+أهبل/VBD حتى/RP يدفع/VBP هيك/NNP مبلغ/NN ؟/NN ؟/NN ؟/CD 
+
+ليش/NNP هيك/NNP مابصيرش/NNP هالكلام/NNP شو/NNP بدي/NN احكي/VBP يازلمة/NN ولك/NN كولي/NNP ليش/NNP اكيد/JJ ماكل/NN طرشي/NNP ومعصب/NN هذولا/NN هم/PRP$ اول/ADJ مايطلع/NN يعصب/VBP تلقاة/NN عصب/NN وباع/VBN الي/IN وراة/NN والي/NN قدامة/NN وحتي/NNS البك/DTNN اب/NNP 
+
+شو/NNP الي/IN دخلهم/NN عندنا/NN 
+
+الله/NNP يحفظ/VBP جميع/NOUN المسلمين/DTNNS وين/NN ماكانو/NNP ./PUNC ./PUNC 
+
+ياجماعة/VBP الخير/DTNN أي/NN مستشفيات/NNS ولادة/NN ونحن/NN الواحد/DTNN يخاف/VBP يولد/VBP زوجة/NN في/IN المستشفيات/DTNNS الحكومية/DTJJ بعدين/NN كوبا/NNP بلد/NN يعتبر/VBN غني/JJ في/IN شوية/NN بترول/NN وفيها/NN صناعات/NNS تكفي/VBP حاجتها/NN ما/WP تحتاج/VBP تبرعات/NNS 
+
+انا/PRP طفران/NNS اطفر/VBP من/IN ضب/NN العقبة/DTNN 
+
+هيدي/NNP أكيد/NNP مزحة/NN !/PUNC 
+
+واستغرب/NNP انو/VBD ما/WP انقلب/VBD فيهم/NN المركب/DTNN من/IN العسكري/DTNN 
+
+الله/NNP يشفيه/VBP ويشفي/NN كل/NOUN مريض/NN يارب/VBP 
+
+الله/NNP بصبر/NNP زوجتو/NNP واولاده/NNP 
+
+وين/NNP راح/VBD فيقاروا/NNP وين/NNP راح/VBD الجنوبي/DTNN وعلي/NNP يزيد/NNP 
+
+وين/NN مريام/JJ ام/CC كشة/NN تجي/NN تشوف/NNP :/PUNC -RRB-/PUNC 
+
+اهنيه/NNP ع/IN مدامته/NN الي/IN مستقبلته/NN بملعقة/NN الغرف/DTNN 
+
+يا/RP خي/NN اول/ADJ شي/NNP عدل/VBD شوارعنا/NN واهتمو/NNP بتخطيطها/NN وتنظيمها/NN 
+
+بس/NN لو/IN يوقفو/VBP تدبيل/NN المخالفات/DTNNS 
+
+بس/NN المشكله/DTNN ليش/NN نفكر/VBP بما/NN بدا/VBD به/NN الاخرين/DTNNS ليش/NN مانفكر/NNP بما/NNP انتهى/VBD منه/NNP الاخرون/DTNNS المانيا/NNP احتفلت/VBD امس/NN بوضع/NN 12مروحه/CD في/IN عرض/NN البحر/DTNN لا/RP انتاج/NN الكهربا/DTNN لا/RP اكثر/JJR من/IN 50الف/CD بيت/NN با/NN الاستفاده/DTNN من/IN الطاقه/DTNN الشمسيه/DTJJ والتيارات/NNS الهاوائيه/DTNN --/CD 
+
+طيب/NNP ياحلو/NNP ليش/NNP في/IN فكركم/NN قال/VBD خمسين/CD سنه/NN 
+
+كنت/VBD اقول/VBP لو/IN فيه/NNP مثل/NN الباونص/DTNN او/CC المكافأه/DTNN الماليه/DTJJ للموظف/DTJJ الحكومي/DTJJ الي/IN ينجز/VBP اكبر/JJR عدد/NN من/IN المعاملات/DTNNS بيتحرك/NNP اكثر/JJR بدال/NN هالتعطيل/NNP و/CC اكل/NN الرواتب/DTNN بدون/IN وجه/NN حق/NN 
+
+الله/NNP عليك/NNP يابوحسام/NNP مقال/NN اعجبني/JJ حقيقة/NN ومقدر/NN وضعك/NN وكنت/VBD دائما/NN اتسائل/NNP ماشاء/NNP الله/NNP عليك/NNP كيف/WRB تتحمل/VBP كتابة/NN مقالة/NN بشكل/NN شبه/NN يومي/JJ وفوق/NN هذا/DT يجيك/VBP موظف/NN منسدح/JJ تحت/NN المكيف/DTNN ويذم/NNP وينتقد/NNP بشكل/NNP غير/NN عقلاني/JJ ولا/NN منصف/JJ 
+
+ياساتر/VBP هاه/NNP اكبر/JJR خطا/NN طبي/JJ 
+
+حبيت/NN اعطي/VBP معلومه/NN ارجو/VBP نشرها/NN ان/IN مثل/NN هذا/DT الحراج/DTNN يتكون/VBP بمعرفة/NN اهل/NN معارض/NN السليل/DTNN حيث/WRB يقوم/VBP صاحب/NN المزاد/DTNN بالمرور/NNP على/IN جميع/NOUN المعارض/DTNN واخذ/NN جميع/NOUN ما/WP عندهم/VBD وبيعه/NN بالسعر/NNP المحدد/DTJJ من/IN قبل/NN صاحب/NN المعرض/DTNN بطريقة/NN المزايدة/DTNN -LRB-/PUNC المرحه/DTNN -RRB-/PUNC 
+
+بس/NN من/IN يوظف/VBP ''/NN التسعين/DTNNS الف/CD ''/NN ؟/CD 
+
+الصبر/DTNN وتطويل/NN البال/DTNN وبرود/NN الاعصااب/DTNN نعمممه/NNP والله/NNP 
+
+كل/NOUN اللي/WP بقنوات/VBD التلفزيون/DTNN السعودي/DTJJ اردنيات/NNS ومصريات/NNS !/PUNC 
+
+بدل/NN برنامجكم/NNP اللى/WP ماله/NN داعي/NN لامواضيع/JJ و/CC الا/RP مذعين/JJ زي/NN الناس/DTNN ''/NN والله/NN ناسي/JJ اسمه/NN اظن/VBP فيه/NNP كلمة/NN الياسمين/DTNNS ''/VBD حطو/NN برامج/NN مفيده/JJ للمشاهدين/JJ ليس/VBD هدفها/NN استعراض/NN نساء/NN فقط/RB 
+
+وجودكم/NN بس/NN يحكي/VBP 
+
+الحمدلله/DTNN خسر/VBD الإتحاد/DTNN وطلع/NN وإن/NN شاء/VBD الله/NNP ينزل/VBP مستواه/NN مره/NN ثانيه/NNP 
+
+منشان/NN يكسب/VBP التأهل/DTNN 
+
+فريق/NN نار/NN ياحبيبي/NNP ولع/NN نار/NN 
+
+بالاول/NNP لعبنا/VBD واحد/NN عمره/NN 16/CD سنه/NN ضدكم/NN ههه/NNP 
+
+ياحرآآآم/VBP كم/PRP أرحم/VBP هذا/DT الفريق/DTNN الله/NNP باليهم/NNP بأنفسهم/NNP ./PUNC ./PUNC ماكنهم/NNP قاموا/VBD الدنيا/DTNN ولا/NN قعدوها/NN عشان/NNP نفس/NN هاللاعب/NNP و/CC الحين/DTNN شوفوا/VBD وش/NN قاعد/NN يسوي/VBP يبتزهم/NN ./PUNC ./PUNC و/CC لو/IN أنه/VBD غلط/NN طبعا/NN ''/NN من/IN صائد/NN الكبار/DTNN تأخير/VBP رواتبه/NN بس/NN شوفوا/VBD المصري/DTNN كيف/WRB لوا/VBD ذيله/NN ./PUNC ./PUNC 
+
+لا/RP وانت/VBN الصادق/DTNNP اعطني/NNP حسن/NNP نيه/NNP رئيسنا/NN شبيه/NN الريح/DTNN واعطيك/NNP بطولات/NNS .../PUNC 
+
+الله/NNP محيي/NNP اصلك/VBD يا/RP ملك/NN الانسانية/DTNN 
+
+هاهاها/NNP ./PUNC ./PUNC الله/NNP على/IN خفة/NN الدم/DTNN لبعض/VBD المرتزقه/DTNN اللي/WP فوق/NN بالصفحه/NN أجل/NN كاس/NN بو/NNP ولد/NNP ./PUNC ./PUNC !/PUNC 
+
+الله/NNP يرحموا/VBP ويرحم/NNP ابي/NNP وموت/NNP المسلمين/DTNNS أجمعين/NNS ويرحمنا/JJ اذا/IN صارنا/VBD الى/IN ماصاروا/NNP اليه/NNP ويبدله/NNP دار/NN خير/NN من/IN داره/NNP واهل/NNP خير/NN من/IN اهله/NN انا/NNP الى/IN الله/NNP وانا/NNP اليه/NNP لراجعوان/NNP 
+
+ربي/NNP يحلها/VBP ويفرجها/NN علينا/NNP 
+
+مو/NNP معيود/NNP هاللقاء/NNP !/PUNC 
+
+أه/NN يامال/VBP آه/NN يامال/NNP يامال/NNP أه/NN هيه/NNP هيه/NNP ,/PUNC ياسلام/NNP ياسلام/NNP 
+
+الله/NNP لايعيد/NNP هذيك/NNP الايام/DTNN اللي/WP هبط/VBD فيها/NN اليووفي/DTNNP للدرجه/NNP الاولى/ADJ ولكن/NNP لاننسى/NNP -LRB-/PUNC بعض/NOUN -RRB-/PUNC اللاعبين/DTNNS الابطال/DTNN اللي/WP ضحوا/VBD من/IN اجل/NN اليووفي/DTNN ورفضوا/VBD الانتقال/DTNN الى/IN الانديه/DTNN الاخرى/DTJJ رغم/NN العروض/DTNN اللتي/DTJJ تسيل/VBP منها/NN اللعاب/DTNN :/PUNC الكسندروا/DTNNP دلبيروا/VBD +/NN بافل/NNP ندفيد/NNP +/VBD بووفون/NNP =/PUNC لقد/RP اتعبتم/VBD اللاعبين/DTNNS من/IN بعدكم/NN ./PUNC ./PUNC !/PUNC 
+
+طيب/NNP واذا/NNP صار/VBD تفجير/NN من/IN شخص/NN مغطي/JJ وجهه/NN القصة/DTNN مجرد/NN خوف/NN من/IN شي/NNP اسمه/NNP ارهاب/NN وتفجيرات/NNS حتى/IN النساء/DTNN انخرطوا/VBD بالعمل/NN الارهابي/DTNN فكيف/NN تعرف/VBP من/IN امامك/NN ./PUNC وبعدين/NNP ان/IN كانت/VBD على/IN الحجاب/DTNN مثل/NN تعليق/NN 58/CD حطي/NN كمامه/NN مع/NN غطاء/NN الرأس/DTNN وبس/NN مثل/NN ما/WP حدث/VBD في/IN سوريا/NNP منذ/IN زمن/NN حيث/WRB وضعوا/VBD طاقية/NN التدريب/DTNN بدل/NN الحجاب/DTNN وفي/NN تونس/NNP يعني/VBP الاسلام/DTNN فيه/NN حلول/NN لا/RP تنته/VBP 
+
+الحمد/NN لله/NN على/IN خلق/NN رب/NN العالمين/DTNNS بس/NN وينها/NN ووين/NN الحلى/DTNN وهي/NN الفم/DTNN من/IN الاذن/DTNN للاذن/NN حتى/IN الممثل/DTNN البريطاني/DTJJ هيو/NNP جرانت/NNP اللي/WP مثل/NN معها/NN في/IN فيلم/NN نسيت/VBD اسمه/NN قال/VBD قرفت/NN من/IN تقبيلها/NN بسبب/NN فمها/NNP الواسع/DTJJ 
+
+والله/NNP عمري/NNP ماسمعتو/NNP بهاي/NNP الزهرة/DTNNP 
+
+لازم/VBD نقيس/NN له/NN الضغط/DTNN !!/CD 
+
+طيب/NNP روحوا/VBD الأحوال/DTNN المدنية/DTJJ 
+
+ياخي/VBP ما/WP خش/VBD مزاجي/JJ هالتعداااد/NNP ./PUNC ./PUNC 
+
+والي/NN السيارة/DTNN بأسم/NN واحد/JJ ميت/JJ كيف/WRB يسدد/VBP !!!/NN 
+
+اللي/WP قاهرني/VBP مواقع/NN التفحيط/DTNN معدوده/NNP ومعلومه/NNP عندكم/NNP وفيها/NN مصايب/NN مافيها/NN لاكاميرا/NN ولاعسكري/JJ 
+
+ليش/NN ما/IN يكون/VBP هناك/RB نظام/NN محاكمة/NN مثل/NN دول/NN اورباء/NN هذا/DT مو/NN نظام/NN 
+
+يا/RP د/NN ./PUNC ./PUNC الله/NNP يهديك/VBP ليش/NN هالتحامل/NN كل/NOUN الامثله/DTNN اللي/WP ذكرتيهم/VBP مافيها/NN شي/NNP لا/RP القصيده/DTNN ولا/NN الزيارة/DTNN ولا/NN سالفه/NN النجيمي/DTNNP وعندنا/VBD مذاهب/NN واختلاف/NN جائز/JJ شرعا/JJ لكن/CC اللي/WP مايجوز/VBD التشكيك/DTNN فيهم/NNP زيك/NNP واخر/NNP مقالك/NN فيه/NNP اتهام/NN لهم/NN سوف/RP يحاسبك/VBP الله/NNP عليه/NNP ./PUNC ./PUNC 
+
+هالمشاوير/NNP الخاصه/DTNNP لاعب/NN من/IN تحت/NN لتحت/NN ./PUNC ./PUNC 
+
+أجل/VBD نادي/NN يقطع/VBP هالمسافات/NNS من/IN أسبانيا/NN لإيطاليا/JJ بالباص/JJ !/PUNC 
+
+اغنية/NN يابابا/NN اسناني/JJ واوا/VBD ودوني/NNS عند/NN الطبيب/DTNN لمن/VBD تهديها/NN ؟/CD 
+
+صاير/VBD ثقيل/NN دم/NN يا/RP معكوس/JJ ./PUNC ./PUNC راحت/NN ايامك/NNP 
+
+اتمنى/VBP إيجاد/NN يوزر/VBP للكاتب/NN لكي/NNP يعقب/VBP على/IN بعض/NOUN النقاط/DTNN ./PUNC ./PUNC فمهما/NN كان/VBD ,/PUNC هذا/DT كاتب/NN و/CC منه/NNP حقه/NNP أن/NNP يمتلك/VBP يوزر/VBP وبالأخضر/NN كمان/NN ,/PUNC عشان/NN يعيش/VBP روح/NN المشاركة/DTNN ومتعة/NN التفاعل/DTNN مع/NN القراء/DTNN لكي/NNP يرنو/NNP ./PUNC ./PUNC يرنو/VBP ايش/NNP !/PUNC :/PUNC -RRB-/PUNC شكلي/JJ تذكرت/VBD بنادق/NN البرنو/DTNN وقلت/NN يرنو/VBP 
+
+المشكلة/DTNN أن/VBD وضع/NN العرب/DTNN كلهم/NN لا/RP يسر/VBP ./PUNC فما/NN أدري/JJ على/IN إيش/NN أي/NN واحد/JJ يقدر/VBP يشوف/VBP نفسه/NN أو/NN يفخر/VBP على/IN غيره/NNP ./PUNC 
+
+لمى/VBD تروح/VBP وتسأل/NN واحد/JJ من/IN هالشكليات/NNS المتخلفة/VN ./PUNC ./PUNC وتقوله/NN ايهم/NNP اهم/JJR بالنسبة/NN لك/NN -LRB-/PUNC الدين/DTNN وانك/NNP تستر/VBP على/IN بناتك/NNP -RRB-/PUNC ولا/NNP -LRB-/PUNC تعنس/NNP بناتك/NNP وتخالف/NNP الدين/DTNNP لجل/NNP ترضي/VBP اقاربك/NN -RRB-/PUNC بيقولك/NNP وللاسف/NNP وبكل/NN بجاحة/NN وبكل/NN فخر/NN ./PUNC ./PUNC اهم/JJR شي/NNP قبيلتي/NNP ؟/VBD ؟/NN !!/NN 
+
+أسعار/NN الحديد/DTNN وغيره/NNP في/IN نزول/NN بالعالم/NNP !/PUNC وانتم/NNP تقولون/VBP انها/NN بترتفع/NN ؟/NN !/PUNC فعلاً/NN من/IN كان/VBD له/NN حيلة/NN فليحتال/NN !/PUNC 
+
+أشكرك/VBD أخت/NN عائشه/JJ على/IN طرحك/NNP اللي/WP ممكن/JJ يعتبر/VBN عفوي/JJ يميل/VBP الى/IN العاميه/DTNN اكثر/JJR ./PUNC ./PUNC أوفقك/VBD في/IN مواطن/NN كثيره/NNP في/IN مقالك/NN بس/NN بنفس/NN الوقت/DTNN مجرد/NN سؤال/NN يطرح/VBP نفسه/NN ./PUNC ./PUNC مين/NNP ؟/VBD كيف/WRB وصلت/VBD هذي/DT العماله/DTNN لبلدنا/VBD ؟/NN ومين/NNS اللي/WP أعطاها/VBD المجال/DTNN عشان/NNP أتمادت/NNP بهي/NNP الصوره/DTNN المخيفه/DTJJ ؟/VBD أنا/NN هنا/RB ما/WP أعمم/VBD أنوا/VBD كل/NOUN العماله/DTNN اللي/WP وصلتنا/VBD فاسده/NNP ومخربه/NNP ./PUNC ./PUNC وشكرآ/NN 
+
+الصراحه/DTNN لهم/NN حق/NN يبلشون/VBP 
+
+ياناس/NNP انا/PRP ملاحظ/NN شغلة/JJ 
+
+الله/NNP اكبر/NNP عاد/VBD ياغالي/NNP 
+
+لحتى/VBD يطلع/VBP القرار/DTNN النهائي/DTJJ 
+
+حركات/NNS حلوه/NNP ورياضيه/NNP وقمة/NN الرشاقه/DTNN ,/PUNC الصوره/DTNN 6/CD صعبه/NNP شوي/NNP ./PUNC 
+
+و/CC بعدين/VBD مع/NN وحوش/NN الاطفال/DTNN هذول/NNP !!!/NNP 
+
+ههه/NNP ./PUNC ./PUNC وبلادهم/NN بلاد/NN القوانين/DTNN والانظمة/NN عصب/NN ./PUNC ./PUNC كيف/WRB لو/IN هو/PRP عنا/VBD هون/NN في/IN اي/NOUN بلد/NN عربي/JJ .../PUNC كان/VBD اجتو/VBD سكتة/NN قلبية/JJ ومااات/NNS بأرضو/NNP 
+
+يمكن/VBP مرضان/NN نفسيا/NN 
+
+وان/NNP شاء/VBD الله/NNP نقدر/VBP نزوره/NN ./PUNC ./PUNC لانو/VBD شكله/NN رائع/JJ 
+
+والله/NNP البنت/VBD أعقل/NN من/IN مليون/NN رجال/NN في/IN هذا/DT الزمن/DTNN 
+
+كويس/NNP عرفت/VBD كيف/WRB تشتهر/VBP ؟/NN !/PUNC 
+
+اجل/NN بنصير/NN مثل/NN لبنان/NNP هلااا/NNP والله/NNP 
+
+لك/NN طلعو/NNP لبرا/NNP وشوفو/NNP الناس/DTNN كيف/WRB عايشة/NNP ؟/NNP !!!/CD 
+
+ماشفت/NNP صار/VBD معن/NNP متل/NN ماعم/JJ يصير/VBP عنااا/NN 
+
+هل/RP يعني/VBP اننا/NN راح/NN نكون/VBP افضل/JJR من/IN السلف/DTNN الصالح/DTJJ الذين/WP لم/RP يكونوا/VBP معقدين/JJ بل/CC كانوا/VBD متفتحين/NNS فتح/NNP الله/NNP على/IN قلوبهم/NN ولم/NN يضيق/VBP الله/NNP قلوبهم/NNP كما/CC يفعل/VBP البعض/NOUN هنا/RB هداهم/NNP الله/NNP 
+
+يا/RP ويل/NN المدرب/DTNN اللي/WP ما/WP يمشي/VBP على/IN كيفة/NN والدلائل/NN كثيرة/JJ 
+
+كذا/NNP صح/VBD من/IN شان/NN يعرفوا/VBP ان/IN اللبنانين/DTNNS متحدين/VN بكلمتهم/NN واذا/NN جد/NN الجد/DTNN فانهم/NNP علي/NNP كلمة/NN واحدة/JJ علي/IN اختلاف/NN طوائفهم/NN 
+
+إذا/VBD راح/NN يحموا/VBP سوريا/NNP الله/NNP في/IN حال/NN تعرضها/NN لأي/NN هجوم/NN إسرائيلي/JJ ،/VBD أقول/NNP الله/NNP يجزاهم/VBP ألف/NN خير/NN ./PUNC 
+
+استاذ/NN كل/NOUN ما/WP آقرآآآ/VBD مقالاتك/JJ من/IN الحماس/DTNN اللي/WP يصير/VBP فيني/NNP 
+
+وبناتنا/VBD سلمو/NNP من/IN استغلال/NN هوامير/NN الاسهم/DTNN مو/NN مثل/NN شبابنا/NNP الله/NNP يعوضهم/VBP .../PUNC 
+
+أهون/VBP علي/IN يبيع/VBP بسيارة/NN خضره/NN على/IN رصيف/NN الشارع/DTNN و/CC لا/RP يقعد/VBP هالقعده/NNP .../PUNC 
+
+وراعي/NNS تؤبرني/VBP خلها/NN تنفعك/NN والله/NN ماتشوف/NNP منها/NN القرش/DTNN لو/IN تطير/VBP طيرااان/NNS ههه/NNP 
+
+وين/NNP التجاره/DTNN وين/NNP الرقابه/DTNNP وين/NN حماية/NN المستهلك/DTNN 
+
+الي/IN يرتفع/VBP سعره/NNP في/IN هالبلد/NNP ما/WP يرخص/VBP الا/RP ابن/NN ادم/NNP 
+
+ويوم/NNP الاربعاء/DTNN تلقاه/NN مسنتر/JJ على/IN كبري/NN المحبه/DTNN وين/NN راح/NN ياهو/NNP قال/VBD اف/NN والله/NN البلد/DTNN طفش/NNP 
+
+اف/NN على/IN زمان/NN اقشر/NN قادم/JJ الينا/DTNN 
+
+ههه/NNP قال/VBD ايش/NNP قال/VBD سياحه/NNP البعض/NOUN يذهب/VBP للسينما/NN فقط/RB والأكثر/NN ؟/NN ؟/NN ؟/NNP الله/NNP يستر/VBP بس/NN 
+
+الي/IN عندنا/NN ربا/NN وسرقة/NN وتحايل/NN بس/NN حلال/NNP 
+
+نجاح/NN اعلامي/JJ شويه/NN قويه/NN 
+
+الهدية/DTNNP فاتورة/NN ايش/NNP ./PUNC ؟/CD 
+
+والله/NNP كنت/VBD ناوية/NN اجيب/NNP لابوي/NNP هدية/NN هالايام/NNP وطبعا/NN الهدية/DTNN من/IN حلاله/NN هعع/NN 
+
+جاية/NN من/IN بعيد/NN وسلامتك/NNP 
+
+الحياه/DTNN هيك/NNP 
+
+هو/PRP افضل/JJR واحد/NN بالوسط/JJ بعد/NN ويلى/NNP 
+
+وانا/VBD راح/NN اسلم/VBP على/IN الكاميرا/DTNN 
+
+لاحول/NNP ولا/NNP قوة/NN الا/RP بالله/NNP انا/NNP كنت/NNP حاضر/VBD بحكم/NN انو/NN حارتي/NNS هناك/RB 
+
+بالشوارع/NNP دايرين/NNP 
+
+الصورة/DTNN الأولى/DTJJ حيرتني/NN كثير/JJ ,/PUNC أول/VBD مرة/NN أشوف/NNP صاعقة/NNP على/IN حمم/NN بركانية/JJ 
+
+ياعيني/VBP على/IN هالمنطق/NNP !/PUNC 
+
+بيرتفع/NNP ضغط/NN بعض/NOUN الناس/DTNN لإن/NN الخبر/DTNN فيه/NNP :/PUNC سامي/NNP والوصل/NNP .../PUNC 
+
+فعلا/NN صاير/NN المخدرات/DTNNS منتشره/JJ جدا/NN 
+
+ماقصروا/VBD النشامه/DTNN 0/CD 
+
+انا/PRP لله/NN وانا/NN اليه/NNP راجعون/NNP بس/NN وين/NN الدفاع/DTNN المدني/DTJJ 
+
+بس/NN الغباء/DTNN أنك/VBD تتذيكالك/VBP على/IN ناس/NN اذكياء/JJ 
+
+مع/NN الاسف/DTNN لو/IN الوحده/DTNN اشتغلت/VBD ممرضه/NN والا/NN دكتوره/NNP ياعيني/NNP شوفوا/VBD النظره/DTNN لها/NN عليها/NN كيف/WRB ؟/VB !/PUNC 
+
+ليش/VBD كل/NOUN واحد/NN ما/IN يحط/VBP رأيه/NNP بادب/NNP دون/NN تجريح/NN 
+
+والسفريات/NNS للعالم/NNP المنفتح/DTJJ طيب/JJ مدام/NN الحريه/DTNN عيب/NN ليش/NNP تروح/VBP تبحث/VBP عنها/NN الله/NNP لايبلانا/NNP 
+
+المشكلة/DTNN انه/VBD لا/RP شئ/NN مقابل/NN الامم/DTNN الاخرى/DTJJ وعايش/NNP عالة/NNP عليهم/NNP ./PUNC ./PUNC 
+
+وانا/VBD معااها/NN وخاصه/NN بعد/NN الهوشات/DTNNS الي/IN بتحصل/NN داخل/NN المدارس/DTNN 
+
+عشان/NNP يخف/VBP الشغل/DTNN عن/IN الخالات/DTNNS 
+
+يا/RP اخي/NN ها/PRP$ الشعب/DTNN مضحك/JJ ./PUNC ./PUNC 
+
+والله/NNP لو/IN يرفعوا/VBP للامانه/NN من/IN اليوم/DTNN الى/IN بكره/NN ماينع/NN معاهم/JJ اي/RP شي/NNP 
+
+ولو/VBD فيها/NN موتنا/NN برضو/NNP ماراح/NNP نطلعها/NN واللهي/JJ انها/VBD ستر/NNP لنا/VBD من/IN اعين/NN المريضين/DTNNS واحنا/VBD لابسينها/NN مو/NN خالصين/JJ وشلون/JJ لو/IN طلعناها/NN 
+
+والله/NNP يعطي/VBP هالشخص/NN على/IN قد/RP نيته/VBP 
+
+وين/NNP التشجيع/DTNN على/IN فعل/NN الخير/DTNN .../PUNC المفروض/DTJJ المسؤول/DTNN عن/IN فصل/NN الموظف/DTNN يعاقب/VBN على/IN فعلته/NN .../PUNC ويعوض/NN الموظف/DTNN عن/IN الاذى/DTNN المعنوى/DTJJ اللي/WP طاله/VBD على/IN اثر/NN الفصل/DTNN .../PUNC 
+
+وينك/NNP يا/RP مكتب/NN العمل/DTNN وينك/NNP 
+
+اللي/WP مو/VBD عاجبه/NN يبلط/VBP البحر/DTNN 
+
+عيني/NNS عينك/NN قدام/NN المرووور/DTNN .../PUNC 
+
+والمرور/NNP غلطان/NNP في/IN طريقة/NN معالجة/NN المشكلة/DTNN 
+
+قال/VBD نزل/VBD أسعار/NN العقار/DTNN قال/VBD 
+
+وما/NN أحد/NN التفت/VBD لنا/NN او/CC حس/NN بالنار/NNP اللي/WP أحنا/VBD واطين/NNS عليها/NN 
+
+سهران/NNP مانمت/NNP على/IN شان/NN التعليق/DTNN 
+
+راح/VBD نهزهم/NN هز/NN ،/NN وراح/NN نضحك/VBP بكرا/NNP بنفس/NNP الوقت/DTNN هنا/RB 
+
+مو/NNP للهجوووم/NNP على/IN خلق/NN الله/NNP 
+
+يا/RP أبو/NNP كلبشة/NNP 
+
+ابو/NNP كلبشه/NNP كلبشني/NNP ما/WP شاء/VBD الله/NNP عليك/NNP 
+
+مبروك/VN علينا/NN أوخيا/NN الستر/DTNN والإيمان/NNP 
+
+حلو/NNP الدرع/DTNN .../PUNC 
+
+الزعيم/DTNN يلي/VBP مايعرف/NN الزعيم/DTNN يسحر/VBP الكبار/DTNN والصغار/NNP 
+
+والله/NN عيب/NN الفرح/DTNN الزايد/DTJJ بس/NN هذا/DT المحلى/DTNN من/IN قده/NN 
+
+الحقيقه/DTNN لانخشاهم/NNP لاهم/NNP لا/RP الي/IN وراه/NN 
+
+حسبي/NNP الله/NNP ونعم/NN الوكيل/DTNN وين/NNP الدوله/DTNNP عن/IN هالدجالين/NNP 
+
+ماحد/NN ميت/JJ قبل/NN يومه/VBP ولحدن/NN عايش/NNP طول/NN عمره/NN شباب/NNP 
+
+فيلم/NN المسافر/DTNN مو/NN قديم/JJ ؟/VBD ؟/NN ؟/CD 
+
+هههههههه/NNP شو/NNP يا/RP جماعه/NN بعدكن/NN عم/NN تتخانقو/VBP لك/NN اااااااااخ/NN بس/NN طولو/NNP بالكن/NNP و/CC استهدو/NNP بالرحمن/NNP .../PUNC بس/NN بالنسبة/JJ الي/IN النيل/DTNN سات/NNP هو/PRP الاساس/DTNN مهما/WP طلع/VBD اقمار/NN جديدة/JJ ما/WP رح/VBD تقدر/VBP تنافس/NN النيل/DTNN سات/NNP لانه/NNP شامل/JJ كل/NOUN شي/NNP والاعلام/NNP المصري/DTJJ قوي/NN وما/NN بننكر/NN ذلك/DT يعني/VBP عم/NN احكي/VBP الواقع/DTNN ولا/NN حدى/NN يزعل/VBP مني/VBN ./PUNC ./PUNC تمنياتي/VBP لجميع/NN الدول/DTNN العربية/DTJJ و/CC النامية/DTJJ بالتقدم/NN بس/NN بدوون/NN زعل/NN وشكرا/NN لكم/VBG 
+
+ايش/NNP دخلك/VBD انت/PRP اولا/ADJ 
+
+طب/NN ما/WP تورثى/VBD منهم/NN العادات/DTNNS النافعة/DTJJ مش/NN الضارة/DTJJ 
+
+هذا/DT كل/NOUN الموضوع/DTNN وعلى/NN العموم/DTNN لم/RP ازعل/VBP منك/NN أخي/NN ماهر/NNP واتمنى/NNP ان/IN اتعرف/VBP على/IN شخصيات/NNS رائع/JJ عن/IN طريق/NN هذه/DT الجريدة/DTNN الرائعة/DTJJ 
+
+ولو/NNP مسلم/NNP كان/VBD زمانة/NN فى/IN المعتقل/DTNN عرفتى/NN احنا/NN بلد/NN مين/NNP وسلميلى/NNP على/IN الاضطهاد/DTNN 
+
+بشار/NNP تولى/VBD الحكم/DTNN و/CC انتو/NNP انخرستو/NNP 
+
+ومخنا/VBD كله/NN كمان/NN ./PUNC ./PUNC 
+
+السياسة/DTNN بتتدخل/NNP بكل/NNP شىء/NN حتى/IN الهواء/DTNN اللى/WP بنتنفسه/NNP !/PUNC 
+
+لماذا/WRB انت/PRP دائم/JJ الحديث/DTNN عالفاضية/JJ و/CC المليانه/DTNN ؟/NN ؟/CD 
+
+منها/NN طبعا/NN الظروف/DTNN المعيشية/DTJJ الصعبة/DTJJ اللي/WP بيعيشها/NN الشباب/DTNN وقلة/NN امكانيات/NNS الزواج/DTNN ومغالاة/NN اولياء/NN الأمور/DTNN في/IN مصاريف/NN الزواج/DTNN 
+
+طب/NN منعالج/NN المشكله/DTNN من/IN الاساس/DTNN 
+
+الله/NNP لا/RP يضيع/VBP الك/NN تعب/NN ويجزيك/NNP الخير/DTNN :/PUNC -RRB-/PUNC 
+
+واللي/NNP بتكلم/NNP شروي/NNP غروي/NNP مالو/NNP علاقه/NNP انما/RP الاعمال/DTNN بالنيات/NNS 
+
+اعملو/VBD اشي/NNP مفييييييد/NNP بحيياتكم/NNP وخلي/NNP الاخرين/DTNNS يستفيدوو/VBP من/IN افكاركم/NN مثله/NN ؟/NN ؟/NN ؟/NN ؟/CD 
+
+والله/NN انتو/VBD يامصريين/NNS تافهين/JJ وفاضيين/JJ ما/IN عم/NN تلاقو/NN شي/NNP يشغلكم/VBP غير/NN وردة/NN والجزائر/NN وعلى/NN فكرة/NN وردة/NN لما/NNP بدوس/NNP على/IN ارض/NN مصر/NNP بتشرفكم/NNP كلكم/NNP وانا/NNP متاكدة/VN اغلب/NOUN المصريين/DTNNS يحبون/VBP وردة/NN وطبعا/NN ااانا/NN بتكلم/NN عن/IN فئة/NN قليلة/JJ من/IN الشعب/DTNN المصري/DTJJ التافه/DTNN ونحن/NNP بسورية/NNP كلنا/VBD حانشتري/JJ البوم/NN وردة/NN بس/NN بالعند/NNP فيكم/NNP 
+
+يلا/VBD اغنيتك/NN المفضلة/DTNN يا/RP ايمن/NNP 
+
+صاحب/NN الفكره/DTNN اسمة/NN هيثم/NNP حمدي/NNP مش/NN حسام/NNP ويا/NNP ريت/NNP يرجع/VBP بالمفتش/NNP كرومبو/NNP الاصلي/DTJJ 
+
+انا/PRP مش/NN متخيل/JJ ان/IN في/IN 12/CD الف/CD شاب/NN اتجمعوا/VBN علي/IN هدف/NN واحد/JJ .../PUNC 
+
+ربنا/VBD يرحمنا/NNP يارب/NNP لكن/VBP العيب/DTNN على/IN مين/NN غير/NN المسؤلين/DTNNS اللى/WP قلبوا/VBD الجامعه/DTNN ل/IN .../PUNC 
+
+بيناتنا/NNP .../PUNC .../PUNC .../PUNC .../PUNC والله/NN غير/NN عندو/NN الحق/DTNN .../PUNC .../PUNC .../PUNC 
+
+متنمنى/VBD الخير/DTNN للجميع/DTJJ 
+
+وانت/VBD مالك/NN يايهودى/NNP يامعفن/NNP كلنا/VBD ورا/NN الجزائر/DTNNP لانها/NN ان/IN نجحت/VBD شرفت/VBD الكرة/DTNN العربية/DTJJ 
+
+يا/RP رب/NN ما/WP يرجع/VBP ويقلنا/NNP رجع/VBD تحت/NN ضغط/NN الجماهير/DTNN روح/NN بستين/JJ .../PUNC .../PUNC .../PUNC .../PUNC ./PUNC لا/RP مؤخذة/JJ من/IN القراء/DTNN 
+
+هل/RP قامت/VBD اسرائيل/NNP بتجنيد/NN الحمير/DTNN علشان/NNP يعرفوا/VBP اخبار/NN الارض/DTNN المحتلة/DTJJ خلال/NN الفترة/DTNN التى/WP تم/VBD احتجازهم/NN داخل/NN اسرائيل/NNP ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ههههههههههههه/NNP 
+
+الله/NNP يمسيك/VBP بالخير/NNP يا/RP خطيب/NN انت/PRP و/CC طاهر/NNP و/CC حسام/NNP 
+
+السؤال/DTNN الثانى/DTJJ :/PUNC ليه/NNP يسافر/VBP أساساً/NN بره/NN وهنا/NN مافيش/NN مستشفيات/NNS ؟/JJ 
+
+يمكن/VBP يبعوا/VBP لبعض/NN ويشبعوا/NNP الفمين/DTJJ 
+
+وهوفى/VBD الواقع/DTNN شباب/NN محب/NN لبلده/NN وبيفهم/JJ حتى/IN اكتر/NN منهم/JJ فى/IN السياسه/DTNN 
+
+الجرح/DTNN هنا/RB لسه/NN بيوجعنى/NNP 
+
+ببساطة/NN أعشقها/NN من/IN أول/NN ماطلعت/NNP بأشواك/NNP ناعمة/NNP طار/VBD عقلي/NN فيها/NN ومن/NN يوميتا/NNP بتابع/NN كل/NOUN مسلسلاتا/NN وكل/NN أخبارا/NN ./PUNC ./PUNC وحضرت/VBD فيلم/NN مرة/NN أخرى/VBD بسينما/NN الشام/DTNNP بس/NN بصراحة/NN الفيلم/DTNN ما/WP عجبني/VBD أبداً/NN كندة/NN كانت/VBD ممتازة/JJ بالفيلم/NN وحلوة/NN متل/NN القمر/DTNN بس/NN الفيلم/DTNN معقد/JJ وفايت/NN ببعضه/NN والبنت/NNP اللبنانية/DTJJ غليظة/NN كتير/NN وقيس/NNP الشيخ/DTNNP نجيب/NNP متغير/JJ كتيير/NN شكله/NN بس/NN لحظات/NNS بيطلع/NN جامد/NN ولحظات/NNS ماشي/NNP حاله/NNP 
+
+وفي/NN فيلم/NN مسلته/NN كندة/NN بصراحة/NN ماعجبني/JJ أبداً/JJ اسمو/VBD حلاوة/NNP الروح/DTNN يعني/VBP بصراحة/NN كلو/NNP على/IN بعضو/NNP غليظ/NNP ياريتا/NNP ماعملتو/NNP بس/NN هاد/NNP مابيمنع/NNP انها/VBD ممثلتي/NNS المفضلة/DTNN هي/PRP وديمة/NN قندلفت/NN القطة/DTNN وياريت/NNP الي/IN عندو/NNP ايميلا/NNP يعطيني/NNP يا/RP 
+
+اتحكّموا/VBD واتمكّنوا/NNP والغالبية/NNP اتمسكنوا/VBD ./PUNC ./PUNC 
+
+اللى/WP حالهم/VBD زى/NN حالنا/NN الفرق/DTNN ان/IN هناك/RB فى/IN محتل/NN 
+
+ياااااااااااا/VBP رب/NN عقبال/NN الباقيين/DTNNS فى/IN اوروبا/NNP و/CC امريكا/NNP و/CC كل/NOUN البلاد/DTNN يا/RP رب/NN أمين/JJ 
+
+دول/NN شلة/NN مرتزقة/JJ وسلملى/JJ على/IN الدينار/NN القطرى/DTNN والدولار/NNP الايرانى/DTNNP ./PUNC وسوريا/NNP بتأكل/NNP بس/NN ما/IN بتعطى/NN مصارى/JJ 
+
+اللى/WP كان/VBD مبهدل/NN الدنيا/DTNN كلها/NN والدنيا/JJ بهدلته/NN وقعد/NN ف/NN البيت/DTNN 
+
+لوفهمت/NNP ياخي/VBP الكريم/DTNN ليه/NNP الصهاينه/DTNNP مركزين/NNS علي/IN السفيين/DTNNS بذات/NN لم/RP تتكلم/VBP ياريت/NNP تكون/VBP الرساله/DTNN وصلت/VBD لانهم/NN لايخافون/NNS الامن/DTNN اهل/NN السنه/DTNN لانهم/NN هم/PRP$ السلفيون/DTJJ وعمر/NN المظاهرات/DTNNS بجين/NNP نتيجه/NNP ماذا/WP فعلت/VBD المظارات/DTNNS اللهم/NN اهدي/JJ قومي/JJ فانهم/JJ لا/RP يعلمون/VBP 
+
+لما/NNP وزير/NN يشتغل/VBP كويس/NNP نقول/VBP شو/NNP اعلامى/NNP 
+
+يا/RP ترى/VBP سياسة/NN بدنا/NN انعيش/NN الي/IN وصلتنا/NN لهون/NN .../PUNC .../PUNC ./PUNC ضاعت/VBD البلاد/DTNN وضاعت/NN الكرامة/DTNN وضاعت/NN الحرية/DTNN .../PUNC .../PUNC وحق/NN شهدانا/NN وشهداكم/NN مين/NN بدو/NN ايرجعها/NNP .../PUNC ./PUNC ./PUNC ماتوا/VBD ارجالنا/NNP مشان/NN كل/NOUN الارض/DTNN مش/NN مشان/NN بعض/NOUN الاراضي/DTNN المحتلة/DTJJ .../PUNC مشان/NNP الله/NNP امتن/VBD بدنا/NN تصحوا/VBD امتن/NN بدكم/NN تفهموا/VBD انه/NNP عدوكم/NNP وصل/VBD ودخل/NN بيوتكم/NNP امتن/NNP امتن/NNP امتن/NNP 
+
+شو/NNP هالهبل/NNP هادا/NNP ./PUNC الحمد/NN لله/NN الأهلي/DTNNP ارتاح/VBD منك/NN ومن/NN أخوك/NN الأزعر/DTNN 
+
+وكا/NN لازم/JJ ينطرد/VBP ./PUNC بس/NN شوبدك/NNP تعمل/VBP للأسف/NN رياضتكم/NNP بمصر/NNP كل/NOUN يوم/NN للخلف/JJ بسبب/NN هيك/NNP 
+
+اعود/VBP واكرر/NN ايران/NNP عمرها/NN ماكان/NNP معاها/NN مشكله/JJ مع/NN امريكا/NNP واسرائيل/NNP واين/NNP كانو/NNP منذ/IN 48/CD وووو/NN الخ/NN ./PUNC وشوف/NN الكدب/DTNN الصريح/DTJJ بيقلك/NNP امريكا/NNP قتلت/VBD 300/CD الف/CD عراقى/NN ./PUNC اقسم/VBD بالله/NNP ان/IN هذا/DT الكلب/DTNN قتل/VBN من/IN خلال/NN الحرث/DTNN الثورى/DTJJ الايرانى/DTJJ خلال/NN الحرب/DTNN الاخيره/DTJJ اكتر/NNP من/IN 3/CD مليون/NN سنى/NN عراقى/NN ومازال/NN يفعل/VBP يوميا/NN هذا/DT بلاضافه/NN لحالات/NNS الاعدام/DTNN اليوميه/DTJJ لعدد/NN كبير/JJ من/IN السنه/DTNN الايرانيين/DTJJ المضطهد/DTJJ ين/NN هناك/RB ./PUNC الخلاصه/DTNN الفيلم/DTNN بكامله/NNP فيه/NNP الاعيب/NN كثيره/NNP تحت/NN الطاوله/DTNN وما/NN يطفو/VBP على/IN السطح/DTNN منها/NN يحدث/VBP بعد/NN عمل/NN بروفات/NNS كثيره/NNP للتدريب/NNP عليه/NNP .../PUNC ايها/RP المسلمون/DTNNS لاتصدقو/NNP هذا/DT الكذاب/DTNN ومن/VBD على/IN شاكلته/NN امثال/NN حسن/NNP نصر/NNP الله/NNP ومقتدى/NNP الصدر/DTNNP ونورى/VBD المالكى/DTNN وغيرهم/NN .../PUNC .../PUNC ./PUNC ./PUNC 
+
+وتصور/NN حب/NN الفراشات/DTNNS طيرانها/NN على/IN لمحة/NN نور/NNP بتنور/NNP ./PUNC ./PUNC 
+
+وم/NN الأقصى/DTNN بصرخ/NNP 
+
+يا/RP بنت/NN غزة/NNP يا/RP غالية/JJ يا/RP مة/JJ 
+
+ياريت/NNP تحافظ/VBP على/IN حب/NN الناس/DTNN ليك/NNP ولاني/NNP بحبك/NNP يمكن/VBP اكون/VBP قاس/JJ عليك/JJR بس/NN سامحني/JJ 
+
+وتصرفاتكم/NNP بتدل/NNP على/IN البيئة/DTNN اللى/WP انتم/PRP منها/JJ 
+
+ياريت/NNP رئيس/NN الهيئة/DTNN القادم/DTJJ يكون/VBP من/IN خارج/NN الهيئة/DTNN 
+
+ياللي/VBP كنتو/NNP بتخافو/NNP تمشو/VBP جنب/NN فصول/NN الاحياء/DTNN 
+
+بس/NN المشكلة/DTNN إن/NN طبيخها/NN ريحته/NN بتطلع/NN كل/NOUN مرة/NN والبلد/NN كلها/NN بتشمه/NNP 
+

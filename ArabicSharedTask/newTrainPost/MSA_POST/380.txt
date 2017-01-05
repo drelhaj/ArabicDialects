@@ -1,0 +1,1 @@
+5/CD اقامة/NN الدور/DTNN الاول/ADJ لمسابقة/NN درع/NN الاتحاد/DTNN من/IN ذهاب/NN واياب/JJ مع/NN اجبار/NN الاندية/DTNN على/IN اشراك/NN عدد/NN معين/JJ من/IN اللاعبين/DTNNS دون/NN سن/NN 22/CD عاما/NN مما/NN قد/RP يؤدي/VBP الى/IN اكتشاف/NN مواهب/NN جديدة/JJ تخدم/VBP المنتخب/DTNN الوطني/DTJJ 

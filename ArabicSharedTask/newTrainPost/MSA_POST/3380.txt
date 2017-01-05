@@ -1,0 +1,1 @@
+نحمد/VBP الله/NNP تعالى/VBD أن/NN الغالبية/NOUN العظمى/DTJJR من/IN رجال/NN الأمن/DTNN العام/DTJJ في/IN الأردن/DTNN هم/PRP من/IN ذوي/NN النفوس/DTNN النظيفة/DTJJ ،/NN و/CC وجود/NN مثل/NN هذه/DT الحالات/DTNNS القليلة/DTJJ جداً/NN يعتبر/VBN وضعاً/NN طبيعياً/JJ ./PUNC 

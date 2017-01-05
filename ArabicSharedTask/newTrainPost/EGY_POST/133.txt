@@ -1,0 +1,1 @@
+@/VBD في/IN الصورة/DTNN رقم/NN 5/CD ./PUNC ./PUNC اللاعب/DTNN منبص/NN عين/NNP وحده/NNP :/PUNC -RRB-/PUNC 

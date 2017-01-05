@@ -1,0 +1,1 @@
+عطوني/NNP أبن/NNP همام/NNP -/PUNC يابن/NNP همام/NNP والله/NN أنك/NN ترفع/VBP الرأس/DTNN وتستاهل/NN رئاسة/NN الاتحاد/DTNN الدولي/DTJJ لكرة/NN القدم/DTNN وأن/NN حصل/VBD هذا/DT الشيئ/DTNN فأنه/NN فخر/NN لكل/NN عربي/JJ أصيل/JJ -/PUNC واثق/JJ الخطوة/DTNN يمشي/VBP ملكا/NN -/PUNC تحياتي/NNP 

@@ -1,0 +1,1 @@
+هوما/NNP دوالت/NNP شباب/NNP مصر/NNP ./PUNC ./PUNC محمود/NNP ياسين/NNP 20/CD عاما/NN ./PUNC ./PUNC معتقل/NN فى/IN حب/NN مصر/NNP 

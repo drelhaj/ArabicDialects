@@ -1,0 +1,1 @@
+فيصلي/NNP أ/RP فيصلي/NNP ب/IN ./PUNC 

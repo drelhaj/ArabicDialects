@@ -1,0 +1,1 @@
+كل/NOUN الشكر/DTNN والتحية/JJ الى/IN جمهور/NN الوحدات/DTNNS الذين/WP يزينون/VBP بابداعهم/NN هذا/DT المنبر/DTNN الرائع/DTJJ واخص/NN بالذكر/NNP الاصدقاء/DTNN -LRB-/PUNC وحداتي/NNS صميم/NN وعبد/NN المنعم/DTNNP سمور/NN اصحاب/NN الابداعات/DTNNS -RRB-/PUNC وكل/VBD الشكر/DTNN الى/IN جميع/NOUN المتابعين/DTNNS .../PUNC عاشقة/NN الوحدات/DTNNS 

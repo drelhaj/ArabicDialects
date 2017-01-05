@@ -1,0 +1,1 @@
+بس/NN همنا/VBD نعرط/VBP وبكون/NNS الواحد/DTNN حامل/NN خلويين/JJ وبنفس/NN الايد/DTNN -LRB-/PUNC لاحظوا/VBD بنفس/NN الايد/DTNN -RRB-/PUNC بكيت/VBD الدخان/DTNN المالبورو/DTJJ ومرات/NNS المحفظة/DTNN كمان/NN .../PUNC والطامة/NN الكبرى/DTJJR انوا/VB ما/WP بشتغل/VBD وما/NN في/IN بجيبتوا/NNP دينار/NN ./PUNC ./PUNC 

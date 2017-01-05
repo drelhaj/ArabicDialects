@@ -1,0 +1,1 @@
+أحسن/VBD خطوة/NN بتكون/NN انو/NN الطلبات/DTNNS تصبح/VBP مباشرة/NN ./PUNC القطاع/DTNN العام/DTJJ بلتزم/NNP في/IN الدفع/DTNN للشركة/NN الخارجية/DTNN والشركة/NN الخاصة/DTNN بتاخد/NN عمولتها/NN !/PUNC 

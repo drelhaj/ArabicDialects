@@ -1,0 +1,1 @@
+ايه/NN حكايه/NNP ?/PUNC ايه/NN بيحصل/NN ده/DT ?/PUNC مالها/NN دنيا/NN ?/PUNC ماله/NN جيل/NN ده/DT ?/PUNC ايه/NN وصل/VBD ناس/NN كده/NNP ?/PUNC اطفال/NN صغيره/NN بتعمل/NN كده/NNP اما/CC لما/NNP يكبروا/VBP يعملوا/VBP ايه/NN ?/PUNC 

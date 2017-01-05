@@ -1,0 +1,1 @@
+أشار/VBD بحث/NN جديد/JJ لمنظمة/NN الصحة/DTNN العالمية/DTJJ أن/CD شخصا/NN واحدا/JJ ينتحر/VBP كل/NOUN أربعين/NNS ثانية/ADJ في/IN العالم/DTNN وأن/VBD نحو/NN مليون/CD شخص/NN يموتون/VBP في/IN العالم/DTNN من/IN جراء/NN الانتحار/DTNN سنويا/NN ./PUNC 

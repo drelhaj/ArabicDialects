@@ -1,0 +1,1 @@
+اولا/ADJ التدخل/DTNN مايكنش/NNP فى/IN وسائل/NN الاعلام/DTNN دى/VBD فضايح/NN ،/NN وثانيا/NNP محمود/NNP سعد/NNP كان/VBD متهاون/JJ مع/NN مرتضى/NNP كتير/NNP ،/VBD وثالثا/NN المفروض/DTNN بمجرد/NN ظهور/NN المصحف/DTNN حد/NN يقوله/VBP حرام/NN الحلفان/DTNN على/IN المصحف/DTNN واخيرا/NN ،/NN احنا/NN غلطانين/NNP عشان/NNP بنشارك/NNP ونعلق/NNP 

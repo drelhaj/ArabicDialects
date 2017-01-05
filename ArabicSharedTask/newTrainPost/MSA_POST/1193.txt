@@ -1,0 +1,1 @@
+16/CD -/PUNC لا/RP إلهَ/VBP إلاّ/NN اللّهُ/DTNN وحْـدَهُ/DTJJ لا/RP شَـريكَ/VBP لهُ/NN ،/NN لهُ/NN المُـلْكُ/DTNN ولهُ/NN الحَمْـد/DTNN ،/VBD وهُوَ/NN على/IN كُلّ/NN شَيءٍ/NN قَدير/NNP ./PUNC -LRB-/PUNC مائة/NN مرة/NN -RRB-/PUNC -LRB-/PUNC البخاري/DTNNP 4\/95/CD ومسلم/NN 4\/2071/CD -RRB-/PUNC 

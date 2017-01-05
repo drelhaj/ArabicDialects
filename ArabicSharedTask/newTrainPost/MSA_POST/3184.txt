@@ -1,0 +1,1 @@
+الوحدات/NNP -/PUNC -LRB-/PUNC 5/CD -RRB-/PUNC مشاركات/NNS لا/RP -LRB-/PUNC شيء/NN -RRB-/PUNC 

@@ -1,0 +1,1 @@
+طيب/NNP معلش/NNP بص/NN عل/NN الصور/DTNN الهانم/DTJJ اللي/WP جيبتها/VBD هتتقطع/NN عليها/NN ./PUNC ./PUNC مقلتش/NN لها/NN ده/DT لبس/NN تلبسيه/NN لجوةزك/NNP مش/NN لتلاميذك/NNP ؟/CD 

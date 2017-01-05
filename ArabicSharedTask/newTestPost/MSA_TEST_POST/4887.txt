@@ -1,0 +1,1 @@
+عاشت/VBD كل/NOUN يد/NN تبني/NN لمصلحة/NN الوطن/DTNN ./PUNC ./PUNC وعاش/NN الاردن/DTNNP وقائده/NNP وشعبه/NNP ./PUNC ./PUNC 

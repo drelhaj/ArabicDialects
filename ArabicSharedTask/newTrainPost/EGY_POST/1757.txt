@@ -1,0 +1,1 @@
+ارحمنى/VBD ياضابط/VBP وانت/NN ا/IN قبل/NN اعتذارى/NN .../PUNC ./PUNC ./PUNC عذر/NN من/IN بياع/NN اعضاء/NN تباهى/VBD بموقفك/NNP بين/NN الرجال/DTNN 

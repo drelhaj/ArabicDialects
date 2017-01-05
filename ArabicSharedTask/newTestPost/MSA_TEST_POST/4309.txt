@@ -1,0 +1,1 @@
+الاولى/ADJ في/IN المغرب/DTNNP عام/NN 1983/CD ،/NN والثانية/JJ في/IN القاهرة/DTNNP عام/NN 1986/CD ،/NN احتل/VBD المركز/DTNN الرابع/ADJ والثالثة/NN في/IN عام/NN 2000/CD بتونس/NN والرابعة/JJ والخامسة/JJ في/IN الاردن/DTNNP عامي/NNS 2002و2003/CD ./PUNC 

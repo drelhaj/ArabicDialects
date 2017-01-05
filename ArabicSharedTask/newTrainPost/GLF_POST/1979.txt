@@ -1,0 +1,1 @@
+عذرك/NNP معك/NNP وان/NNP شنت/VBD الشين/DTNNP مايشينك/NNP ./PUNC !/PUNC 

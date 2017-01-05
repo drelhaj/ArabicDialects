@@ -1,0 +1,1 @@
+4/CD -RRB-/PUNC حتى/IN مطلع/NN الستيينات/DTNNS بل/CC منتصف/NN الستينيات/DTNNS كان/VBD النادي/DTNN الأكثر/DTJJ فوزا/NN بالدوري/JJ هو/PRP الأهلي/DTNN بـ/NNP -LRB-/PUNC 6/CD -RRB-/PUNC ألقاب/NN ثم/CC يليه/VBP مباشرة/NN الجزيرة/DTNN بـ/NNP -LRB-/PUNC 3/CD -RRB-/PUNC ألقاب/NN والزعيم/NNP فقط/RB لقبين/NNS فأين/JJ فيصلي/JJ أو/VBD فيصلي/NNP ب/IN أيها/NN الناس/DTNN ؟/NN !!/NN 

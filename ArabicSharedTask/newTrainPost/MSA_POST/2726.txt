@@ -1,0 +1,1 @@
+1/CD -/PUNC الفيصلي/DTNNP فاز/VBD بالدوري/NNP ليس/VBD بجدارته/NN بل/CC بهديه/NN كبرى/JJR من/IN شباب/NN الاردن/DTNNP ونقول/NNP بان/NNP الوحدات/NNP خسر/VBD الدوري/DTNN بمباراة/NNP واحده/NNP والله/NNP يرحم/VBP كيف/WRB كان/VBD وضع/NN جماهير/NN الفيصلي/DTNNP بعد/NN مباراة/NN الوحدات/DTNNS الاخيره/DTJJ في/IN الزرقاء/DTNNP وتعليقاتهم/NNP على/IN صدى/NN الملاعب/DTNN ./PUNC 

@@ -1,0 +1,1 @@
+الاعتراف/DTNN بالتزوير/NNP في/IN الانتخابات/DTNNS النيابية/DTJJ الاخيرة/DTJJ من/IN دولة/NN رئيس/NN الوزراء/DTNN الأسبق/DTJJ هو/PRP اعتراف/NN متأخر/JJ جدا/NN ولكنه/NNP اعترف/VBD بذلك/NNP ,/PUNC فكيف/NNP تمت/VBD مهاجمة/NN الفكرة/DTNN التي/WP دعت/VBD لها/NN الحركة/DTNN الاسلامية/DTJJ وهي/VBD تقول/VBP أن/NN التزوير/DTNN قد/RP تم/VBD وبكثرة/NN ./PUNC 

@@ -1,0 +1,1 @@
+دارين/NNP سلام/NN كل/NOUN الشكر/DTNN لأنك/NNP أوصلتنا/NNP إلى/VBD كان/VBD .../PUNC اليوم/DTNN فيلم/NN قصير/JJ وغدا/NN أفلام/NN عالمية/JJ .../PUNC ونتمنى/JJ من/IN المسؤولين/DTNNS الاهتمام/DTNN .../PUNC لأنه/NN يوجد/VBN عندنا/NN طاقات/NNS وإبداعات/NNS ولكن/NN لا/RP يوجد/VBN إهتمام/NN ودعم/NN .../PUNC دارين/NNP سلام/NNP إلى/VBD الأمام/DTNN .../PUNC 

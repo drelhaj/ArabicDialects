@@ -1,0 +1,1 @@
+هينا/VBD مطولينه/NNP ،/NN وعلى/NN رأيك/NNP لو/IN بإيد/NN الحكومة/DTNN كان/VBD جمركت/JJ الهوا/NN ./PUNC 

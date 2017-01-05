@@ -1,0 +1,1 @@
+اووه/NNP المباراه/DTNNP اليووم/DTNNP نار/NN .../PUNC بالتوفيق/NNP للعالمي/NNP ولا/NN احد/NN يزعل/VBP ياشباب/NN كلنا/NN عيال/NN نفس/NN المدينه/DTNN عيب/NN نزعل/VBP من/IN بعضنا/NN بسبب/NN كوره/NNP .../PUNC هي/PRP شكلها/NN كذا/NN نصراويه/NNP ?/PUNC -/PUNC ?/PUNC ولا/NN ?/PUNC -/PUNC ?/PUNC 

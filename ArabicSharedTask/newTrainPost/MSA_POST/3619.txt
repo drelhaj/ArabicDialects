@@ -1,0 +1,1 @@
+وهنا/VBD يقع/VBP دور/NN الاعلام/DTNN ،/VBD ،/NN فانتم/JJ يا/RP جريدة/NN الغد/DTNN على/IN سبيل/NN المثال/DTNN ،/VBD ،/NN هل/RP يتوقف/VBP دوركم/NNP فقط/RB على/IN نقل/NN خبر/NN الجريمة/DTNN فقط/RB ؟/VB !/PUNC اين/WRB متابعة/NN الجريمة/DTNN والمحاكمة/NN ؟/NN !/PUNC 

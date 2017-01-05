@@ -1,0 +1,1 @@
+ياخوي/VBP تكفون/NN عطوني/JJ فلوس/NNP خل/NNP اطلع/VBD شاعر/NN ./PUNC ولاتدرون/NNP مابي/NNP شاعر/NN بس/NN باشتري/NNP بيت/NNP اسكن/NNP دور/NN واجّر/JJ دور/NN ./PUNC اللهم/NN لاحسد/NN بعض/NOUN الناس/DTNN من/IN زود/VBD الدراهم/DTNN صاروا/VBD شعراء/NN 

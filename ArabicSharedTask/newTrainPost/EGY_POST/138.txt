@@ -1,0 +1,1 @@
+البطوله/DTNN خلاص/NN بين/NN ./PUNC ./PUNC بايرن/NNP ميونخ/NNP +/NN الأنتر/DTNN ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+دعني/NNP أذكر/VBP مسلمي/NNS أوروبا/NN بسؤال/NNP الله/NNP تعالى/VBD لمن/NN تم/VBD ترهبه/NN وإكراهه/NN لترك/NN الإسلام/DTNN :/PUNC ألم/VBD تكن/VBP أرض/NN الله/NNP واسعة/JJ ؟/NN وهو/NN الأعلم/DTNN العليم/DTJJ بالجواب/NNP ./PUNC 

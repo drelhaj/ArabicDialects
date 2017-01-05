@@ -1,0 +1,1 @@
+لو/IN في/IN حد/NN من/IN حفوا/VBD يتحفظ/VBP فهو/NN الوحدات/DTNNS ./PUNC ./PUNC ولكن/VBN نحن/PRP نقول/VBP ان/IN الحكم/DTNN بشر/VBD ومعرض/NN لبعض/NN الأخطاء/DTNN !!/CD 

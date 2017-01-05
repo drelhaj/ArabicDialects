@@ -1,0 +1,1 @@
+اقولكم/VBP على/IN فكره/NN ايه/NN رأيكم/NN تكتبوا/VBD انتوا/VBD الاتنين/DTNNS تعليقات/NNS وانا/NNP اريح/NNP دماغى/NNP وابطل/NNP اعلق/VBD ؟/NN !/PUNC :/PUNC -RRB-/PUNC 

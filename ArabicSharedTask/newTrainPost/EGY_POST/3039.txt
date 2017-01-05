@@ -1,0 +1,1 @@
+لا/RP دكر/VBP ياواد/NNP ./PUNC ./PUNC اش/VB حال/NN لو/IN ماكنتوش/NNP كلكم/NNP طراطير/NNP ؟/VBD ؟/NN كنت/VBD عملت/NN ايه/NN ؟/NN ؟/NN ؟/CD 

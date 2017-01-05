@@ -1,0 +1,1 @@
+11/CD -/PUNC بِسـمِ/NNP اللهِ/DTNN الذي/WP لا/RP يَضُـرُّ/VBP مَعَ/NN اسمِـهِ/NN شَيءٌ/JJ في/IN الأرْضِ/DTNN وَلا/NN في/IN السّمـاءِ/DTNN وَهـوَ/NN السّمـيعُ/DTNN العَلـيم/DTJJ ./PUNC -LRB-/PUNC ثلاثاً/CD -RRB-/PUNC -LRB-/PUNC أبو/NNP داود/NNP 4\/323/CD -RRB-/PUNC 

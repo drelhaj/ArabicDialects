@@ -1,0 +1,1 @@
+كل/NOUN اشي/NN بهون/NN لعيون/NN فلسطين/NNP ,/PUNC ما/IN بدنا/NN الكاس/DTNN يوم/NN الجمعة/DTNN ./PUNC المهم/DTNN اهلنا/VBD ب/IN فلسطين/NNP ما/WP يزعلوا/VBP ./PUNC كل/NOUN التوفيق/DTNN للفدائي/JJ 

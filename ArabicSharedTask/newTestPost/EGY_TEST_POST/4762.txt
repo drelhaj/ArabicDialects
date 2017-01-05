@@ -1,0 +1,1 @@
+محمود/NNP معلوف/NNP :/PUNC غلاستك/NNP ده/DT طبيعى/NN ولا/NN اشترتها/NN ./PUNC 

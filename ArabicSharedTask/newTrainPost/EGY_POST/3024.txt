@@ -1,0 +1,1 @@
+الكابتن/DTNN العظيم/DTJJ علاء/NNP موهوب/JJ حبيب/NN كل/NOUN الأهلوية/DTNN ./PUNC بلاش/NNP الكلام/NNP الفارغ/DTNNP والحجج/NNP الواهية/DTJJ بعد/NN كل/NOUN نكسة/NN -LRB-/PUNC مباراة/NN -RRB-/PUNC ./PUNC 

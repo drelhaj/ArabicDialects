@@ -1,0 +1,1 @@
+ذ/VBD يا/RP ريت/NN يجيبو/VBP أفلام/NN عربية/JJ يوم/NN الجمعة/DTNN وانشالله/NNP ما/WP يهتموا/VBP في/IN مباريات/NNS الوحدات/DTNNS و/CC الفيصلي/DTNNP ./PUNC 

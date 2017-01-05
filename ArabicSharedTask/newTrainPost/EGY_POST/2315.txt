@@ -1,0 +1,1 @@
+انت/PRP عارف/NNP من/IN جواك/NNP ان/IN الاهلي/DTNNP عظيم/JJ بانجازه/NNP ./PUNC ./PUNC عايز/VBD تقول/VBP الزمالك/DTNNP كويس/NNP قول/VBG بس/NN ماتقولش/NNP الاهلي/DTNNP وحش/NN ./PUNC ./PUNC لانك/VBD انت/PRP اوحش/NNP ./PUNC ./PUNC وبكدة/NN بتعرف/NN الناس/DTNN ان/IN انت/PRP النااااااااار/DTNN وكلااااااااااااااااكم/NNP 

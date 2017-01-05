@@ -1,0 +1,1 @@
+فأنت/VBD دائماً/NNP تكتب/VBP يوم/NN مباراة/NN الوحدات/DTNNS واذا/NN فاز/VBD الوحدات/DTNNS فانك/NNP تختفي/VBP في/IN اليوم/DTNN التالي/DTJJ واذا/NN خسر/VBD فانت/NNP اول/ADJ الحاضرين/DTJJ !!/NN 

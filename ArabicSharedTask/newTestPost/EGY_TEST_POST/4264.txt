@@ -1,0 +1,1 @@
+1-احمد/CD عيد/NN عبد/NNP الملك/DTNNP ارتكب/VBD سلوك/NN مشين/JJ واتوقف/NN ماتش/NNP واح/NN ؟/NN رد/NN يازاهر/NNP 2-هي/CD عقوبات/NNS نادي/NN اتحاد/NN الشرطه/DTNNP فين/NNP ولا/NN هما/PRP$ ملايكه/NNP واحنا/NNP كفره/NNP ؟/VBD رد/NN يازاهر/NNP 

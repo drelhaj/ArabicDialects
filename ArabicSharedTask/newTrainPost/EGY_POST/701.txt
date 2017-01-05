@@ -1,0 +1,1 @@
+أبدا/NN ./PUNC ./PUNC كل/NOUN ده/DT فيلم/NN ولن/NN يسمح/VBP القائمون/DTNNS علي/IN الأمر/DTNN بتغيير/NN اي/NOUN شئ/NN وهو/VBD مجرد/NN لعب/NN بأعصاب/NN الناس/DTNN 

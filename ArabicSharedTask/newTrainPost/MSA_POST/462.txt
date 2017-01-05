@@ -1,0 +1,1 @@
+-LRB-/PUNC حمد/NNP -RRB-/PUNC مع/NN اليابان/DTNNP والسعوديه/NNP وسوريا/NNP وهل/NN سنحضر/NN باب/NN الحاره/DTNN من/IN جديد/NN وهل/NN سنسمع/NN اخبار/NN جيده/NNP من/IN ابو/NNP نار/NN والعقيد/NNP 

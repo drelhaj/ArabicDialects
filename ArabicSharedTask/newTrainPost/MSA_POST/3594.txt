@@ -1,0 +1,1 @@
+ارتفع/VBD حائط/NN بارتفاع/NNP جدار/NN برلين/NNP بين/NN الامن/DTNN العام/DTJJ والمواطن/NN من/IN بعض/NOUN تصرفات/NNS سابقة/JJ ,/PUNC عليكم/NN ازالته/NNP ./PUNC 

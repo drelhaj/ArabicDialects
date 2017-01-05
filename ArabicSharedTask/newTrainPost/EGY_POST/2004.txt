@@ -1,0 +1,1 @@
+ليس/VBD مكان/NN الجامعه/DTNN حفلات/NNS الأغانى/DTNN والرقص/NN ./PUNC ./PUNC هما/PRP الشباب/DTNN ناقصين/NNP أثارة/NNP ؟/VBD أحنا/NN محتاجين/JJ للقدوى/NN مش/NN مطرب/JJ ببنطلون/NN مقطع/NN هو/PRP دا/NN زى/NN يدخل/VBP بيه/NN حرم/NN الجامعه/DTNN هيا/VBD فين/NNP هيبه/NNP الجامعه/DTJJ 

@@ -1,0 +1,1 @@
+قسما/NN بالله/NNP مو/NNP مصدق/NNP اني/NNP قرأت/VBD هيك/NNP خير/NN .../PUNC الله/NNP اكبر/JJR شو/NNP هاي/NNP جريمة/NN من/IN اغرب/NN وابشع/JJ جريمة/NN اسمعتها/NN يارب/VBP انك/NN عفو/NN كريم/NNP يامنان/NNP اعفو/NNP عنا/VBD يا/RP بديع/NNP السموات/DTNNP والارض/NN ومن/NN فيهن/NNP اعفو/NNP عنا/VBD يا/RP رب/NN يا/RP رحيم/NNP ارحمنا/NNP يا/RP رحمن/NNP ارحمنا/NNP 

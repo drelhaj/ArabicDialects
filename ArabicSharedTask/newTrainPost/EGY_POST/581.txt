@@ -1,0 +1,1 @@
+بصراحة/NN انا/PRP مش/NN عارفة/JJ اقول/VBP ايه/NN بس/NN اتمنى/VBP ان/IN الخلافات/DTNNS تزول/VBP لانها/NN زادت/VBD عن/IN الحد/DTNN المسموح/DTJJ به/NNP ./PUNC ./PUNC 

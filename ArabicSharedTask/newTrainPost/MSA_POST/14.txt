@@ -1,0 +1,1 @@
+بهكذا/NN قرار/NN كسبت/VBD الادارة/DTNN والجماهير/NN أهلي/JJ جديد/JJ وبطولة/NN دوري/NN كالعادة/NNP وكسبت/NN السلطة/DTNN راحة/NN بال/NNP وهي/NNP التي/WP ترى/VBP في/IN فوز/NN الاهلي/DTNNP أحد/VBD ثوابت/NN الاستقرار/DTNN السياسي/DTJJ في/IN مصر/NNP ./PUNC 

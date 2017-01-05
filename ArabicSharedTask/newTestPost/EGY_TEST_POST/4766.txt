@@ -1,0 +1,1 @@
+يا/RP تري/VBP أحمد/NNP حسن/NNP اتعاقب/NNP ساعتها/NNP ./PUNC ./PUNC طب/NN يا/RP تري/VBP كدة/NN يبقي/VBP بلطجي/NNS والا/NN لا/RP ./PUNC ./PUNC طب/NN يا/RP تري/VBP شايلين/NNS صوره/NNP وعاملينه/NNP بطل/NN ليه/NNP ؟/VBD ؟/NN ؟/CD 

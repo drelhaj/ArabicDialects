@@ -1,0 +1,1 @@
+الله/NNP ./PUNC ./PUNC مش/NN هو/PRP ده/DT النايب/DTNN إل/NN كان/VBD عاوز/VN يجيز/VBP بيع/NN الآثار/DTNN من/IN كام/NN شهر/NN .../PUNC يا/RP ترى/VBP ما/WP هى/VBD عقوبة/NN الحفر/DTNN و/CC النبش/DTNN وراء/NN هذا/DT النائب/DTNN ./PUNC ./PUNC للكشف/VBD عن/IN سر/NN إهتمامه/NNP و/CC علاقته/NNP .../PUNC -LRB-/PUNC بـ/NN الآثار/DTNN -RRB-/PUNC !!/NN .../PUNC ؟/NN ؟/NN ؟/CD 

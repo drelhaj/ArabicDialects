@@ -1,0 +1,1 @@
+وتبقى/VBD القلعة/DTNN الخضراء/DTJJ سيدة/NN الملاعب/DTNN في/IN الأردن/DTNN العزيز/DTJJ فهو/NNP صاحب/NN أقوى/NN وأرقى/NN إنجاز/NN في/IN تاريخ/NN الأردن/DTNN الحديث/DTJJ والقديم/NNP -LRB-/PUNC ألإبداع/NN الرياضي/DTNNP -RRB-/PUNC 

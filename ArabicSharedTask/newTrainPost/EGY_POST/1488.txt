@@ -1,0 +1,1 @@
+يعني/VBP الصورة/DTNN اللي/WP الولد/DTNN لابس/NNP دبلة/NNP ف/CC ايده/NNP -LRB-/PUNC -LRB-/PUNC يعني/VBP ماهو/NNP مش/NN معقول/JJ يعني/VBP ادام/NN العالم/DTNN اللي/WP وافقة/NN دي/NN ويقوم/NNP عامل/NN اي/NOUN حركة/NN كده/NNP او/CC كده/NNP ماهو/NNP خطبها/NN ماشي/NNP خطبها/NN بس/NN احترام/NN لو/IN حاببها/VBD ادام/NN الناس/DTNN يحترمها/NN -RRB-/PUNC -RRB-/PUNC 

@@ -1,0 +1,1 @@
+إخواني/NNP أبومحيسن/NNP وأل/NNP خطاب/NNP ./PUNC ./PUNC 

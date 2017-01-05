@@ -1,0 +1,1 @@
+آمين/VBD آمين/NNS آمين/JJ وصلى/VBD اللهم/NN على/IN سيدنا/NNP محمد/NNP وعلى/NNP آله/NNP وأصحابه/NNP وسلم/NNP .../PUNC 

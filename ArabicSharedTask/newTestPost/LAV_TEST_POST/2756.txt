@@ -1,0 +1,1 @@
+لا/RP حدا/NN يقول/VBP خشبة/NN ولا/NN حدا/NN يقول/VBP تركناها/NN ./PUNC ./PUNC الدرع/DTNN أخضــر/NNP وعالمصـــــــدار/NNP بإذن/NNP الله/NNP و/CC أول/VBD الغيث/DTNN قطرة/NN ./PUNC 

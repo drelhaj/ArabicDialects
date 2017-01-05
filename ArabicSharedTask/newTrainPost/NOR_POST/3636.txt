@@ -1,0 +1,1 @@
+ألمانيا/NNP أما/VBD بالنسبة/NN للدول/NNP العربية/DTJJ ما/WP غير/NN ما/WP نحكي/VBP مشيت/VBD و/CC تحت/NN القنطرة/DTNN و/CC هذا/DT ريتو/NN بعيني/JJ في/IN إسبانيا/NNP و/CC فرنسا/NNP 

@@ -1,0 +1,1 @@
+جميع/NOUN هذه/DT المحددات/DTNN اعتقد/VBP ان/IN دراستها/NN ستحدد/NN مدى/NN وجاهة/NN هذا/DT الامر/DTNN ،/VBD وليس/NN العمل/DTNN برد/NN الفعل/DTNN القادم/DTJJ من/IN جهات/NNS لديها/NN مشاكل/NN اكبر/JJR بكثير/NN من/IN مشاكلنا/NN ./PUNC 

@@ -1,0 +1,1 @@
+مرة/NN جلبي/JJ ومرة/NN كبة/NN والايام/NN الجاية/DTNN مانعرف/NNP -LRB-/PUNC هو/PRP مافية/JJ حصانة/NN على/IN اموال/NN الأردن/DTNN والله/NN حرام/NN -RRB-/PUNC 

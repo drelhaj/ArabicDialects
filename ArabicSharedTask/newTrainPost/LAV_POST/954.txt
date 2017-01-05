@@ -1,0 +1,1 @@
+فعلا/NN تلاقبها/NN كانت/VBD تلعب/VBP مع/NN الاطفال/DTNN و/CC بدها/NN تفرحهم/NN ,/PUNC و/CC كل/NOUN الموضوع/DTNN سوء/NN تقدير/NN لانها/NN ما/IN فدرت/VBD انو/NN كل/NOUN هالميمعه/NN رح/NN تصير/VBP و/CC هي/PRP تصير/VBP موضع/NN الخبر/DTNN -LRB-/PUNC الاكثر/DTJJR قراءه/NN -RRB-/PUNC 

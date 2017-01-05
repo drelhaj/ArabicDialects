@@ -1,0 +1,1 @@
+تعالو/VBD نتكلم/VBP ع/NN الشوط/DTNN الاول/ADJ ./PUNC ./PUNC اللي/WP مفيش/NN فيه/NNP خلاف/NN ولا/NN غلطة/NN من/IN قبل/NN الحكم/DTNN ./PUNC ./PUNC 

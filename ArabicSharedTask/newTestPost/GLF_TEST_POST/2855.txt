@@ -1,0 +1,1 @@
+ابي/NNP آخذها/NNP انا/PRP اشهد/VBP انهن/NN بنات/NNS الرجال/DTNN اللي/WP توقف/VBP جنب/NN رجلها/NN وتدعمه/NNP بالمال/NNP في/IN عصر/NN لا/RP يعترف/VBP فيه/NNP الا/RP بقوة/NN المال/DTNN ,/PUNC ,/PUNC ,/PUNC من/IN يخبر/VBP موظفه/NN ما/WP تزوجت/VBD بس/NN أشروا/VBD لي/NNP واتركوا/NNP الباقي/DTNN علي/NNP 

@@ -1,0 +1,1 @@
+ريال/NNP مدريد/NNP ؟/VBD ؟/NN هو/PRP أنت/VBD عايش/NNP فين/NNP ؟/VBD ؟/NN في/IN المريخ/DTNNP ياعم/VBP و/CC كمان/NN ريال/NN مديد/NN مش/NN محتاجة/JJ تشهير/VBP و/CC حط/VBD رجليك/NNP في/IN المية/DTNN لحسن/NNP تصيبك/NNP عين/NNP يا/RP سلام/NN قال/VBD ريال/NNP مدريد/NNP قال/VBD 

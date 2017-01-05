@@ -1,0 +1,1 @@
+والله/NN انو/VBD خبر/NN على/IN هالصباحية/NN ./PUNC ./PUNC وعلى/VBD راي/NN اخواننا/NN السوريين/DTNNS -LRB-/PUNC بحط/NN الاعل/DTNN بالكف/NNP -RRB-/PUNC 

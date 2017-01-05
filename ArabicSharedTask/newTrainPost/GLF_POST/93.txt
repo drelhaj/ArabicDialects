@@ -1,0 +1,1 @@
+قال/VBD المثل/DTNN -/PUNC سكتنالهم/NNP دخلو/NNP بحمارهم/NNP ./PUNC كرامه/NNP سمح/VBD له/NN يمشي/VBP ع/NN رجوله/NN بعرض/NN متر/NN والحين/JJ يبغى/VBP 4/CD متر/NN عرض/NN ومسافه/NN الطريق/DTNN حوالي/NOUN 60م/NN يعني/VBP 4ذ60/CD =/PUNC 240متر/CD مربع/NN قيمه/NN ارض/NN سكنيه/NNP ./PUNC يعني/VBP ياقضي/NNP حكمك/NNP عدل/VBD عدل/NN ./PUNC 

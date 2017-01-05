@@ -1,0 +1,1 @@
+هالحين/NNP عرفنا/VBD ليش/NNP قلت/VBD كذا/NN ,/PUNC بالله/NNP انت/PRP شيخ/NN يقنعك/VBP قينان/NN وعبده/NN خال/JJ ولا/VBD يقنعك/VBP ابن/NN باز/NNP وابن/NNP عثيمين/NNS ياخي/VBP قم/VB بس/NN قم/NNP 

@@ -1,0 +1,1 @@
+ماحدث/NNP فى/IN التلفزيون/DTNN كلام/NN فارغ/JJ وناس/NN فاضيه/NNP هل/RP مرتضى/NNP او/CC شوبير/NNP يشترى/VBP الخبز/DTNN الاسمر/DTNNP او/CC يبحث/VBP عن/IN انبوبة/NN غاز/NN اتركوهم/JJ يقضوا/VBP على/IN بعضهم/NN 

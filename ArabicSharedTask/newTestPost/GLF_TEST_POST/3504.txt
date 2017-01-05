@@ -1,0 +1,1 @@
+تعرفون/VBP وش/NN الخوف/DTNN منه/NNP النصراويين/DTJJ اذا/IN ضمنو/VBD الخسارة/DTNN -LRB-/PUNC وهذا/NNP شي/NNP طبيعي/NN -RRB-/PUNC بدو/NN يكسرون/VBP لاعبين/NNS الهلال/DTNNP وتبدأ/NN اصابات/NNS الهلال/DTNNP من/IN واحد/NN لثاني/JJ كلة/NN نجاسة/NN وحقد/NNP الله/NNP -LRB-/PUNC يجعل/VBP كيدهم/NNP في/IN نحورهم/NNP -RRB-/PUNC 

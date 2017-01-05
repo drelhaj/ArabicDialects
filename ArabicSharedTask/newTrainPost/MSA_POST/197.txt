@@ -1,0 +1,1 @@
+تحيه/VBP الى/IN الاخ/DTNN الدكتور/DTNN سالم/NNP الحسنات/DTNNP تحية/NN اجلال/NN واكبار/NNP على/IN ماقدمه/NNP لكل/NNP موظف/NN بمدينة/NN الاميرحمزه/DTNN للشباب/NNP حيث/WRB كان/VBD مثلنا/NN الاعلى/DTJJ في/IN العطاء/DTNN والبناء/NN في/IN بلد/NN ابوالحسين/NNP حفضه/NNP الله/NNP ورعاه/NN فاالى/NN الامام/DTNN يادكتورسالم/VBP بمزيد/NN من/IN التقدم/DTNN والازدهار/NN .../PUNC 

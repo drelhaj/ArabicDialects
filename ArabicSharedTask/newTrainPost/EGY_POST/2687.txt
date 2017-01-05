@@ -1,0 +1,1 @@
+يعني/VBP بالعقل/NNP كده/NNP شركة/NN مصرية/JJ تعمل/VBP في/IN الجزائر/DTNNP يعني/VBP العمال/DTNN يا/RP مصريين/JJ او/CC جزائريين/JJ ./PUNC ./PUNC لكن/VBP من/IN جنسيات/NNS تانيه/NNP لا/RP اعتقد/VBP ان/IN اوراسكوم/NNP بهذا/NNP الغباء/DTNN 

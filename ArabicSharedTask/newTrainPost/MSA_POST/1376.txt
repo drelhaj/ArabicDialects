@@ -1,0 +1,1 @@
+اخي/VBP عماد/NNP ./PUNC ./PUNC ما/WP كتبته/VBD انا/PRP عن/IN الرمثا/DTNNP ليس/VBD استهزاءا/NN ولا/NN انتقاصا/NN من/IN قوة/NN الرمثا/DTNNP بتاتا/NN ./PUNC ./PUNC ولكن/VBN استغرابا/NN من/IN موقف/NN لاعبي/NNS الرمثا/DTNNP والذين/NNP خسرو/NNP امام/NN الفيصلي/DTNNP في/IN المباراة/DTNN النهائية/DTJJ ومع/NN ذلك/DT لم/RP ننتقص/VBP من/IN فريق/NN ولاعبي/NNP الرمثا/DTNNP نهائيا/NN 

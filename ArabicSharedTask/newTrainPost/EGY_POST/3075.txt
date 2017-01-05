@@ -1,0 +1,1 @@
+بذمتك/NNP يا/RP استاذ/NN \//NN كمال/NNP ده/DT وصفك/NN للمباراه/NN ايه/NN مشفتش/NN الضربات/DTNNS الجزاء/DTNN اللي/WP ما/RP تحسبتش/VBP والله/NN منكم/NN لله/NN يا/RP أعلام/NN يا/RP احمر/JJ يا/RP جهلاوي/NNP قرفنا/VBD وزهقنا/NN منكم/JJ و/CC انشر/VBD يا/RP يوم/NN يا/RP سابع/ADJ ولا/VBD انت/PRP هتبقي/JJ اليوم/DTNN الاهلاوي/DTNN 

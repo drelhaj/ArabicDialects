@@ -1,0 +1,1 @@
+من/IN خلال/NN دراسات/NNS تبدو/VBP قديمة/JJ نسبياً/VBP إلا/NN أن/NN نسبها/NN أكثر/NN ثقة/NN من/IN غيرها/NN يبدو/VBP أن/NN معدل/NN الانتشار/DTNN العالمي/DTJJ للتبغ/NNP هو/PRP 30/CD %/PUNC ``/VBD 47/CD %/PUNC لدى/NN الذكور/DTNN ،/VBD 12/CD %/PUNC لدى/NN الإناث/DTNN ''/NN ./PUNC 

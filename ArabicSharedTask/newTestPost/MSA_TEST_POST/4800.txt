@@ -1,0 +1,1 @@
+ناصر/NNP جودة/NNP يتابع/VBP الانباء/DTNN منذ/IN البداية/DTNN ./PUNC ./PUNC وهو/NNP يدين/VBP باسم/NNP الحكومة/DTNN الاردنية/DTJJ وباشد/NN عبارات/NNS التنديد/DTNN والشجب/NNP والاستنكار/NNP ما/WP فعلته/VBD اسرائيل/NNP المسخ/DTNN 

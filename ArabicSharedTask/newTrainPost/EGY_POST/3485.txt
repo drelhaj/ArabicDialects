@@ -1,0 +1,1 @@
+-LRB-/PUNC ما/WP هي/PRP كلها/NN احلام/NN بقي/VBD اشمعنا/NNP انا/NNP -RRB-/PUNC 

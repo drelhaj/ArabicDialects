@@ -1,0 +1,1 @@
+عشائر/NN ./PUNC الشقباويه/DTNN ./PUNC تهنى/VBD ./PUNC ./PUNC الوحداتيه/DTNN ./PUNC المارد/DTNN ./PUNC الاخضررر/DTNN ./PUNC بالقب/NNP ,/PUNC ./PUNC العاشرررر/DTNN ./PUNC والثالث/NN ./PUNC على/IN ./PUNC التوالي/DTNN 

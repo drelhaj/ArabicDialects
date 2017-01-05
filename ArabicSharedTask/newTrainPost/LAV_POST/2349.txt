@@ -1,0 +1,1 @@
+يا/RP جماعة/NN لا/RP تستغربو/VBP اصلا/NN بالنسبة/JJ الي/IN خبر/NN عادي/NN لانه/NN الموضوع/DTNN قاعد/NN يصير/VBP كل/NOUN يوم/NN والتاني/JJ يعني/VBP متعودة/NN دايما/JJ وطبعا/NN هذا/DT مرده/NN الى/IN زيادة/NN نسبة/NN الفقر/DTNN في/IN الاردن/DTNNP وكذلك/NN البطالة/DTNN ./PUNC 

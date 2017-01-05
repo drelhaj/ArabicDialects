@@ -1,0 +1,1 @@
+يا/RP جماعة/NN كل/NOUN العالم/DTNN بيتابع/NN ماتش/NNP القمة/DTNN ولازم/NN نكون/VBP فيه/NNP نضاف/NNP وعظماء/NN لأن/NN دي/NN سمعة/NN البلد/DTNN ./PUNC ./PUNC اوعوا/VBD تشمتوا/VBP البلطجية/DTNN فينا/NNP 

@@ -1,0 +1,1 @@
+على/IN كل/NOUN حال/NN انا/PRP بحب/NN اذكر/VBP الناس/DTNN انوا/VBD الوحدات/DTNNS لما/IN اخذ/NN الاربع/DTNN بطولات/NNS كانت/VBD البطولة/DTNN الاولى/ADJ عن/IN طريق/NN الرديف/DTNN -LRB-/PUNC الدريم/DTNN تيم/NNP الوحداتي/DTNNP -RRB-/PUNC اللي/WP هلا/NNP نصوا/VBD بلعب/NN بالفريق/NNP الاول/ADJ احنا/NN اللي/WP عنا/VBD دريم/NNP تيم/NNP مو/NNP غيرنا/NNP 

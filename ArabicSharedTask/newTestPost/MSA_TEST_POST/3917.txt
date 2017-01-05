@@ -1,0 +1,1 @@
+هذه/DT الظاهرة/DTNN اقصد/VBP ظاهرة/NN ''/NN بائعو/NNS الإشارات/DTNNS الضوئية/DTJJ ''/VBD تستطيع/VBP ان/IN تتلافاها/VBP بهزة/NN راس/NN او/CC رفع/NN حاجب/JJ ،/VBD واذا/NN كان/VBD البائع/DTNN بليد/NN فالمشكلة/JJ سوف/RP تتلاشى/VBP بالتزامن/NNP مع/NN الضوء/DTNN الاخضر/DTJJ ،/VBD فضوء/NN اخضر/JJ يعني/VBP اهرب/VBP ./PUNC 

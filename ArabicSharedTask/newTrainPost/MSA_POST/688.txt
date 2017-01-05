@@ -1,0 +1,1 @@
+لماذا/WRB لن/RP يوقع/VBP عدنان/NNP حمد/NNP رسميا/NN للمنتخب/NNP الوطني/DTJJ خبر/NN فاجئني/NNP واكيد/NNP حمد/NNP شعر/VBD بالخطر/NNP من/IN نار/NN قطر/NNP وهل/NNP وصلت/VBD اليه/NNP حمى/VBD السعوديه/DTNN واليابان/NNS من/IN الان/DTNN نريد/VBP تفسير/NN منطقيي/NNS لماذا/WRB لن/RP يوقع/VBP هو/PRP بالذات/NNS على/IN قياده/NN المنتخب/DTNN ./PUNC 

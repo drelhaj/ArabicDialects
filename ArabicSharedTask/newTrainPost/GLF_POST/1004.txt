@@ -1,0 +1,1 @@
+هالحين/NNP النصراويين/DTJJ مبسوطين/VN بأن/NN غالي/NN سوف/RP يلعب/VBP امام/NN الهلال/DTNNP والله/NNP مادرينا/NNP عنه/NNP يلعب/VBP اومايلعب/NNP .../PUNC بعدين/NNP غالي/NN له/NN سنتين/NNS يلعب/VBP معكم/NN والله/NN مادرينا/NNP عنه/NNP لاعب/NN عادي/NN جداً/NNP 

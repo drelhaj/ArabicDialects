@@ -1,0 +1,1 @@
+يا/RP ماهيتاب/NNP امك/NNP بتنده/NNP عليكى/NNP علشان/NNP تغسلى/VBD المواعين/DTNNS وتمسحى/NN السلالم/DTNN انتى/VBD مالك/NN ومال/NN الكورة/DTNNP اصلا/NN ؟/NN ؟/NN ؟/NN ولا/NN انتى/VBD بتفهمى/NN ولا/NN عاوزه/NN تفهمى/NN يلا/NN غورى/NNP فى/IN داهيه/NNP ./PUNC 

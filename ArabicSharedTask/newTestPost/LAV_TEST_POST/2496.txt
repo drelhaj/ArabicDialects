@@ -1,0 +1,1 @@
+سلامات/NNS يا/RP محارمة/NN بس/NN دير/NN بالك/NNP لأنه/NNP العنب/DTNN أخضر/NNP وأحمر/NNP :/PUNC -RRB-/PUNC -RRB-/PUNC ووووه/NNP ووووه/NNP ووووه/NNP .../PUNC 

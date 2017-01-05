@@ -1,0 +1,1 @@
+3/CD -RRB-/PUNC لا/RP ننسى/VBP تأثير/NN الأمطار/DTNN والرياح/NN والمحيطات/NNS وبرك/NN المياه/DTNN على/IN سير/NN المباراة/DTNN وكلنا/VBD يعرف/VBP أجواء/NN السودان/DTNNP الحارة/DTJJ وغير/NN المناسبة/DTNN للبرودة/DTJJ الشديدة/DTJJ في/IN عز/NN 

@@ -1,0 +1,1 @@
+ابراهيم/NNP لاعب/NN جيد/JJ وامكانياته/NN كويسه/NN بس/NN الاعلام/DTNN هو/PRP اللي/WP افسد/VBD صو/NNP رته/NN والدليل/NNP انه/NNP لما/NNP خلص/VBD عليه/NNP دخل/VBD علي/IN جمال/NNP حمزه/NNP وبعده/NNP عمرو/NNP زكي/NNP ده/DT لاننا/VBD مبنعرفش/NN نصلح/NN بل/CC نساعد/VBP فيزياده/NNP مصابئنا/NNP 

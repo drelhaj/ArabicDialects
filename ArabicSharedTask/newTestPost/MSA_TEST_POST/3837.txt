@@ -1,0 +1,1 @@
+-LCB-/VBD -LCB-/NN -LCB-/NN وأثار/NN نصّ/VBP في/IN القانون/DTNN ،/VBD الذي/WP طرحته/VBD دائرة/NN قاضي/NN القضاة/DTNN للنقاش/NNP قبل/NN أسابيع/NN يسمح/VBP ضمن/NN شروط/NN معينة/JJ بـ/NN ''/NN تزويج/NN الفتاة/DTNN عند/NN بلوغها/NN 15/CD عاما/NN ''/VBD ،/NN ردود/NN فعل/NN لدى/NN الكثير/DTNN من/IN الأسر/DTNN وضحايا/NN الزواج/DTNN المبكر/DTJJ ./PUNC ئئ/CD 

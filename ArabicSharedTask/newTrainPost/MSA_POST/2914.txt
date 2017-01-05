@@ -1,0 +1,1 @@
+2/CD -/PUNC لاعبي/NNS دفاع/NN ذات/NN بنية/NN قوية/JJ وذات/VBD قامة/NN عالية/JJ خاصة/JJ أننا/VBD لدينا/NN باسم/NNP فتحي/NNP نعتمد/VBP عليه/NN ولكن/NN للأسف/NN لا/RP يراهن/VBP عليه/NN بكثرة/NN الانذارات/DTNNS التي/WP يحصل/VBP عليها/NN وهذا/NN دليل/NN واضح/JJ لضعفه/NN -LRB-/PUNC لا/RP يستطيع/VBP ان/IN يحصل/VBP ع/NN الكرة/DTNN بمهارة/NNP -RRB-/PUNC 

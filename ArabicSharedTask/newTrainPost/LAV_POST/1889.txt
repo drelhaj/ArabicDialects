@@ -1,0 +1,1 @@
+الله/NNP يديم/VBP عزك/NN ويطول/NNP عمرك/NNP ابو/NNP حسين/NNP والقائد/NNP ابو/NNP حسين/NNP تاج/NNP راس/NN كل/NOUN الاردنين/DTNNS وفيه/NN نفتخر/VBP والاردن/NN يا/RP اجمل/JJR وطن/NN واحسن/NN شعب/NN الله/NNP يديم/VBP الاردن/DTNNP و/CC الملك/DTNN عبدالله/NNP و/CC الاسره/DTNN الهاشمين/DTJJ و/CC الشعب/DTNN الاردني/DTJJ 

@@ -1,0 +1,1 @@
+رجال/NN الشرطة/DTNN ووزارة/NN الداخلية/DTNN مش/NN فاضيين/JJ ./PUNC ./PUNC يعنى/VBP يسيبوا/VBP الوحشين/DTNNS اللى/WP بيصلوا/VBD ./PUNC ويروحوا/VBD يمسكوا/VBP الحلوين/DTNNS بتوع/NN المخدرات/DTNNS والبلطجية/JJ ./PUNC ./PUNC بقى/VBD دى/NNP تبقى/VBP بلد/NN يا/RP ناس/NN !/PUNC 

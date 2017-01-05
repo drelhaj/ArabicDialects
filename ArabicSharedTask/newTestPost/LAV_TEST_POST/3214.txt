@@ -1,0 +1,1 @@
+عزيزي/NNP الفيصلي/DTNNP ./PUNC ./PUNC بالنسبة/NN للدرع/NN حكيتوا/VBD عنه/NNP خشبة/NN ./PUNC ./PUNC كأس/NN الكؤوس/DTNN راح/NN تحكوا/VBD عنه/NN تنكـــة/NN مثلاً/NN ؟/NN !!/NN 

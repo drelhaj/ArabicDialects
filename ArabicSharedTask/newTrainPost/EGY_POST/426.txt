@@ -1,0 +1,1 @@
+كده/NNP كخ/NNP ياعدلى/NNP حسين/NNP ،/VBD ،/NN مصر/NNP كلها/NN قرفت/VBD منكم/NN ،/NN ،/NN وسوف/NN تنتخب/VBP البرادى/DTNN ،/NN ،/NN وسوف/NN تقدم/NN كل/NOUN عصابة/NN حسنى/VBD مبارك/NNP الى/IN المحاكمة/DTNN ،/VBD ،/NN وسوف/NN يحكم/VBP القاضى/DTNN بصرف/NN بردعة/NN لكل/NN منهم/JJ 

@@ -1,0 +1,1 @@
+وانتم/NNP لا/RP تعلمون/VBP ان/IN المارد/DTNN الاخضر/DTJJ طوال/NN حياته/NN ينتصر/VBP ويحصد/NN البطولات/DTNNS البطوله/DTJJ تلو/NN الاخرى/DTNN حتى/IN انه/NN التهم/DTNN كل/NOUN بطولات/NNS الموسم/DTNN في/IN عام/NN واحد/CD ولم/NN يحصل/VBP اي/NOUN فريق/NN على/IN هذه/DT البطولات/DTNNS مثل/NN المارد/DTNN الاخضر/DTJJ 

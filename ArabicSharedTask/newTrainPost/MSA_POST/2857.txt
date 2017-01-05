@@ -1,0 +1,1 @@
+ولا/NN يعيب/VBP الزعيم/DTNN انه/NN خسر/VBD مرة/NN او/CC مرتين/NNS من/IN فرق/NN اخرى/JJ ./PUNC ./PUNC البرازيل/DTNNP وانجلترا/NN وفرنسا/NN تخسر/VBP وبعضها/NN لم/RP تشارك/VBP بكاس/NN العالم/DTNN لانها/NN خسرت/VBD من/IN فرق/NN اضعف/JJR منها/NN فنيا/JJ ./PUNC ./PUNC فهل/VBD خربت/NN الدنيا/DTNN ؟/NN ؟/NN وهل/NN نقول/VBP عنها/NN انها/NN فرق/NN ضعيفة/JJ ؟/VBD ؟/NN !!/NN 

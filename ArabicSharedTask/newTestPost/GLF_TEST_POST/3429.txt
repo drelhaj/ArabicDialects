@@ -1,0 +1,1 @@
+مالي/NNP يومين/NNS مطلع/NN السياره/DTNN من/IN الورشه/DTNN ومكلفه/NN على/IN اكثر/JJR من/IN 6/CD الآف/NN ريال/NN ./PUNC ./PUNC 

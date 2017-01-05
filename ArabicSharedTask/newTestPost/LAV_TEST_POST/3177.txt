@@ -1,0 +1,1 @@
+هاردلك/NNP يا/RP لاعبين/NNS الفيصلي/DTNNP قدمتم/NN ما/WP عندكم/VBD وهاردلك/NN إلا/NN جماهيركم/NNP المتواضعة/DTJJ القليلة/DTJJ ./PUNC ./PUNC 

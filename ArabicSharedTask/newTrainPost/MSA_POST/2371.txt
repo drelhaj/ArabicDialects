@@ -1,0 +1,1 @@
+حسونه/NNP مؤيد/VN سليم/NNP احترفا/NN في/IN اندية/NN البحرين/DTNNP و/CC للعلم/NN منتخب/NN البحرين/DTNNP لا/RP يوجد/VBN اي/NOUN لاعب/NN يلعب/VBP في/IN الدوري/DTNN البحريني/DTJJ دليل/NN الضعف/DTNN 

@@ -1,0 +1,1 @@
+ماكنتش/NNP هكتب/NNP ليه/NNP ./PUNC ./PUNC لكن/VBP كلامك/NNP خلانى/VBD اكتب/VBP وحزيد/NN فى/IN الكتابه/DTNN لو/IN مخرستيش/JJ ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+مايبغى/NNP يلعب/VBP براحته/NN النصر/DTNNP بمن/NN حضر/VBD ماهو/NNP بحاجته/NN او/CC حاجه/NN غيره/NN بس/NN ليعلم/NNP ان/IN دينلسون/NNP جانا/NNP وطردناه/NNP ماحنا/NNP عاجزين/NNP نلحقه/NNP اياه/NNP 

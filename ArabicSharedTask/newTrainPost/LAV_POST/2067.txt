@@ -1,0 +1,1 @@
+يا/RP استاذ/NN عبدالمنعم/NNP كأنك/NNP انت/PRP ما/WP بتشتغل/VBD .../PUNC ./PUNC 

@@ -1,0 +1,1 @@
+باختصار/NNP اسرائيل/NNP كدولة/NN لن/RP تدوم/VBP كما/CC يحلم/VBP الصهاينة/DTNN بل/CC حتمية/NN فنائها/NN موجودة/JJ وماهي/JJ الا/RP مسالة/NN وقت/NN طال/VBD ام/CC قصر/NN ./PUNC والذكي/NNS من/IN الصهاينة/DTNN من/IN يدرك/VBP هذة/DT الحتمية/DTNN ويغادر/NNP ارض/NN فلسطين/NNP لبناء/NN مستقبل/NN اولادة/NNP بمكان/NN اخر/JJ لا/RP يوجد/VBN به/NN فلسطنيون/JJ وعرب/JJ ./PUNC 

@@ -1,0 +1,1 @@
+نحن/PRP بالأردن/NNP بحاجة/NNP إلى/VBD هكذا/RB قرار/NN هام/JJ و/CC جريء/JJ حفاظآ/NN على/IN صحة/NN المواطن/DTNN ./PUNC 

@@ -1,0 +1,1 @@
+ههه/NNP وش/NNP اللي/WP فيالخبر/VBP أصلا/NN عايله/NNP جلسه/NNP على/IN رصيف/NN طيب/NNP وش/NNP الغريب/DTNNP الرياض/DTNNP كله/NNP أرصفه/NNP يعني/VBP بتقولي/NNP منتزه/NNP عشانك/NNP ركبت/NN فيه/NNP رصيف/NN المفروض/DTNN منتزه/NN يكون/VBP كله/NN مروج/JJ خضرا/JJ 

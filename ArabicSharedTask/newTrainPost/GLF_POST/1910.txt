@@ -1,0 +1,1 @@
+هي/PRP وينها/NN ال/DT 6/CD ميقا/NN يامال/NNP الصلاح/DTNNP ./PUNC ./PUNC واي/NNP توفير/NN مال/NN ./PUNC ./PUNC تدري/VBP بكم/NN سعر/NN ال/DT 4/CD ميقا/NN ./PUNC ./PUNC وتدري/NNP انها/VBD تقطع/VBP الين/DTNN تقطع/VBP روحك/NN معها/JJ ./PUNC ./PUNC لدرجة/NN اني/JJ مو/JJ واثق/JJ ان/IN الاتصال/DTNN يقضب/VBP روحة/NN لين/NNP ارسل/VBD هالتعليق/NNP 

@@ -1,0 +1,1 @@
+متى/WRB كانت/VBD اخر/JJR مرة/NN عرضت/VBD فيها/NN هذه/DT القناة/DTNN شيئا/NN عن/IN فلسطين/NNP او/CC عن/IN المذابح/DTNN فيها/NNP ./PUNC 

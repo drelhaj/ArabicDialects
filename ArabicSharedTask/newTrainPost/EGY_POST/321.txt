@@ -1,0 +1,1 @@
+لما/NNP تتكلمي/VBP اتكلمي/NNS عن/IN نفسك/NN فقط/RB وعبري/NNS عن/IN رأيك/NNP براحتك/NNP بس/NN ما/WP تتكلميش/VBP على/IN عموم/NN الاقباط/DTNN لان/NNP رأيك/NNP لا/RP يمثل/VBP رأي/NN الجميع/NOUN لا/RP انتي/NN ولا/NN غيرك/NNP ولا/NNP حتى/IN رأي/NN البابا/DTNNP يمثل/VBP رأي/NN الاقباط/DTNN سواء/NN فى/IN اى/NOUN شىء/NN ./PUNC 

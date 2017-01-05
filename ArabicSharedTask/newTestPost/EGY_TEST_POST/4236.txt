@@ -1,0 +1,1 @@
+ياريتنا/NNP نستفيد/VBP من/IN خبرتك/NN وتقولنا/NN ايه/NN الحل/DTNN ؟/VBD ؟/NN فضلا/NN دون/NN فلسفه/NN فارغه/NNP -LRB-/PUNC من/IN عينه/NN المنظومه/DTNN والكلام/NNP الكبير/DTJJ ده/DT -RRB-/PUNC وقطعا/NN دون/NN الفاظ/DTNN بذيئه/NNP -LRB-/PUNC من/IN عينه/NN غبي/NNP وأهبل/NNP وعبيط/NN -RRB-/PUNC لأني/NNP اثق/VBP فى/IN حسن/NN ادبك/NNP 

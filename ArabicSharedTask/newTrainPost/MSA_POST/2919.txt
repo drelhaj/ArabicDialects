@@ -1,0 +1,1 @@
+عبد/NNP اللطيف/DTNNP البهداري/DTNNP :/PUNC يسعدني/VBP ان/IN اطلق/VBN عليك/NN لقب/NN جمل/NN المحامل/DTNN فانت/NN كبير/JJ و/CC قد/RP حجزت/VBD مقعدا/NN في/IN قلوب/NN الوحداتيه/DTNN oنe/NNP وaي/NNP -LRB-/PUNC قادم/JJ من/IN غير/NN مغادرة/NN -RRB-/PUNC 

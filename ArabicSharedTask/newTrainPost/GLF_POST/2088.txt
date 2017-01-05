@@ -1,0 +1,1 @@
+الحين/DTNN اللي/WP يشوفك/VBP ياحسام/NNP يقول/VBP ان/IN النصر/DTNN واقف/VBD عليك/NNP علماً/NNP بانك/NNP لاتضيف/NNP للفريق/NNP شي/NNP بالعكس/NNP لعبك/NNP بطي/NN ويقتل/NN الهجمة/DTNN انا/PRP اقول/VBP الله/NNP معاك/NN .../PUNC 

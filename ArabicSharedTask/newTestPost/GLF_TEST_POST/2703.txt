@@ -1,0 +1,1 @@
+واللي/NNP يبغى/VBP يختلط/VBP يطلع/VBP وياخذ/NN راحته/NN وينبسط/JJ ./PUNC ./PUNC وانتهى/VBD الموضوع/DTNN ^/NN ^/CD 

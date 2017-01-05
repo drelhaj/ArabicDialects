@@ -1,0 +1,1 @@
+والناس/NNP فعلا/NN اللي/WP عمالة/NN تعلق/VBP بتعوم/NN علي/IN عوم/NN التاني/DTNN ما/WP بتقولش/VBD كلام/NN من/IN منطلق/NN تفكيرها/NN -LRB-/PUNC -LRB-/PUNC بعضهم/NNP يعني/VBP -RRB-/PUNC -RRB-/PUNC مش/NN كلهم/NNP 

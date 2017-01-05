@@ -1,0 +1,1 @@
+شهد/VBD كرنفال/NN منح/NN الثقة/DTNN لحكومة/NN الاستاذ/DTNN مضر/NNP بدران/NNP الذي/WP ايده/VBD الاخوان/DTNN كاملا/NN باستثناء/NNP ابوزنط/NNP ،/VBD اقرارا/NN رسميا/JJ من/IN رئيس/NN الوزراء/DTNN المعني/DTNN بانشاء/NNP اتحاد/NNP عام/NN لطلبة/NN الاردن/DTNNP ،/VBD في/IN سياق/NN اخر/JJ كانت/VBD العبارة/DTNN السعي/DTNN نحو/NN تطبيق/NN الشريعة/DTNN الاسلامية/DTJJ ./PUNC ./PUNC !/PUNC 

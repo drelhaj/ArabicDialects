@@ -1,0 +1,1 @@
+كلو/NNP حكي/NNP فاضي/NNP ,/PUNC يعني/VBP وين/NN الابداع/DTNN في/IN القصة/DTNN ,/PUNC مش/NN شايف/NN اي/NOUN فائدة/NN من/IN ورا/NN هاد/NN الموضوع/DTNN 

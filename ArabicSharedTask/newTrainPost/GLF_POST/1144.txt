@@ -1,0 +1,1 @@
+سبحان/NN الله/NNP العلي/DTNN القدير/DTJJ ،/VBD اهالي/NN الطائف/DTNNP كانوا/VBD ينظرون/VBP المكرمه/DTNN هذي/DT من/IN زمان/NN وكانوا/VBD يتوقعون/VBP ان/IN للطائف/NN ميزه/NN خاصة/JJ واول/VBN ميزة/NN له/NN انه/NN بلد/NN سياحي/JJ يرتاده/VBP المصطافين/DTNNS من/IN كل/NOUN مكان/NN من/IN الداخل/DTNN ومن/NN الخارج/DTNN ،/NN وكان/NN محتاج/NN للنقله/NN هذي/DT من/IN سنين/NNS ،/CD 

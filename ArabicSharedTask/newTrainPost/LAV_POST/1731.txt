@@ -1,0 +1,1 @@
+شو/NNP صا/NNP بالبلد/NNP ./PUNC ./PUNC ليش/NNP شو/NNP ذنب/NN العالم/DTNN تدفع/VBP ضرائب/NN ونحنا/NN مالنا/JJ دخل/VBD بكل/NN السياسات/DTNNS الأقتصادية/DTJJ .../PUNC عايشين/NNP وعين/NNP الله/NNP علينا/VBD زمان/NN وخبز/NN الطابون/DTNNS بشبع/NNP .../PUNC ما/IN بدنا/NN لا/RP خبز/NN فرنسي/JJ ولا/NN ايطالي/JJ ./PUNC ./PUNC بدنا/NN نرجع/VBP زي/NN زمان/NN 

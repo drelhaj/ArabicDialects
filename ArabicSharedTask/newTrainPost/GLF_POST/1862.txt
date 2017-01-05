@@ -1,0 +1,1 @@
+يارجال/NNP ماحولك/NNP احد/NN ,/PUNC ,/PUNC ,/PUNC !/PUNC 

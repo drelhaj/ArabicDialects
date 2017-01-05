@@ -1,0 +1,1 @@
+برأيي/NNP كل/NOUN اللي/WP بتحكيه/NN انا/PRP بعارضو/NNP بشكل/NN كبير/JJ شوف/NN الاسعار/DTNN بالمؤسسة/DTJJ العسكرية/DTJJ و/CC المدنية/DTJJ و/CC الاسعار/DTNN بالسوق/NNP وين/NNP الفرق/DTNN بين/NN السعرين/DTNNS بيروح/NNP ؟/NNP ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN للتجار/NN صح/VBD و/CC الا/RP لأ/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

@@ -1,0 +1,1 @@
+انا/PRP اعتبرها/NN استراحه/NNP المحارب/DTJJ وترجل/NN الفارس/DTNN عن/IN صهوه/NN جواده/NNP ليلتقط/NNP الانفاس/DTNN ليعاود/NNP بعدها/NNP حصد/VBD الالقاب/DTNN من/IN جديد/NN .../PUNC 

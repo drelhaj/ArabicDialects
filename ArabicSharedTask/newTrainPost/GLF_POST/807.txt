@@ -1,0 +1,1 @@
+بسم/NNP الله/NNP عليكم/NN ياالهلاليين/JJ ازعجتونا/VBD بكلمه/NNP خمسه/NNP مع/NN ان/IN النتيجه/DTNN 5-3/CD ./PUNC ./PUNC ماتدرون/NNP ان/IN كأس/NN خادم/NN الحرمين/DTNNS الشريفين/DTJJ السنوات/DTNNS اللي/WP راحت/VBD انهزمتو/NNP مرتين/NNS من/IN الاهلي/DTNNP 5-1/CD والاتحاد/NN 4-0ههه/CD 

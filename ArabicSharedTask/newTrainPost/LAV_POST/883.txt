@@ -1,0 +1,1 @@
+الف/CD سلامة/NN عليك/VBN يامحمود/NNP شلباية/NNP وانا/NNP عارف/NNP كل/NOUN ماترجع/NN لوضعك/NNP وتتألق/NNP وتتحسن/NNP بلعبك/NNP بيصير/NNP معك/NN انتكاسة/NN .../PUNC هيك/NNP حظك/NNP .../PUNC بقلك/NNP الف/CD سلامات/NNS الك/VBD وانشالله/NN بترجع/NN بالسلامة/NN للوحدات/NNS والمنتخب/DTNN الوطني/DTJJ 

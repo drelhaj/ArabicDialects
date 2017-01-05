@@ -1,0 +1,1 @@
+كل/NOUN القصة/DTNN انه/NN الشعب/DTNN .../PUNC والحكومة/NN راخية/NN الحبل/DTNN عالآخر/NNP للشباب/NNP والفلتان/NNP ،/VBD والسلاح/NN مع/NN اللي/WP بسوى/VBN واللي/NN ما/IN بسوى/NN ./PUNC 

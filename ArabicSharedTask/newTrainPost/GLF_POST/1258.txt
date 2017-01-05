@@ -1,0 +1,1 @@
+اقول/VBP ياحظ/VBP الهلال/DTNN وبس/NN ./PUNC بعذره/NNP مايطلع/NNP بيانات/NNS ولاردود/JJ كثيره/JJ ./PUNC بلا/NNP والله/NNP عنده/NNP هالاعلام/NNP القوي/DTJJ الكفيل/DTNN بايصال/NNP كل/NOUN مايريده/NN الهلاليون/DTNNS واكثر/NNP 

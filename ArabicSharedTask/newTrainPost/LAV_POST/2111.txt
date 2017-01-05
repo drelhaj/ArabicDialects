@@ -1,0 +1,1 @@
+كل/NOUN هاالاهمال/DTNN و/CC التقصير/DTNN و/CC اللامبالاة/DTNN اللي/WP كل/NOUN يوم/NN بنقرأ/NN و/CC بنسمع/NN عنها/NN في/IN المستشفيات/DTNNS و/CC لا/RP مرة/NN قرأنا/NN عن/IN محاكمة/NN طبيب/NN أو/NNP فصله/NNP مع/NN إنه/NN التقصير/DTNN في/IN أرواح/NN العالم/DTNN واضح/JJ .../PUNC ./PUNC 

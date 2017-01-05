@@ -1,0 +1,1 @@
+-LRB-/PUNC العامل/DTNN ./PUNC ./PUNC طب/NN القبض/DTNN يا/RP فندم/NNP -RRB-/PUNC 

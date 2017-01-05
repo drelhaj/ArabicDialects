@@ -1,0 +1,1 @@
+ابارك/VBD لاستاذي/NNP هاني/NNP البدري/DTNNP حصوله/NN على/IN درجة/NN الماجيستير/DTNN ./PUNC ./PUNC التي/WP استحقها/VBD بجدارة/NN ،/NN واتمنى/NNP مواصلته/NN الاكاديمية/DTNN لبلوغه/NN الدكتوراه/DTNN ./PUNC 

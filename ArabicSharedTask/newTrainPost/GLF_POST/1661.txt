@@ -1,0 +1,1 @@
+جمال/NNP البدويه/NNP ./PUNC ./PUNC أنها/NN ما/WP تعرف/VBP تشرب/VBP الحلا/NN بملعقه/NN من/IN غدر/NN !/PUNC 

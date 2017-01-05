@@ -1,0 +1,1 @@
+والله/NN يا/RP هيك/NNP الشغل/DTNN يا/RP بلاش/NNP .../PUNC ويا/NNP ريت/NNP غيرك/NNP يتعلم/VBP منك/NN 

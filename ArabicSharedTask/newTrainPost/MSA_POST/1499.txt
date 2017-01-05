@@ -1,0 +1,1 @@
+أستاذي/NNP العزيز/DTNNP .../PUNC من/IN يقرأ/VBP النصف/NOUN الأول/DTNN لمقالك/NN يعتقد/VBP بأنك/NNP ستقوم/NNP بمقارنة/NNP برشلونه/NNP أو/NNP ريال/NNP مدريد/NNP بالبرازيل/NNP ./PUNC كان/VBD الأفضل/DTNN أن/VBD تقارن/NN أنديتنا/NN الأردنية/DTNN بأندية/JJ أو/VBD منتخبات/NNS قريبة/JJ من/IN مستوانا/NN الفني/DTJJ ./PUNC 

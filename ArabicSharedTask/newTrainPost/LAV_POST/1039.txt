@@ -1,0 +1,1 @@
+شو/NNP ناقصنا/VBD احنا/NN في/IN الأردن/DTNN عشان/NNP نستدعي/VBP السفير/DTNN الاسرائيلي/DTJJ في/IN عمان/NNP ./PUNC مع/NN العلم/DTNN انو/VBD السفينة/DTNN فيها/NN اردنيين/NNS 

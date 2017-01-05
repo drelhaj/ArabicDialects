@@ -1,0 +1,1 @@
+يكثر/VBP الهرج/DTNN والمرج/NNP ./PUNC ./PUNC وينتشر/NNP الفساد/DTNN في/IN البر/DTNN والبحر/NNP 

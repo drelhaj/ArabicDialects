@@ -1,0 +1,1 @@
+بعدين/NNP قبل/NN الحكومة/DTNN ما/WP تقعد/VBP كل/NOUN يووم/NN تفرض/VBP ضريبة/NN شكل/NN يروحو/VBP يشوفو/NNP الهنوود/DTNN اللي/WP ما/VBP سكين/NN مناصب/NN في/IN القطاع/DTNN الخاص/DTJJ وبتحكم/NNP فينا/NNP وبوخدو/NNP شوي/NNP وشوياات/NNS .../PUNC ما/WP النا/VBD الا/RP الغربة/DTNN 

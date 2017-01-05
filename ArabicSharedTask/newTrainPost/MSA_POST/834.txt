@@ -1,0 +1,1 @@
+مباراة/NN بلا/NNP روح/NN و/CC لكن/CC المفرح/DTNN فيها/VBD الخامات/DTNNS الشابة/DTJJ الجيدة/DTJJ للمارد/NNP الاخضر/DTNNP .../PUNC اثبت/VBD الردايدة/DTNN و/CC يحيى/NNP جمعه/NNP و/CC المحارمة/DTNNP و/CC الياس/NNP و/CC محمود/NNP قنديل/NNP و/CC ان/IN الوحدات/DTNNS ما/RP زال/VBD بخير/NNP و/CC ان/IN هؤلاء/DT اللاعبين/DTNNS سيكون/JJ لهم/NN مستقبل/NN جيد/JJ ,/PUNC 

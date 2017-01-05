@@ -1,0 +1,1 @@
+-LRB-/PUNC بالعربي/NNP .../PUNC كل/NOUN واحد/NN بدور/NN على/IN مصلحته/NN -RRB-/PUNC ولو/NN الوحدات/DTNNS شاف/JJ لاعب/NN أحسن/NN من/IN رأفت/NN في/IN نفس/NN موقعه/NNP كان/VBD جابه/NNP وحلق/NN لرأفت/NNP .../PUNC 

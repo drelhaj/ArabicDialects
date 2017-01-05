@@ -1,0 +1,1 @@
+وكما/NN قال/VBD الدكتور/DTNN عربيات/NNP ،/NNP فإن/VBD تعليمات/NNS الانتخابات/DTNNS ستتجنب/NN العشائرية/DTNN ،/VBD ويبدو/NNP واضحاً/NNP أن/NN العشائرية/DTNN انقرضت/VBD من/IN الجامعة/DTNN الهاشمية/DTJJ ./PUNC 

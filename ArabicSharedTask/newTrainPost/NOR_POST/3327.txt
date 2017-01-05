@@ -1,0 +1,1 @@
+منحبش/NN نظلمكو/NNP بالنسبة/NNP للشعب/NN سكت/NN مدة/NN و/CC قال/VBD كلمتو/NNP في/IN و/CC ضد/NN ارادة/NN الشعب/DTNN بالسيف/NNP غريبة/NNP فيك/NNP باش/NNP تخليني/NNP نشك/NNP فيك/NNP 

@@ -1,0 +1,1 @@
+بالمقابل/NNP هل/RP فكر/NN احدكم/JJ و/CC تسائل/VBP عن/IN السر/DTNN وراء/NN اختفاء/NN النقاب/DTNN و/CC الحجاب/DTNN و/CC حتى/RP الايشارب/DTNN في/IN تونس/NNP ؟/CD ./PUNC 

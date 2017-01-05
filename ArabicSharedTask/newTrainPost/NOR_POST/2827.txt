@@ -1,0 +1,1 @@
+خلصلي/NNP بلمسبق/NNP حق/NN سيارة/NN الاسعاف/DTNN التابعة/DTJJ للمستشفى/DTJJ الحكومي/DTJJ برأس/NNP الجبل/DTNNP و/CC القصاب/DTNN بقيت/VBD ساعة/NN غير/NN ربع/NOUN نسنى/NN في/IN بابا/NN باش/NNP جاني/NNP 

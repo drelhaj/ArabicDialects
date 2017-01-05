@@ -1,0 +1,1 @@
+@/VBD حسبي/NNP الله/NNP عليه/NNP بائعين/NNP الوهم/DTNN ./PUNC ./PUNC قبل/NN سنوات/NNS قبضوا/VBD على/IN واحد/NN ابن/NNP -LRB-/PUNC ستين/CD هو/PRP هو/PRP -RRB-/PUNC كان/VBD -LRB-/PUNC يش/NNP ./PUNC ./PUNC -RRB-/PUNC ويبع/NNP بوله/NNP على/IN انه/NN علاج/NN للسكر/NNP ./PUNC ./PUNC يا/RP جماعة/NN الربع/NOUN وش/NN صار/VBD فينا/NNP ما/WP ادري/VBP !!/CD 

@@ -1,0 +1,1 @@
+مين/NN سألوا/NN ممكن/JJ نعرف/VBP لأنه/NN ما/WP هي/PRP قادرة/JJ تتحمل/VBP شي/NNP من/IN مسؤوليتها/NN فرض/NN ضرائب/NN ورفع/NN اسعار/NN واكل/NN اموال/NN الناس/DTNN رجعولنا/VBD 20/CD %/PUNC من/IN مصارينا/NN في/IN البورصة/DTNN بعد/NN ما/IN حكوا/VBD النسبة/DTNN وصلت/VBD 100/CD %/PUNC لبعض/NN الشركات/DTNNS 

@@ -1,0 +1,1 @@
+بلكي/NNP الفيصلي/DTNNP اشترى/VBD مسعود/NNP أوزيل/NNP ./PUNC 

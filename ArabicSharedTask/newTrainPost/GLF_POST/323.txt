@@ -1,0 +1,1 @@
+وحنا/VBD سهمنا/NN ما/IN تحرك/NN ./PUNC ./PUNC صدق/NN من/IN قال/VBD سهمك/NNP وسهم/NNP الغدر/NNP :/PUNC -LRB-/PUNC 

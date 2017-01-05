@@ -1,0 +1,1 @@
+انا/PRP برايي/NNP انو/NNP الاثنين/DTNN يتأثروا/VBP لان/NN كل/NOUN واحد/NN فيهم/NNP بكمل/NNP الثاني/DTNNP بس/NN في/IN مشكلة/NN مهمة/JJ بين/NN الزوجين/DTNNS وبرايي/NNS هي/PRP اللي/WP تؤدي/VBP للطلاق/NN وهي/JJ عرض/VBD مشاكلهم/NN للاهل/NNP وهاي/NNP اكبر/JJR غلطة/NN لو/IN كل/NOUN زوجين/NNS حاولوا/VBD يحلوا/VBP مشاكلهم/NN لوحدهم/NNP لوجدنا/NNP الطلاق/DTNN قليل/JJ جدا/NN 

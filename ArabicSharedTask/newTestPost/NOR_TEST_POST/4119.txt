@@ -1,0 +1,1 @@
+جميل/NNP و/CC يقطن/VBP بالواحة/NN تuنiس/NN و/CC أما/NN الصورة/DTNN فهي/NNP لطائر/NNP ROUGع/NN GORGع/JJ و/CC هو/PRP طائر/NN صغير/JJ 

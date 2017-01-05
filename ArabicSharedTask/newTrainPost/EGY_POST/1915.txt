@@ -1,0 +1,1 @@
+يا/RP راجل/NNP يا/RP طيب/JJ ,/PUNC وزير/NN الداخلية/DTNN اتضرب/NNP بالنار/NNP عند/NN فندق/NN سميراميس/NNP -LRB-/PUNC قلب/NN العاصمة/DTNN -RRB-/PUNC والجناة/NN هربوا/VBD وكان/NN رده/NN عندما/NN ساله/NNP الريس/DTNNP عن/IN الواقعة/DTNN قال/VBD :/PUNC الواد/DTNN اتظفلط/VBP من/IN الظابط/DTNN .../PUNC ./PUNC ./PUNC راح/VBD الريس/DTNN شاله/NNP من/IN منصبه/NN .../PUNC .../PUNC 

@@ -1,0 +1,1 @@
+هو/PRP فارسي/JJ وهم/NN فرس/NN ونحن/NN عرب/JJ ,/PUNC هم/PRP في/IN صعود/NN ونحن/NN في/IN هبوط/NN ./PUNC 

@@ -1,0 +1,1 @@
+وقال/NN رئيس/NN جمعية/NN تجار/NN الاسمنت/DTNN منصور/NNP البنا/DTNNP :/PUNC -LRB-/PUNC أن/NN سوق/NN العقار/DTNN تعاني/VBP ركودا/NN أدى/VBD الى/IN تراجع/NN الطلب/DTNN على/IN مادة/NN الاسمنت/DTNN ./PUNC -RRB-/PUNC 

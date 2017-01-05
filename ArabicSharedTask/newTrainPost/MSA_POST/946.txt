@@ -1,0 +1,1 @@
+من/IN هو/PRP الزعيم/DTNN من/IN بطل/NN الدوري/DTNN من/IN بطل/NN كاس/NN الاتحاد/DTNN الاسيوي/DTJJ مرتين/NNS من/IN وصيف/NN دوري/NN ابطال/NN العرب/DTNN من/IN صاحب/NN الانجازات/DTNNS التاريخ/DTNN يتحدث/VBP والانجازات/NNS تتحدث/VBP فهو/NNP .../PUNC .../PUNC .../PUNC الفيصلي/DTNNP 

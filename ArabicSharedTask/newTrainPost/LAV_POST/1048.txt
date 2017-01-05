@@ -1,0 +1,1 @@
+الله/NNP يستر/VBP ويجيب/NN العواقب/DTNN سليمه/NNP بعدين/NNP مع/NN مشكلة/NN الحافلات/DTNN صار/VBD الواحد/DTNN قلق/NN طوال/NN اليوم/DTNN حتى/IN يعود/VBP اولاده/NNP من/IN والى/NN الجامعات/DTNNS ،/VBD استهتار/NN من/IN قبل/NN السائقين/DTNNS وتهور/NN وسرعه/NN زائدة/NN ،/NN وعدم/NN صيانة/NN دورية/NN للحافلات/NNS والجشع/JJ والطمع/JJ عند/NN بعض/NOUN اصحاب/NN الحافلات/DTNN ./PUNC 

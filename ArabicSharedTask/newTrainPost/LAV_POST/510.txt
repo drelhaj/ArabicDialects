@@ -1,0 +1,1 @@
+الله/NNP يوفق/VBP منتخب/NN النشامه/DTNN الاول/ADJ والشباب/NN ورغم/NN الحصار/DTNN الي/IN صاير/NN في/IN غزه/NN بنشوف/NNP اشي/NNP رائع/JJ ./PUNC والله/NN يخليلنا/NNP ابو/NNP حسين/NNP الي/IN مش/NN مقصر/JJ مع/NN كل/NOUN فلسطيني/NN محتاج/NN ./PUNC والله/NN يهون/VBP عليهم/NN 

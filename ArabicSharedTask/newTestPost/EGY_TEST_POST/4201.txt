@@ -1,0 +1,1 @@
+المصريين/DTNNS مش/NN عاجبهم/JJ حاجة/NN .../PUNC الوزير/DTNN دا/NNP راجل/NNP ممتاز/NNP ربنا/NNP يوفقه/NNP .../PUNC ازاي/NN واحدة/JJ منقبة/VN تعلم/NN طلبة/NN ./PUNC ./PUNC !!/VB منقبة/VN ما/WP تقعد/VBP في/IN بيتها/NN .../PUNC انا/PRP مستغرب/VBG إن/NN فيه/NNP حد/NN بيدافع/NN عن/IN النقاب/DTNN فاكر/NNP نفسه/NNP كده/NNP بيدافع/NNP عن/IN الدين/DTNN 

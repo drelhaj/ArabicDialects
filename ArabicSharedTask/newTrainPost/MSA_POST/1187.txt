@@ -1,0 +1,1 @@
+8/CD -/PUNC أَعـوذُ/NNP بِكَلِمـاتِ/NNP اللّهِ/DTNN التّـامّـاتِ/DTNN مِنْ/NN شَـرِّ/NN ما/IN خَلَـق/NN ./PUNC -LRB-/PUNC ثلاثاً/NN إِذا/NN أمسى/NNP -RRB-/PUNC -LRB-/PUNC أحمد/NNP 2\/290/CD ،/NN وصحيح/NN الترمذي/DTNN 3\/187/CD -RRB-/PUNC 

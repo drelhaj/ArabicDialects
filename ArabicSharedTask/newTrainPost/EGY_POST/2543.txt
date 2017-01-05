@@ -1,0 +1,1 @@
+5/CD -/PUNC محاسبة/NN تونى/NNP بلير/NNP تمت/VBD و/CC لا/RP تزال/VBP تجرى/VBP عن/IN سبب/NN القيام/DTNN بالحرب/NNP و/CC لكن/CC اثناء/NN خدمة/NN رئيس/NN الوكالة/DTNN كان/VBD فى/IN حماية/NN امريكا/NNP دلوقتى/NNP بقى/VBD لا/RP حول/NN له/NN و/CC لا/RP قوة/NN زى/NN تونى/NNP بلير/NNP بعد/NN ما/IN ترك/VBD منصبه/NN اتحاكم/JJ و/CC ليس/RP و/CC هو/PRP فى/IN المنصب/DTNN 

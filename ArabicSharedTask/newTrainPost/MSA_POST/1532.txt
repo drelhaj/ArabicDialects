@@ -1,0 +1,1 @@
+./PUNC لا/RP يجوز/VBP لاحد/NN كائنا/JJ من/IN كان/VBD ان/IN يقاوم/VBP الدولة/DTNN وان/NNP يتعدى/VBP على/IN رجال/NN امنها/NN ./PUNC 

@@ -1,0 +1,1 @@
+يحطون/VBP هالاجازه/NNP ثمين/NN تتقلب/VBP روسنا/NN من/IN هالنوم/NNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+هتقوله/NNP إيه/NNP ./PUNC ./PUNC السلام/DTNN السلام/DTNN ./PUNC ./PUNC إيه/VBD شغال/NNP علي/NNP ميكروباص/NNP 

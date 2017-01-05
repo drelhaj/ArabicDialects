@@ -1,0 +1,1 @@
+طيب/NNP لو/IN الاهلي/DTNNP اللي/WP وراها/NN ./PUNC ./PUNC ليه/NNP الاهلي/DTNNP مافازش/NNP امبارح/NNP مع/NN انه/NNP لو/IN متوصي/JJ عليه/NN توصية/NN صغيرة/JJ قد/RP كدة/VBD بس/NN ./PUNC ./PUNC كان/VBD اتحسب/VBP له/NN ضربة/NN جزاء/NN اللي/WP هي/PRP اصلا/NN ماتحسبتش/NNP بتاعة/NN متعب/JJ ./PUNC ./PUNC ومع/VBD ذلك/DT بنعترف/NN ان/IN الاخطاء/DTNN واردة/JJ ./PUNC ./PUNC 

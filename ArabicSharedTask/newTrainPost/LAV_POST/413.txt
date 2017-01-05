@@ -1,0 +1,1 @@
+الف/CD مبروك/NN ياباشا/VBP ياريت/NNP تكثف/VBP -LRB-/PUNC مهارات/NNS الاتصال/DTNN -RRB-/PUNC للافراد/NNP لانو/NNP الها/NN دور/NN كبير/JJ بالمشاكل/JJ اللي/WP تحصل/VBP 

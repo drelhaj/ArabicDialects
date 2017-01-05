@@ -1,0 +1,1 @@
+شو/NNP الصفقه/DTNNP هاي/NNP ليش/NNP العدوان/DTNN قاعد/NN بخبص/NN بلعيبه/NNP ومع/NN احترامي/JJ لا/RP مهند/NNP المحارمه/DTNN وبيضلو/NNP لا/RP عب/NN كبير/JJ بس/NN ليش/NN العدوان/DTNN بدو/NN يعطي/VBP 3/CD لعيبه/NN من/IN امهر/NN اللعيبه/DTNN عنا/VBD ويا/NN ريت/NNP توصلوها/NNP للعدوان/NNP كل/NOUN جماهير/NN النادي/DTNN الفيصلي/DTNNP ما/WP بدهم/VBD الصفقه/DTNN هاي/NNP اتم/JJR .../PUNC 

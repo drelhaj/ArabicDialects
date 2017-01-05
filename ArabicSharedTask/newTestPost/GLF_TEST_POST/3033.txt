@@ -1,0 +1,1 @@
+الحين/DTNN الاجانب/DTJJ يخدمونا/NNP ويحولون/NNP خارج/NN البلاد/DTNN ثلاث/CD مليار/NN بالسنة/NN مقابل/NN مجهوداتهم/JJ قمنا/VBD الدنيا/DTNN عاليهم/NN وقولنا/NN هم/PRP$ سبب/NN الفقر/DTNN ./PUNC ./PUNC 

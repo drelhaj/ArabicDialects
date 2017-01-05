@@ -1,0 +1,1 @@
+الحكم/DTNN امبارح/VBP في/IN ماتش/NNP الزبالك/DTNNP كان/VBD تايه/VBP بس/NN مكنش/NN منحاز/JJ .../PUNC هما/PRP كمان/NN ليهم/NNP ضربتين/NNS جزاء/NN ماتحسبوش/NNP ./PUNC ./PUNC بس/NN مش/NN عايزين/JJ نغمض/VBP عنينا/NN الا/RP علي/IN اللي/WP لينا/NNP وبس/NNP ./PUNC ./PUNC اللي/WP ليك/NNP قوله/NNP واللي/NNP عليك/NNP قوله/NNP برضه/NNP 

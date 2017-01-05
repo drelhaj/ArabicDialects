@@ -1,0 +1,1 @@
+يانهااااار/NNP اسود/JJ ./PUNC ./PUNC خليكو/NNP في/IN ماتشاتكم/NNP وعموما/NNP انا/PRP هقولها/NN لك/NN كلمة/NN ./PUNC ./PUNC 

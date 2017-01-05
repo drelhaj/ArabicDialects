@@ -1,0 +1,1 @@
+شو/NNP يعني/VBP عادي/NN بلاااا/NN من/IN صحن/NN هالسلطه/NNP بنوكل/NNP سلطه/NNP فواكه/NN ارخص/JJ وفيها/NN فائده/NN اكثر/JJR .../PUNC والا/NN شو/NNP راي/NN الجماعه/DTNN ./PUNC 

@@ -1,0 +1,1 @@
+طب/NN ادينا/VBD شفنا/NN الماتش/DTNN والحكم/NNP مالهوش/NNP ولا/NN قرار/NN يتقال/VBP عليه/NNP غلطة/NNP ./PUNC ./PUNC ولا/VBD لاعب/NN قدر/NN يضحك/VBP عليه/NN ./PUNC ./PUNC انما/RP بمنتهي/NNP الصراحة/DTNN الاهلوية/DTJJ بيعتبروا/VBD الحكم/DTNN وحش/NN مادام/NN لم/RP ينحاز/VBP لهم/NN والعيب/NN طبعا/NN مش/NN عليهم/NN خالص/JJ العيب/DTNN علي/IN الحكام/DTNN اللي/WP عودوهم/VBN علي/IN كدة/NN 

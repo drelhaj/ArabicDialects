@@ -1,0 +1,1 @@
+دميخان/NNP بعد/NN ماكان/NN متمسك/JJ بشجرة/JJ وشاف/NN امه/NN منجرفه/NN بالسيل/NNP فلت/NNP نفسه/NNP يبي/VBP ينقذها/NN وشكله/NN متوقع/NN انه/NN مايقدر/NNP بس/NN قلبه/NNP ماقدر/NNP يشوف/VBP امه/NN قدامه/NN بالسيل/NNP بعد/NN ماكان/NN يصيح/VBP بالناس/NNP عشان/NNP ينقذون/VBP ميمته/NNP الله/NNP يرحمهم/VBP يارب/VBP انشالله/NN شهداء/NN ويصبر/NN قلوب/NN اهاليهم/NNP :/PUNC -LRB-/PUNC 

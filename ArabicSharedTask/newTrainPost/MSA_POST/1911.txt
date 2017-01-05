@@ -1,0 +1,1 @@
+2/CD -RRB-/PUNC نعم/UH لقد/RP شاهدت/VBD أداء/NN الوحدات/DTNNS العالي/DTJJ جدا/NN -LRB-/PUNC العكس/DTNN صحيح/JJ -RRB-/PUNC لو/IN لعب/VBD الحسين/DTNNP بكل/NNP نجومه/NNP والوحدات/NNS بكل/NN نجومه/NNP لفاز/NNP الحسين/DTNNP 

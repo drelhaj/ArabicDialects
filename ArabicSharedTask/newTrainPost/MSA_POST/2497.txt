@@ -1,0 +1,1 @@
+عزيزي/NNP .../PUNC ./PUNC لا/RP يمكنك/VBP الوصول/DTNN للزعامه/NN وذلك/NN بسبب/NN وجود/NN النسر/DTNN الازرق/DTJJ الفيصلي/DTNNP 

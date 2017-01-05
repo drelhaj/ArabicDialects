@@ -1,0 +1,1 @@
+عارف/NNP ان/IN هيطلع/NNP غبى/VBD يقول/VBP شوف/NN بياخدوا/NN كام/NN بره/NNP ./PUNC ./PUNC انا/PRP مالى/JJ و/CC مال/NN اللى/WP بره/VBD ./PUNC ./PUNC و/CC بعدين/NNP شوفوا/VBD مستوى/NN الدخل/DTNN كام/NN اصلا/NN للى/NN بره/NNP ./PUNC ./PUNC لاحقر/VBD الناس/DTNN فيهم/NNP ./PUNC ./PUNC 

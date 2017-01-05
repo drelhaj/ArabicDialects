@@ -1,0 +1,1 @@
+هتقول/NNP إيه/NNP ./PUNC ./PUNC أصل/VBD كنت/NNP مقضيها/NN في/IN شرم/NNP ومعرفش/NNP 

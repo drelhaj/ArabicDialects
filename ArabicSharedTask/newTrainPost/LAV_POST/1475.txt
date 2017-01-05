@@ -1,0 +1,1 @@
+هو/PRP الله/NNP قالها/NN بنت/NNP ابصر/VBD مين/NN تيجي/NNP على/IN نص/NN الجامعه/DTNN الاردنيه/DTJJ وهي/NNP طالبه/NNP بسياره/NNP حكوميه/NNP سايقها/NN عسكري/JJ ؟/VBD مش/NN هاي/NNP على/IN حساب/NN الشعب/DTNN ؟/CD 

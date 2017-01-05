@@ -1,0 +1,1 @@
+-LRB-/PUNC -LRB-/PUNC وأفضل/NN وقتها/NN من/IN طلوع/NN الفجر/DTNN إلى/VBD طلوع/NN الشمس/DTNN -RRB-/PUNC -RRB-/PUNC 

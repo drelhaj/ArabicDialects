@@ -1,0 +1,1 @@
+الوزير/DTNN عايز/NNP يوصل/VBP رسالة/NN ل/IN 40/CD الف/CD مدرسة/NN انه/VBD شايف/NN كل/NOUN حاجة/NN قدام/NN عينه/NN ولازم/NN نسبة/NN الخطأ/DTNN فى/IN التعليم/DTNN تكون/VBP صفر/CD %/PUNC 

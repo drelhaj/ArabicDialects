@@ -1,0 +1,1 @@
+بالمختصر/VBD احنا/NN بدنا/NN عنب/NN ما/IN بدنا/NN نقاتل/VBP الناطور/DTNNP .../PUNC يعني/VBP فيه/NN قانون/NN والقانون/NNP يجب/VBP -LRB-/PUNC يجب/VBP -/PUNC يجب/VBP -/PUNC يجب/VBP -RRB-/PUNC أن/NN يحترم/VBP وان/NNP يفعل/VBP والا/NN لا/RP جدوى/NN من/IN وجوده/NN ولا/NN جدوى/NN لوجود/NN حراس/NN القانون/DTNN ومنفذيه/NNP 

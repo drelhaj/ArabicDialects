@@ -1,0 +1,1 @@
+وتوصيف/NN ذلك/DT في/IN عقلية/NN متفتحة/JJ بطابع/NN شرقي/NN فيه/NNP ظلم/NN كبير/JJ ./PUNC ./PUNC فالعقل/NNP لا/RP يتفتح/VBP حين/NN نقول/VBP نعم/NN لكل/NN شيء/NN ،/NN والطبع/DTNN الشرقي/DTJJ لا/RP يمثل/VBP الحماشة/DTNN في/IN وجه/NN الأعداء/DTNN المفترضين/DTJJ والغيرة/NN القاتلة/DTJJ كمادة/NNP للدعاية/NNP والافتخار/NNP ./PUNC 

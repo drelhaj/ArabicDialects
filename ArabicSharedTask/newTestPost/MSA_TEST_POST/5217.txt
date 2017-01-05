@@ -1,0 +1,1 @@
+و/CC رساله/NN لهما/NN :/PUNC هل/RP تعتقدان/VBP أن/NN هذه/DT التربية/DTNN ستنتهي/JJ بفلذة/NN كبدكما/NN في/IN الآخرة/DTNN إلى/VBD -LRB-/PUNC الجنة/DTNN -RRB-/PUNC أم/NNP إلى/NNP -LRB-/PUNC جهنم/NN -RRB-/PUNC ؟/CD فكرا/NN في/IN الاجابة/DTNN جيدا/JJ و/CC بدون/IN تأثيرات/NNS ./PUNC 

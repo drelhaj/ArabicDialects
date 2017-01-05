@@ -1,0 +1,1 @@
+رأفت/NNP -LRB-/PUNC البيكاسو/DTNNP ./PUNC ./PUNC المعلّــم/DTNN ./PUNC ./PUNC الفنان/DTNN -RRB-/PUNC أخد/VBD 11/CD ألف/NN يا/RP شلبايـة/NN ويا/NN إدارة/NN !!!/CD 

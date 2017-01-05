@@ -1,0 +1,1 @@
+ما/WP هو/PRP التفسير/DTNN المنطقي/DTJJ للحفل/NN التكريمي/DTJJ للاعبي/NNP نادي/NN العربي/DTNNP برعاية/NN رئيس/NN نادي/NN آخر/NNP !/PUNC ألا/VBD لايستحق/NNP رئيس/NN النادي/DTNN نفسه/NNP أوأحد/NNP أبنائه/NNP ان/IN يرعى/VBP حفل/NN التكريم/DTNN ؟/VBD مع/NN كل/NOUN الاحترام/DTNN للسيدطارق/NNP خوري/NNP ./PUNC 

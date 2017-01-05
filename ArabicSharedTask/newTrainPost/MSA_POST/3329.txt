@@ -1,0 +1,1 @@
+ولعائله/NN من/IN خمس/CD افراد/NN -LRB-/PUNC طلاب/NN ومعيل/NN -RRB-/PUNC 120/CD دينار/NN 

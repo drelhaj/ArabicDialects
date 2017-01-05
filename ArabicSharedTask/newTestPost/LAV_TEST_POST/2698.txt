@@ -1,0 +1,1 @@
+بس/NN الصراحة/DTNN سنة/NN التوجيهي/DTJJ سنة/NN حلوة/JJ جدا/NN وخاصة/NN انوا/VBD بكون/NNP فيها/NNP احلى/VBD صحبة/NN واصحاب/NN العمر/DTNN عنجد/NN من/IN كل/NOUN قلبي/NN الله/NNP يجازي/VBP هيك/NNP سنة/NN لانها/NN بتعطيك/NNP احلى/VBD اشي/NN وبالمقابل/NN بتوخد/NN منك/NN احلى/JJR واجمل/NN واروع/JJ اشي/VB .../PUNC -LRB-/PUNC اخوكم/NN عبد/NNP -RRB-/PUNC 

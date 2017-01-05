@@ -1,0 +1,1 @@
+وعقبال/NN فلسطين/NNP ,/PUNC عشان/NN انصير/NN اول/ADJ شعب/NN بيحتفل/NNP بإستقلال/NNP بلدين/NNP حبيبن/NNP على/IN قلبو/NNP ,/PUNC ,/PUNC بس/NN بهالمناسبة/NNP الحلوة/DTNNP انا/PRP عيد/NN ميلادي/NNP 25\/5/CD ./PUNC 

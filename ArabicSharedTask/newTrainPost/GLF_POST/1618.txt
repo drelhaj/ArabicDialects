@@ -1,0 +1,1 @@
+وين/NNP المعجبين/DTJJ بالغرب/NNP وبحياتهم/NNP ويشوف/NNP انهم/NN شعب/NN راقي/NN وحنا/NN يالعرب/VBP شعب/NN متخلف/JJ وينه/NN يجي/VBP يشوف/NN التخلف/DTNN بعينه/NNP ./PUNC ./PUNC سبحان/NN الله/NNP شعب/NN من/IN جد/NN متخلف/JJ ./PUNC ./PUNC 

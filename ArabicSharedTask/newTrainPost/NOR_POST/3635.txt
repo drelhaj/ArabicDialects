@@ -1,0 +1,1 @@
+فرنسا/NNP و/CC ألمانيا/NNP أما/NNP بالنسبة/NNP للدول/NNP العربية/DTJJ ما/WP غير/NN ما/NN و/CC إلا/NN يبات/VBN تحت/NN القنطرة/DTNN و/CC هذا/DT ريتو/NN بعيني/JJ في/IN إسبانيا/NNP 

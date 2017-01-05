@@ -1,0 +1,1 @@
+اشكر/VBP جلالة/NN الملك/DTNN واهنئ/NN جميع/NOUN العمال/DTNN في/IN المملكةواولهم/DTNN والدي/NNS الحبيب/DTNN الذي/WP علمني/VBN مقولة/NN -LRB-/PUNC يد/NN العامل/DTNN ثمينة/JJ مادامت/NN امينة/NN ؟/NN -RRB-/PUNC 

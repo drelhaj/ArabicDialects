@@ -1,0 +1,1 @@
+@/VBD يعني/VBP في/IN المستقبل/DTNN الله/NNP لا/RP يبلانا/VBP ممكن/JJ تلاقي/NN واحد/JJ زي/NN القطو/DTNN ./PUNC ./PUNC جسمه/NN اسود/JJ و/CC وجهه/NN ابيض/JJ :/PUNC -RRB-/PUNC 

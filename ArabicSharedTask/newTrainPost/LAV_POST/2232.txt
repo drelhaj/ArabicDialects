@@ -1,0 +1,1 @@
+رافت/NNP علي/NNP بخبرتو/NNP وبوزنو/NNP ومهارتو/NNP فريق/NN الوحدات/DTNNS ما/WP حطلو/VBD راتب/NN ولا/NN عقد/NN مثل/NN البشر/DTNN 

@@ -1,0 +1,1 @@
+بدل/NN كل/NOUN هاد/NN الحكي/DTNN لازم/VBD نحط/NN ادينا/VBD بإدين/NN بعض/NOUN و/CC نساعد/VBP هاي/NNP العيلة/DTNN .../PUNC والله/NN المسلمين/DTNNS اخوان/NN يا/RP جماعة/NN 

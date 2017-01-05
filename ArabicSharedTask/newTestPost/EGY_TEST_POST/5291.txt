@@ -1,0 +1,1 @@
+كدبة/NN ابريل/NN ,/PUNC احلام/NN شهر/NN العسل/DTNN ,/PUNC احلام/NN ما/WP بعد/NN شهر/NN العسل/DTNN ,/PUNC نشوة/NN التفويض/DTNN بالمنصب/NNP اللى/WP فى/IN العلالى/DTNN ,/PUNC لكن/VBP واضح/JJ ان/IN السكبنة/DTNN سرقاه/NNP و/CC كمان/NN سرقه/NN الحزب/DTNN كله/NNP ./PUNC 

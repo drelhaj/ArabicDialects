@@ -1,0 +1,1 @@
+ارجو/VBP الاخذ/DTNN بعين/NN الاعتبار/DTNN ان/IN هنالك/RB مواد/NN ترفض/VBP من/IN دول/NN بسبب/NN امني/JJ وليس/NN بسبب/NN صحي/JJ خصوصا/NN الصادرة/DTJJ الى/IN فلسطين/NNP -LRB-/PUNC الضفة/DTNNP الغربية/DTJJ -RRB-/PUNC ترفض/VBP من/IN الاسرائيليين/DTNNS ./PUNC 

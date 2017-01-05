@@ -1,0 +1,1 @@
+اعتقد/VBP اخي/NN سيف/NNP ان/IN المباراه/DTNN وجمالية/NN اداء/NN الوحدات/DTNNS بشبابه/NNP الواعدين/DTNNP ,/PUNC كان/VBD ابلغ/VBD رد/NN على/IN طروحاتك/NNP بالامس/NNP ,/PUNC التي/WP مالت/VBD الى/IN المشاكسه/DTNN والمناكفه/NN اكثر/JJR من/IN الموضوعيه/DTNN والعقلانيه/NNP ./PUNC 

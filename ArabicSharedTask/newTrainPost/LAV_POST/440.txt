@@ -1,0 +1,1 @@
+والله/NN اول/ADJ مرة/NN بسمع/JJ عن/IN القصة/DTNN واسف/JJ جدا/NN اني/NNP علقت/VBD على/IN الخبر/DTNN بعدين/NNP انا/NNP اسمي/NNS عبير/NNP مش/NN محمد/NNP ./PUNC 

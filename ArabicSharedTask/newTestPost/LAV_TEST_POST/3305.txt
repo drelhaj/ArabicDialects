@@ -1,0 +1,1 @@
+ناس/NN تعرف/VBP تفكر/VBP وتعرف/NN تشتغل/VBP والدليل/NN شووفوا/NNP قطر/NNP امس/NN ./PUNC ./PUNC واليوم/NN فرررق/NN كبير/JJ في/IN جميع/NOUN المجالات/DTNNS 

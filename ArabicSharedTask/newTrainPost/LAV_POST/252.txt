@@ -1,0 +1,1 @@
+قصي/NNP ابو/NNP عاليه/NNP مبروك/NN المولوده/DTNN الجديده/DTJJ وتتربى/NNP في/IN عزك/NNP وان/NNP شاء/VBD الله/NNP تكون/VBP فال/NN خير/NN عليك/NN بالكأس/NNP لانه/NNP المثل/DTNN بحكي/NNP -LRB-/PUNC خذوا/VBD فالها/NN من/IN اطفالها/NN -RRB-/PUNC الف/CD مبروك/NN الف/CD مبروك/NN 

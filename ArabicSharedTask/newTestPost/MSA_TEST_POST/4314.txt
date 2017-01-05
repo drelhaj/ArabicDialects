@@ -1,0 +1,1 @@
+والبطولة/NNP -LRB-/PUNC 16/CD -RRB-/PUNC في/IN الرياض/DTNNP 2000/CD 

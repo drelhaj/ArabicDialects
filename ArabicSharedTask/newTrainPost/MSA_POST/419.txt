@@ -1,0 +1,1 @@
+يشعر/VBP الانسان/DTNN بالاحباط/NNP والغضب/NNP من/IN بعض/NOUN جمعيات/NNS ومؤسسات/NNS ما/WP يدعى/VBN حقوق/NN الانسان/DTNN التي/WP تسارع/VBP بالتدخل/NNP وتكرير/NNP طروحات/NNS الغرب/DTNN بدون/IN تفكير/NN ودون/JJ اسقاط/NN تلك/DT الطروحات/DTNNS على/IN مجتمعاتنا/NN المحافظة/DTNN ./PUNC 

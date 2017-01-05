@@ -1,0 +1,1 @@
+الاحمديه/DTNN كذابين/NNP يدعوا/VBP ان/IN سيدنا/NNP محمد/NNP صلى/VBD الله/NNP عليه/NNP وسلام/NNP ليس/VBD اخر/JJR الانبياء/DTNN وان/NNP غلام/NNP احمد/NNP الكذاب/DTNNP هو/PRP اخر/JJR الانبياء/DTNN 

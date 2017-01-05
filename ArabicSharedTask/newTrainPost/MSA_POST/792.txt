@@ -1,0 +1,1 @@
+المطلوب/DTNN مقاطعة/NN الانتخابات/DTNNS وتاجيلها/NN لحين/JJ اخر/JJ ,/PUNC وعدم/VBD الاعتراف/DTNN بنجاح/NN اي/NOUN شخص/NN في/IN هذه/DT الانتخابات/DTNNS ,/PUNC واطلب/VN من/IN اي/NOUN شخص/NN وافقت/VBD عليه/NNP العماده/DTNNP الانسحاب/DTNN فورا/NN ./PUNC 

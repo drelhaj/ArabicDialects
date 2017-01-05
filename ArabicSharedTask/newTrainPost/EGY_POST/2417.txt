@@ -1,0 +1,1 @@
+يعني/VBP ايه/NN يضرب/VBP بيه/NN عرض/NN الحائط/DTNN ./PUNC ./PUNC ؟/VBD ؟/NN 

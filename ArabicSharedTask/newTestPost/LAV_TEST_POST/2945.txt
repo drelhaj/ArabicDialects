@@ -1,0 +1,1 @@
+ياسمور/NNP ./PUNC ./PUNC اللي/WP بدق/VBD الباب/DTNN بسمع/NN الجواب/DTNN 

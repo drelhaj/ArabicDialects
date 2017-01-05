@@ -1,0 +1,1 @@
+ازاى/VBD احط/NN رقبتى/NNP انا/NNP و/CC عيالى/NNP تحت/NN سيف/NN شخص/NN مثل/NN حمدى/NNP قنديل/NNP اللى/WP وقف/VBD مع/NN حزب/NNP الله/NNP فى/IN جلبه/NN الحرب/DTNN على/IN لبنان/NNP حزب/NNP الله/NNP الذى/WP خطط/VBD لعمل/NN تفجيرات/NNS فى/IN قناة/NN السويس/DTNNP و/CC السياحة/DTNN ؟/CD 

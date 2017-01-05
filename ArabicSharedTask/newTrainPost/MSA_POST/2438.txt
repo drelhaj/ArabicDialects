@@ -1,0 +1,1 @@
+بارك/NNP الله/NNP فيكم/NNP يا/RP ابطال/NN ومثقفي/JJ الاردن/DTNNP ./PUNC يا/RP اسود/JJ الكلمة/DTNN ,/PUNC يا/RP ابطال/NN الامة/DTNN الاسلامية/DTJJ والعربية/NN والى/NN الامام/DTNN لحماية/NN ارضنا/VBD وشعبنا/NN وديننا/NN من/IN اليهود/DTNN الملاعين/DTJJ ./PUNC 

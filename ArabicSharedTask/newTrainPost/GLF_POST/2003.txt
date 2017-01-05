@@ -1,0 +1,1 @@
+معليش/NN يامعاند/VBP الزعيم/DTNN البطوله/DTJJ هلاليه/NNP والفوز/NNP هلالي/NNP بثلاثه/NN نظيفة/JJ انشالله/NN بالتوفوق/NN للزعيم/NN احبكم/JJ يازعيم/VBP الكره/DTNN الارضيه/DTJJ تحياتي/VBP الخاصة/DTNN للكنق/NNP -LRB-/PUNC -LRB-/PUNC ياسر/NNP القحطاني/DTNNP -RRB-/PUNC -RRB-/PUNC 

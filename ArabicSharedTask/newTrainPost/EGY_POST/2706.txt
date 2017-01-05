@@ -1,0 +1,1 @@
+انتا/VBD شايف/NN الحل/DTNN ايه/NN يا/RP سوسوة/NN حاجة/NN من/IN اثنين/NNS اما/CC انه/NN يرد/VBP عليك/NNP رد/NN تافه/NN لا/RP اساس/NN له/NN من/IN الصحه/DTNN او/CC انه/NN لا/RP يستطيع/VBP الرد/DTNN ./PUNC 

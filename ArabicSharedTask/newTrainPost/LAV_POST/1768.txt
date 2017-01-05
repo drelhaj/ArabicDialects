@@ -1,0 +1,1 @@
+بس/NN شوف/NN الحكم/DTNN عبارة/NN عن/IN حبس/NN اسبوع/NN و/CC بعدين/NN برجعو/NNP لنفس/NNP العمل/DTNN ./PUNC 

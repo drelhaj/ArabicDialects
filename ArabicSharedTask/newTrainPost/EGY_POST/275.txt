@@ -1,0 +1,1 @@
+ريال/NNP مدريد/NNP هيكسب/NNP مفيش/NN هروب/NN من/IN مصير/NN برشلونة/NNP دا/NNP هيلعبو/NNP فى/IN ارض/NN النادى/DTNN الملكى/DTJJ 

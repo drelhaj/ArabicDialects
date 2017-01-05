@@ -1,0 +1,1 @@
+مسكين/JJ الجمهور/DTNN الاهلي/DTJJ فاكر/NNP ان/IN فريقو/NNP هيكسب/VBD الاتحاد/DTNN الليبي/DTJJ ./PUNC لكن/VBP اتوقع/VBP انه/NN هيتبهدل/NNP في/IN الرايح/DTNN وفي/NNP الجاي/DTNNP ./PUNC هههههههههههههههههههههههه/NNP 

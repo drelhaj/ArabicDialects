@@ -1,0 +1,1 @@
+خلاص/NN الدرب/DTNN أخضر/NN ،/NN أنت/VBD رئيس/NN الهيئة/DTNN القادم/DTJJ بما/NN تمثله/NN من/IN فكر/NN تنويري/NN ،/NN وركوبك/NNP الموجه/DTJJ صح/VBD ./PUNC ./PUNC والله/NN لخبطتونا/NN بكرة/NN تقولون/VBP تعاملات/NNS البنوك/DTNN صحيحه/NN وما/NN فيها/NN ربا/NN ،/NN الربا/DTNN هو/PRP ما/WP كان/VBD فقط/RB منذ/IN 1400/CD سنه/NN 

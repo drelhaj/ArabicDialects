@@ -1,0 +1,1 @@
+وين/NNP بتروح/NNP له/NN يامال/NNP الصلاح/DTNNP انت/PRP وشنبك/NN ذا/NN ؟/NN اجلس/NN بس/NN عشان/NN يعدونك/VBP مع/NN المسلمين/DTNNS :/PUNC -RRB-/PUNC ./PUNC ./PUNC 

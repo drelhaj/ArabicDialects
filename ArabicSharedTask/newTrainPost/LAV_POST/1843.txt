@@ -1,0 +1,1 @@
+العنوان/DTNN بقول/NNP :/PUNC ''/NN اقتصاديون/NNS يقولون/VBP انه/NN من/IN المبكر/DTNN الحكم/DTNN على/IN خطة/NN الحكومة/DTNN ''/NN ،/NN و/CC الله/NNP استفزني/VBD العنوان/DTNN قلت/VBD اشوف/NN من/IN هالاقتصاديين/NNS الي/IN حكو/NN هيك/NNP !!!/VBD لانو/NNP حد/NN علمي/JJ ما/IN فيه/NN اقتصادي/JJ ممكن/JJ يوقف/VBP جنب/NN الخطة/DTNN لانها/NN ببساطة/NN ركيكة/NN اقتصاديا/NN .../PUNC 

@@ -1,0 +1,1 @@
+السؤال/DTNN انه/VBD لاسمح/NNP الله/NNP صار/VBD زلزال/NN ./PUNC ./PUNC شو/NNP رح/NNP يكون/VBP التعويض/DTNN ؟/NN فنادق/NN خمس/CD نجوم/NN ./PUNC ./PUNC يبنوا/VBP بيوت/NN جديدة/JJ ./PUNC ./PUNC سيارات/NNS ./PUNC ./PUNC علاج/NN طبي/JJ ؟/VBD اصلا/NN ما/WP رح/VBD يكون/VBP حدا/NN عايش/NNP عشان/NNP يستفيد/VBP من/IN التامين/DTNN اللي/WP دفعه/VBN ./PUNC ./PUNC 

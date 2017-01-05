@@ -1,0 +1,1 @@
+لقد/RP جاءت/VBD ساعةالانتعاش/NNP بعد/NN النوم/DTNN 50/CD سنه/NN -/PUNC استيقظ/VBD الشعب/DTNN والعماص/NN يملىء/NN عينه/NNP -/PUNC يريد/VBP من/IN البرادعى/DTNN الغسيل/DTNN لاازالة/NNP العماص/DTNNP بمياه/NN الحرية/DTNN وصابون/NN الديمقراطية-ولنغير/DTNN اسم/NN مصر/NNP الى/IN مصرى/NN العظمى/DTJJR او/CC مصر/NNP الحديثة/DTJJ 

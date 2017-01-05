@@ -1,0 +1,1 @@
+دولة/NN الكيان/DTNN الصهيوني/DTJJ وصلت/VBD لمرحلة/NN من/IN التبجح/DTNN لدرجة/NN أنها/NN تريدإقامة/NN دولة/NN داخل/NN دولة/NN ،/JJ لازم/JJ حد/NN يوقفهم/VBP عند/NN حدهم/NN و/CC يورجيهم/VBP قيمتهم/NN ،/NN أنا/VBD بطالب/NN الحكومة/DTNN الاردنية/DTJJ انها/NN تقطع/VBP العلاقات/DTNNS السياسية/DTJJ معه/NN ./PUNC 

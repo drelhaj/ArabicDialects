@@ -1,0 +1,1 @@
+ايوه/NNP ياعم/VBP هيك/NNP بنشجع/NN الرياضه/DTNN وندعمها/NN انديه/NNP تطالب/VBP برفع/NN حصتها/NN وانديه/NNP تطالب/VBP برفع/NN سعر/NN البطاقات/DTNNS والمشجع/DTJJ الاردني/DTJJ الله/NNP لايرده/NNP يا/RP اتحاد/NN القدم/DTNN خلي/NN الاسعار/DTNN مقبوله/NN كي/IN يستطيع/VBP المواطن/DTNN الاردني/DTJJ ويتشجع/NN لحضور/NN المباريات/DTNNS ارحموا/VB ما/WP بكفي/VBN غلاء/NN 

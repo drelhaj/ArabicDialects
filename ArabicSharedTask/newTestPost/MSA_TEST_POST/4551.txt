@@ -1,0 +1,1 @@
+هم/PRP أساتذتنا/NN ومربينا/NN .../PUNC هم/PRP قادة/NN الفكر/DTNN والرأي/NNP .../PUNC هم/PRP الأحرار/DTNN الباقون/DTJJ 

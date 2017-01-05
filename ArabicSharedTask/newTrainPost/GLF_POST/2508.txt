@@ -1,0 +1,1 @@
+يااخي/VBP مو/NNP معقوله/NNP مافيه/NNP شيء/NN من/IN مطار/NN الدمام/DTNNP ذبحتونا/NN والله/NN انه/NN مظلم/JJ لعدم/NN الحركه/DTNN واذا/NN رحت/VBD لمطار/NN البحرين/DTNNP وجدته/NN كله/NN من/IN الشرقيه/DTNN وين/NN المسؤل/DTNN عن/IN مطار/NN الدمام/DTNNP !/PUNC 

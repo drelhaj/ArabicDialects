@@ -1,0 +1,1 @@
+مافيه/NN منزل/NN ب500/CD الف/CD ولو/NN افترضنا/VBD سعر/NN شقة/NN من/IN المستحيل/DTNN تسكن/VBP شقة/NN 25/CD سنه/NN وبعدين/JJ بكم/VBD تبييعها/NN بعد/NN 25/CD سنه/NN من/IN التعب/DTNN راح/NN تحصل/VBP على/IN شقة/NN قديمة/JJ اجارها/NN ما/WP يسوى/VBP 7000/CD ريال/NN 

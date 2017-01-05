@@ -1,0 +1,1 @@
+احنا/NN هنعيش/NN دايما/JJ تحت/NN كل/NOUN العملات/DTNNS وتحت/VBD السيطرة/DTNN وتحت/NN الوضع/DTNN الراهن/DTJJ وتحت/VBD الامريكان/DTNN وتحت/NN العرب/DTNN وتحت/VBD .../PUNC .../PUNC .../PUNC نشكر/VBP حكومتنا/NN اللي/WP تحت/NN .../PUNC ./PUNC ./PUNC وعجبي/NNP 

@@ -1,0 +1,1 @@
+بصراحه/NNP مع/NN اني/NNP اقسم/VBD بالله/NNP احب/VBP هذا/DT الشخص/DTNN الفاهم/DTJJ الخلوق/DTNN وميولي/NNP نصراويه/NNP بس/NN بصراحه/NNP سامي/NNP جانبه/NNP الصواب/DTNN بتصريحه/NNP بعد/NN المباراة/DTNN احس/VBD انه/NN بالغ/JJ بطريقه/NN لاتليق/NN به/NN سامي/NNP تراك/NN كبير/JJ والله/NN لاتكرر/NNP ماقلت/NNP ./PUNC 

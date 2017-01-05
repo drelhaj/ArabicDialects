@@ -1,0 +1,1 @@
+ديه/NNP احد/NN الاسباب/DTNN ان/IN مش/NN الشباب/DTNN المصري/DTJJ بس/NN بييأيدوا/NNP البرادعي/DTNNP و/CC معاهم/NN كمان/NN نسبه/VBP كبيره/NN من/IN الشباب/DTNN العربي/DTJJ الواعي/DTJJ ,/PUNC ,/PUNC الشباب/DTNN ده/DT عارف/NNP ان/IN لما/NNP مصر/NNP تقوم/VBP بقيادة/NN البرادعي/DTNNP ,/PUNC ,/PUNC كل/NOUN الدول/DTNN العربيه/DTJJ هتقوم/NNP وراها/NNP 

@@ -1,0 +1,1 @@
+خخ/NN ياويلكم/VBP ياهلالية/NN جاكم/JJ فيقارو/NNP ./PUNC مو/VBD سهل/NN فيقارو/NNP لحالة/NN لعب/NN ضد/NN أربعة/JJ أجانب/JJ هلالية/JJ وسجل/VBD هدفين/NNS وصنع/JJ الثالث/ADJ وحشر/NN الهلالية/DTNN من/IN الخوف/DTNN في/IN بابهم/NNP ولو/NNP فيه/NNP شوية/NN وقت/NN ضائع/JJ سجل/VBD التعادل/DTNN لكن/VBP الحظ/DTNN دايم/NNP معهم/NNP انقذتهم/NNP صدفة/NN رادوي/JJ ./PUNC 

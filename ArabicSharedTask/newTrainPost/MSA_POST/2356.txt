@@ -1,0 +1,1 @@
+الوحدات/DTNNS في/IN اخر/NN خمس/CD مواسم/NN احرز/VBD بطوله/NN الدوري/DTNN اربع/CD مرات/NNS -LRB-/PUNC منها/NN ثلاث/CD سنوات/NNS متتاليه/JJ -RRB-/PUNC و/CC لكنه/NNP ابدا/NN لم/RP يحرز/VBP الدوري/DTNN لخمس/NN سنوات/NNS متتاليه/JJ الا/IN اذا/IN اعتبرت/VBD انت/PRP ان/IN نادي/NN شباب/NNP الاردن/DTNNP هو/PRP نادي/NN الوحدات/DTNNS ب/IN 

@@ -1,0 +1,1 @@
+يعني/VBP نص/NN ولايات/NNS امريكا/NNP احسن/VBD منكم/NN لانه/NNP حكم/NN الاعدام/DTNN عندهم/NN مطبق/JJ ./PUNC وانبه/NNP ان/IN قتل/NN الشرف/DTNN في/IN الاردن/DTNNP هو/PRP مشابه/JJ للوأد/NN في/IN الجاهليه/DTNN -LRB-/PUNC وَإِذَا/NN الْمَوْءُودَةُ/DTNN سُئِلَتْ/DTJJ بِأَيِّ/NNP ذَنْبٍ/NNP قُتِلَتْ/NNP -RRB-/PUNC ./PUNC 

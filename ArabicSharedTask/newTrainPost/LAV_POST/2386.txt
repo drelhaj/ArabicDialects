@@ -1,0 +1,1 @@
+اولا/ADJ :/PUNC -/PUNC معلش/NNP هي/PRP غلطة/NN وغلطة/NN الشاطر/DTNN بعشرة/NN ولا/NN حرام/NN يضيع/VBP الدوري/DTNN علينا/NN السنة/DTNN الماضية/DTJJ بس/NN شو/NNP ما/WP صار/VBD وشو/NN ما/WP جرى/VBD بضل/NN الوحدات/DTNNS كبير/JJ وبضل/NN زعيم/NN الكرة/DTNN الاردنية/DTJJ -LRB-/PUNC الكبير/DTJJ كبير/JJ يا/RP وحدات/NNS -RRB-/PUNC 

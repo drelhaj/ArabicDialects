@@ -1,0 +1,1 @@
+سامي/NNP جابر/NNP تستاهل/VBP تستاهل/VBP وخل/NN عنك/NN بس/NN المثاليه/DTNN اللي/WP تدعيها/VBP مو/NN اول/ADJ مره/NN تنكشف/NN نسيت/VBD وش/NN سويت/VBN مع/NN مراسل/NN الرياضيه/DTNN الا/RP شايف/VBD نفسك/NN ومغرور/NN لاعب/NN واداري/JJ ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+يا/RP جماعه/NN انا/PRP طالب/VBD فى/IN جامعه/NN عين/NNP شمس/NNP و/CC مرحتش/NNP الحفله/DTNNP علشان/NNP بصراحه/NNP حاجه/NN تفقع/NN الدم/DTNN مش/NN الفلوس/DTNN ده/DT كانوا/VBD يعملوا/VBP معمل/NN كمبيوتر/NNP انا/NNP فى/IN 4/CD تجاره/NN عين/NNP شمس/NNP و/CC مش/NN عارف/NNP عندنا/VBD معمل/NN كمبيوتر/NNP ولا/NNP لا/RP 

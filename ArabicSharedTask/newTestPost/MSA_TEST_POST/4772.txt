@@ -1,0 +1,1 @@
+بارك/NNP الله/NNP بجهود/NN اسطول/NN الشهادة/DTNN اسطول/NN الفخر/DTNN والعزة/NN .../PUNC ورحم/NNP الله/NNP شهداءنا/NN الاحرار/DTNN ./PUNC ./PUNC دهبوا/VBD للجهاد/NNP بالكلمة/NNP وعمل/NN الخير/DTNN ./PUNC ./PUNC فطالتهم/NN يد/NN الغدر/DTNN وكل/NN ما/WP حدث/VBD ليس/VBD بغريب/NN على/IN دولة/NN الاحتلال/DTNN والهمجية/JJ 

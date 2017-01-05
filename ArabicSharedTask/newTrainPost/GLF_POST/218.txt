@@ -1,0 +1,1 @@
+من/IN بعدك/NNP ياسامي/NNP لم/RP نتأهل/VBP لكأس/NN العالم/DTNN ./PUNC ./PUNC الله/NNP يوفقك/VBP دائمآ/NN وأبدآ/NN انتبه/VBP مرة/NN أخرى/NN النصراوية/DTNN ينتظرون/VBP ويتمنون/NNS منك/NN الزله/DTNN حتى/IN يتمكنوا/VBP مع/NN اتحادهم/NN الخفي/DTNN بإطاحتك/NNP وإطاحة/NNP الهلال/DTNNP بس/NN يحلمووون/VBP 

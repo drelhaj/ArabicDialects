@@ -1,0 +1,1 @@
+انا/PRP لما/IN قريت/NN العنوان/DTNN فكرت/VBD انه/NN ما/WP لقي/VBD في/IN البيت/DTNN شي/NNP عشان/NNP هيك/NNP اشتكى/VBD ./PUNC 

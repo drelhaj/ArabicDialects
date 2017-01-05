@@ -1,0 +1,1 @@
+بوركت/NNP جهودكم/NNP ./PUNC ./PUNC نتمنى/VBP كل/NOUN بلاد/NN المسلمين/DTNNS خالية/JJ من/IN التدخين/DTNN 

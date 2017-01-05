@@ -1,0 +1,1 @@
+برنامج/NN ماما/NNP سامية/JJ كان/VBD جزء/NN من/IN طفولتى/NN ./PUNC ./PUNC انا/PRP عندى/VBD دلوقتى/NN 27/CD سنة/NN وعمرى/NN ما/IN انس/NNP البرنامج/DTNN الجميل/DTNNP ده/DT ./PUNC ./PUNC عروستى/NN .../PUNC ولا/NN الاغنية/DTNN الجميلة/DTJJ بتاعة/NN التتر/DTNN تاعه/NNP .../PUNC ربنا/NNP يرحمها/VBP ويغفر/NN لها/NN ويخلى/NN فترة/NN مرضها/NN دى/VBD كفارة/NN لها/NN ./PUNC ./PUNC آمين/NNS 

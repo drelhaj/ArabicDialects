@@ -1,0 +1,1 @@
+شو/NNP بدهم/NNP القرود/DTNNP هو/PRP ناقصنا/NN احنا/NN ./PUNC 

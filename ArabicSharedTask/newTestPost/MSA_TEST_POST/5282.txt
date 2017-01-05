@@ -1,0 +1,1 @@
+واقولها/NN بانك/NNP صدقت/VBD بكل/NNP كلمة/NN في/IN حديثك/NN ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+بابا/NNP ./PUNC ./PUNC إسرائيل/NN لسه/NN قاتله/NN واحد/JJ مصرى/JJ رايح/VBD شغله/NN الصبح/DTNN على/IN الحدود/DTNN .../PUNC وإنت/VBD حاطط/NN على/IN بقة/NN سستة/NN نحاس/NNP ومحدش/NNP إتكلم/NNP 

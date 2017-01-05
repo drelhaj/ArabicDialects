@@ -1,0 +1,1 @@
+محمود/NNP سعد/NNP كان/VBD ضعيف/JJ جدا/NN فى/IN ادارة/NN الحوار/DTNN لو/IN كان/VBD مذيع/JJ شخصيته/NN اقوى/JJR كان/VBD الحوار/DTNN هيبقى/VBD احسن/JJR من/IN كده/NNP وبعدين/NNP الشيخ/DTNN خالد/NNP الجندى/DTNNP كنت/VBD عايز/NNP اعرف/VBP هو/PRP جاى/NN ليه/NNP 

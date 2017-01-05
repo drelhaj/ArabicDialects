@@ -1,0 +1,1 @@
+الفكرة/DTNN حلوة/JJ لكن/CC الدعوة/DTNN لها/VBD بهذه/NN الطريقة/DTNN عجيبة/JJ غريبة/JJ ./PUNC بعدين/NN الناس/DTNN هون/NN مش/NN باقية/JJ توكل/VBP لحم/NN ودجاج/NN وكل/NN اكلهم/NN نواشف/NN وبندورة/NN وبطاطا/NN وكمان/NN خس/NN -/PUNC بعدين/NNP مش/NN خايفه/NN الناس/DTNN تتشجع/VBP للفكرة/NN ويوكلوا/NNP الخس/NNP اللي/WP لابسته/NN ؟/VBD ؟/NN ؟/NN ؟/CD 

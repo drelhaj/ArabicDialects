@@ -1,0 +1,1 @@
+مبارك/NNP أنجاز/NN الوحدات/DTNNS والحمدلله/DTJJ على/IN كل/NOUN شئ/NN على/IN عودة/NN الوحدات/DTNNS الى/IN أجواء/NN الانتصارات/DTNNS وعلى/NN عودة/NN الجماهير/DTNN أيضاً/NN الحمدلله/DTNN رب/NN العالمين/DTNNS ./PUNC 

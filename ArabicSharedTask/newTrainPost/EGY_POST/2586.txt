@@ -1,0 +1,1 @@
+اى/NOUN نعم/NN كل/NOUN وحده/NN من/IN دول/NN هيرمو/NNP الهم/DTNN ع/IN الظروف/DTNN ولكن/VBD الظروف/DTNN صعبه/NNP واصل/NNP انا/NNP بصرف/NNP على/IN اخواتى/NN واصل/NNP امى/VBD مريضه/NNP و/CC الخ/NN الخ/NN الخ/NN ./PUNC ./PUNC 

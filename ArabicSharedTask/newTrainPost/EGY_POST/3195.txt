@@ -1,0 +1,1 @@
+انا/PRP عااااااارف/JJ ومتأكد/NN ان/IN مفيش/NN ولا/NN واحد/JJ منكم/NN هيعترف/NNP باللي/NNP بقوله/NNP .../PUNC ماهو/NNP لو/IN هتعترفو/NNP باللي/NNP بقوله/NNP كان/VBD زمانكم/NN ع/IN الاقل/DTJJR ماعملتوش/NNP اللي/WP عملتوه/NN امبارح/NN .../PUNC 

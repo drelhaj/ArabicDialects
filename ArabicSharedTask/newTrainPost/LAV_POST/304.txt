@@ -1,0 +1,1 @@
+مشان/NNP الله/NNP يا/RP ناس/JJ يا/RP هو/PRP .../PUNC إسمها/NN مش/NN كلية/NN العلوم/DTNN الإسلامية/DTJJ .../PUNC إسمها/NN جامعة/NN العلوم/DTNN الإسلامية/DTJJ العالمية/DTJJ مشاااااااااان/NNP الله/NNP شو/NNP مالكو/NNP علينا/NNP 

@@ -1,0 +1,1 @@
+حلها/NN بسيط/JJ ./PUNC ./PUNC اي/NOUN امرأه/NN يجيها/NN واحد/JJ ويعطيها/NN الرقم/DTNN تقبله/VBP بكل/NN هدوء/NN ./PUNC ./PUNC وياليت/NNP بعد/NN لو/IN تطلب/VBD منه/NNP يكتب/VBN عنوانه/NN على/IN الرقم/DTNN 

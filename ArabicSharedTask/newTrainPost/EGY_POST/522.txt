@@ -1,0 +1,1 @@
+صاحب/NN المقهى/DTNN بيقول/NN الحزب/DTNN الوطنى/DTJJ هو/PRP اللى/WP بيأكلنا/VBD عيش/NN ياراجل/NNP أكيد/NNP قصدك/NNP هو/PRP اللى/WP سارقنا/VBD وناهبنا/NN وسبب/NN فقرنا/NN وبطالتنا/NN وتخلفنا/NN 30/CD سنة/NN وكل/NN يوم/NN نسمع/VBP إحنا/NN مع/NN محدود/NN الدخل/DTNN إلى/VBD أن/NN أصبح/NN معدوم/JJ الدخل/DTNN وأنهى/NN الطبقة/DTNN الوسطى/DTJJR و/CC .../PUNC .../PUNC 

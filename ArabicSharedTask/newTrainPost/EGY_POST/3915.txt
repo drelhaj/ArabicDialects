@@ -1,0 +1,1 @@
+مره/NNP مرتضى/NNP منصور/NNP يكسف/VBP خالد/NNP الجندي/DTNN ومره/NN يزعق/VBP له/NN على/IN الهوا/NN والشيخ/NN خالد/NNP يعتذر/VBP لأنه/NN اقحم/NN نفسه/NN في/IN الموضوع/DTNN في/IN حلقة/NN ياسر/NNP ايوب/NNP وأخيرا/NNP شوبير/NNP لايحترم/NNP نفسه/NN ولا/NN البرنامج/DTNN ولا/NN المشاهدين/DTNNS 

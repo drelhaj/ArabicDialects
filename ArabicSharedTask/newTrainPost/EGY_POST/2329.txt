@@ -1,0 +1,1 @@
+مجرد/NN ما/NN الزمالك/DTNNP كح/NN الدوري/DTNN اتظبط/NN والجهلوية/JJ اترعبوا/VBD ./PUNC ./PUNC أنا/VBD بجد/NNP عاوزة/NN اسأل/NN سؤال/NN والله/NN مش/NN تريقة/NN سؤال/NN حقيقي/JJ عشان/NN أفهم/NN نفسيتكو/NNP يا/RP اهلاوية/JJ :/PUNC 

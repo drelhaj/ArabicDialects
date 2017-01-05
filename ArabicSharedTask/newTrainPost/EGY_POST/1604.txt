@@ -1,0 +1,1 @@
+اولا/ADJ انت/PRP زمالكاااااااااااااوي/NN وكذاب/NN لو/IN قلت/VBD غير/NN كدة/NN ./PUNC ./PUNC ولو/VBD عايز/NNP تعمل/VBP انك/NN اهلاوي/NNP وتقول/NNP انك/VBD خايف/NN عشان/NN تخلي/NN الناس/DTNN تخاف/VBP يبقي/VBP انت/PRP غلطان/NN لانك/NNP لو/IN كنت/VBD اهلاوي/NNP كنت/NNP عرفت/VBD ان/IN الاهلاوي/DTNN مابيخافوش/NNP ./PUNC ./PUNC 

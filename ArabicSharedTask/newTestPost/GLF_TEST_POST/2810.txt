@@ -1,0 +1,1 @@
+يالبى/VBP قلبك/NNP يا/RP خالد/NNP جاسم/NNP ./PUNC ./PUNC انتم/PRP مو/NN بس/NN سبب/NN بتطوير/NN رياضة/NN قطر/NNP ./PUNC ./PUNC حتى/RP من/IN قوة/NN برنامج/NN -LRB-/PUNC المجلس/DTNN -RRB-/PUNC طورت/VBD الكورة/DTNNP السعودية/DTNNP بدون/IN ماتدري/NNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+لم/RP يعد/VBP المواطن/DTNN يحتمل/VBP ظلم/NN رجال/NN الشرطة/DTNN والامن/NNP ,/PUNC ,/PUNC لا/RP اقصد/VBP الجميع/NOUN بل/CC فئة/NN منهم/JJ وهي/JJ السبب/DTNN في/IN زعزعة/NN الثقة/DTNN والاحترام/NN بين/NN الطرفين/DTNNS ./PUNC ./PUNC 

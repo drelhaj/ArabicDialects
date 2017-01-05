@@ -1,0 +1,1 @@
+من/IN يوم/NN الحادثة/DTNN لغاية/NN النهارده/DTNN وماحدش/NN جاوب/JJ علي/IN سؤالي/NN الرجل/DTNN ده/DT بيعرف/NN ياكل/VBP ويشرب/NN ازاي/JJ من/IN الشعر/DTNN اللي/WP قافل/VBD حنكه/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

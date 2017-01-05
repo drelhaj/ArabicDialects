@@ -1,0 +1,1 @@
+كلام/NN باهي/NNP ريم/NNP حتى/IN آنا/VBD قاتلي/NNS عليك/NNP برشا/NNP كلام/NN باهي/NNP برشا/NNP إيه/NNP عدنان/NNP يتأملها/VBP ثم/CC يقول/VBP لها/NN مدام/NN وجيهة/NN قاتلي/NNS عليك/NNP 

@@ -1,0 +1,1 @@
+فداك/NNP ابي/NNP وامي/NNP يا/RP حبيبي/NNP رسول/NN الله/NNP حسبي/NNP الله/NNP ونعم/NN الوكيل/DTNN من/IN الكفره/DTNN ذذمهما/NN قالوا/VBD لن/RP ينالوا/VBP منك/NN يا/RP خير/NN البشر/DTNN كفاك/NN انك/VBD نبي/NN الله/NNP عز/NN وجل/NN 

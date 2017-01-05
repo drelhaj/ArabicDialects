@@ -1,0 +1,1 @@
+نص/NN اللعيبه/DTNN اللي/WP تعاقد/VBD معاها/NN اليرموك/DTNNP .../PUNC بدخن/NNP وبتارجل/NNP وما/NN بتعرف/NN الفطبول/DTNN .../PUNC الخ/NN ./PUNC 

@@ -1,0 +1,1 @@
+الوحدات/DTNNS شارك/VBD برضو/NNP بالرديف/NNP وفاز/NNP فيه/NNP بينما/IN انتو/VBD راح/NN فيكم/NNP الاهلي/DTNNP بالاربعة/JJ رغم/NN انه/NN طالع/JJ جديد/JJ من/IN الدرجة/DTNN الاولى/ADJ ومنيح/NN ما/IN صاروا/VBD دزينة/NN 

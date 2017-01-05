@@ -1,0 +1,1 @@
+ماتولع/NN فلسطين/NNP باللى/VBD فيها/NN خليهم/JJ مع/NN ايران/NNP تنفيعهم/VBP مش/NN احنا/NN بردوا/VBD بعد/NN ما/IN دخلنا/VBD حروب/NN و/CC مات/VBD مننا/NN كتير/NN عشان/NN فلسطين/NNP شتمونا/NNP فى/IN الاخر/DTNN و/CC قالوا/VBD علينا/NN خونة/NN يولعوا/VBP بقى/NN و/CC تحيا/VBP حسني/NNP مبارك/NNP و/CC بنرشحك/NNP يا/RP مبارك/NNP لفترة/NN رئاسية/JJ تانية/JJ 

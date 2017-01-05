@@ -1,0 +1,1 @@
+من/IN المفروض/DTNN اهل/NN البلد/DTNN المفرق/DTNN يستفيدو/VBP من/IN هالشركه/NNP من/IN خلال/NN المهندسين/DTNNS والعاملين/VN .../PUNC ./PUNC اهل/NN المنطقه/DTNN لازم/VBD تستفيد/VBP تنمويا/NN 

@@ -1,0 +1,1 @@
+اثبت/VBD اللاعب/DTNN الفذ/DTNN والكبير/NNP حسونة/NNP الشيخ/DTNN انه/NNP يعشق/VBP اللون/DTNN الازرق/DTJJ دائما/NN وابدا/JJ ./PUNC ./PUNC كيف/WRB لا/VBP وهو/NN لون/NN الزعيم/DTNN الفيصلي/DTNNP ولحسن/NNP الحظ/DTNN هو/PRP لون/NN الرفاع/DTNN البحريني/DTJJ والذي/NN لعب/NN مباراته/NN يوم/NN امس/NN امام/NN الوحدات/DTNNS 

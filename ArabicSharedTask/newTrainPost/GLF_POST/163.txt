@@ -1,0 +1,1 @@
+اوكي/NNP ./PUNC بأيد/NN الي/IN يقولون/VBP انها/NN لو/IN لابسه/NNP لبس/NNP ساتر/NNP مااحد/NNP جاها/NN 

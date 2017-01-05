@@ -1,0 +1,1 @@
+طبعا/NN لا/RP يهم/VBP مصلحة/NN المواطن/DTNN بتخفيض/NN الكلفه/DTNN الى/IN النصف/NOUN اعتقد/VBP ان/IN هناك/RB مستفيدون/NNS من/IN بقاء/NN الحال/DTNN على/IN ما/WP هو/PRP -LRB-/PUNC والله/NN اعلم/JJR -RRB-/PUNC ./PUNC نريد/VBP اسبابا/NN مقنعه/NN لعدم/NN فتح/NN اسواق/NN جديده/JJ ./PUNC 

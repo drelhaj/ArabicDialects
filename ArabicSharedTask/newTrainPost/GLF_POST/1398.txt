@@ -1,0 +1,1 @@
+يا/RP جماعة/NN والله/NN غريب/NN وش/NN فائدة/NN التعداد/DTNN يعني/VBP ما/WP في/IN نظام/NN سليم/JJ في/IN ها/PRP البلد/DTNN وين/NN الاحوال/DTNN المدنية/DTJJ باالنسبة/NNP للسعوديين/NNP والجوازات/NNS للاجانب/NN طور/NN النظام/DTNN وريح/NN العالم/DTNN من/IN الحوادث/DTNN ومشاكل/NN البيوت/DTNN ./PUNC 

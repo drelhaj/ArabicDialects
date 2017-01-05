@@ -1,0 +1,1 @@
+انا/PRP تم/VBD اقتحام/NN منزلى/NN وسرقة/NN الكومبيوتر/DTNN بتاعى/NNP ولم/NNP يكن/VBP هناك/RB أى/NN تهمة/NN .../PUNC فقط/RB قانون/NN الطوارئ/DTNN .../PUNC .../PUNC ./PUNC نعم/UH للتغيير/NNP 

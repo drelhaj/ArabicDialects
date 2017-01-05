@@ -1,0 +1,1 @@
+محمد/NNP شعبان/NNP لاعب/NN بتروجيت/NNP يعرقل/VBP محمد/NNP خليفة/NNP وهو/NNP متجه/NNP في/IN انفراد/NN بحارس/NNP بتروجيت/NNP ويتمختر/NNP الحكم/DTNN ويطلع/NN .../PUNC هااااااااااااا/NN انذار/NN يا/RP راجل/JJ يا/RP .../PUNC ./PUNC 

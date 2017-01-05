@@ -1,0 +1,1 @@
+لأن/VBD الشعب/DTNN سيختار/NNP حاكمة/NNP باءرادة/NNP شعبية/NN مطلقة/JJ فسينحاز/JJ هذا/DT الحاكم/DTNN الجديد/DTJJ الى/IN صفوف/NN الشعب/DTNN لاالى/VBD صفوف/NN اللصوص/DTNN وقطاع/NN الطرق/DTNN ./PUNC -LRB-/PUNC هو/PRP دة/NN الحل/DTNN بكل/NN بساطة/NN -RRB-/PUNC 

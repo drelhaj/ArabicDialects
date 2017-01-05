@@ -1,0 +1,1 @@
+ما/WP هو/PRP السبب/DTNN ؟/NN ؟/NN اليس/NNP السبب/DTNN مقتل/NN عبد/NNP السلام/DTNNP النعيمات/DTNNS ؟/NN ؟/NN و/CC بعد/NN يومين/NNS يزور/VBP كبار/JJ ضباط/NN الامن/DTNN بيت/NN العزاء/DTNN !/PUNC اليس/NNP هذا/DT اعترافا/NN بخطأ/NN وقع/NN ؟/NN ؟/NN ؟/CD 

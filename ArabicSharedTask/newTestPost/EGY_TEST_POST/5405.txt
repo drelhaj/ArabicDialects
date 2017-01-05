@@ -1,0 +1,1 @@
+امريكا/NNP تقول/VBP ما/WP تزرعوش/VBP قمح/NN .../PUNC نقول/VBP وماله/NN حنشترى/NN منكم/NN قمح/NN حتى/IN ولو/NNP كان/VBD اغلى/JJR من/IN اللى/WP عند/NN الاوربيين/DTNNS واحنا/VBD نزرع/VBP كانتالوب/NN ./PUNC 

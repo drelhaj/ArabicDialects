@@ -1,0 +1,1 @@
+معلش/NNP يا/RP جزائرى/VBD احنا/NN مش/NN فضين/NN لكم/VBG دلوقتى/NNP احنا/NN دلوقتى/NNP مركزين/NNS مع/NN اتنين/NNS من/IN نوعيتكم/NNP -LRB-/PUNC من/IN مثيرى/NN الشغب/DTNN والبلطجة/VN والضغط/NN على/IN الحكام/DTNN وارجاع/VN فشلهم/NN بسبب/NN التحكيم/DTNN ،/NN -RRB-/PUNC مش/NN قلت/VBD من/IN نوعيتكم/NNP ./PUNC 

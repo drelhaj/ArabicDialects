@@ -1,0 +1,1 @@
+كان/VBD من/IN الاولى/ADJ تجهيز/NN عقول/NN الناس/DTNN قبل/NN تجهيز/NN المواقف/DTNN فكم/NN رأيت/NN التاكسي/DTNN يتوقف/VBP على/IN بعد/NN متر/NN او/CC مترين/NNS من/IN الموقف/DTNN وهو/VBD فارغ/JJ وكم/NN من/IN سيارات/NNS عادية/JJ تكون/VBP متوقفة/JJ فيه/NNP ./PUNC كما/CC يجب/VBP تغيير/NN نمط/NN الناس/DTNN التي/WP تستخدم/VBN التاكسي/DTNN بان/NNP تنتظره/NNP حسب/NN الموقف/DTNN المخصص/DTJJ 

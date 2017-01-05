@@ -1,0 +1,1 @@
+انا/PRP عايزه/NNP اقول/VBP ان/IN الكلام/DTNN ده/DT مش/NN بس/NN معقول/JJ لأ/NN ده/DT معقول/JJ جدا/NN كمان/NN ,/PUNC عجبني/JJ جدا/NN الموضوع/DTNN و/CC خليت/NN جوزي/NNP يقراه/VBP عشان/NN يعرف/VBP شويه/NNP عن/IN عالمنا/NNP .../PUNC شكرا/NN للكاتبه/NNP ,/PUNC ياريت/VBN من/IN ده/DT كتييييييييييير/NNP 

@@ -1,0 +1,1 @@
+لا/RP تعليق/NN سوى/NN قول/NN :/PUNC لا/RP حول/NN ولا/NN قوة/NN الابالله/DTNN العلي/DTNN العظيم/DTJJ ,/PUNC نخطا/NN بوصف/NN هذا/DT الشخص/DTNN بصفة/NN اب/NNP ,/PUNC انما/RP هو/PRP وحش/NN بلا/NNP مشاعر/NN ولا/NN ضمير/NN ولا/NN اية/NOUN صفه/NN بشرية/JJ ./PUNC 

@@ -1,0 +1,1 @@
+بعد/NN انتهاء/NN الدوري/DTNN والكأس/NN وبطولات/NNS اي/NOUN بلد/NN يتم/VBP اختيار/NN افضل/JJR اللاعبين/DTNNS في/IN الانديه/DTNN كلها/NN ومن/NN جميع/NOUN المراكز/DTNN التي/WP يشغلونها/VBP ولفت/NN نظري/JJ في/IN البطولات/DTNNS الاردنيه/DTJJ اسناء/NN لامعه/NN وتستحق/NN الشكر/DTNN والتقدير/NNP لما/NNP قدمت/VBD لفرقها/NN والمنتخب/DTNN الوطني/DTJJ الاردني/DTJJ :/PUNC -/PUNC 

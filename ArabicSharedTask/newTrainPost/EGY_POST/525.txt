@@ -1,0 +1,1 @@
+ولو/NNP ,/PUNC بردة/NN حتى/RP لو/IN أعتقلوا/VBD جميع/NOUN الشباب/DTNN فنحن/NN فدى/NN الوطن/DTNN ,/PUNC أنا/VBD عن/IN نفسى/NN قسما/NN بالله/NNP 

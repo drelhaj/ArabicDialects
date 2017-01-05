@@ -1,0 +1,1 @@
+وذا/NN العالم/DTNN شغاله/NN شرب/NN .../PUNC والله/NNP مايدرون/NNP اش/NN السالفة/DTNN .../PUNC عسى/VBP الله/NNP يفكنا/NN من/IN هالأجانب/NNP وحنا/NNP بخير/NNP ./PUNC 

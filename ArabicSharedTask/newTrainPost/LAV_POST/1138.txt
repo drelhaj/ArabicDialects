@@ -1,0 +1,1 @@
+اقتسم/VBD القطبين/DTNNS الالقاب/DTNN المحلية/DTJJ ونادي/NNP شباب/NNP الاردن/DTNNP والرمثا/NN بقو/NNP متفرجين/NNS بهذه/NN البطولات/DTNNS .../PUNC بس/NN الفطبول/DTNN عنا/VBD تغير/NN وصرنا/NN نشوف/VBP تنافس/NN اشد/JJR بين/NN القطبين/DTNNS .../PUNC بالنسبة/NN لقلة/NN الحضور/DTNN الجماهيري/DTJJ سببه/NN معاملة/NN الدرك/DTNN استاذ/NN علي/NNP 

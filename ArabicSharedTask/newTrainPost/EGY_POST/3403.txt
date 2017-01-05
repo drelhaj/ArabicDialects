@@ -1,0 +1,1 @@
+مش/NN هيعمل/NNP حاجة/NN وهيرجع/NN اوروبا/NNP ايد/NN ورا/NN وايد/NNP قدام/NNP ./PUNC فرأيى/VBD ان/IN لازم/VBD الجبهة/DTNN اللىشكلها/DTJJ دى/VBD تضم/VBP على/IN الافل/DTNN ناس/NN ليهم/NN ثقل/NN فى/IN الشارع/DTNN والشعب/NNP بيثق/NNP فيهم/NNP زى/NN عمرو/NNP موسى/NNP واحمد/NNP زويل/NNP وفاروق/NNP الباز/NNP ./PUNC 

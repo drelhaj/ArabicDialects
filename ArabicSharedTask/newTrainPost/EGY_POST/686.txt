@@ -1,0 +1,1 @@
+اعتراف/NN من/IN جمال/NNP مبارك/NNP ان/IN الإنتخابات/DTNNS السابقه/DTJJ مزوره/VN .../PUNC الدليل/DTNN -LRB-/PUNC المره/DTNN دي/NN والله/NNP العظيم/DTJJ نزيهه/NN -RRB-/PUNC معلش/NN احنا/NN بنتكلم/NNP !!!!/NNP 

@@ -1,0 +1,1 @@
+ليه/NNP نهاية/NN الخدمه/DTNN كانت/VBD لناس/NNP وناس/NNP -LRB-/PUNC @/CD _/PUNC @/CD -RRB-/PUNC !/PUNC !/PUNC 

@@ -1,0 +1,1 @@
+طيب/NNP شو/NNP رايهم/NNP بتعادل/NNP فريقهم/NNP 3/CD -/PUNC 3/CD مع/NN فريق/NN الرمثا/DTNNP الشاب/DTJJ المكافح/DTJJ غزلان/NNP الشمال/DTNNP 

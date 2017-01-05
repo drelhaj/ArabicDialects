@@ -1,0 +1,1 @@
+وبالطبع/NN الامر/DTNN ينطبق/VBP على/IN الشباب/DTNN ./PUNC ./PUNC فمن/VBD الواجب/DTNN البحث/DTNN عن/IN الفتيات/DTNNS الصالحات/DTJJ .../PUNC فالزوج/NNP الصالح/DTNNP اصبح/VBD عملة/NN نادرة/JJ كما/CC هو/PRP حال/NN الزوجة/DTNN الصالحة/DTJJ .../PUNC 

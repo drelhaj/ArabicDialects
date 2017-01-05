@@ -1,0 +1,1 @@
+طيب/NNP ما/IN حسام/NNP حسن/NNP لعب/VBD في/IN الاهلي/DTNNP وقال/NN انت/PRP عايز/VBD اذهب/VBP الي/IN الزمالك/DTNNP حد/NN كلمه/NN حد/NN عمله/NN موال/JJ زي/NN ما/WP عملوم/VBD لحسام/NNP حسن/NNP !!!!/VBD مع/NN الاسف/DTNN لن/RP يتغير/VBP الشعب/DTNN المصري/DTJJ في/IN تشجيع/NN كره/NN القدم/DTNN 

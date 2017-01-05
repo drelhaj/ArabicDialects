@@ -1,0 +1,1 @@
+الأردن/DTNN وفلسطين/NNS توأمان/JJ لا/RP ينفصلان/VBP ،/NN وقضية/NN فلسطين/NNP هي/PRP قضية/NN اردنية/JJ فلسطينية/JJ بالدرجة/JJ الأولى/DTNN ./PUNC رحم/VBD الله/NNP شهداءنا/NNP وجزى/NNP الله/NNP الذين/WP قاتلوا/VBD دفاعا/NN عن/IN فلسطين/NNP خيرا/NN ./PUNC 

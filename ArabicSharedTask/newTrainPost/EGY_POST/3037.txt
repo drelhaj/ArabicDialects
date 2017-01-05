@@ -1,0 +1,1 @@
+وخاطب/NN الدكتور/DTNN سرور/NNP قائلاً/NNP لقد/RP قلت/VBD من/IN قبل/NN أنا/NN لا/RP أقبل/VBP أن/NN أكون/NN رئيسا/NN لمجلس/NN شعب/NN لا/RP يؤدى/VBP واجبه/NN ،/NN ،/NN ،/NN هل/RP هذا/DT يعني/VBP أن/NN مجلس/NN الشعب/DTNN يؤدي/VBP واجبه/NN أم/NN أنه/NN يجب/VBP علينا/NN أن/NN نتظاهر/NNP بتصديقه/NNP ./PUNC عيب/NN يا/RP كبار/JJ البلد/DTNN شكلكم/NN بقى/NN وحش/NN ./PUNC 

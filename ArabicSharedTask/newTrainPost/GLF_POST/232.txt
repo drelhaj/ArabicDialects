@@ -1,0 +1,1 @@
+أكيد/NN يبون/VBP يجيبون/VBP -LRB-/PUNC ميسي/NNP ,/PUNC أو/NNP رونالدو/NNP ,/PUNC أودروجبا/NN -RRB-/PUNC حدكم/NN التون/NNP جيبوه/NNP علشان/NNP انه/NNP أخرجكم/NNP في/IN زعبيل/NNP وتضمنون/NNP ماعاديسجل/NNP فيكم/NNP أوباسكال/NNP او/CC فيجاروا/NNP -LRB-/PUNC الجزار/DTNN السفاح/DTJJ المصارع/DTJJ -RRB-/PUNC لأن/VBD هذا/DT مستوى/NN النصر/DTNN ./PUNC 

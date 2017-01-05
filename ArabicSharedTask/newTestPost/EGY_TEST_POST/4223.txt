@@ -1,0 +1,1 @@
+بالعقل/NNP البروجكتور/DTNN اللى/WP موجود/JJ فى/IN الصورة/DTNN ينفع/VBP يتحط/VBP ويشتغل/NN كل/NOUN يوم/NN طبعا/NN لا/VBP مال/NN ازاى/JJ فى/IN موجود/NN فى/IN الصورة/DTNN الا/RP اذا/IN كانت/VBD المدرسة/DTNN عندها/NN علم/NN بمرور/NN السيد/DTNN الوزير/DTNN .../PUNC 

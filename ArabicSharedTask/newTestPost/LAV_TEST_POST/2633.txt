@@ -1,0 +1,1 @@
+طيب/NNP مادام/NNP انو/VBD فريق/NN الرديف/DTNN تبعكو/NNP فاز/VBD زمان/NN بهالبطولة/JJ ./PUNC ./PUNC ليش/NNP الوحدات/NNP وبكامل/NNP نجومه/NNP وقواه/NNP خسر/VBD البطولة/DTNN الماضية/DTJJ ولم/NN يحرزها/NN مثل/NN بقية/NN الاندية/DTNN 

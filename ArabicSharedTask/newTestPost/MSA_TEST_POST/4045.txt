@@ -1,0 +1,1 @@
+اعتقد/VBP انها/NN فكرة/NN ممتازة/JJ توفر/VBP الوقت/DTNN لربات/NNS البيوت/DTNN بدل/NN الانتظار/DTNN و/CC الصراخ/DTNN على/IN سيارة/NN الغاز/DTNN و/CC تقلل/VBP من/IN ضجيج/NN سيارة/NN الغاز/DTNN ./PUNC 

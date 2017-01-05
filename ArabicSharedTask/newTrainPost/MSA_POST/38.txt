@@ -1,0 +1,1 @@
+اما/RP بخصوص/NN خروج/NN الوحدات/DTNNS من/IN الدور/DTNN الاول/ADJ من/IN البطوله/DTNN -LRB-/PUNC لا/RP تعليق/NN -RRB-/PUNC ./PUNC 

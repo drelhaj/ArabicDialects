@@ -1,0 +1,1 @@
+وامشي/NNP يوميا/NN ساعة/NN -LRB-/PUNC اذا/IN على/IN السير/DTNN نهائيالاتخلي/NNP يدك/NNP ماسكةفي/NNP المقابض/DTJJ عشان/NNP تستفيدي/NNP -RRB-/PUNC ولاحظي/NNP اني/NNP قلت/VBD امشي/VBP يعني/VBP موتمشي/NNP -LRB-/PUNC مدي/NN الخطوةوأنا/DTNN اختك/NN -RRB-/PUNC 

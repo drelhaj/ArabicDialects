@@ -1,0 +1,1 @@
+شو/NNP راكب/VBP سيارة/NN يا/RP معال/NN الوزير/DTNN !!/NNP عندك/NNP إستعداد/NNP تدفع/VBP بنزينها/NN !!/NN و/CC لا/RP معلش/NN الوزارة/DTNN بتحاسب/NNP !!!/NNP ماشالله/NNP عليك/NNP ضحكتك/NNP معبية/JJ الصورة/DTNN !!!/CD 

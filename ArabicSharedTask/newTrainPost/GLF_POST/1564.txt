@@ -1,0 +1,1 @@
+تكفون/VBP قصوا/VB فيه/NNP روس/NNP اللي/WP قاعدين/NN يسرقون/VBP الناس/DTNN بالزحمات/NNS ويسرقون/JJ بيوت/NN وسيارات/NNS البشر/DTNN ويبيعون/NN المخدرات/DTNNS اللي/WP دمرت/VBD وهدمت/VBD بيوت/NN كثيره/NNP والخمر/NNP اللي/WP صار/VBD عاده/NN عند/NN الدشير/DTNN اللي/WP ما/RP يخافون/VBP الله/NNP خل/NN الواحد/DTNN يمشي/VBP مطمن/JJ ./PUNC 

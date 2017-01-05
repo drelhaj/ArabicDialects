@@ -1,0 +1,1 @@
+يا/RP محلا/NN الجوع/DTNN جنب/NN الديسك/DTNN .../PUNC اللة/NN بعين/JJ يا/RP حجة/NN اليك/DTNNP اللة/DTNN و/CC اللة/NN كبير/JJ ما/WP بنسى/VBD حدا/NN 

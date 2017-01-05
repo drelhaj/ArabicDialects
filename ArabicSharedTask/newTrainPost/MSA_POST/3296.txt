@@ -1,0 +1,1 @@
+دولة/NN ابو/NNP عصام/NNP انت/PRP يجب/VBP ان/IN تكون/VBP من/IN رجال/NN المرحلة/DTNN القادمة/DTJJ لانك/NNP تعرف/VBP بالحنكة/DTNN السياسية/DTJJ ولم/NN ارى/VBP رجلا/NN بحضورك/NNP وانا/NNP اقول/VBP دائما/NN دولة/NN وصفي/JJ التل/DTNN =/PUNC ودولة/NN عبدالرؤوف/NNP 

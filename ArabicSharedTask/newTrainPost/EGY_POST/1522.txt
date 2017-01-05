@@ -1,0 +1,1 @@
+انت/PRP عارف/NNP -LRB-/PUNC فتّى/NN -RRB-/PUNC المصريين/DTNNS ./PUNC عادى/VBD يعنى/VBP وكمان/NNS ده/DT إنسان/NNS لم/RP يحظى/VBP بكم/NN التربية/DTNN المناسب/DTJJ مما/NN جعله/NNP ينشر/VBP كلمة/NN ''/NN إستعباط/NN أووووووووف/NNP ''/CD 

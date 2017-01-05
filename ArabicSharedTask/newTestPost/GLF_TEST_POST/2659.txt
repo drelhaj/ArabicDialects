@@ -1,0 +1,1 @@
+ويستمر/NNP الغباااء/DTNN .../PUNC وش/NN دخل/NN ولي/NN في/IN فئه/NN الشباب/DTNN ؟/NN ؟/NN 

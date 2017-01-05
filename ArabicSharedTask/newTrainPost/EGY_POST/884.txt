@@ -1,0 +1,1 @@
+أظن/VBD العمال/DTNN المصريين/DTJJ سمعتهم/NNP جوا/NN مصر/NNP مابقتش/NNP زى/VBD الاول/ADJ ،/CD كتير/NN منهم/NN ماعدش/NNP يتقن/VBP عمله/NN ،/NN يبقى/VBP إزاى/NN يمثلمنى/VBP فى/IN مجلس/NN الشعب/DTNN ؟/VBD ؟/NN الصنف/DTNN المهمل/DTJJ ده/DT مايستاهلش/NNP ./PUNC 

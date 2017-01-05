@@ -1,0 +1,1 @@
+ربنا/VBD ينتقم/VBP من/IN مرتضى/NNP منصور/NNP ./PUNC بني/VBD آدم/NN مش/NN طبيعي/JJ على/IN فكرة/NN و/CC إلي/NN مش/NN مصدق/NNP يبص/VBP لتفاصيل/NNP وشه/NNP و/CC هو/PRP بيتكلم/NN في/IN حلقة/NN مصر/NNP النهاردة/DTJJ 

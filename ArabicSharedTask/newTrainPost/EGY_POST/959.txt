@@ -1,0 +1,1 @@
+مالكش/NNP دعوة/NN يا/RP اللى/WP اسمك/VBP مايكل/NNP ./PUNC ايش/NNP فهمك/NNP انت/PRP فى/IN تعدد/NN الزواج/DTNN و/CC الطلاق/DTNN ؟/VBD ماتعلقش/NNP على/IN اللى/WP يخض/VBP الاسلام/DTNN لانك/NN عامل/NN زى/NN البغبغان/DTNN بتردد/NN و/CC خلاص/NN ./PUNC 

@@ -1,0 +1,1 @@
+حيث/WRB تم/VBD تغييب/NN العديد/DTNN من/IN النجوم/DTNN وعلى/NNP رأسهم/NNP -LRB-/PUNC حاتم/NNP عقل/NNP -RRB-/PUNC و/CC -LRB-/PUNC محمد/NNP منير/NNP -RRB-/PUNC 

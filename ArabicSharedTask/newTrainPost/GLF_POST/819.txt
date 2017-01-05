@@ -1,0 +1,1 @@
+ترا/VBP عندنا/NN 15/CD كوع/NN من/IN لاعبكم/NN الروماني/DTNN من/IN بداية/NN الدوري/DTNN وساكتين/NNS ./PUNC ./PUNC وحلوه/NN عيني/NNS عينك/NNP تختارون/VBP لاعب/NN و/CC تبونه/NN يتوقف/VBP ؟/NN ؟/NN ؟/CD 

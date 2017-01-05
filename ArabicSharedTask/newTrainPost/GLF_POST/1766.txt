@@ -1,0 +1,1 @@
+صح/VBD عليك/NNP يا/RP فهد/NNP كتبت/VBD و/CC وضعت/VBD النقاط/DTNN على/IN الحروف/DTNN ./PUNC ./PUNC الفريدي/DTNNP ييبغاله/VBP وقفه/NN مع/NN نفسه/NN أولا/NN ''/NN ثم/CC من/IN ادارة/NN الكره/DTNN ./PUNC ./PUNC 

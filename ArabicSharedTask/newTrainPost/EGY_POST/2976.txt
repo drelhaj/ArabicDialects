@@ -1,0 +1,1 @@
+اة/NN يابلد/VBP عايزة/NN الولد/DTNN ./PUNC ربنا/VBD يبارك/VBP فيك/NNP ويكتر/NNP من/IN امثالك/NN ./PUNC على/IN فكرة/NN المدير/DTNN هو/PRP الى/IN بأيدة/NN ان/IN المدرسة/DTNN تبقى/VBP كويسة/NN او/CC لاء/NN ./PUNC بجانب/NN الضمير/DTNN اكيد/JJ لكل/NN معلم/NN او/CC ادارى/NN او/CC حتى/IN عامل/NN ./PUNC بس/NN خلاص/NN 

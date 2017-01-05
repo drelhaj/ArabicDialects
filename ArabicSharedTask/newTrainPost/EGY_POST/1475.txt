@@ -1,0 +1,1 @@
+واحد/NN كاتب/NN تعليق/NN بيقول/NN شاب/JJ مع/NN حبيبته/NN .../PUNC حبيبة/NN ايه/NN يا/RP توتو/VBP ما/WP ينفعش/VBP الكلام/DTNN ده/DT عندنا/VBD ولا/NN احنا/NN بقينا/NN خلاص/NN زى/NN بلاد/NN بره/NN بلاد/NN السيكى/DTNN ميكى/NNP 

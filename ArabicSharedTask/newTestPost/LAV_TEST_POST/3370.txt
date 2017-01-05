@@ -1,0 +1,1 @@
+هاهاها/NNP ./PUNC ./PUNC الله/NNP على/IN خفة/NN الدم/DTNN لبعض/VBD المرتزقه/DTNN اللي/WP فوق/NN بالصفحه/NN أجل/NN كاس/NN بو/NNP ولد/NNP ./PUNC ./PUNC !/PUNC 

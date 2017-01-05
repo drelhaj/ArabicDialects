@@ -1,0 +1,1 @@
+وين/NNP الصحافه/DTNN ماتتكلم/NNP عن/IN اللوحات/DTNNS اللي/WP كانت/VBD معروضه/JJ في/IN الملعب/DTNN وكان/NN مكتوب/JJ فيها/NN -LRB-/PUNC الخليج/DTNNP فارسي/NNP -RRB-/PUNC ذولي/NN الايرانيين/DTNNS يبي/VBP لهم/NN جلد/NN ،/NN ،/NN اخخخ/NN تمنيت/NN الهلال/DTNNP صاقعم/NNP هناك/RB 

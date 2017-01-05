@@ -1,0 +1,1 @@
+1/CD -RRB-/PUNC الزعيم/DTNN -LRB-/PUNC 5/CD -RRB-/PUNC نهائيات/NNS خارجية/JJ -LRB-/PUNC 2/CD عربية/NN و3/NN قارية/JJ -RRB-/PUNC !!!/CD 

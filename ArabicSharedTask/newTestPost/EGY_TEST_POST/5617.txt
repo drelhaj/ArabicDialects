@@ -1,0 +1,1 @@
+وللأخ/NN أيمن/NNP طه/NNP تعليق/NN 35/CD أقول/NN على/IN الاقل/DTJJR المهندس/DTNN مرتضى/NNP السيد/DTNNP قال/VBD انه/NN مهندس/NN موش/NN د/NN ./PUNC وبعدين/NNP مين/NNP قالك/NNP ان/IN الدمياطي/DTNNP شتيمة/JJ يمكن/VBP مدح/NN يا/RP أخي/JJ ./PUNC ./PUNC هو/PRP انت/PRP دمياطي/NNP ولا/NNP أيه/NNP ؟/CD 

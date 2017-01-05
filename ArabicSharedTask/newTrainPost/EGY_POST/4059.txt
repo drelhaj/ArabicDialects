@@ -1,0 +1,1 @@
+6/CD -/PUNC نسبة/NN العمال/DTNN والفلاحين/NNP شوف/NNP ياسيدى/NNP الباشا/DTNN شورلى/VBD على/IN واحد/NN عامل/NN او/CC فلاح/NN فى/IN مجلس/NN الشعب/DTNN ريح/NNP نفسك/NNP مش/NN هتلاقي/JJ كلهم/JJ باشوات/NNS وبكوات/NNS 

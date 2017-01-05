@@ -1,0 +1,1 @@
+وبعدين/NNS طلاب/NN ال48/DTNN ما/IN الهم/DTNN غير/NN الجامعات/DTNNS الأردنيه/DTJJ يدرسوا/VBP فيها/NN وعلى/NN حساب/NN جمعيه/NN نجمة/NN داوود/NNP وهادول/NNP شو/NNP رح/NN تعمل/VBP فيهم/NNP ؟/NN وين/NNP يروحوا/VBP يدرسوا/VBP ومين/NN برأيك/NNP رح/NN يدرس/VBP الطلاب/DTNN العرب/DTJJ هناك/RB ؟/CD 

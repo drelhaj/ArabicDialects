@@ -1,0 +1,1 @@
+تاني/NN شئ/NN ./PUNC ./PUNC ايه/NN اللي/WP حصل/VBD في/IN الماتش/DTNN ده/DT .../PUNC تكسير/NN المدرجات/DTNNS و/CC شتيمة/NN قبيحة/JJ وجمهور/NN سافل/JJ ./PUNC ./PUNC وكل/VBD ده/DT وتقولو/NNS فريق/NN عظيم/JJ ./PUNC ./PUNC اومال/NNP لو/IN مش/NN عظيم/JJ كنتو/NN عملتو/NN ايه/NN .../PUNC 

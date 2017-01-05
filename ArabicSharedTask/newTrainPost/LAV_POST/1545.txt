@@ -1,0 +1,1 @@
+بالنسبة/NNP لي/NNP ./PUNC ./PUNC فانا/NNP بشجع/NNP المانيا/NNP ./PUNC ./PUNC بس/NN ولا/NN تفرح/VBP احط/NN علمها/NN على/IN سيارتي/NNS ./PUNC ./PUNC ازا/NNP بدي/NN ./PUNC ./PUNC فقط/RB علم/NN واحد/JJ ./PUNC ./PUNC بلدي/NNS حبيبي/NNP الاردن/DTNNP وبس/NN ./PUNC ./PUNC هو/PRP اللي/WP يستاهل/VBP ./PUNC 

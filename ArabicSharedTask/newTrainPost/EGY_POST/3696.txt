@@ -1,0 +1,1 @@
+ياعني/VBP انت/PRP غفير/NN الارض/DTNN -/PUNC تروح/VBP تحاول/VBP الاستيلاء/DTNN عليها/NN -/PUNC بالذمة/NNP دا/NNP كلام/NN يرضي/VBP حد/NN 

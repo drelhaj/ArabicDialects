@@ -1,0 +1,1 @@
+بالتوفيق/NNP لنادي/NNP السلط/DTNN العريق/DTJJ في/IN مهمته/NN الصعبة/DTJJ ./PUNC ونتمنى/VBD من/IN ابناء/NN السلط/DTNN الوقوف/DTNN خلف/NN فريقهم/NNP للوصول/NNP الى/IN الدرجة/DTNN الممتازة/DTJJ ./PUNC 

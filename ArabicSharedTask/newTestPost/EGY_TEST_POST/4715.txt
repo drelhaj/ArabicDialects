@@ -1,0 +1,1 @@
+18/CD سنة/NN كنت/VBD مستفيد/NN من/IN الظلم/DTNN ولو/NNP كدة/NNP يبقي/VBP لازم/JJ تشرب/VBP من/IN نفس/NN الظلم/DTNN -LRB-/PUNC الكاس/DTNN -RRB-/PUNC 

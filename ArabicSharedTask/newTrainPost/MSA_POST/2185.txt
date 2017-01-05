@@ -1,0 +1,1 @@
+طبعا/NN النتيجة/DTNN ./PUNC ./PUNC لا/RP نكهة/NN لا/RP طعم/NN لا/RP لون/NN لا/RP رائحة/NN ./PUNC ./PUNC يعني/VBP بطولة/NN فاشلة/JJ وفاقدة/NN لاهم/NNP ركن/NNP فيها/NNP الا/RP وهو/VBD الزعامة/DTNN والعمادة/NNP والخبرة/NNP والمهارة/NNP 

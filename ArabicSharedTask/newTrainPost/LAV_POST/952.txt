@@ -1,0 +1,1 @@
+هاي/NNP مربية/NN اجيال/NN ولازم/JJ تكون/VBP احسن/JJR من/IN هيك/NNP والموضوع/NN كبير/JJ مش/NN زي/NN ما/WP علقوا/VBD بعض/NOUN الناس/DTNN -LRB-/PUNC كانت/VBD بدها/NN تلعب/VBP الاطفال/DTNN وتفرحهم/NN -RRB-/PUNC مش/NN هيك/NNP الاطفال/DTNN بتلعبوا/VBD في/IN 1000000/CD طريقة/NN عشان/NN تلعبهم/NN 

@@ -1,0 +1,1 @@
+اول/ADJ اشي/NN منقول/JJ مبروك/JJ للوحدات/NNS الفوز/DTNN بالدرع/DTJJ ,/PUNC وثاني/NN اشي/NN حابب/JJ اقول/VBP انو/NN من/IN العيب/DTNN وصف/VBD لاعب/NN بالعجوز/NNP ,/PUNC رأفت/VBD علي/IN لاعب/NN قدير/NN ويستحق/NNP منا/NN كل/NOUN الاحترام/DTNN ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+هو/PRP كل/NOUN واحد/NN ادعى/VBD انه/NN نبى/NN ومرسل/NN من/IN الله/NNP تصدقوه/VBP ؟/NN طيب/JJ خليكم/JJ كده/VBD فى/IN الوهم/DTNN بتاع/NN المحرومين/DTJJ اللى/WP هو/PRP الحور/DTNN والغلمان/NNP والخمر/NNP والعسل/NNP دى/VBD حاجات/NNS يتضحك/VBP بيها/NN على/IN السذج/DTNN فقط/RB ./PUNC 

@@ -1,0 +1,1 @@
+واضح/NN انها/NN لابسه/NNP باروكه/NNP ./PUNC ./PUNC وبالنسبه/NNP للدخان/NNP باين/NNP انك/VBD تحسبينها/NN مرجله/JJ ./PUNC ./PUNC علشان/NNP تروحين/NNP عن/IN خوياتك/NN وتقولين/NNS لهم/NN انا/PRP اخت/NN رجال/NN 

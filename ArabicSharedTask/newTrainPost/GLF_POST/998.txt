@@ -1,0 +1,1 @@
+الله/NNP يعوض/VBP عليك/NN يا/RP الهلال/DTNN ويوفقك/NNP رغم/NN انف/NN اللجان/DTNN ./PUNC 

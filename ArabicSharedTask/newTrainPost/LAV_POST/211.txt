@@ -1,0 +1,1 @@
+والعبارة/NNP هي/PRP -LRB-/PUNC الفيصلي/DTNNP بطل/NN الكاس/DTNN من/IN دون/NN كل/NOUN الناس/DTNN ./PUNC ./PUNC انا/PRP هيك/NNP حاس/NNP -RRB-/PUNC 

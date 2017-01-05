@@ -1,0 +1,1 @@
+واعود/VBN الى/IN نمرة3/NNP اللى/WP بيقول/NN بتاع/NN الجيولوجيا/DTNN احسن/JJR من/IN المهندسين/DTNNS طيب/NNP ماتخليك/NNP فى/IN خيبتك/NNP وماليكش/NNP دعوة/NN بالمهندسين/NNP ./PUNC افضل/JJR لكم/VBG تحسنوا/NN اوضاعكم/NNP العلمية/DTJJ والوظيفية/NN مش/NN تنتحلوا/VBP صفةلانطبق/NN عليكم/JJ ولا/VBD انتم/PRP مؤهلين/JJ لها/NN بالعلم/NNP او/CC الدراسة/DTNN المؤهلة/DTJJ لها/NN ./PUNC 

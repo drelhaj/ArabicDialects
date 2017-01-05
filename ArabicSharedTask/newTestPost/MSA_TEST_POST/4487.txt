@@ -1,0 +1,1 @@
+4/CD -/PUNC لاوجود/NNP لقاعدة/DTNNP كبيرة/JJ من/IN الواعدين/DTNNS الموهوبين/DTNNS لاجراء/NN عملية/NN الاحلال/DTNN والتبديل/NN اللازمه/DTNN لتجيد/NN دماء/NN الفريق/DTNN ./PUNC 

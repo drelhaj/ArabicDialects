@@ -1,0 +1,1 @@
+زمالكوية/NN آه/NN ./PUNC ./PUNC بس/NN اللي/WP حصل/VBD امبارح/NN اساءة/NN للزمالك/NN من/IN الزمالك/DTNNP مش/NN من/IN حد/NN تاني/NN ولو/NN الجماهير/DTNN مش/NN قادرة/JJ تمسك/NN نفسها/NN وتحكم/NN عقلها/NN يبقي/VBP متش/NN القمة/DTNN يتلعب/VBP بدون/IN جمهور/NN احسن/JJR هي/PRP البلد/DTNN ناقصة/JJ فوضي/JJ 

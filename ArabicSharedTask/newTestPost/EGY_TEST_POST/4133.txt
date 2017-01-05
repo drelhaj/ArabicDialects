@@ -1,0 +1,1 @@
+طيب/NNP حد/NN يوضحلى/NNP اكتر/NNP هو/PRP العنوان/DTNN العمارة/DTNN فين/NNP بالظبط/NNP لانى/VBD بدور/NN على/IN شقة/NN فى/IN 6اكتوبر/NN ومش/NN لاقى/VBD يمكن/VBP الاقى/DTNN شقة/NN فاضية/JJ فى/IN نفس/NN العمارة/DTNN اللى/WP حصل/VBD فيها/NN الخناقة/DTNN 

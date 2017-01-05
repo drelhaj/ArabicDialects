@@ -1,0 +1,1 @@
+الناس/DTNN فى/IN الشدة/DTNN دلوقتى/NNP بقت/NNP بتسأل/NNP فين/NNP البرادعى/DTNNP ./PUNC ./PUNC لأنك/VBD فى/IN نظرهم/NN الأب/DTNN الحنون/DTJJ فى/IN الشدة/DTNN برغم/NNP انك/NNP ليس/VBD معك/NN جيش/NN او/CC دبابات/NNS أو/VB .../PUNC أو/NNP 

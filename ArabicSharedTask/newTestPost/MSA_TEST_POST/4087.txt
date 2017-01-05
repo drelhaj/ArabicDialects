@@ -1,0 +1,1 @@
+انا/PRP سمعت/NN انه/NN تم/VBD اكتشاف/NN علاج/NN لهذا/NN المرض/DTNN في/IN امريكا/NNP ولكن/NNP لم/RP يتم/VBP التعامل/DTNN به/NN تجاريا/NN واسمه/NNP التجاري/DTJJ هو/PRP 

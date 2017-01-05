@@ -1,0 +1,1 @@
+ياناس/NNP الفريق/DTNN عندنا/NNP كله/NNP يبي/VBP تغيير/NN لا/RP يضحك/VBP علينا/NN كحيلان/NNP بالتصاريح/NNP من/IN كم/PRP سنه/NN وما/NN نشوف/VBP الا/RP التصاريح/DTNN وين/NN البطولات/DTNNS وين/NN التعاقدات/DTNNS مع/NN لاعبين/NNS على/IN مستوى/NN عالي/JJ .../PUNC انا/PRP تعبت/VBD مررره/NN نبي/NN نفرح/VBP 

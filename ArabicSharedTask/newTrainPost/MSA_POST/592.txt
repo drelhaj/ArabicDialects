@@ -1,0 +1,1 @@
+واذا/NNP ركز/VBD -LRB-/PUNC حمد/NNP -RRB-/PUNC واذا/NN فكر/NN -LRB-/PUNC حمد/NNP -LRB-/PUNC -RRB-/PUNC واذا/NNP رتب/NNP -LRB-/PUNC حمد/NNP -RRB-/PUNC واذا/NN اختار/VBD صح/VBD -LRB-/PUNC حمد/NNP -RRB-/PUNC نحن/PRP نقول/VBP 

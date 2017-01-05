@@ -1,0 +1,1 @@
+بوس/NNP الواوا/DTNNP -LRB-/PUNC MLK/CD -/PUNC رومانيا/NNP -RRB-/PUNC 

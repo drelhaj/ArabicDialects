@@ -1,0 +1,1 @@
+هيك/NNP بدنيا/JJ كيف/WRB بالاخرة/NNP الله/NNP .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC ./PUNC يبعدناعن/VBP نار/NN جهنم/NN 

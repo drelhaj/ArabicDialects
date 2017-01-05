@@ -1,0 +1,1 @@
+صدقوني/NNP لو/IN كان/VBD هذا/DT الخبر/DTNN خبر/NN اقالات/NNS او/CC تعيينات/NNS في/IN الداخلية/DTNN او/CC الخارجية/DTNN او/CC مزحة/NN او/CC نكته/NN لانهالت/VBD التعليقات/DTNNS عليه/NNP مدحا/NN وذما/NN بالعشيرة/NNP التي/WP باتت/VBD كالجميد/NNP لا/RP تضر/VBP ولا/NN تنفع/VBP .../PUNC 

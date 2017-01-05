@@ -1,0 +1,1 @@
+ولاقيت/NNP نفسي/VBP فجأة/NN باقول/JJ ./PUNC ./PUNC مع/NN الاسف/DTNN هي/PRP دي/NN فعلا/NN مصر/NNP النهاردة/DTJJ ؟/CD 

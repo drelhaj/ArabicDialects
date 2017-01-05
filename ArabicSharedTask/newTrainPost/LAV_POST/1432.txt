@@ -1,0 +1,1 @@
+انا/PRP مش/NN مصدق/NNP انو/NNP في/IN بني/NNP آدم/NNP بقتل/NNP اطفال/NN بهاي/NNP البرودة/DTNN ومش/NN اي/NOUN اطفال/NN من/IN دمه/NN اقسم/VBD بالله/NNP اني/NNP قاعد/NN بقرأ/NN في/IN المقال/DTNN وقلبي/NNP بنبض/NNP وعيني/NNP وسعن/NNP وبتخيل/NNP في/IN الموضوع/DTNN 

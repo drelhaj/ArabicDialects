@@ -1,0 +1,1 @@
+خلي/NNP عنك/NNP التغلي/DTNNP و/CC أتركك/NNP منه/NNP ./PUNC ./PUNC روووح/NNP ياشيخ/NNP ترا/VBP مب/NN كل/NOUN يوم/NN تجيك/VBP مثل/NN هالدعوه/NNP يا/RP صآلح/JJ ./PUNC ./PUNC و/CC أنت/VBD تستآآآهل/NN و/CC لا/RP تخاف/VBP الباقين/DTNNS كلهم/NNP محفوظ/NNP حقهم/NNP و/CC محشومين/NNS و/CC مقدرين./NN ,/PUNC '/PUNC 

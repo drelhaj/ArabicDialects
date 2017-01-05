@@ -1,0 +1,1 @@
+صارلهم/NNP هكا/NNP ومشاو/NNP شكاو/NNP و/CC النزل/DTNN تعاقب/NN و/CC انا/PRP نعرف/VBP برشا/NN تلك/DT الحالة/DTNN التي/WP تحدث/VBD عنها/NN الأخ/DTNN أحمد/NNP و/CC راهو/NNP فما/NNP 

@@ -1,0 +1,1 @@
+-LRB-/PUNC ليسهل/NN الوصول/DTNN اليها/NN -RRB-/PUNC ومهيأة/NN للاستعمال/NNP ./PUNC وعليه/NNP فان/NNP المكتبة/DTNN مهما/WP كان/VBD نوعها/NN ليست/VBD مكانا/NN لتحنيط/NN المواد/DTNN المكتبية/DTJJ وانما/NN يقاس/VBP نجاحها/NN بمدى/NNP استخدام/NN موادها/NN والاستفادة/NN منها/JJ ./PUNC 

@@ -1,0 +1,1 @@
+والله/NN اطلق/VBD الوظيفة/DTNN ولا/NN اطلق/VBD زوجتي/NNS ./PUNC ./PUNC ليش/NNP المتزوج/DTJJ مايقدم/NNP ابي/NNP اعرف/VBP المفروض/DTNN تساعدون/VBP المتزوجين/DTNNS ./PUNC ./PUNC يغنيني/NNP الله/NNP عن/IN المباحث/DTNN 

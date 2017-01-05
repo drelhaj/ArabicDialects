@@ -1,0 +1,1 @@
+أجل/NN فلسطين/NNP و/CC أطفال/NN فلسطين/NNP صحيح/JJ تنجم/VBP تقلي/NN فلسطين/NNP بعيدة/JJ من/IN الكرة/DTNN و/CC الرجال/DTNN قاعدين/JJ يموتو/VBP من/IN أجل/NN العزة/DTNN و/CC الكرامة/DTNN 

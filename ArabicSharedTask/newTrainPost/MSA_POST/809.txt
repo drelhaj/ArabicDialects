@@ -1,0 +1,1 @@
+موضوع/NN ما/WP يسمى/VBN ''/NN نفخة/NN الروح/DTNN ''/VBD على/IN اربعين/CD يوما/NN او/CC اربع/CD اشهر/NN ./PUNC ./PUNC كما/CC ذكر/VBD المقال/DTNN ففي/NN الطب/DTNN لا/RP يجود/VBP هكذا/RB مفهوم/NN كما/CC قد/RP يتوهم/VBP البعض/NOUN عند/NN قراءة/NN المقال/DTNN ./PUNC ./PUNC 

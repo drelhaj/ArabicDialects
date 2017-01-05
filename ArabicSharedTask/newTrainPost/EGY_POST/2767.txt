@@ -1,0 +1,1 @@
+ياريت/NNP يكون/VBP فى/IN حد/NN مسؤول/NN ذى/NN محافظ/NN السويس/DTNNP موجود/JJ فى/IN جنوب/NN سينا/NNP ويقفل/NNP ازق/VBD الطور/DTNN الى/IN كله/NN كوارث/NNP ومحدش/NNP حاسس/NNP لانها/NNP 

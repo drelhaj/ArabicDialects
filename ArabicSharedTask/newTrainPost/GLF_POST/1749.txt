@@ -1,0 +1,1 @@
+و/CC الله/NNP يا/RP جماعة/NN شكله/NN متابع/JJ لمقابلات/NNS اللاعبين/DTNNS اللي/WP قبله/NN ,/PUNC ,/PUNC و/CC لا/RP ما/RP شاء/VBD الله/NNP وش/NN عرفه/NNP في/IN جان/NNP جاك/NNP روسو/NNP الفيلسوف/DTNN السويسري/DTJJ ,/PUNC ,/PUNC لا/RP يكون/VBP الواد/DTNN متربي/JJ في/IN سويسرا/NNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+والله/NN الزعيم/DTNN بضل/NN زعيمشو/NNP ما/WP صار/VBD زبكفي/NNP انه/NNP وصل/VBD صيته/NN الي/IN العالم/DTNN كله/NN والله/NN انه/NN رافع/NN روسنا/NN فوق/NN .../PUNC .../PUNC يا/RP ازرق/JJ لوح/VBD فوق/NN .../PUNC ./PUNC فوق/NN فوق/NN 

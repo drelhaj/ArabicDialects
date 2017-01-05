@@ -1,0 +1,1 @@
+خبر/NN .../PUNC لو/IN حدث/VBD في/IN بلد/NN اخري/JJ .../PUNC لطارت/VBD فيها/NNP اعناق/NN ./PUNC ./PUNC وذهبت/VBD معها/NN كراسي/NN وزارات/NNS .../PUNC بس/NN المهم/DTNN .../PUNC وبعدين/NNS ؟/VBD مين/NN ضر/NN امام/NN النيابه/DTNN ؟/NN ما/WP الذي/WP تم/VBD ؟/NN واللا/NN هي/PRP خلصت/VBD على/IN كده/NN ؟/NN ؟/NN ؟/NN ؟/CD 

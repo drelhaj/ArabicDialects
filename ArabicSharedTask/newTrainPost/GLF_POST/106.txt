@@ -1,0 +1,1 @@
+واذا/NN مسكو/NNP شآب/NNP وفتاة/NN مع/NN بعض/NOUN تركو/NN الفتاة/DTNN ومسكو/NNP الشاب/DTNNP طيب/NNP ليه/NNP كذا/NNP ليه/NNP البنت/DTNNP يعني/VBP عليها/NN فضيحة/NN والولد/JJ لا/RP ./PUNC ./PUNC 

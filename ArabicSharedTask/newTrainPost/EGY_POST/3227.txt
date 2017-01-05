@@ -1,0 +1,1 @@
+يا/RP جماعه/NN ايه/NN هو/PRP السبب/DTNN الخلاف/DTNN بين/NN ابراهيم/NNP حسن/NNP ورامي/NNP سعيد/NNP ؟/CD .../PUNC وايه/NN المشكله/DTNN الشخصيه/DTJJ اللي/WP بينهم/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/VBD الي/IN عارف/NNP يا/RP ريت/VBD يقول/VBP لنا/NN .../PUNC لاني/NNP سمعت/VBD ان/IN فيه/NNP مشكله/NNP شخصيه/NNP بينهم/NNP 

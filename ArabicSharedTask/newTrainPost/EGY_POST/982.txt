@@ -1,0 +1,1 @@
+غريبة/NNP .../PUNC وزير/NN الثقافة/DTNN مش/NN مع/NN البرادعى/DTNN .../PUNC يبقى/VBP مش/NN مثقف/JJ ؟/VBD .../PUNC انا/PRP مثقف/JJ .../PUNC و/CC مش/NN مع/NN البرادعى/DTNN .../PUNC و/CC لا/RP عمرى/VBN هاكون/NN بردعة/NN لا/RP سمح/VBP الله/NNP .../PUNC يبقى/VBP انا/PRP مش/NN مثقف/JJ ؟/JJ .../PUNC 

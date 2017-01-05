@@ -1,0 +1,1 @@
+2/CD -/PUNC تكون/VBP جميع/NOUN اللقاءات/DTNNS و/CC المقابلات/DTNNS الصحفية/DTJJ مسجلة/VN بالصوت/NNP و/CC فيها/NNP ما/WP يدل/VBP على/IN هوية/NN الشخص/DTNN ،/NN و/CC يتم/VBP وضع/NN الخبر/DTNN على/IN الصحيفة/DTNN ''/NN في/IN حوار/NN أو/NNP مقابلة/NN مسجلة/JJ ''/JJ و/CC يتم/VBP ذكر/NN الموضوع/DTNN 

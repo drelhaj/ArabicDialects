@@ -1,0 +1,1 @@
+مفروض/NN حبيبي/NNP يا/RP نواف/NNP ماتسكت/NNP حقنا/VBD يضيع/VBP قدام/NN عيوننا/NNP و/CC غيرنا/NNP ياكلون/VBP حق/NN غيرهم/NNP و/CC بعد/NN مثاليتنا/NN تمنعنا/VBD نرد/VBP أرجوك/NN يابو/NNP عليآء/NNP و/CC سعد/NNP ما/WP تخلي/VBD حقوقنآ/NN تضيع/NN و/CC أنت/VBD كفو/NNP و/CC رآعيهآ/NNP و/CC كلنآ/NNP عشم/NNP ب/IN سموكَ/NN ./PUNC ./PUNC ربي/NNP يحفظكَ/VBP 

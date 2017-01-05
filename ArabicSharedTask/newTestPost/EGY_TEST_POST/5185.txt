@@ -1,0 +1,1 @@
+حيث/WRB قال/VBD ما/WP معناه/VBD -LRB-/PUNC اذا/IN فتحت/VBD عليكم/NN مصر/NNP فاتخذوا/VBD منها/NN جندا/NN كثيرافانهم/NN خير/NN اجناد/NN الارض/DTNN -RRB-/PUNC مصر/NNP هى/NNP بلد/NN الازهر/DTNNP الشريف/DTJJ الذى/WP حمى/VBD الاسلام/DTNN واللغة/NN العربية/DTNN لذلك/VBD احنا/NN فى/IN مصر/NNP لسه/NNP بنتكلم/NNP عربى/NNP مش/NN فرنسى/NNP 

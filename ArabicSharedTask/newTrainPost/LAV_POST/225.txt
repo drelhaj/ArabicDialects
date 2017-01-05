@@ -1,0 +1,1 @@
+اولا/ADJ كوحداتي/NNP اهنيء/NNP غزلان/NNP الشمال/DTNN بتفوقهم/NNP على/IN الفيصلي/DTNNP في/IN مباراة/NN الامس/DTNN وبصراحة/NN حرام/NN يعني/VBP كان/VBD لازم/JJ يفوز/VBP الرمثا/DTNNP اقل/JJR شي/NNP 5-1/CD على/IN هذا/DT الفريق/DTNN الذي/WP يعد/VBN رقم/NN 14/CD عالميا/NN وسلملي/JJ على/IN التصنيف/DTNN العالمي/DTJJ ./PUNC 

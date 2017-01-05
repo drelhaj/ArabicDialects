@@ -1,0 +1,1 @@
+فخلونا/NN نشجع/VBP النادى/DTNN بتاعنا/NN بس/NN ,/PUNC وننتقد/NN أى/NN حاجة/NN مش/NN بتعجبنا/NN بس/NN من/IN غير/NN تعصب/NN ,/PUNC لاننا/NNP ف/RP الأخر/DTNN كلنا/VBD مصريين/JJ بنمسك/NN علم/NN مصر/NNP فى/IN نفس/NN الوقت/DTNN ,/PUNC يبقى/VBP احنا/NN سبنا/NN إيه/NN للناس/NNP التانيين/DTJJ ./PUNC 

@@ -1,0 +1,1 @@
+من/IN جدكم/NN مكافأت/NN عشانكم/NN مهزومين/NNS بخمسة/NN والمباراة/NN الجاية/DTNN على/IN كلام/NN فيصل/NNP بن/NNP تركي/NNP انها/VBD صعبه/NNP نجيب/NNP 3/CD نظيفة/JJ امام/NN الهلال/DTNN في/IN الوقت/DTNN الحالي/DTJJ ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+من/IN هو/PRP محمد/NNP رمضان/NNP بجانب/NNP الشيخ/DTNN رائد/NNP صلاح/NNP واحمد/NNP ياسين/NNP وكل/NN الذين/WP رووا/VBD ارضهم/NN بدمائهم/NN من/IN اجل/NN رفعة/NN هذه/DT الامة/DTNN .../PUNC 

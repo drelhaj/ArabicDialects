@@ -1,0 +1,1 @@
+2/CD -/PUNC كنت/NNP سعيد/NNP لوجود/NNP المدرب/DTNN عدنان/NNP حمد/NNP في/IN الملعب/DTNN حتى/IN يرى/VBP اللمسات/DTNNS السحرية/DTJJ لنجم/NN الاردن/DTNNP الاول/ADJ رافت/NNP علي/NNP ./PUNC ./PUNC نجم/NN واضح/JJ 

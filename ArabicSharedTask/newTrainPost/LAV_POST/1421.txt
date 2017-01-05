@@ -1,0 +1,1 @@
+أقول/NNP للحكومة/NNP ,/PUNC كفاية/NN مشان/NNP الله/NNP ذبحتونا/NN ./PUNC ./PUNC كل/NOUN اشي/NN مندفع/JJ عليه/NN مصاري/JJ 

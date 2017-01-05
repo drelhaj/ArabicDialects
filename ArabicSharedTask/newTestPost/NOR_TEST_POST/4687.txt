@@ -1,0 +1,1 @@
+ليست/VBD كرة/NN القدم/DTNN فقط/RB بالنسبة/NN لصحف/NN النوادي/DTNN راهي/NNP ممنوعة/NN لأنو/NNP و/CC جماعة/NN الأخبار/DTNN الرياضية/DTJJ يعني/VBP الأخبار/DTNN الرياضية/DTJJ لا/RP غير/NN كل/NOUN الرياضيات/DTNNS 

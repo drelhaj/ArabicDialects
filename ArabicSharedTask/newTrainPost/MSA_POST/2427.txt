@@ -1,0 +1,1 @@
+آن/VBD الأوان/DTNN لأن/NN يتحمل/VBP مجلس/NN الأمناء/DTNN مسؤلياته/NN ويتوجب/NNP عليه/NNP الإستجابة/DTNN إلى/VBD ما/WP يتكشف/VBP أمامه/NN من/IN إشارات/NNS بشكل/NN يومي/NNS وإلا/NN فسيكون/JJ من/IN الصعب/DTNN مستقبلاَ/VN إصلاح/NN ما/WP أفسدته/VBP وتفسده/NN هذه/DT الإدارة/DTNN ./PUNC 

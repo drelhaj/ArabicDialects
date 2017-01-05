@@ -1,0 +1,1 @@
+-LRB-/PUNC انا/PRP لاعب/NN الخليج/DTNNP -RRB-/PUNC المباراة/DTNN استمرت/VBD لشوط/NN وانسحبنا/NN للخشونة/NN الزائدة/DTNN والنتيجة/NN تعادل/NN بهدف/NN ؛/NN ارجو/VBP التاكد/DTNN من/IN قبل/NN نشر/NN الاخبار/DTNN ./PUNC 

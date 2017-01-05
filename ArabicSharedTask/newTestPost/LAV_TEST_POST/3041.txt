@@ -1,0 +1,1 @@
+انشاء/NN الله/NNP الوحدات/DTNNP رح/NN يمشي/VBP و/CC يتمختر/VBP لأنه/NN السوبر/DTNN اخضر/JJ .../PUNC و/CC على/IN طلوع/NN المصدار/DTNN يا/RP كأس/NN السوبر/DTNN .../PUNC ابو/NNP زمع/NNP السعهم/DTNN لسع/NN .../PUNC و/CC مسكين/JJ اللي/WP ما/WP عندو/VBD وحدات/NNS .../PUNC 

@@ -1,0 +1,1 @@
+طبعا/NN اشي/NNP حلو/NNP كتير/NNP هالاختراع/NNP بس/NN المصيبه/DTNN بس/NN واذا/NN اجا/NN البلد/DTNN بيصير/NNP حقو/NNP اضعاف/NN مضاعفه/NN !!/NN وبصفي/NNS كمبيوتر/NNP غالي/NN قليل/JJ الي/IN راح/NN يحصلو/VBP .../PUNC يعني/VBP ما/WP ستفدنا/VBD اشي/NN ./PUNC ./PUNC واااك/NNP وااااك/NNP واااك/NNP 

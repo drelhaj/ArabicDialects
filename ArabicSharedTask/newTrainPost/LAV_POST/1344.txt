@@ -1,0 +1,1 @@
+استاذ/NN جامعي/JJ ومتعلم/NN وفهان/NNS ويعتبر/NNP قدوة/NN لطلابو/NNP اللي/WP رايحين/VBG يكونو/VBP رجال/NN المستقبل/DTNN ./PUNC ./PUNC وبطخ/NN عميدة/NN الكلية/DTNN بكل/NNP اريحية/NNP !!/CD 

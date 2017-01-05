@@ -1,0 +1,1 @@
+شو/NNP قصة/NN لعيبة/NN الوحدات/DTNNS مش/NN عاجبهم/JJ الطعام/DTNN يعني/VBP شو/NNP بدكم/NN مناسق/JJ يا/RP جماعة/NN المدرب/DTNN يحدد/VBP لكم/VBG نوعية/NN الطعام/DTNN المفيد/DTNN و/CC لا/RP يحتوي/VBP على/IN الدسم/DTNN الزائد/DTJJ خاصة/NN ما/WP شفنا/VBD بعض/NOUN اللاعبين/DTNNS في/IN زيادة/NN في/IN الوزن/DTNN مثل/NN عامر/NNP ذيب/NNP و/CC الضميري/DTNNP ,/PUNC 

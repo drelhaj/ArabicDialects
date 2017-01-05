@@ -1,0 +1,1 @@
+كل/NOUN عام/NN وانتو/NNP بالف/NNP خير/NN يارب/VBP واهلنا/NN بخير/NNP وبلدنا/NNP الغالي/DTJJ الاردن/DTNNP بالف/NNP خير/NNP ,/PUNC وان/NNP شالله/NNP بكون/NNP رمضان/NNP عنا/VBD بالسعوديه/NNP كمان/NN بكره/NN يارب/VBP نصوم/NN سوا/NN .../PUNC 

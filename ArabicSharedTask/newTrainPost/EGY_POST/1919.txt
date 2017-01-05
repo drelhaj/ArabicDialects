@@ -1,0 +1,1 @@
+و/CC اخيرا/NN دور/NN الموجه/DTJJ فى/IN اغلب/NOUN الاحيان/DTNN يأتى/VBP الى/IN المدرسه/DTNN وكل/NN همه/NN الاول/ADJ و/CC الاخير/DTJJ دفتر/NN التحضير/DTNN +/NN التاريخ/DTNN و/CC العنوان/DTNN على/IN السبوره/DTNN +/VBD فى/IN كراسة/NN للحصه/NN لتسجيل/NN عنوان/NN الدرس/DTNN +/NN كراس/NN الواجب/DTNN -RRB-/PUNC وبعد/NN كده/NNP مش/NN مهم/JJ اى/NOUN حاجه/NN 

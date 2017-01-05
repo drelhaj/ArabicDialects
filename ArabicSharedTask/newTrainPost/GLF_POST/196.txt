@@ -1,0 +1,1 @@
+ياسر/NNP القحطاني/DTNNP ضرب/NN عبده/NNP برناوي/NNP بدون/IN كرة/NN ,/PUNC ,/PUNC والحكم/VN عطاه/NN كرت/NN أصفر/JJ ,/PUNC ,/PUNC العتيبي/DTNNP دفع/VBD الحكم/DTNN ولم/NN يعطه/VBP ألحكم/NN أي/NN شي/NNP ,/PUNC ,/PUNC والله/NNP جلال/NNP ساعدكم/NNP في/IN المباراة/DTNN كثير/NN لاتقلب/NN الحقائق/DTNN ,/PUNC 

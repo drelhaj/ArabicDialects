@@ -1,0 +1,1 @@
+امامنا/VBD فرصة/NN واحدة/JJ فقط/RB لتاهل/NN ./PUNC ./PUNC يعني/VBP الحل/DTNN الوحيد/DTJJ هو/PRP الهجوم/DTNN لا/RP غير/NN ./PUNC ./PUNC رجاءا/NN لا/RP تطلعون/VBP لنا/NN بالخطة/JJ الي/IN مع/NN نادي/NN الاتحاد/DTNNP الفاشلة/DTJJ بكل/VBD ما/WP تعنية/VBP الكلمة/DTNN من/IN معنى/NN 

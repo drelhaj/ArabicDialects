@@ -1,0 +1,1 @@
+مش/NN عارف/NNP كانو/NNP اعضاء/NN الادارة/DTNN ما/WP بيحضرو/VBD مباريات/NNS مع/NN احترامي/NNP الشديد/DTJJ لكشكش/NN بس/NN ما/WP قدم/VBD مستوى/NN جيد/JJ عشان/JJ يجددو/VBP معاه/NN بنا/NN لاعب/NN على/IN درجة/NN عالية/JJ او/CC ناشيء/JJ يستفاد/VBP منه/NNP في/IN المواسم/DTNN القادمة/DTJJ ./PUNC 

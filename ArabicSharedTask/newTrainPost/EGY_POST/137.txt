@@ -1,0 +1,1 @@
+انا/PRP مصري/JJ مقيم/NN بدرة/NN التاج/DTNN -LRB-/PUNC الرياض/DTNNP -RRB-/PUNC وأحب/VBD الهلال/DTNNP لكن/CC حبي/NNP للنصر/VBD أشد/NN وبصراحة/NN حاسس/JJ ان/IN شاء/VBD الله/NNP النصر/DTNNP فى/IN النهائي/DTNN ./PUNC 

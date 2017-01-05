@@ -1,0 +1,1 @@
+ههه/NNP تذكرت/VBD تصريح/NN رئيسكم/NNP -LRB-/PUNC ذذذ/CD -RRB-/PUNC يقول/VBP فيه/NNP باقي/NN بطولتين/NNS في/IN هذا/DT الموسم/DTNN -LRB-/PUNC كاس/NN الخليج/DTNNP وكاس/NN الملك/DTNN -RRB-/PUNC والنصر/NN بيحققها/NNP ،/NNP ،/CD 

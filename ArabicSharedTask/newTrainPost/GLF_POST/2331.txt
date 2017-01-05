@@ -1,0 +1,1 @@
+هين/NNP ./PUNC ./PUNC دامه/VBD اجنبي/NN سنتين/NNS بالكثير/NNP وبيطلع/NNP وتسفير/NNP على/IN ديرته/NN ويجرع/NN بجواز/NNP ثاني/NNP لأقر/NNP بدولة/NN خليجية/JJ مجاورة/JJ 

@@ -1,0 +1,1 @@
+ابراهيم/NNP يا/RP سعيد/NNP انت/PRP ولد/NN كويس/JJ جدا/NN لكن/VBP لو/IN اخلاقك/VBD اتحسنت/NN فعلا/NN اهلا/NN وسهلا/NN بيك/NNP وكل/NN الاندية/DTNN حترحب/NN بوجودك/NNP لو/IN اخلاقك/JJ هي/PRP هي/PRP يبقي/VBP بلاش/NN تتمني/VBP تروح/VBP نادي/NN كبير/JJ وشوف/JJ مصلحتك/JJ ف/CC حتة/NN متدارية/JJ تاكل/VBP منها/NN عيش/NN وخلاص/NN 

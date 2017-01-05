@@ -1,0 +1,1 @@
+كيف/WRB كان/VBD ذلك/DT ؟/NN !/PUNC وكيف/NNP استطاع/VBD ان/IN ينام/VBP في/IN تلك/DT الليلة/DTNN ؟/NN !/PUNC وبماذا/NN كان/VBD يجيب/VBP ابنه/NN عندما/JJ كان/VBD يسأله/VBP :/PUNC وين/NNP ماما/NNP يا/RP بابا/NN ؟/NN !/PUNC وهل/NN كان/VBD ضميره/NN مرتاحاً/JJ عندما/JJ كان/VBD يكذب/VBP عليه/NN ويقول/NN له/NN لقد/RP سافرت/VBD وقد/NN لا/RP تعود/VBP قريباً/NN !!/NN 

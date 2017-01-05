@@ -1,0 +1,1 @@
+محمد/NNP خليفة/NNP يقطع/VBP الكرة/DTNN من/IN كريم/NNP ذكري/NN بدون/IN ما/WP يلمسه/VBP وأصبح/NN وجها/NN لوجه/NNP مع/NN حارس/NN بتروجيت/NNP .../PUNC تيييييييييييييييييييييييت/NNP الحكم/DTNN مدحت/NNP بيصفر/NNP فاوول/NNP وناقص/NN يقول/VBP لخليفة/NN اوعى/JJR تنسى/VBN نفسك/NN ./PUNC 

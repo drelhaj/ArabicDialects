@@ -1,0 +1,1 @@
+لو/IN داري/NNP انه/VBD يبي/NNP يحوشني/NNP -LRB-/PUNC على/IN قولة/NN حبايبنا/NN الكويتيين/DTNNS -RRB-/PUNC أقول/VBP لو/IN داري/NNP انه/VBD يبي/VBP يحوشني/VBP فايروس/NN الكلمات/DTNNS المقلوبه/DTJJ انكان/NN لبست/VBD كيسه/NNP قبل/NN لا/RP ادخل/VBP الصفحة/DTNN ./PUNC ./PUNC 

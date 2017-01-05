@@ -1,0 +1,1 @@
+بكل/VBD فخر/NN واعتزاز/NN ينعى/VBP الوطن/DTNN العربي/DTJJ بكل/VBD حزن/NN واسى/NNP فقيدهم/NNP -LRB-/PUNC الضميــــــــر/DTNN -RRB-/PUNC الذي/WP واته/VBD المنية/DTNN عام/NN 1948/CD قبل/NN ان/IN تكتمل/VBP ولادته/NN ./PUNC 

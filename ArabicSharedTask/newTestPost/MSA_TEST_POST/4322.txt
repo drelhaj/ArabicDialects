@@ -1,0 +1,1 @@
+مبارك/NNP للوحدات/NNP و/CC مبارك/NNP للجماهير/NNP جميعا/NOUN جماهير/NN الوحدات/DTNNS خاصه/NNP و/CC الجماهير/DTNN الاردنيه/NNP عامه/NNP ./PUNC و/CC ارجو/VBP من/IN الشباب/DTNN عدم/NN الرد/DTNN على/IN التعليقات/DTNNS التي/WP لا/RP تسمن/VBP و/CC لا/RP تغني/VBP من/WP جوع/VBD ./PUNC فوز/NN الوحدات/DTNNS مستحق/JJ و/CC العربي/DTNN لعب/VBD مباراه/NN جيده/NNP و/CC هذا/DT متوقع/NN ./PUNC 

@@ -1,0 +1,1 @@
+بالفعل/NNP انه/VBD الفيصلي/DTNNP عامل/NN ضجه/NN بالدوري/JJ وكاس/NN الاردن/DTNNP وكل/VBD مشجعي/NNS الافرقه/DTNN المهم/DTJJ عندهم/NNP الفيصلي/DTNNP وكيف/NN الفوز/DTNN عليه/NNP وتمختر/NNP يا/RP كايدهم/NNP يا/RP زعيم/NN كلها/NN بتهابك/NNP وتتمنى/NNP الفوز/DTNN عليك/NNP ./PUNC 

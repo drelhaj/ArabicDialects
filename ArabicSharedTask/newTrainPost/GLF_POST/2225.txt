@@ -1,0 +1,1 @@
+من/IN جد/NN هاذي/JJ بشر/VBD من/IN دم/NN ولحم/NNP -LRB-/PUNC أشك/CD انه/NN ما/IN تحس/NN -RRB-/PUNC 

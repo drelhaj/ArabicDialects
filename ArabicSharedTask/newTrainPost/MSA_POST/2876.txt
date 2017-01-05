@@ -1,0 +1,1 @@
+2/CD -/PUNC معدل/NN سعر/NN برميل/NN النفط/DTNN في/IN الشهر/DTNN الماضي/DTJJ كان/VBD بحدود/NN 80/CD دولارا/NN اي/NOUN ما/WP معدله/VBP 54/CD %/PUNC من/IN اقصى/JJR سعر/NN وصل/VBD اليه/NNP النفط/DTNN 

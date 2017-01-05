@@ -1,0 +1,1 @@
+ماحدش/NNP يقرب/VBP من/IN القضاء/DTNN نهائيا/NN لامن/NN الجمهور/DTNN ولا/NN من/IN السلطات/DTNNS الاخرى/DTJJ والا/NN فسدت/NN الحياة/DTNN ,/PUNC ولن/VBD اضيف/VBP اكثر/JJR من/IN ذلك/DT حتى/IN لااعد/NN وكأنى/NN اناقش/NN امور/NN تخص/VBP القضاء/DTNN ./PUNC 

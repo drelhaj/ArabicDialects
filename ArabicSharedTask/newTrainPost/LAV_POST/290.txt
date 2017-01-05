@@ -1,0 +1,1 @@
+وليش/NNP فريقك/NNP ما/WP فاز/VBD على/IN الحسين/DTNNP اربد/VBD في/IN القويسمة/DTNN ؟/NN ؟/NN ./PUNC ./PUNC لانو/NNP تعادل/VBD الوحدات/DTNNP مع/NN الحسين/DTNNP اربد/VBD في/IN القويسمة/DTNN كالخسارة/NNP تماما/NN 

@@ -1,0 +1,1 @@
+3/CD ./PUNC من/IN الممكن/DTNN ان/IN يتم/VBP تغيير/NN مواقيت/NN بداية/NN الدوام/DTNN الرسمي/DTJJ للدوائر/NN الجكومية/DTNN لتبدء/NN العمل/DTNN مثلا/NN الساعة/DTNN 7.30/CD صباحااو/NNP التفكير/DTNN بعمل/NNP مناوبات/NNS ليلية/JJ لدوائر/NN حكومية/JJ يكون/VBP من/IN الممكن/DTNN للجمهور/NNP ان/IN يراجعها/VBP وينجز/NNP اعمالة/NN لتخفيف/NN التردد/DTNN عليها/NN نهارا/NN 

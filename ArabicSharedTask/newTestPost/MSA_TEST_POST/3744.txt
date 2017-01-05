@@ -1,0 +1,1 @@
+عمل/NN مشروع/NN وهذا/NN العمل/DTNN يحتاج/VBP الى/IN حرص/NN في/IN هذه/DT الايام/DTNN الذى/WP اصبح/VBD فيها/NN معظم/NOUN الناس/DTNN بعيدين/JJ عن/IN الاخلاق/DTNN فحذروا/NNP يانشميات/NNP ./PUNC 

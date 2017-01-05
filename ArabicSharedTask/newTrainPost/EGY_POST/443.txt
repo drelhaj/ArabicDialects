@@ -1,0 +1,1 @@
+يا/RP جماعة/NN بلاش/NNP تعصب/NN ,/PUNC وكلام/NN عن/IN الحكام/DTNN ,/PUNC خلينا/NN نتفق/VBP ان/IN غلطات/NNS الحكام/DTNN أحيانا/NNP بتكون/NNP معانا/NNP أو/NNP ضدنا/VBD سواء/NN كنا/VBD أهلاوية/NN أو/NN زملكاوية/JJ أو/VBD بنشجع/NN أى/NN نادى/VBD تانى/NNP ,/PUNC الغلطات/DTNNS دى/VBD أحيانا/NN بتفيدنا/NN وكتير/JJ جدا/NN بتضرنا/NNP ./PUNC 

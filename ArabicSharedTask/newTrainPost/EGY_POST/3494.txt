@@ -1,0 +1,1 @@
+الف/VBD سلامه/NNP لاحمد/NNP فتحى/NNP واحمد/NNP شكرى/VBD لا/RP مليون/NN سلامه/NNP ./PUNC جرى/VBD ايه/NN يا/RP اهلاويه/NNP ./PUNC اللى/WP عايز/VBD يمشى/VBP مع/NN السلامه/DTNN مهما/WP كان/VBD هو/PRP مين/NN احنا/NN 

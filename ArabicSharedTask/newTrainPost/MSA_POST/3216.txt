@@ -1,0 +1,1 @@
+بل/CC ان/IN هناك/RB -LRB-/PUNC سياسة/NN تربوية/JJ ؟/VBD من/IN نوع/NN غريب/JJ -RRB-/PUNC وهي/JJ توكيل/NN المعلم/DTNN او/CC المعلمة/DTNN شبه/NN المستهلك/DTNN ،/NN أو/NNP 

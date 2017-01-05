@@ -1,0 +1,1 @@
+صوت/NN واحد/JJ +/VBD تقسيم/NN إضافي/JJ =/PUNC مزيد/NN من/IN الاستقطاب/DTNN ./PUNC ./PUNC 

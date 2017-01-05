@@ -1,0 +1,1 @@
+فيه/NNP مثل/NN يقول/VBP الكلام/DTNN في/IN الماضي/DTNN تخلف/NN ياخي/VBP ماتشبعون/NNP من/IN السب/DTNN بالحكم/NNP لهالدرجه/NNP مو/NN قادرين/JJ تنسون/VBP المباراه/DTNN لفريقكم/NN يوم/NN الوصل/DTNN مع/NN النصر/DTNNP ماكتبتو/NNP مع/NN نادي/NN الوطن/DTNN كل/NOUN هذي/DT الكتابات/DTNNS 

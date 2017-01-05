@@ -1,0 +1,1 @@
+الله/NNP الله/NNP بالهمه/NNP ياعبدالله/NNP وناصر/NNP ان/IN شاء/VBD الله/NNP تصورون/NNP -LRB-/PUNC طاش/NNP 100/CD -RRB-/PUNC بصحه/NNP والعافيه/NNP 

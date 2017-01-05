@@ -1,0 +1,1 @@
+لكلام/NNP الفارغ/DTNNP السلام/DTNN عليكم/NNP أخي/NNP العزيز/DTNNP والله/NNP كلامك/NNP جميل/NNP والأمن/NNP من/IN تحبوا/NN تثوروا/VBD لبلاد/NN وإلا/NN أشنو/NNP بلادنا/NNP بخير/NNP وتعيش/NN الحكومة/DTNN ويزينا/NNP 

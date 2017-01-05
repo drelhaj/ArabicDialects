@@ -1,0 +1,1 @@
+حركات/NNS حلوه/NNP ورياضيه/NNP وقمة/NN الرشاقه/DTNN ,/PUNC الصوره/DTNN 6/CD صعبه/NNP شوي/NNP ./PUNC 

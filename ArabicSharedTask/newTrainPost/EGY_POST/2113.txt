@@ -1,0 +1,1 @@
+كده/NNP خلصنا/NNP من/IN شوبير/NNP و/CC صادق/NNP .../PUNC ./PUNC فاضل/NNP شلبي/NNP و/CC الغندور/DTNNP و/CC عبده/NNP 

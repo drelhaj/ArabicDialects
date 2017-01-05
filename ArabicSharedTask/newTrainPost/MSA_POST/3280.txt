@@ -1,0 +1,1 @@
+ذ/VBD حسن/NNP عبد/NNP الفتاح/DTNNP نجم/NN الكرامه/DTNN السوري/DTJJ والمحروم/NNP من/IN منتخب/NN حمد/NNP -LRB-/PUNC رساله/NNP الى/IN المدرب/DTNN عدنان/NNP حمد/NNP -RRB-/PUNC حسن/NNP عبد/NNP الفتاح/DTNNP موجود/NN 

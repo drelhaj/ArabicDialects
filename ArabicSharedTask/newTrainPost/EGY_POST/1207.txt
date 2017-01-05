@@ -1,0 +1,1 @@
+فين/NNP الحكومه/DTNN المصريه/DTJJ من/IN زمان/NN لما/NNP هيه/NNP تقدر/VBN تسيطر/VBP على/IN الحشيش/DTNN ./PUNC وليه/NNP سابين/NNP الشباب/DTNN غرقانين/NNP فى/IN المخدرات/DTNNS من/IN زمان/NN ./PUNC الغريب/DTNN جدا/NN فى/IN الموضوع/DTNN ان/IN الحكومه/DTNN تقريبا/NN سيطرت/NN على/IN الحشيش/DTNN فى/IN فتره/NN 3/CD شهور/NN فقط/RB و/CC ده/DT انجاز/NN فعلا/NN للداخليه/NNP ./PUNC 

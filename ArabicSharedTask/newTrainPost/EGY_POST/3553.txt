@@ -1,0 +1,1 @@
+يعنى/VBP مصر/NNP كلها/NN ضد/NN ابراهيم/NNP ليه/NNP ؟/VBD لما/NNP شاف/JJ رامى/NNP سعيد/NNP انقلب/VBD كيانه/NNP وتذكر/NNP ماضى/NNP مرير/NNP ./PUNC ./PUNC يريد/VBP ان/IN ينسيه/VBP للشعب/NN كله/NN قبل/NN ما/WP هو/PRP ينساه/VBP 

@@ -1,0 +1,1 @@
+ثالثا/ADJ جتك/NN خيبة/NN عليكي/NNP وعلي/NNP ابو/NNP حسن/NNP وحسين/NNP وخال/NNP حسين/NNP وعماتة/NN واعمامة/NN وكل/NN من/IN لة/NN صلة/NN قرابة/NOUN من/IN بعيد/NN او/CC من/IN قريب/NN بيكي/NNP وبا/NNP ابو/NNP حسن/NNP روحي/NNP اعملي/NNP حاجة/NN مفيدة/JJ بدل/NN ما/IN انتي/NN بتتكلمي/JJ علي/IN اسيادك/NNP الي/IN هما/PRP طبعا/NN المصرين/VN 

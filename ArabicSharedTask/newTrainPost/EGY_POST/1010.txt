@@ -1,0 +1,1 @@
+طبعا/NN غلطااااااان/NNP اكيييييييييييد/NNP كان/VBD هيعجبك/NNP كلامه/NNP لو/IN قال/VBD ان/IN علاء/NNP صادق/NNP هو/PRP صانع/NN الاعلام/DTNN الرياضي/DTJJ في/IN مصر/NNP مش/NN كده/NNP يا/RP علاء/NNP يا/RP مش/NN صادق/VBD ؟/NN ؟/NN وعجبي/JJ ./PUNC ./PUNC 

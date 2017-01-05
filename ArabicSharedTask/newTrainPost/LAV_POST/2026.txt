@@ -1,0 +1,1 @@
+انا/PRP من/IN سكان/NN الزرقاء/DTNNP ولا/NNP أراجع/VBD مستشفى/NN الحاووز/DTNN لأنه/NNP معروف/JJ عن/IN أغلب/NN الناس/DTNN انه/VBD ''/NN مجزرة/NN ''/NN مش/NN مستشفى/NN للأسف/NNP ./PUNC 

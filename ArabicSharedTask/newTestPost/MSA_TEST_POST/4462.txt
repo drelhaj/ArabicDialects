@@ -1,0 +1,1 @@
+أود/VBD ان/IN أنوه/NNP إلى/VBD ان/IN عبدالله/NNP ذيب/VBD هو/PRP ثالث/ADJ وليس/NNP ثاني/NNP لاعب/NN اردني/JJ يحترف/VBP في/IN الدوري/DTNN المصري/DTJJ ./PUNC ./PUNC فقد/VBD سبقه/NNP في/IN ذلك/DT كل/NOUN من/IN عامر/NNP شفيع/NN في/IN الاسماعيلي/DTNNP وخالد/NNP سعد/NNP في/IN الزمالك/DTNNP ./PUNC 

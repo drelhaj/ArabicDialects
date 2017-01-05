@@ -1,0 +1,1 @@
+هذولا/NNP شكلهم/NNP مايشبعون/NNP ابد/VBD الشركه/DTNN باسمهم/NNP ويبون/NNP دعم/NN والله/NNP هزلت/NNP ./PUNC طيب/NNP المواطنين/DTNNS يبون/VBP دعم/NN ليش/NNP مانعطيهم/NNP بيت/NN المال/DTNN ليس/VBD للتجاربس/NN ./PUNC وانشاء/NN شركات/NNS من/IN خلاها/NN نسلب/NN المال/DTNN العام/DTJJ 

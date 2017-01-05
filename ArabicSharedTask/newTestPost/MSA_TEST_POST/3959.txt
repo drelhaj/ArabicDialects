@@ -1,0 +1,1 @@
+و/CC سنبقى/VBD جندكم/NN و/CC أبناء/NN الأردن/DTNN الأوفياء/DTJJ بخالص/NN مشاعر/NN الولاء/DTNN و/CC الأنتماء/DTNN و/CC الإخلاص/DTNN و/CC الطاعة/DTNN للقيادة/NNP الهاشمية/DTJJ و/CC لتراب/NN الأردن/DTNN الغالي/DTJJ ./PUNC 

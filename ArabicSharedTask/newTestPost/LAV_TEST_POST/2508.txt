@@ -1,0 +1,1 @@
+وليش/NN المريض/DTNN ما/WP يروح/VBP على/IN مستشفى/NN حكومي/JJ ؟/VBD 40/CD الف/CD على/IN شو/NNP ؟/NN اي/NOUN لو/IN اخذوه/VBD بطيارة/NN على/IN روسيا/NNP كان/VBD تعالج/VBP وقعد/NN بفندق/NN 5/CD نجوم/NN باقال/NN من/IN 10/CD الاف/CD .../PUNC 

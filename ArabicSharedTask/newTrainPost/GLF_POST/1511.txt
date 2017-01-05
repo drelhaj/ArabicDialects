@@ -1,0 +1,1 @@
+غريبه/NNP ,/PUNC ليه/NNP خبر/NN الهلال/DTNNP جاي/NNP تخت/VBD ؟/NN بالعاده/NNP أخبار/NNP الهلال/DTNNP لازم/VBD بالمانشيت/NNP العريض/DTJJ وفي/NNP أعلى/NNP الصفحة/DTNN !/PUNC 

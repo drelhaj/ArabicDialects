@@ -1,0 +1,1 @@
+لوزير/NNP الهولندي/DTNN اللي/WP قال/VBD انه/NN فلسطين/NNP هي/PRP الأردن/DTNN صار/VBD الكل/NOUN يعتبره/VBP عدو/NN والكل/NN يهاجمة/NN ./PUNC والكل/NN صار/VBD بده/NN يقاطع/VBP هولندا/NNP وهذا/NN شيء/NN جميل/JJ ./PUNC 

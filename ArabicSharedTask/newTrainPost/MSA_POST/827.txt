@@ -1,0 +1,1 @@
+تحيه/VBP الى/IN المبدع/DTNN خالد/NNP الخطاطبه/DTNNP الاروع/DTJJR والامتع/NN والافضل/NN في/IN منبر/NN الغد/DTNN وهذا/NN ليس/VBD مديح/NN والسبب/NN عندي/JJ شخصيا/JJ ان/IN السيد/DTNN خالد/NNP الخطاطبه/DTNNP ينشر/VBP جميع/NOUN مقالتنا/NN بحريه/NN وامانه/NNP ويجعلنا/NNP نتنفس/NNP بصدق/NNP والله/NN من/IN وراء/NN القصد/DTNN ./PUNC 

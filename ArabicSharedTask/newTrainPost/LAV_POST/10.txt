@@ -1,0 +1,1 @@
+انا/PRP بنتقد/NN هدا/NN القرار/DTNN وانشالله/NNP مابتنفذ/NNP بدل/NN مابأخرو/NNP سن/NNP زواج/NN الفتيات/DTNNS ببكروه/NNP ./PUNC طبعا/NN وجهة/NN نظري/JJ اذا/IN المرأة/DTNN وعمرها35/DTJJ سنه/NNP ومو/NNP عارف/NNP دير/NNP بالها/NNP على/IN بيتها/NN ومو/NN قادرها/JJ تتحمل/VBP المسؤاليه/DTNN هاد/NNP كيف/WRB البنت/VBD الي/IN عمرها/NN 15/CD سنه/NN حراام/NN 

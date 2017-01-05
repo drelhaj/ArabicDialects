@@ -1,0 +1,1 @@
+أعتقد/VBD أن/NN الحكومة/DTNN ممثلة/NN بوزير/NN الصحة/DTNN الدكتور/DTNN أبو/NNP هايل/NNP ،/VBD تقدم/NN مصلحة/NN المواطن/DTNN على/IN مصالح/NN أهل/NN البزنس/DTNN والمال/NN ،/NN وهذا/JJ من/IN وجهة/NN نظري/JJ يعلي/VBP من/IN قيمتها/NN داخل/NN نفوس/NN الأردنيين/DTNNS وخصوصا/NN إذا/NN ما/WP تعلق/VBP الامر/DTNN بصحة/NN المواطن/DTNN ./PUNC 

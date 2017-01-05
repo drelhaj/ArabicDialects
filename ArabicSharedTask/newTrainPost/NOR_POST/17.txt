@@ -1,0 +1,1 @@
+شهر/NN لشهرين/NNP يولي/NNP ياخيو/NNP لتر/NNP مقسمة/JJ على/IN مرتين/NNS من/IN شهرين/NNS من/IN في/IN النهار/DTNN من/IN يوم/NN لشهر/NN لتر/NN حليب/NN مرتين/NNS في/IN النهار/DTNNP 

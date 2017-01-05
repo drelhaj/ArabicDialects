@@ -1,0 +1,1 @@
+وبلاش/NN نشتم/VBP ونقل/NN الادب/DTNN ./PUNC ./PUNC انت/PRP شايف/JJ فريقك/NN هياخد/NN الدوري/DTNN ./PUNC ./PUNC قول/NN انا/PRP عايز/VBD فريقي/NNS يكسب/VBP لكن/CC ماتقولش/VBG فريق/NN الخصم/DTNN هيخسر/NNP ./PUNC ./PUNC مش/NN دي/NN روح/NN الحب/DTNN اللي/WP بنتعلمها/NN من/IN الكورة/DTNNP يعني/VBP \//NN 

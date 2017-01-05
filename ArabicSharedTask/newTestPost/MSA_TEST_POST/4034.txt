@@ -1,0 +1,1 @@
+كأحد/NN أولياء/NN الأمور/DTNN فإني/NNP اعتبر/VBD هذا/DT القرار/DTNN صائباً/JJ جداً/JJ حيث/WRB لا/RP تبدأ/VBP الدراسة/DTNN فعلياً/DTJJ في/IN المدارس/DTNN إلا/VBD بعد/NN الأسبوع/DTNN الأول/DTJJ ،/VBD أي/NN أن/NN فترة/NN 12/CD يوم/NN لا/RP دوام/NN فيها/NN ./PUNC 

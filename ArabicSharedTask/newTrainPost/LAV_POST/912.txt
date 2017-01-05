@@ -1,0 +1,1 @@
+غدا/NN غدا/NN يوم/NN الاحتفال/DTNN الاخضر/DTJJ يوم/NN العرس/DTNN الاخضر/DTJJ يوم/NN البهجة/DTNN الاخضر/DTJJ يوم/NN التهاني/DTNN الاخضر/DTJJ يوم/NN المباراكات/DTNNS الاخضر/DTJJ يوم/NN التتويج/DTNN الاخضر/DTJJ يوم/NN المارد/DTNN الاخضر/DTJJ ويا/NN وحدات/NNS هيجي/NNP هيجي/NNP خلي/NN القووووووووول/DTNN الاول/ADJ يجي/VBP وانشاء/NNP الله/NNP العاشر/ADJ كمان/NN 

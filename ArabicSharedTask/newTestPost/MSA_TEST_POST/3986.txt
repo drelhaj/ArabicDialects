@@ -1,0 +1,1 @@
+بدأ/NNP المحترم/DTJJ هجوماً/NNP عنيفاً/NNP وبدأ/NNP بالكذب/NNP والصراخ/NNP .../PUNC ،/VBD ثم/CC في/IN المحاضرة/DTNN التالية/DTJJ هاجم/VBD الطلاب/DTNN وهددهم/NNP وبدأ/NNP يعاملهم/VBP بشكل/NN سلبي/JJ .../PUNC 

@@ -1,0 +1,1 @@
+احبك/VBD يازمالك/VBP واحب/NN كل/NOUN الى/IN يحبك/NNP ./PUNC ولما/NN اشوف/NN حد/NN يحبك/VBP ./PUNC يحلالى/VBP اجيب/NNP سيرتك/NNP وياه/NNP ./PUNC ./PUNC وعمرى/VBD ماشكى/NN من/IN حبك/NN مهما/JJ غرامك/JJ لوعنى/JJ ./PUNC ./PUNC لكن/CC اغير/VBP من/IN الى/IN يحبك/VBP ويصون/NN هواك/NNP اكتر/NNP منى/NNP ./PUNC ./PUNC اهداء/NN لى/VBD الزمالكاويه/DTNN احلى/JJR ناس/NN فى/IN الدنيا/DTNN 

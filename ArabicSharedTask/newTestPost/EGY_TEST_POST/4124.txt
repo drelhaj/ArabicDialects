@@ -1,0 +1,1 @@
+مثل/VBD هذه/DT التصريحات/DTNNS لمسئول/DTJJ في/IN الداخليه/DTNN مثل/NN فيلم/NN احمد/NNP زكي/NNP انا/PRP لا/RP اكذب/VBP و/CC لكني/VBP استعبط/NN اقصد/VBP اتجمل/NN ./PUNC اما/RP الي/IN صاحب/NN التعليق/DTNN رقم/NN 4/CD احب/VBP ابعتله/NNP فطير/NNP و/CC اقوله/NN خد/NN فطيرك/NNP ./PUNC 

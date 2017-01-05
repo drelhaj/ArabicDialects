@@ -1,0 +1,1 @@
+1/CD -RRB-/PUNC الزعيم/DTNN أخرج/NNP إنبي/NNP ورد/VBD الاعتبار/DTNN للوحدات/NNS وهاك/NN التاريخ/DTNN لتتأكد/NNP منه/NNP -LRB-/PUNC 28/11/2006/CD -RRB-/PUNC عد/NN لأرشيف/NN الغد/DTNN وسترى/NN صحة/NN كلامي/JJ كون/VBG أرشيف/NN الغد/DTNN به/NN كل/NOUN شيء/NN 

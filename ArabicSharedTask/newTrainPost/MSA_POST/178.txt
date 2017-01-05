@@ -1,0 +1,1 @@
+وبالنسبة/NN للأخ/NN فيصلاوي/NNP اصيل/JJ اقول/VBP له/NN ان/IN الحالة/DTNN المعنوية/DTJJ السيئة/DTJJ للاعبي/NNP الوحدات/NNP لا/RP ولن/VBD تؤثر/VBP على/IN مشاركتهم/NN مع/NN المنتخب/DTNN الوطني/DTJJ حيث/WRB ان/IN المشاركة/DTNN مع/NN المنتخب/DTNN حلم/NN وشرف/NN لأي/NN لاعب/NN في/IN الوحدات/DTNNS وسيبذلون/NNS كل/NOUN ما/WP بوسعهم/VBN لرفع/NN اسم/NN الأردن/DTNN عاليا/NN ./PUNC ./PUNC 

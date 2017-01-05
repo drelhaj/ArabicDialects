@@ -1,0 +1,1 @@
+عجبى/VBD على/IN حسام/NNP حسن/NNP لو/IN إنت/VBD بتناغس/NNP على/IN الدورى/DTNN كنت/VBD عملت/NN إيه/NNP -/PUNC ده/DT إنت/VBD بتنافس/NNP عل/NN المركز/DTNN التانى/DTJJ او/CC الثالث0/DTNN صحيح/JJ اللى/WP إختشو/VBD ماتو/VB ؟/PRP ؟/NN ؟/NN ؟/CD 

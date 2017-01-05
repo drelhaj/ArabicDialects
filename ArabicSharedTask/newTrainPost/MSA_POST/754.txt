@@ -1,0 +1,1 @@
+6/CD -RRB-/PUNC الزعيم/DTNN شارك/VBD عام/NN 2002/CD وخسر/NN 2-0/CD ذهابا/NN وكان/NN هو/PRP الطرف/DTNN الأفضل/DTJJ و1-0/NNP وليس/NNP 2-0/CD ونعم/NN خرجنا/NN في/IN ذاك/DT العام/DTNN من/IN دور/NN الثمانية/DTNN والوحدات/NNS خرج/VBD من/IN دور/NN الـ/DTNN -LRB-/PUNC 16/CD -RRB-/PUNC في/IN ذاك/DT العام/DTNN عل/VBP يد/NN باختكور/NNP 3-0/CD و3-1/CD 

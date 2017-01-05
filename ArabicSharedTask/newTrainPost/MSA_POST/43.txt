@@ -1,0 +1,1 @@
+على/IN اسرائيل/NNP ان/IN تعي/VBP متغيرات/NNS الوضع/DTNN وتحاول/NN الهروب/DTNN بجلدها/NN من/IN مصير/NN محتوم/JJ سوف/RP ياتي/VBP مع/NN الايام/DTNN والسنيين/DTJJ القادمة/DTJJ بكل/NN تاكيد/NN ./PUNC 

@@ -1,0 +1,1 @@
+وبعدين/NNS يا/RP سيف/NN ال/DT خطال/NN كل/NOUN منحكي/NN المياه/DTNN رجعت/VBD الى/IN مجاريها/NN -LRB-/PUNC بتخربها/NN -RRB-/PUNC وبنحكب/NN الصلح/NNP خير/NNP -LRB-/PUNC بتفجرها/NN -RRB-/PUNC وبنحكي/NNS احنا/NN اخوان/NN -LRB-/PUNC مش/NN عايز/NNP -RRB-/PUNC شومالك/NNP على/IN الوحدات/DTNNS 

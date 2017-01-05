@@ -1,0 +1,1 @@
+احسن/VBD علشان/NNP ياشباب/NNP ياهايف/NNP تحرموا/VBD تروحوا/NN .../PUNC .../PUNC ولو/VBD مكنتوش/NN عايزين/JJ تشاركوا/VBD مع/NN الشباب/DTNN الإيجابي/DTJJ النشط/DTJJ شباب/NNP 6ابريل/NNP .../PUNC علي/IN الأقل/DTNN اقعدوا/VBD في/IN البيت/DTNN وتفشلوا/VBD خظة/NN الحكومة/DTNN .../PUNC ربنا/NNP يهديكوا/NNP ./PUNC 

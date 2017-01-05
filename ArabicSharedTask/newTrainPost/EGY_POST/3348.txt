@@ -1,0 +1,1 @@
+اقول/VBP ايه/NN بس/NN ./PUNC ./PUNC مش/NN عايزنين/JJ نخرج/VBP عن/IN النص/DTNN فى/IN الكلام/DTNN 

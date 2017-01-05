@@ -1,0 +1,1 @@
+يا/RP خسارة/NN هسى/VBD فقرنا/NNP في/IN الاردن/DTNNP سببه/NNP غزه/NNP ولكم/NN ملايين/NN المصفاه/DTNN لوحدها/NN ما/WP بتخلي/VBD عندنا/NN فقير/JJ لكن/VBP حسبي/NNP الله/NNP على/IN من/IN لايقول/NNP كلمة/NN الحق/DTNN -LRB-/PUNC -LRB-/PUNC -LRB-/PUNC يا/RP أخي/NN قل/VBD خيرا/NN أو/NNP فصمت/NNP -RRB-/PUNC -RRB-/PUNC -RRB-/PUNC 

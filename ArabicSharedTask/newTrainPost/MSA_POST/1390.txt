@@ -1,0 +1,1 @@
+اما/RP دفاع/NN الفيصلي/DTNNP فاعتقد/NNP ان/IN مشكلته/NN اكبر/JJR من/IN غياب/NN حاتم/NNP و/CC منير/NNP هناك/RB مشكلة/NN في/IN الفيصلي/DTNNP بشكل/NNP عام/NN و/CC المشكلة/DTNN الاكبر/DTJJR تكمن/VBP في/IN عدم/NN الجدية/DTNN ./PUNC 

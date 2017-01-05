@@ -1,0 +1,1 @@
+انا/PRP روحت/VBD المسرحية/DTNN يوم/NN الخميس/DTNN واول/NNP مره/NNP اروح/NNP مسرحية/NN بس/NN انا/PRP لقيت/VBD المسرحية/DTNN جميلة/JJ جدا/NN وفهمت/NN قصة/NN المسرحية/DTNN وهدفها/NN ومعمولة/NN بشكل/NN كوميدى/NNP خفيف/NNP شجعتنى/NNP انى/VBD اروح/NN مسرحيات/NNS بعد/NN كده/NNP 

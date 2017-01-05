@@ -1,0 +1,1 @@
+ولاالمراجيح/NNP اللي/WP في/IN الدحله/DTNN هذي/DT مراجيح/NN روضه/NN وش/NN تحسون/VBP فيه/NNP أنتم/NNP -LRB-/PUNC جيبو/NNP اخبار/NN مهنيه/NNP -RRB-/PUNC -RRB-/PUNC 

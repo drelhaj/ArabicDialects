@@ -1,0 +1,1 @@
+سؤال/NN بري/JJ لو/IN قلنا/VBD كل/NOUN كميره/NN تحتاج/VBP سيارة/NN والسيارة/NN ب/IN 70/CD الف/CD والكميرات/NN نفرض/VBP بس/NN في/IN الرياض/DTNNP 100/CD كميرا/NN يعني/VBP عندنا/NN 7/CD مليون/CD ريال/NN فقط/RB قيمة/NN سيارات/NNS مالها/NN فائده/JJ الا/RP ان/IN الكميرا/DTNN من/IN العصر/DTNN الحجري/DTJJ كبر/VBD قريح/NN وتحتاج/NN شاحنة/NN لكي/NNP تحملها/NN والله/NN حالة/NN 

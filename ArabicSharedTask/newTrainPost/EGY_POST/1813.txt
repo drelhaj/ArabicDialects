@@ -1,0 +1,1 @@
+الاسماعيلى/DTNN لسه/NNP طالب/NNP تاجيل/NN ماتش/NNP المحلة/DTNNP وطبعا/NN اترفض/VBP لانه/NN ممكن/JJ يكون/VBP بيمثل/NN بلد/NN غير/NN مصر/NNP مثلا/NN اما/CC طلب/NN الاهلى/DTNN اكيد/JJ هيتقبل/NNP على/IN اساس/NN انه/NN فريق/NN مصرى/NN بيمثل/NNP بلده/NNP واضحك/NNP لانك/NNP اكيد/JJ فى/IN مصر/NNP ./PUNC 

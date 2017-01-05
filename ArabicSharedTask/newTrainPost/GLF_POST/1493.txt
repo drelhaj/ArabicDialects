@@ -1,0 +1,1 @@
+قال/VBD ايه/NN قال/VBD بلال/NNP النصر/DTNNP اقول/VBP بلا/NNP نصر/NNP نصر/NNP بلا/NNP هم/PRP هذا/DT المفروض/DTNN يلعب/VBP مع/NN فرق/NN الدجه/DTNN الثالثه/DTJJ يحط/VBP راسه/NN براس/NNP نادي/NN القرن/DTNN وزعيييم/NN الفرق/DTNN الاسيويه/DTJJ غصن/NNP عن/IN الراضي/DTNN والزعلان/NNP يافريق/NNP البيانات/DTNNS ./PUNC ./PUNC 

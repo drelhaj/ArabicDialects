@@ -1,0 +1,1 @@
+بجد/NNP انا/NNP حزين/NNP من/IN كل/NOUN قلبي/NNS على/IN لاعب/NN بحجم/NN ميدو/NNP ياما/NNP شرف/NN مصر/NNP في/IN جميع/NOUN الاندية/DTNN الي/IN مايفكرش/NN لاعب/NN في/IN مصر/NNP انه/VBD يحلم/VBP بيها/NN ./PUNC يارب/VBP يرجع/VBP لمستواه/NNP ويبطل/NNP غروووووووووور/NNP 

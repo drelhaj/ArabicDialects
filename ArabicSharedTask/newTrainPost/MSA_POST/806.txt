@@ -1,0 +1,1 @@
+الموضوع/DTNN طبي/JJ بحت/JJ ./PUNC ./PUNC الاطباء/DTNN اكثر/JJR الناس/DTNN معرفة/NN بالاجنة/NN وتشوهاتها/NN ومن/NN يمكنه/VBP العيش/DTNN من/IN هذه/DT التشوهات/DTNNS ومن/NN لا/RP يمكنه/VBP ،/NN ومن/NN يشكل/VBP ولادته/NN معانه/NN له/NN ولاهله/NN ومن/NN يعتبر/VBN تشوهه/NN امرا/NN يمكن/VBP تجاوزه/NN او/CC تصحيحه/NN 

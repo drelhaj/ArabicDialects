@@ -1,0 +1,1 @@
+وييين/NNS ياحبيبي/JJ يدور/VBP لاعبين/NNS هذا/DT اذا/IN فيه/VBD في/IN الخزنة/DTNN غير/NN الغبار/DTNN ./PUNC ./PUNC سددوا/VBD الفلوس/DTNN حق/NN نادي/NN الرياض/DTNNP وحق/NN السهلاوي/DTNNP بعددين/NNP فكروا/VB بلاعبين/NNS جدد/JJ ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+تونس/NNP بلف/NNP مره/NNP ولله/NNP عايشين/NNP في/IN شارع/NN و/CC فارشين/NNS كردونا/NN من/IN الكل/NOUN فيها/NN الزوالي/DTNN و/CC الغني/DTJJ حتى/IN سعودية/JJ فيها/NN ناس/NN افقر/JJR 

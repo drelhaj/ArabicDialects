@@ -1,0 +1,1 @@
+4/CD ./PUNC ضرورة/NN البدء/DTNN بالدوري/NNP الرديف/DTNNP في/IN هذا/DT الموسم/DTNN لابقاء/NN المنافسة/DTNN حتى/IN بين/NN لاعبي/NNS النادي/DTNN الواحد/DTJJ مما/NN ينعكس/VBP ايجابا/NN على/IN المنتخب/DTNN 

@@ -1,0 +1,1 @@
+فلقد/NNP ناقشنا/VBD كثيرا/NN هذه/DT النقطة/DTNN وراينا/NN كيف/WRB ان/IN فريق/NN الوحدات/DTNNS وادارته/NNP وجماهيره/NNP احتفلو/NNP باللقب/NNP قبل/NN مباراتهم/JJ مع/NN شباب/NN الاردن/DTNNP متناسين/VN بان/NNP فريق/NN الشباب/DTNN فريق/NN عنيد/NN ولا/NN يستهان/VBN به/NN وانه/NNP يستطيع/VBP تجيير/NN الفوز/DTNN لمصلحته/NN اذا/IN شاء/VBD 

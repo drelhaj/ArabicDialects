@@ -1,0 +1,1 @@
+انت/PRP مابتكلمش/NN ناس/NN جهله/NN ده/DT معروف/JJ عن/IN الجامعات/DTNNS الخاصه/DTJJ الانحلال/DTNN ./PUNC ./PUNC الا/IN من/WP رحم/NN ربي/NNP ./PUNC ./PUNC 

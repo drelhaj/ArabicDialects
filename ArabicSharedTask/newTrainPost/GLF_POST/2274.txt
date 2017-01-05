@@ -1,0 +1,1 @@
+تقاطعات/NNS كبيرة/JJ بدون/IN علامة/NN قف/NN ./PUNC ماتدري/NNP الخط/DTNN لك/NN ولا/NN لغيرك/NNP ./PUNC ./PUNC 

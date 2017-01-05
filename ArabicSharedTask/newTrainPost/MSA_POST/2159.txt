@@ -1,0 +1,1 @@
+حسين/NNP \//VBD هزاع/NN \//NN المجالي/DTNNP ./PUNC 

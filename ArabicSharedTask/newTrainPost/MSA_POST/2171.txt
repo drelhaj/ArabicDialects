@@ -1,0 +1,1 @@
+سبب/NN هذا/DT التفكير/DTNN جهل/NN المجتمع/DTNN بالفرق/JJ بين/NN الامراض/DTNN الوراثيه/DTJJ وغيرها/NN .../PUNC وأن/NN قدرة/NN الله/NNP تفوق/VBP كل/NOUN شيْ/NN فهناك/NN العديد/DTNN من/IN الاصحاء/DTJJ يتزوجون/VBP وينجبون/NNS أشخاص/NN لديهم/NN إعاقات/NNS .../PUNC 

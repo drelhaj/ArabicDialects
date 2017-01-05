@@ -1,0 +1,1 @@
+مش/NN عارف/NNP لية/NNP سؤال/NN مهم/JJ وسهل/NN الاجابة/DTNN .../PUNC وهو/VBD ربنا/NN ضعيف/JJ علشان/JJ يصعب/VBP علينا/NN وندافع/NN احنا/NN علية/NN وعلى/NN دينة/NN طبعا/NN قصدى/NNP بالدين/NNP اى/NOUN دين/NN لاى/VBD حد/NN بيدافع/NN عن/IN دينة/NN ./PUNC 

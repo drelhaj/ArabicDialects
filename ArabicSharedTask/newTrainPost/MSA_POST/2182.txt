@@ -1,0 +1,1 @@
+./PUNC ./PUNC اما/RP خروج/NN القطب/DTNN الثاني/ADJ للكرة/NN الاردنيه/DTNN الشباب/DTJJ ذللك/VBD لتخبط/NN مستوى/NN الشباب/DTNN هذا/DT الموسم/DTNN ولكن/NN يحسب/VBP لهذا/NN الفريق/DTNN بانه/NNP ازاح/VBD احد/NN القطبين/DTNNS واحتل/NNP مكانه/NNP ذللك/NNP بعد/NN ان/IN حقق/VBD انتصارات/NNS متتاليه/JJ على/IN الفيصلي/DTNNP في/IN المواسم/DTNN الاخيرة/DTJJ حاله/NN كحال/NN المارد/DTNN ./PUNC 

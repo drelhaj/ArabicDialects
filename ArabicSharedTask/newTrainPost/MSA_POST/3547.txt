@@ -1,0 +1,1 @@
+الوحدات/DTNNS المارد/DTJJ الاخضر/DTJJ الوعيم/DTNN الامبراطور/DTNN العميد/DTNN سيتزين/NNP بعد/NN ايام/NN بكأس/NN الاردن/DTNNP فهو/NNP يعشق/VBP هذا/DT الكأس/DTNN لاسمه/NNP الكبير/DTJJ -LRB-/PUNC كأس/NN الاردن/DTNNP -RRB-/PUNC 

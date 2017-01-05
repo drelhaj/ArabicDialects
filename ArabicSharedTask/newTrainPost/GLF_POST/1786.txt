@@ -1,0 +1,1 @@
+-LRB-/PUNC يالله/NNP لقيت/VBD مكان/NN للطيارة/NN ياأبوهليل/NNP ./PUNC ./PUNC ههه/NNP -RRB-/PUNC 

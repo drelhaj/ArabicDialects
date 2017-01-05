@@ -1,0 +1,1 @@
+يا/RP مراقب/NN ما/WP تنسى/VBP ضرايب/NN الزايدة/DTNN عالترخيص/NN والتأمين/NNS عالسيارات/NNS ./PUNC انا/PRP بقول/NN نرجع/VBP نربي/NNP بقر/NNP وحمير/NNP ونرجع/NNP عالخيل/NNP ومع/NN هيك/NNP ما/WP رح/VBD نسلم/VBP ./PUNC 

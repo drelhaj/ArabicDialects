@@ -1,0 +1,1 @@
+هذاالتقرير/NNP كلمه/NNP حق/NN يراد/VBN بها/NN باطل/JJ تحرير/NN هذه/DT الدول/DTNN من/IN الضغوطات/DTNNS التي/WP تلزمهم/VBP بتقديم/NN المساعدات/DTNNS النفطيه/DTJJ للاردن/NNP ./PUNC بالاضافه/NNP لان/NNP هذا/DT الموضوع/DTNN يبدو/VBP انه/NN يشكل/VBP لهم/NN فيض/NN من/IN غيض/NN لافتقاره/NNP للشفافيه/NNP والصراحه/NNP والتكتم/NNP الدائم/DTJJ 

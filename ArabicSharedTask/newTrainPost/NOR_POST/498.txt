@@ -1,0 +1,1 @@
+تونس/NNP أو/NNP الجزائر/DTNNP أو/VBD المغرب/DTNNP لاخترت/VBD التونسي/DTNN لانه/NNP يحترم/VBP هذا/DT من/IN من/WP د/NN بنات/NNS الجزائر/DTNNP والمغرب/NNP قالوا/VBD لي/NNP لو/IN ياتيني/NNP رجل/NN 

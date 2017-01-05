@@ -1,0 +1,1 @@
+لما/NNP تقول/VBP نادي/NN الوحدات/DTNNP .../PUNC حط/VBD ايدك/NNP على/IN راسك/NNP شجع/VBD و/CC اهتف/VBD بالعالي/NNP يلااااا/NNP ارفع/VBP كأسك/NNP .../PUNC حب/NN الوحدات/DTNNS للممات/NNS 

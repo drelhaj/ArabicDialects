@@ -1,0 +1,1 @@
+ذ/VBD صاحب/NN اول/ADJ صحيفه/NN رياضيه/NNP في/IN الاردن/DTNNP ,/PUNC عام/NN 53/CD ./PUNC 

@@ -1,0 +1,1 @@
+فقد/VBD تسال/VBP عزيزي/NNP المحرر/DTJJ لماذا/WRB العتب/DTNN :/PUNC العتب/DTNN لانك/NNP تقول/VBP ان/IN المعلمون/DTNNS يثمنون/VBP العلاوة/DTNN ,/PUNC فلو/NNP كان/VBD الكلام/DTNN صحيحا/JJ لما/IN استمر/VBD الاضراب/DTNN الى/IN غد/NN وبعدة/NN ولما/NN كان/VBD استئجر/VBD معلمو/NN جرش/NN صيوان/NN وكراسي/NNP للجلوس/NNP عليها/NN ./PUNC 

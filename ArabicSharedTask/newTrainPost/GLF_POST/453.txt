@@ -1,0 +1,1 @@
+بعدين/NNP صار/VBD الفقر/DTNN شماعه/NNP مع/NN العلم/DTNN بأن/NNP بلدنا/NNP يأتيها/NN أجهل/NN الناس/DTNN وأغباهم/NN ويعمل/NN ويكسب/NN المال/DTNN لماذا/WRB نستسلم/VBP في/IN كل/NOUN مطب/NN صغير/JJ ,/PUNC مثال/NN الأحساء/DTNN فيها/NN مزارع/NN وقريبه/NNP من/IN الساحل/DTNN يعني/VBP الأف/NN الوظائف/DTNN الي/IN ماتحتاج/NN واسطه/NN على/IN قولهم/NN !/PUNC 

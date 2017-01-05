@@ -1,0 +1,1 @@
+بس/NN عشان/NNP حكومتنا/NNP الرشيده/DTNNP ما/WP تنزل/VBP الاسعار/DTNN الشهر/DTNN الجاي/DTJJ رفعت/VBD السعر/DTNN اليوم/DTNN وبتحملنا/VBD جميله/NN الشهر/DTNN الجاي/DTJJ وبتنزل/NN السعر/DTNN شوي/NNP بديش/NNP اكمل/VBD .../PUNC شغل/NN تجار/NN عند/NN التنزيلات/DTNNS 

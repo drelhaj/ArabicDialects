@@ -1,0 +1,1 @@
+طيب/NNP بم/NNP يامرتضى/NNP ./PUNC ./PUNC حنشوف/NN حتعمل/NN إيه/NN ؟/NN !/PUNC 

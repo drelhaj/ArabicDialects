@@ -1,0 +1,1 @@
+لا/RP تزال/VBP الدنيا/DTNN بخير/NN فقد/VBD اصبري/NNP واحتسبي/NNP -LRB-/PUNC قال/VBD صلى/VBD الله/NNP عليه/NNP وسلم/NN من/IN كان/VBD يؤمن/VBP بالله/NN واليوم/NN الآخر/DTNN فليقل/NNP خيراً/NNP أو/NNP ليصمت/NNP -RRB-/PUNC ./PUNC 

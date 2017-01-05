@@ -1,0 +1,1 @@
+يعني/VBP بعدين/NNP كل/NOUN شوي/NNP ضرائب/NN و/CC ما/WP بعرف/VBD شو/NNP .../PUNC الحمد/NN لله/NN أني/NN مو/NNP عايش/NNP بالاردن/NNP :/PUNC -RRB-/PUNC :/PUNC -RRB-/PUNC طيب/NNP شو/NNP راح/NN تستفيدو/VBP من/IN هاي/NN الخدمات/DTNNS ارحمونا/NNP 

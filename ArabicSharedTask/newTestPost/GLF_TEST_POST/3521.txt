@@ -1,0 +1,1 @@
+ياجماعة/VBP كيف/WRB اعضاء/NN شرف/NN النصر/DTNNP يهاجمون/VBP الحكم/DTNN خليل/NNP جلال/NNP ويدافعون/NNP عنه/NNP ضد/NN سامي/NNP انا/PRP مااستوعبت/NN التناقض/DTNN فيه/NNP احد/NN شاطر/NNP يشرحلي/NNP ./PUNC 

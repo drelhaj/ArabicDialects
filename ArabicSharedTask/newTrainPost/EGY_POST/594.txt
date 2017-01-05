@@ -1,0 +1,1 @@
+.../PUNC ./PUNC ./PUNC مهما/WP طال/VBD العمر/DTNN فلابد/NN من/IN النهاية/DTNN اى/NOUN الموت/DTNN .../PUNC وهناك/NNP ف/RP القبر/DTNN الجدع/DTNN بفتى/NNP ويقول/NNP كنت/VBD بعمل/NN الادوار/DTNN دى/VBD خدمة/NN للدور/NNP ف/CC الفيلم/DTNN .../PUNC الجدع/DTNN ينطق/VBP بكده/NNP .../PUNC قل/VBD ماشئت/NN ف/NN الدنيا/DTNN 

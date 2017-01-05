@@ -1,0 +1,1 @@
+شو/NNP بدي/NN اقول/VBP يعني/VBP ./PUNC ./PUNC إشي/NNP بقـرّف/NNP !!/VBD يعني/VBP استصعبت/NN لحتى/NNP عرفت/VBD أكبس/NN على/IN الخبر/DTNN و/CC أقرأه/NN من/IN كثر/NN ما/WP قشعر/VBD بدني/NNP لما/NNP قرأت/VBD العنوان/DTNN !!!/CD 

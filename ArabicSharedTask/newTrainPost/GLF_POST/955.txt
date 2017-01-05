@@ -1,0 +1,1 @@
+وبعد/NN المباراة/DTNN يصرح/VBP رئيسهم/NN ولا/NNP الثاني/DTNNP -LRB-/PUNC حصان/NN ابليس/NNP -RRB-/PUNC ويقولون/NNP ان/IN الحكم/DTNN مع/NN الهلال/DTNNP عشان/NNP لونه/NNP نفس/NN لون/NN المنتخب/DTNN الإيطالي/DTJJ .../PUNC والحمد/NNP لله/NNP على/IN نعمة/NN العقل/DTNN 

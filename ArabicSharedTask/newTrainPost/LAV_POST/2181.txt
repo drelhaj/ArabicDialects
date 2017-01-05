@@ -1,0 +1,1 @@
+طيب/NNP اجا/VBD وصار/NN يشحط/VBP بالسياره/NNP ويزعج/NNP اصلا/NN ما/WP في/IN داعي/NN انك/VBD تروح/VBP تحكي/VBP معو/NN لانه/NNP اولا/ADJ هو/PRP في/IN الشارع/DTNN وليس/NNP في/IN بيتك/NNP 

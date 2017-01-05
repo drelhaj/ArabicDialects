@@ -1,0 +1,1 @@
+قال/VBD النبي/DTNN محمد/NNP بن/NNP عبد/NNP الله/NNP صلى/VBD الله/NNP عليه/NNP وسلم/NNP -LRB-/PUNC إن/NNP الله/NNP يحب/NN العطاس/DTNN ويكره/NNP التثاؤب/DTNN فإذا/NNP تثاءب/NNP أحدكم/NNP فليرده/NNP ما/WP استطاع/VBD ولا/NN يقل/VBP هاه/NN هاه/NNP فإنما/NNP ذلكم/NN من/IN الشيطان/DTNN يضحك/VBP منه/NNP -RRB-/PUNC -LRB-/PUNC 1/CD -RRB-/PUNC 

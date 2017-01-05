@@ -1,0 +1,1 @@
+بالسلامة/NNP للاعبي/NNP الزعيم/DTNN ./PUNC ./PUNC عبدالهادي/NNP المحارمة/DTNNP وزين/NN الخوالدة/DTNN بعد/NN الاصابة/DTNN التي/WP تعرضا/VBD لها/NN مؤخرا/JJ ./PUNC ./PUNC بس/NN انا/PRP مستغرب/JJ من/IN عبدالهادي/NNP كيف/WRB وقع/VBD مع/NN انو/NN صاحب/NN لياقة/NN بدنية/JJ عالية/JJ !!/VBD بس/NN سلامات/NNS يا/RP ابو/NNP العبد/DTNNP وما/NN تشوف/NN شر/NN 

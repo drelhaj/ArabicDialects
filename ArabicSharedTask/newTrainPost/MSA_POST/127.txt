@@ -1,0 +1,1 @@
+خطوه/NN ممتازه/JJ من/IN ادارة/NN النادي/DTNN الفيصلي/DTNNP وجماهيره/NNP في/IN مؤازرة/NN نادي/NN الشباب/DTNNP واتمنى/NNP ان/IN تعمل/VBP ادارة/NN الناديين/DTNNS الشقيقين/DTJJ الفيصلي/DTNNP وشباب/NN الاردن/DTNNP على/IN زيادة/NN التنسيق/DTNN الفعلي/DTJJ بينهما/NNP وان/NNP تكون/VBP العلاقات/DTNNS بين/NN الناديين/DTNNS علاقات/NNS احترام/NN متبادل/JJ ./PUNC 

@@ -1,0 +1,1 @@
+ياعم/VBP حسام/NNP انت/PRP واخوك/JJ حتخربوها/NN انت/PRP مش/NN ممكن/JJ تكون/VBP مدرب/NN انت/PRP واخوك/NNP يكفى/VBP انكم/NN نقلتم/NN العصبية/DTNN لصغار/NN اللاعبين/DTNNS ولعلمك/NN انت/PRP لو/IN رجعت/VBD للمباريات/NNS التى/WP فزت/VBD فيها/NN ولو/NNP كنت/VBD منصف/JJ حتعرف/NN اين/WRB موقعك/VN من/IN المدربين/DTNNS الفاهمين/DTJJ 

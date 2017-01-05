@@ -1,0 +1,1 @@
+اهلا/NN وسهلا/NN بالضيوف/NNP الكرام/DTJJ من/IN الكويت/DTNNP في/IN بلد/NN جلالة/NN الملك/DTNN عبد/NNP الله/NNP الثاني/DTNNP ./PUNC 

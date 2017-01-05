@@ -1,0 +1,1 @@
+مبارك/NNP لنشامى/VBD المنتخب/DTNN الأولومبي/DTJJ ./PUNC ./PUNC وبالتوفيق/NN إن/NN شاء/VBD الله/NNP ببطولة/NN الشرطة/DTNN العرب/DTJJ غداً/NNP .../PUNC 

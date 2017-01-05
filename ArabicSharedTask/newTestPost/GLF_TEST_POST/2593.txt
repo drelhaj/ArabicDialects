@@ -1,0 +1,1 @@
+-LRB-/PUNC وش/NN رأيك/NNP تعتزل/VBP نهاية/NN الموسم/DTNN احتراماً/NN لتاريخك/NNP الكبير/DTJJ -RRB-/PUNC 

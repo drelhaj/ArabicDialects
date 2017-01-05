@@ -1,0 +1,1 @@
+بس/NN كل/NOUN الحكايه/DTNN ./PUNC ./PUNC مشغولين/NNS دراسه/NN وعمل/NN !/PUNC 

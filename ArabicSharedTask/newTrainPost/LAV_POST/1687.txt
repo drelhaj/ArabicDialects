@@ -1,0 +1,1 @@
+شو/NNP ذنب/NN الناس/DTNN الي/IN بدها/NN تسافر/NN تروح/VBP علي/IN المطار/DTNN و/CC اخر/NN اشي/NN ترجع/VBP متل/NN ما/WP راحت/VBD عنجد/NN مافي/JJ دين/NN عند/NN الناس/DTNN الي/IN بتعمل/NN هيك/NNP بل/CC العالم/DTNN 

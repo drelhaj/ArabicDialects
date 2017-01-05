@@ -1,0 +1,1 @@
+ذ/VBD اول/ADJ نادي/NN اردني/JJ يرفع/VBP بطولة/NN الدوري/DTNN العام/DTJJ 44/CD ,/PUNC وبطولة/NN كاس/NN الاردن/DTNNP ,/PUNC وبطوله/NN كاس/NN الكوؤس/DTNNP 80/CD ./PUNC 

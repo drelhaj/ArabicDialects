@@ -1,0 +1,1 @@
+وتؤكد/NN منظمة/NN الصحة/DTNN أن/VBD عدد/NN حالات/NNS الانتحار/DTNN في/IN العالم/DTNN ارتفعت/VBD منذ/IN عام/NN 1955/CD بمقدار/NN 60/CD بالمائة/NN وان/NNP هذا/DT الأسلوب/DTNN في/IN مغادرة/NN الحياة/DTNN يعتبر/VBN الثالث/ADJ الأكثر/DTNN استخداما/NN من/IN قبل/NN الناس/DTNN الذين/WP تتراوح/VBP أعمارهم/NN بين/NN 15ــ/CD 44/CD عاما/NN ./PUNC 

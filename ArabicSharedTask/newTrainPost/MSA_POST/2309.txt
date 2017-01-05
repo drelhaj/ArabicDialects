@@ -1,0 +1,1 @@
+يجب/VBP ان/IN يكون/VBP الرد/DTNN بالمثل/NNP ؟/NNP ؟/VBD فكم/NN برلمان/NN في/IN الدول/DTNN العربية/DTJJ وما/NN الذي/WP يمنع/VBP هذه/DT البرلمانات/DTNNS وفوقهم/NN الجامعة/DTNN العربية/DTJJ من/IN مناقشة/NN موضوع/NN اقامة/NN الدولة/DTNN الفلسطينة/NN في/IN تل/NNP ابيب/NNP او/CC القدس/DTNNP وذلك/NN حتى/IN يكون/VBP الرد/DTNN بالمثل/JJ ./PUNC 

@@ -1,0 +1,1 @@
+ليه/NNP مبنطلعش/NNP نجوم/NN ليه/NNP بندعم/NNP الغرب/DTNN ونكبرهم/NNP ونسحق/NNP ولادنا/NNP !/PUNC 

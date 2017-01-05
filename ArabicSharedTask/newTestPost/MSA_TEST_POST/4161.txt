@@ -1,0 +1,1 @@
+اود/VBP الاعتذار/DTNN اولا/ADJ على/IN العنوان/DTNN الضعيف/DTJJ الذي/WP اخترت/VBD التعليق/DTNN به/NNP الا/RP ان/IN هذا/DT المقال/DTNN ينم/VBP عن/IN ضعف/NN السياسه/DTNN الائتمانيه/DTJJ لدى/NN البنوك/DTNN ./PUNC 

@@ -1,0 +1,1 @@
+كلام/NN في/IN محله/NN وكل/NN شي/NNP حكاه/NNP الاخ/DTNN ابوشادي/NNP كلام/NN واقعي/JJ ./PUNC 

@@ -1,0 +1,1 @@
+للاسف/VBD ياسامي/NNP اعتذارك/NNP مايفيد/NNP يعني/VBP الحين/DTNN تحاول/VBP ترقعها/NN انت/PRP تجاوزت/VBD حدودك/NN وفي/JJ اكثر/JJR من/IN مباراة/NN تعترض/VBP على/IN قرارات/NNS الحكام/DTNN وتدخل/NN الملعب/DTNN ولا/NN احد/NN هامك/NNP وعلى/NNP ايش/NNP ماادري/NNP ./PUNC ./PUNC 

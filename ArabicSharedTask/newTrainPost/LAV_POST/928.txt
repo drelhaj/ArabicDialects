@@ -1,0 +1,1 @@
+ازا/NNP -LRB-/PUNC كيمبا/NNP -RRB-/PUNC دخلت/VBD بالغلط/NNP غسالة/NN ونجت/NN فلا/NN تنسوا/VBD انه/NNP بمجزرة/NNP -LRB-/PUNC صبرا/NNP وشاتيلا/NNP -RRB-/PUNC كانوا/VBD اليهود/DTNN يحملوا/VBP الاطفال/DTNN الفلسطينين/NN ويرموهم/NNP بأفران/NNP المخابز/DTNN وهي/NNP مولعة/NN نار/NN وامام/NN عيون/NN اهاليهم/NN .../PUNC وما/NN كانوا/VBD ينجوا/VBP !!!/NN وما/NN حدا/NN حكى/NN !!!/CD 

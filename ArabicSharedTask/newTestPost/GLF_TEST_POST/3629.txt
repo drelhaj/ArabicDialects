@@ -1,0 +1,1 @@
+./PUNC ./PUNC وأبوخ/NN ما/WP فى/IN الأتنين/DTNNS هوا/NN -LRB-/PUNC الأصوات/DTNNS -RRB-/PUNC إللى/VBD تجيب/VBP التخلف/DTNN لعيالنا/NN 

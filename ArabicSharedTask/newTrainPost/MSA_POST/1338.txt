@@ -1,0 +1,1 @@
+1/CD -/PUNC نشر/NN الموضوع/DTNN على/IN صفحات/NNS الجريدة/DTNN و/CC ذكر/VBD أن/NN المسؤول/DTNN لم/RP يقم/VBP بالإجابة/NN عن/IN الأسئلة/DTNN التالية/DTJJ -LRB-/PUNC و/CC يتم/VBP أيرادها/NN -RRB-/PUNC 

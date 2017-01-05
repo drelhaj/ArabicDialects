@@ -1,0 +1,1 @@
+انشالله/NN الكل/NOUN بيرجع/NN وبرقبتو/NNP ميداليه/NNP ارفعو/NNP راس/NN الاردن/DTNNP ./PUNC يابشار/VBP ما/WP بنقبل/VBD عليك/NN غير/NN الدهب/DTNN يابطل/NNP الله/NNP يحميك/VBP 

@@ -1,0 +1,1 @@
+الله/NNP يسامحه/VBP والدك/NN لأنه/NNP دمرك/NNP قدام/NN ملايين/NN الجماهير/DTNN الي/IN كانت/VBD بدها/NN تعطيك/VBP لقب/NN يليق/VBP باسمك/NN مثلك/JJ مثل/NN كل/NOUN نجوم/NN الوحدات/DTNNS الي/IN عندهم/NN -LRB-/PUNC انتماء/NN -RRB-/PUNC 

@@ -1,0 +1,1 @@
+مافي/NNP حد/NN ببني/NNP بيت/NNP وبسكن/NNP فيه/NNP من/IN دون/NN مايسأل/NN عن/IN الأرض/DTNN الي/IN حيبني/NN عليها/NN والا/NN راح/NN يحط/VBP حالو/NNP بموقف/NNP انويونذر/NNP لإخلاء/NN منزله/NN المقام/DTNN على/IN أراضي/NNS مملوكه/JJ من/IN قبل/NN الغير/DTNN ./PUNC ./PUNC 

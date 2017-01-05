@@ -1,0 +1,1 @@
+ولا/VBD هالحين/NNP سامي/NNP مصيره/NN مصير/NN صالح/NN النعيمه/DTNN ^/CD _/PUNC ^/CD 

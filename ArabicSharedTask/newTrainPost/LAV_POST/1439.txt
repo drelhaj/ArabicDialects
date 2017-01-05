@@ -1,0 +1,1 @@
+واللة/NN مو/NNP عارف/NNP المواطن/DTNN الاردني/DTJJ كيف/WRB بشرب/VBP هالمية/NN ما/NN واحد/JJ فكر/NN يحطها/VBP على/IN شريحة/NN مجهر/NN واللة/NN العظيم/DTNNP ليخاف/NNP يطل/VBP فيها/NN من/IN كثر/NN الوحوش/DTNN الموجودة/DTJJ فيها/NN .../PUNC خلينا/NN على/IN الكولر/DTNN بظل/NN اشوى/NN شوية/JJ من/IN هالمية/NN الي/IN درجة/NN ملوحتها/NN تصل/VBP الى550/DTNN 

@@ -1,0 +1,1 @@
+يااخ/VBP حسام/NNP سلامه/NNP سوف/RP تتأهل/VBP الاردن/DTNNP الى/IN ما/WP هو/PRP ابعد/JJR من/IN الدور/DTNN الثاني/ADJ لأن/NN اليابان/DTNNP والسعوديه/NNP ليسوا/VBD بالبرازيل/NNP او/CC الارجنتيين/NN فالقادم/JJ من/IN مباريات/NNS استعداديه/NN وبطولة/NN غرب/NN اسيا/NNP كافي/NNP لذلك/NNP ./PUNC 

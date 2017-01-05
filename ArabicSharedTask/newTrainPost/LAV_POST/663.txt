@@ -1,0 +1,1 @@
+يا/RP اخي/NN خوثتنا/VBD بجبر/NNP الخواطر/DTNN ,/PUNC ,/PUNC ,/PUNC ,/PUNC ,/PUNC مش/NN عارف/NNP شو/NNP بتحاول/NNP توصلنا/VBD ,/PUNC ,/PUNC ,/PUNC بدك/VBD تفرض/VBP تسميه/NN جديده/NN لبطولة/NN الكاس/DTNN واللا/NN شو/NNP ./PUNC 

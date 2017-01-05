@@ -1,0 +1,1 @@
+و/CC قبل/NN ما/WP تنهي/VBP موضوع/NN التحوط/DTNN و/CC تقول/VBP انو/NN المعادله/DTNN ستكون/NNP شفافه/NNP ,/PUNC -LRB-/PUNC و/CC خلص/VBD من/IN اليوم/DTNN و/CC طالع/JJ قد/RP ما/RP يغلى/VBN بدنا/NN انغلي/JJ عليكم/JJ -RRB-/PUNC اخبرنا/VBD اين/WRB هي/PRP و/CC الى/IN اين/WRB ذهبت/VBD اموال/NN التحوط/DTNN المزعوم/DTJJ !!/NN 

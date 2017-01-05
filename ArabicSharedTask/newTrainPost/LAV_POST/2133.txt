@@ -1,0 +1,1 @@
+عمو/VBD أبو/NNP عبسي/NNP مستحيل/NN يقول/VBP لي/NNP هيك/NNP حكي/NNP ./PUNC ما/WP بيقول/VBD لي/NNP غير/NN أهلا/NN وسهلا/JJ يا/RP عمو/VBD وهاتو/NNP المناسف/DTNNP ./PUNC إذا/VBD إنت/NN متضايق/JJ من/IN تعليقاتنا/NN غمض/NN عيونك/NN أو/NN فشق/NN عنها/NN ./PUNC 

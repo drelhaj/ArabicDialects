@@ -1,0 +1,1 @@
+اكيد/JJ الموسم/DTNN هاد/NNP رح/NNP نوخد/NNP الفيصلي/DTNNP رايح/NNP جاي/NNP زي/NN كل/NOUN سنه/NN والحمدلله/NN انو/NN كاس/NN الكؤوس/DTNN مع/NN الفيصلي/DTNNP لانو/NNP هيك/NNP بيكون/NNP الوحدات/DTNNP ضمن/NN اول/ADJ بطوله/NN في/IN الموسم/DTNN ،/VBD لانها/NN لو/IN كانت/VBD مع/NN الطره/DTNN او/CC ذات/NN راس/NN بتكون/JJ اصعب/JJR 

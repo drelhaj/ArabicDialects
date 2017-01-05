@@ -1,0 +1,1 @@
+من/IN يوم/NN استلم/VBD السيد/DTNN بكر/NNP العدوان/DTNNP رئيس/NN النادي/DTNN الفيصلي/DTNNP وهوه/NNP مش/NN عارف/NNP شو/NNP بده/NNP مره/NNP يستغني/VBP عن/IN نجم/NN مثل/NN علي/IN صلاح/NNP ومره/NNP يجيب/VBP سموكوندا/NN وهاي/JJ المره/DTNN بده/NN يستغني/VBP عن/IN ثلاثه/NN نجوم/NN الله/NNP يرحم/VBP ايامك/NN يافيصلي/NNP 

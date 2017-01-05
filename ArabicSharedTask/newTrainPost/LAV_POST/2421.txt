@@ -1,0 +1,1 @@
+-/PUNC بعد/NN مازادولهم/NN العداد/DTNN بالليل/NNP ،/NNP لسه/NNP في/IN كثير/NN منهم/JJ بطالبوا/VBD بزيادة/NN فوق/NN العداد/DTNN ./PUNC ''/NN صارت/VBD معي/NN اكثر/JJR من/IN مرة/NN ،/NN مع/NN العلم/DTNN اني/NNP برفض/NNP ادفع/VBP ''/NN ./PUNC 

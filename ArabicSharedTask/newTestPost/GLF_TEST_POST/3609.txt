@@ -1,0 +1,1 @@
+هلابش/NNP وهلا/NNP باللي/NNP جنبش/NNP ./PUNC ./PUNC 

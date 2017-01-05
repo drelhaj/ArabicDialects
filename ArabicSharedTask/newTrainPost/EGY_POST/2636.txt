@@ -1,0 +1,1 @@
+ياريت/VBN بتوع/NN البوليس/DTNN يعرفوا/VBP ان/IN النظام/DTNN اللى/WP بيدافعوا/VBD عنة/NN مايستاهلش/NNP انهم/VBD يخسروا/VBP حب/NN شعبهم/NN وحب/NN اخواتهم/NN ليهم/NNP احسن/JJR بكدة/NN بالنسبة/NNP لهم/NNP -LRB-/PUNC تبقى/VBP الجنازة/DTNN حارة/NN والميت/NN .../PUNC .../PUNC -RRB-/PUNC 

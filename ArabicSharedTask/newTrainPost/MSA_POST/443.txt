@@ -1,0 +1,1 @@
+وتظهر/NN آخر/NN الأرقام/DTNN المتوفرة/DTJJ رسميا/NN ،/NN وتخص/NN العام/DTNN 2006/CD ،/NN أن/NN متوسط/JJ دخل/VBD الأسرة/DTNN السنوي/DTJJ على/IN مستوى/NN المملكة/DTNN يقدر/VBP بحوالي/NN 6220/CD سنويا/NN أي/NN 518/CD دينارا/NN شهريا/NN ،/NN فيما/IN يقدر/VBP دخل/NN الأسرة/DTNN السنوي/DTJJ على/IN مستوى/NN العاصمة/DTNN بـ/NN 7412/CD أي/NN 618/CD دينارا/NN شهريا/JJ ./PUNC 

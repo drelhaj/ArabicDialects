@@ -1,0 +1,1 @@
+يا/RP ترى/VBP السيد/DTNN أبو/NNP الغيط/DTNN هيسكت/NNP ؟/VBD عشرات/NNS المصريين/DTNNS اتقبض/VBP عليهم/NN في/IN خارج/NN مصر/NNP .../PUNC يا/RP ترى/VBP التهمة/DTNN الرسمية/DTJJ بتاعتهم/NNP اية/NNP بالظبط/NNP ؟/VBD وهل/NN الخارجية/DTNN هتسكت/NNP ؟/NNP 

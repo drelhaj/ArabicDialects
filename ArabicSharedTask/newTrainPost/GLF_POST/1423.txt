@@ -1,0 +1,1 @@
+يجي/VBP يشررح/VBP من/IN غير/NN نفسس/NN ./PUNC ./PUNC ولايبي/NNP احد/NN يقاطعه/NNP ./PUNC ./PUNC ولايفهمك/NNP زين/NNP ./PUNC ./PUNC ولا/NN يهتم/VBP فيك/NNP ./PUNC ./PUNC 

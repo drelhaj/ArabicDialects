@@ -1,0 +1,1 @@
+عموماا/NN انا/NNP راجل/NNP اهلاوي/NNP واتمني/NNP اشوف/NNP كرة/NN جميلة/JJ راقية/JJ حتي/IN لو/IN الاهلي/DTNNP اتغلب/JJ ./PUNC ./PUNC هبقي/NNP مبسوط/NNP عشان/NNP انا/PRP مش/NN غلاوي/JJ زي/NN ناس/NN .../PUNC همهم/NN الاهلي/DTNNP يتغلب/VBP ويبقو/NNP الاول/ADJ ./PUNC ./PUNC بس/NN ده/DT حلم/NN انتو/NNP لسه/NNP شوية/NNP عشان/NNP حتي/NNP تحلمووووووه/NNP 

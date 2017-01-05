@@ -1,0 +1,1 @@
+طيب/JJ قطار/NN الي/IN يروح/VBP من/IN الرياض/DTNNP الى/IN جدة/NNP ليش/NNP مجمدين/JJ المشروع/DTNN ,/PUNC لايكون/NNP مابعد/NNP ثمنتو/NNP ارأضي/NNP الرجال/DTNN ./PUNC 

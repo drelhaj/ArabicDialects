@@ -1,0 +1,1 @@
+1/CD -/PUNC احرز/VBD الفيصلي/DTNNP نقاط/NN اكثر/JJR من/IN الوحدات/DTNNS بالنسبة/NN لعدد/NN المباريات/DTNNS التي/WP خاضها/VBD ./PUNC ./PUNC فنسبة/NN الفيصلي/DTNNP 2,375/CD نقطة/NN في/IN كل/NOUN مباراة/NN والوحدات/NNS 2,333/CD نقطة/NN في/IN كل/NOUN مباراة/NN 

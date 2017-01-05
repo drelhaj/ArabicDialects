@@ -1,0 +1,1 @@
+-LRB-/PUNC -LRB-/PUNC امسكوا/VB عنزكم/NN ,/PUNC تيسنا/VBD ما/WP يجيكم/VBP -RRB-/PUNC -RRB-/PUNC ./PUNC 

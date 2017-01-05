@@ -1,0 +1,1 @@
+وكمان/NNP -LRB-/PUNC فلسفه/NNP -RRB-/PUNC بتتكتب/NNP كده/NNP مش/NN -LRB-/PUNC فلفسفه/NNP -RRB-/PUNC بجد/NNP يسلم/VBP اللي/WP مسكك/VBP قلم/NN واداك/NNP ابتدائيه/NNP 

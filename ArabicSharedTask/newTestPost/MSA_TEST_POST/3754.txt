@@ -1,0 +1,1 @@
+نحن/PRP كجمهور/NNP الفيصلي/DTNNP نلتف/VBP كلنا/NN حوله/NN وحول/NN ادارته/NNP الرائعة/DTJJ والعريقة/DTJJ التي/WP جلبت/VBD للفيصلي/NNS القاب/NN لا/RP تعد/VBP ولا/NN تحصى/VBN لم/RP تفعلها/VBP اي/NOUN ادارة/NN اخرى/JJ في/IN العالم/DTNN لاتنسو/NNP اان/NNP اخذنا/VBD الدوري/DTNN وترتيب/NNP الفيصلي/DTNNP من/IN حيث/WRB الالقاب/DTNN 14/CD على/IN العالم/DTNN 

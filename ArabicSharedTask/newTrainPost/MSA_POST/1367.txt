@@ -1,0 +1,1 @@
+مبروك/NNP للعربي/NNP ولفرق/NN الشمال/DTNN عموما/NN بالفوز/NNP على/IN البقعة/DTNN والفيصلي/NNP وان/NNP شاء/VBD الله/NNP نهائي/NN شمالي/JJ ./PUNC ./PUNC 

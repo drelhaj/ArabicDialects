@@ -1,0 +1,1 @@
+عارفين/NNP انا/NNP خايف/NNP بن/NNP البجحة/DTNNP ده/DT يقول/VBP انا/PRP بادعو/NNP لماتش/NNP صلح/NN بين/NN مصر/NNP والجزائر/NNP فى/IN اسرائي/JJ ./PUNC ./PUNC ما/WP هما/PRP علموه/NN البجاحة/DTNN وبعدين/NNS بصوا/VBD فى/IN صورته/NN ده/DT شكل/NN امه/NN ارهابى/NNP وبلطجى/NNP .../PUNC .../PUNC ./PUNC جاتك/NNP القرف/DTNNP 

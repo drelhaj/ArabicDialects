@@ -1,0 +1,1 @@
+الله/NNP يستر/VBP الام/DTNN هلحين/NNP هو/PRP الصيدليه/DTNN حليب/NN بيبي/NNP كير/NNP والام/NNP تنام/VBP على/IN شحمة/NN اذنها/NN كأن/NNP صخله/NNP ويا/NNP الله/NNP تصلح/VBP الغداء/DTNN والعشاء/NN خبز/NN ومعلبات/NNS 

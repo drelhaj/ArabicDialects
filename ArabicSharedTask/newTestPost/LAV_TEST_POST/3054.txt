@@ -1,0 +1,1 @@
+امبارح/VBD قلتلكم/NNP إنكم/NNP اليوم/DTNN راح/NN تقولوا/VBP هيك/NNP ./PUNC شفتوا/VBD كيف/WRB إني/VB صرت/VBD عارفتلكم/NNP منيح/NNP ؟/CD 

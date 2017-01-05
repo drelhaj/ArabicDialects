@@ -1,0 +1,1 @@
+هسا/VBD بحكو/NNP عن/IN الدوري/DTNN والكاس/NNP ذهب/VBD بس/NN لما/NNP يوخدهم/NNP الوحدات/NNP ابصر/VBD شو/NNP يحكوا/VBP عنهم/NN ،/NN ،/NN يمكن/VBP بلاستيك/NNP ./PUNC 

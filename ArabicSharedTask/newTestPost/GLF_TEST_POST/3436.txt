@@ -1,0 +1,1 @@
+كل/NOUN سيارة/NN تنسحب/VBP 100/CD ريال/NN للونش/NN غير/NN المخالفة/DTNN المرورية/DTJJ وطبعاً/NN فيه/NNP نسبة/NN لعسكري/NN المرور/DTNN عشان/NNP يسكت/VBP عن/IN عمليات/NNS السطو/DTNN هذه/DT -LRB-/PUNC هذه/DT عملية/NN سطو/NN وانتهاك/NN لحقوق/NN الانسان/DTNN -RRB-/PUNC ./PUNC 

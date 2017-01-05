@@ -1,0 +1,1 @@
+1/CD -/PUNC إلغاء/NN فنجان/NNP القهوة/DTNN -LRB-/PUNC الذي/WP يؤدي/VBP للتساهل/NNP في/IN الحقوق/DTNN -RRB-/PUNC 

@@ -1,0 +1,1 @@
+انا/PRP حضرت/NN المعرض/DTNN ./PUNC ./PUNC وقمة/NN في/IN الروعه/DTNN الناس/DTNN طوابير/NN طويلة/JJ كلها/NN تبي/NN تدخل/NN تشوف/NNP ./PUNC ./PUNC 

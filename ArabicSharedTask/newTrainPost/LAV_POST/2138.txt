@@ -1,0 +1,1 @@
+بعدين/NNP على/IN راي/NN احد/NN الاخوان/DTNN لشو/VBD تشريح/NN الجثه/DTNN عيار/NN ناري/JJ بدها/NN تشريح/NN لا/RP هو/PRP سم/NN ولا/NN هو/PRP خنق/NN ولا/NN ولا/NN .../PUNC 

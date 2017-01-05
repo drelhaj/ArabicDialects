@@ -1,0 +1,1 @@
+قول/NN يا/RP إبراهيم/NN انت/PRP عظيم/JJ ./PUNC ./PUNC قول/NN على/IN الزمالك/DTNNP أحلى/VBD كلام/NN 

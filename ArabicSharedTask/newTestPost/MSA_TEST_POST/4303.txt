@@ -1,0 +1,1 @@
+فاز/VBD الوحدات/DTNNP ببطولة/NN الدوري/DTNN الممتاز/DTJJ للكرة/NN الطائرة/DTNN -LRB-/PUNC 12/CD -RRB-/PUNC مرات/NNS في/IN اعوام/NN ./PUNC 74/CD ،/NN و78/NN و80/NN و82/NN و85/NN و91/NN و94/NN و97/NN و98/NN و2001/NN و2001/NN و2003/NN 

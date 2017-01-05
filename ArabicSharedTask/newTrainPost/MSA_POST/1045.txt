@@ -1,0 +1,1 @@
+1/CD -RRB-/PUNC عدد/NN الفرق/DTNN وقتهالم/NNP يكن/NNP -LRB-/PUNC 3/CD -RRB-/PUNC فرق/NN بل/CC أكثر/NN بإضافة/NN بعض/NOUN من/IN أندية/NN الضفة/DTNNP الغربية/DTJJ بالإضافة/NNP لفرق/NNP -LRB-/PUNC الفيصلي/DTNNP والجزيرة/NNP والأهلي/NNP والأردن/NNP والهومنتمن/NNP -RRB-/PUNC فلم/NNP يكن/NNP هناك/RB إذن/NN فقط/RB فيصلي/NNP أ/NN وفيصلي/JJ ب/IN 

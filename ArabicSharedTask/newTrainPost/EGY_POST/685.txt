@@ -1,0 +1,1 @@
+بجد/VBD ياجماعه/NNP شئ/NN ينقط/VBP لغوا/NN رقابه/NN القضاه/DTNN علي/IN الانتخبابت/DTNN ويقولك/NNP هتبقي/NNP نزيهه/NNP لغوا/VBD الرقباه/DTNN الدوليه/DTNNP علي/IN الانتخابات/DTNNS ويقولك/NN شفافيه/NN .../PUNC بكره/NN مصر/NNP وبدعي/NNS عليها/NN واكره/NNP اللي/WP يقول/VBP امين/NNP 

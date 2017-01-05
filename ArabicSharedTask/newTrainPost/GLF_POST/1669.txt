@@ -1,0 +1,1 @@
+والتفحيط/NN بكثره/NNP وقطع/NN الأشاره/DTNN حلا/NN ./PUNC ./PUNC !/PUNC 

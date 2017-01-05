@@ -1,0 +1,1 @@
+المستشار/DTNN مرتضي/NNP منصور/NNP كشف/VBD احمد/NNP شوبير/NNP امام/NN الملايين/DTNN ليؤكد/NNP ان/IN شوبير/NNP فعلا/NN ظاهرة/NN سوف/RP تنتهي/VBP قريبا/NN ويوكد/NN صدق/NN كل/NOUN ماقاله/NN عنه/NNP حيث/WRB انه/VBD لم/RP ينطق/VBP بكلمه/NN واحدة/JJ تبراء/NN ساحته/NN وهيرد/NN ازاي/NNP وهوا/VBD غلطان/NN صوت/NN وصورة/JJ ارجع/VBP الي/IN رشدك/NN يا/RP شوير/NNP 

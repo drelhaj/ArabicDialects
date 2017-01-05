@@ -1,0 +1,1 @@
+يا/RP عم/NN حسام/NNP دمغنا/NNP .../PUNC هو/PRP انتا/VBD كنت/VBD في/IN كوكب/NN تاني/NN ./PUNC ./PUNC امتا/VBD نتخلص/VBP منك/NN انتا/NNP واخوك/NNP 

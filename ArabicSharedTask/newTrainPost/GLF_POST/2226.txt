@@ -1,0 +1,1 @@
+بسوي/NNP سيرج/NNP عن/IN فوائد/NN الطماط/DTNN والخيار/NN للمعاريس/NNP ./PUNC ./PUNC بشوف/NNP وش/NNP سالفته/NNP ./PUNC ./PUNC 

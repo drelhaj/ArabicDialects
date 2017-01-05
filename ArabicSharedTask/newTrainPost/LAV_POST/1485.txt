@@ -1,0 +1,1 @@
+لو/IN مكتوبلها/JJ تموت/VBP او/CC تتأذى/VBP لماتت/NN لكن/VBP مو/NN مكتوبلها/JJ ./PUNC عشان/NNP هيك/NNP الانسان/DTNN يتوكل/VBP على/IN الله/NNP ./PUNC انا/PRP اريد/VBP وانت/NN تريد/VBP والله/NN يفعل/VBP ما/WP يريد/VBP ./PUNC 

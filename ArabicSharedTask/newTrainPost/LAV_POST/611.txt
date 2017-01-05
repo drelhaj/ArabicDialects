@@ -1,0 +1,1 @@
+بالنهايه/NNP بحب/NNP احكي/VBP اخر/NN المباراه/DTNN صار/VBD الفريق/DTNN عامر/NNP ورافت/NNP هجوم/NN فقدنا/VBD عامر/NNP بخط/NN الوسط/DTNN هاي/NNP اخر/JJR صرعات/NNS الفين/CD وعشره/NN يمكن/VBP ؟/NN ؟/NN ؟/CD 

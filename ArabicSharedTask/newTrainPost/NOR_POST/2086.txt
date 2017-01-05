@@ -1,0 +1,1 @@
+الكاراييب/DTNN هايتي/NNP الأرجنتين/NNP الهوندوراس/DTNNP البرازيل/DTNNP بوليفيا/NNP الإكوادور/DTNNP السلفادور/DTNNP البيرو/DTNNP الشيلي/DTNNP و/CC تونس/NNP كيريباتي/NNP ميكرونيسيا/NNP بالو/NNP توفالو/NNP فانوتو/NNP أمريكا/NNP الجنوبية/DTJJ و/CC الشمالية/DTJJ 

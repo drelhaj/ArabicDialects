@@ -1,0 +1,1 @@
+أطفال/NN فلسطين/NNP صحيح/JJ تنجم/VBP تقلي/NN فلسطين/NNP بعيدة/JJ و/CC ما/WP تنجمش/VBP و/CC قاعدين/NNS يموتو/VBP من/IN أجل/NN العزة/DTNN و/CC الكرامة/DTNN من/IN أجل/NN فلسطين/NNP 

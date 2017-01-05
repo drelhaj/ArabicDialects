@@ -1,0 +1,1 @@
+مش/NN بمزاجك/NNP يا/RP جمال/NNP ./PUNC ./PUNC الشعب/DTNN هو/PRP اللى/WP هيغير/VBP الدستور/DTNN ./PUNC ./PUNC لا/RP نثق/VBP فيك/NNP و/CC فى/IN وعودك/NN 

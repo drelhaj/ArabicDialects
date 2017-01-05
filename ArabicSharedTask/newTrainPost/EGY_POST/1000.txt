@@ -1,0 +1,1 @@
+لماذا/WRB ياكاتب/VBP المقال/DTNN حذفت/VBN قول/NN الراجل/DTNN علاء/NNP -LRB-/PUNC الصادق/DTNNP -RRB-/PUNC ان/IN هدف/NN متعب/JJ في/IN القاهرة/DTNNP كان/VBD فيه/NNP متعب/NN متسلل/JJ .../PUNC ولا/NN دي/NN تثبت/VBP انكم/NN دون/NN مستوى/NN حتى/IN الاعتراف/DTNN .../PUNC توجع/VBP مغك/NN حق/NN ./PUNC 

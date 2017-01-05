@@ -1,0 +1,1 @@
+أللاعب/NN ذكي/NN .../PUNC عارف/NNP لو/IN ما/WP صرفوا/VBD له/NN مستحقاته/JJ قبل/NN مبارة/NN الهلال/DTNNP .../PUNC ماراح/NN يحصلها/NN .../PUNC ؟/NN ؟/NN ؟/NN أدفعوا/VBD حقوقه/NN ./PUNC ./PUNC قبل/NN لايشتكيكم/NNP للفيفا/NNP ./PUNC ./PUNC ؟/VB ؟/PRP ترا/VBP هذا/DT .../PUNC غالي/NN .../PUNC ماهو/NNP السهلاوي/DTNNP .../PUNC ؟/NN ؟/CD 

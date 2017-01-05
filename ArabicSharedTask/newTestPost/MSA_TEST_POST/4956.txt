@@ -1,0 +1,1 @@
+حفظك/NNP الله/NNP ورعاك/NN وأطال/NN عمرك/NN يا/RP جلالة/NN الملك/DTNN ،/VBD وأبقاك/NNP الله/NNP ذخرا/NN وسندا/NN للاردنيين/NNS وللأمة/NN العربية/DTNN والاسلامية/JJ ./PUNC هذه/DT شيم/NN الملوك/DTNN الأحرار/DTJJ ،/VBD هذه/DT شيم/NN الملوك/DTNN الأبطال/DTJJ 

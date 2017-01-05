@@ -1,0 +1,1 @@
+صراحة/NN أبوظبي/JJ من/IN افضل/JJR القنوات/DTNNS الرياضية/DTJJ وبعد/NN ماراحت/NNP عن/IN الدوري/DTNN السعودي/DTJJ صار/VBD دوري/NN بدون/IN طعم/NN ولا/NN رائحة/NN ومعلقين/NNS يجيبون/VBP النوم/DTNN وين/NN ايامك/NNP يا/RP فارس/NNP عوض/NN الجماهير/DTNN السعودية/DTJJ تطالب/VBP بعودة/NN أبوظبي/NNS الرياضية/DTNN سريعا/NN لأن/NN صار/VBD دوري/NN مال/NN أمه/NN داعي/NN ./PUNC 

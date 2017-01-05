@@ -1,0 +1,1 @@
+مش/NN عارف/NNP انا/PRP نسيت/VBD حاجه/NN و/CC لا/RP منسيتش/NN ./PUNC 

@@ -1,0 +1,1 @@
+-/PUNC يا/RP جماعه/NN عوزين/NN حد/NN يحس/VBP بالناس/NNP .../PUNC الناس/DTNN تعبانه/NN ./PUNC ./PUNC مش/NN واحد/NN عايش/NNP بره/NNP طول/NN عمره/NN 

@@ -1,0 +1,1 @@
+دهاليز/NNP السياسه/DTNNP تدوخ/NN ./PUNC ./PUNC وشلون/NNP لو/IN دخل/VBD فيها/NN دين/NN بعد/NN ./PUNC ./PUNC 

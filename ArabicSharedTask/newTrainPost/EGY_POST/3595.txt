@@ -1,0 +1,1 @@
+ايه/NN يادكتورة/NNP نيفين/NNP شكرى/NN ممكن/JJ نعرف/VBP رايك/NNP فى/IN الوقعة/DTNN دى/VBD بس/NN يارب/VBP الدكتور/DTNN البرادعى/DTJJ يكون/VBP ملوش/NN علاقه/NN بيها/NN ./PUNC 

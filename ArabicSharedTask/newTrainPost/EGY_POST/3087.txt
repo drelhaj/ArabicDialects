@@ -1,0 +1,1 @@
+بحبك/NNP يا/RP شيكا/NN والله/NNP العظيم/DTJJ ده/DT ظلم/NN الزمالك/DTNNP بيتظلم/NN كل/NOUN مره/NN كده/NN حرام/NN بس/NN سيبكم/NN احنا/NN الزمالكاويه/DTNN بنستمتع/JJ جدا/NN جدا/NN المستوى/DTNN عالى/JJ جدا/NN جدا/NN ./PUNC وشيكا/NN هو/PRP شيك/NN حايفضل/JJ شيكا/NN بحبك/NN يا/RP شيكا/NN وبموت/NNP فيك/NNP 

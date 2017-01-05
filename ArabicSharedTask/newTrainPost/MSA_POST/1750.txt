@@ -1,0 +1,1 @@
+ونحن/NNP كاردنيين/NNP علينا/NNP ان/IN نعي/NN ذلك/DT كما/CC على/IN الفلسطينيون/DTNNS ان/IN يعو/VBP ذلك/DT ايضا/RB وان/NNP يتمسكوا/VBP بحقوقهم/NN المهضومه/DTNN هكذا/RB نكون/VBP ربما/RB قد/RP حققنا/VBD الوحده/DTNN بمعناها/NN الضيق/DTNN -LRB-/PUNC كشعبين/NNP -RRB-/PUNC على/IN الاقل/DTJJR 

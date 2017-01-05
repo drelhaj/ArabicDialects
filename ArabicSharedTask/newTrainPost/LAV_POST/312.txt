@@ -1,0 +1,1 @@
+انا/PRP مواطن/NN اردني/JJ وابن/JJ بلد/NN ./PUNC بصراحه/NNP معظم/NOUN رجال/NN الامن/DTNN في/IN الاردن/DTNNP بتعاملو/NNP معاك/NNP بحسسوك/NNP انهم/VBD مستعمرين/NNS ما/WP بعاملوك/VBD كمواطن/NN اردني/JJ ./PUNC 

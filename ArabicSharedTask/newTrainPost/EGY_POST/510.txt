@@ -1,0 +1,1 @@
+انا/PRP متفق/JJ مع/NN من/IN يقول/VBP ان/IN شم/NN النسيم/DTNN بدعة/NN لكنه/NN مش/NN مأخوذ/JJ عن/IN اي/NOUN ديانة/NN اخري/JJ يا/RP افاضل/NN ./PUNC شم/NN النسيم/DTNN عيد/NN من/IN ايام/NN القدماء/DTNN المصرين/DTJJ من/IN قبل/NN الميلاد/DTNN ./PUNC اي/RP حد/NN جاب/NN عيد/NN معاه/NN بقي/VBD دي/NN مش/NN مشكلتنا/NN ولا/NN ايه/NN رايكم/JJ 

@@ -1,0 +1,1 @@
+والله/NNP يابو/NNP فهد/NNP ما/WP شفنا/VBD تغير/NN الحال/DTNN كما/CC هو/PRP رح/NN الدائري/DTJJ الجنوبي/DTJJ والغربي/NNP وتشوف/NNP العجب/DTNN ./PUNC 

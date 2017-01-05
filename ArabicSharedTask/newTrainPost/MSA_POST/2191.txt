@@ -1,0 +1,1 @@
+فعلا/NN كاس/NN الاردن/DTNNP هذا/DT الموسم/DTNN دون/NN الطوح/DTNN وخاصه/NN للانديه/NN الكبيره/DTNN مثل/NN الفيصلي/DTNNP وشباب/NN الاردن/DTNNP ابطال/NN القارة/DTNN الاسيويه/DTJJ بنتائجهم/NNP المميزه/DTNNP وحصولهم/NNP على/IN لقب/NN قاري/JJ ممثلا/NN بكاس/NNP الاتحاد/DTNN الاسيوي/DTJJ كاسين/NNP متتالين/NNP للزعيم/NNP وكاس/NN اخر/JJ للشباب/NN ./PUNC 

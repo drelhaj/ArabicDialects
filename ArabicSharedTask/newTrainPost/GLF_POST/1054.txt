@@ -1,0 +1,1 @@
+لين/NNP يووصل/VBP السطح/DTNN ./PUNC ./PUNC 

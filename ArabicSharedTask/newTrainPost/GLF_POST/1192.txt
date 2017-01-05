@@ -1,0 +1,1 @@
+سينما/NN +/NN قيادة/NN المراه/DTNN للسيارة/NN ولهم/NN سنين/NNS يتكلمون/VBP فيها/NN بس/NN حكي/JJ !/PUNC ومابين/NNP المؤيد/DTJJ والمعارض/NN ومابين/NNS مد/NN وجزر/NN !/PUNC 

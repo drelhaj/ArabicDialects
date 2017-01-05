@@ -1,0 +1,1 @@
+-/PUNC كلمة/NN الى/IN الكابتن/DTNN عدنان/NNP حمد/NNP ./PUNC ./PUNC اثبت/VBD انك/NN الشخص/DTNN المناسب/DTJJ لقيادة/NNP منتخبنا/NNP الوطني/DTJJ في/IN قطر/NNP وباقي/NNS البطولات/DTNNS ./PUNC ./PUNC ومن/VBD يقول/VBP غير/NN هذا/DT الكلام/DTNN او/CC يعترض/VBP عليه/NNP ./PUNC ./PUNC فليراجع/NN نفسه/NN وليعيد/NN حساباته/NN جيدا/JJ قبل/NN لن/RP يتفوه/VBP بكلام/NN غير/NN مسؤول/NN 

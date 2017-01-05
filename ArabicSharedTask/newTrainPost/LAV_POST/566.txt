@@ -1,0 +1,1 @@
+وينك/NNP من/IN الصبح/DTNN يا/RP زلمة/NN ؟/NN !/PUNC أنا/VBD فكرتك/NNP صائم/NNP اليوم/DTNN ،/NN قلت/VBD بتريح/NN حالك/NN وبتريحنا/NN !!/NN 

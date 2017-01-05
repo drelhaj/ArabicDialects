@@ -1,0 +1,1 @@
+أنا/VBD حلمت/NN إنه/NN الجزائر/DTNNP خسروا/VBD خمسة/CD من/IN سلوفينيا/NNP ./PUNC برأيي/NNP ،/VBD الجزائر/DTNNP لازم/VBD يديروا/VBP بالهم/NN منيح/NN لأنهم/NN عم/NN بمثلوا/VBD كل/NOUN العرب/DTNN بالمونديال/NNP ./PUNC 

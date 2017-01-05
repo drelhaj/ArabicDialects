@@ -1,0 +1,1 @@
+-LRB-/PUNC ابرة/NN تخدير/NN -RRB-/PUNC والمشكله/NNP قائمه/NNP ./PUNC 

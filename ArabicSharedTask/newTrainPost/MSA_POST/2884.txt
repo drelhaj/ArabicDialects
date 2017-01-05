@@ -1,0 +1,1 @@
+نرجوا/VBD امانة/NN عمان/NNP ان/IN تكون/VBP نزيهه/NN في/IN مشروع/NN رغدان/NN وتوضح/NN اسباب/NN التاخير/DTNN وعدم/NN نقل/NN الباصات/DTNNS الى/IN مجمع/NN رغدان/NNP ./PUNC 

@@ -1,0 +1,1 @@
+يعني/VBP انتو/NNP مستنيين/NNS ضربة/NN جزاء/NN تكسبو/VBP بيها/NN ./PUNC ./PUNC ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN طيب/JJ ماحنا/JJ كان/VBD لينا/NNP ضربتين/NNS جزاء/NN ضايعين/NNS الماتش/DTNN اللي/WP فات/VBD و/CC كسبنا/VBD بمجهودنا/NNP ./PUNC ./PUNC ماعيطناش/NNP زيكو/NNP كدة/NNP يعني/VBP !!/NN 

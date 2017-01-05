@@ -1,0 +1,1 @@
+و/CC -RRB-/PUNC الموسم/DTNN الماضي/DTJJ في/IN 12/CD يوم/NN وليس/NNP -LRB-/PUNC 4/CD -RRB-/PUNC أشهر/NN كما/CC هذ/NN الموسم/DTNN فاز/VBD الزعيم/DTNN على/IN شقيقه/NN الوحدات/DTNNS مرتين/NNS 1-0/CD في/IN الكأس/DTNN والدوري/NNP 

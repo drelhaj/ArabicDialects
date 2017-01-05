@@ -1,0 +1,1 @@
+بيضايقني/NNP قوي/JJ حكاية/NN ''/NN هم/PRP$ فين/NNP الأقباط/DTNNP ''/NN و/CC ''/NN هي/PRP فين/NNP المرأه/DTNNP ''/VBD والكلام/NN ده/DT .../PUNC مؤهلات/NNS أي/JJ شخص/NN هي/PRP كفائته/NN وفكره/NN وليس/NNP دينه/NNP أو/NNP نوعه/NNP 

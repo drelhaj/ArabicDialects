@@ -1,0 +1,1 @@
+1/CD ./PUNC ابراهيم/NNP موقوف/NN رسمى/NN وبياخد/NN 50/CD الف/CD جنيه/NN فى/IN الشهر/DTNN وهو/NNP ملهوش/NNP شغلانه/NNP اساسا/NN غير/NN التصريحات/DTNNS فين/NNP هيئات/NNS الرقابة/DTNN الماليه/DTJJ 

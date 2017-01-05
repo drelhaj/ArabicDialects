@@ -1,0 +1,1 @@
+امريكا/NNP تقول/VBP حروب/NN اسرائيل/NNP دفاع/NN عن/IN النفس/DTNN .../PUNC .../PUNC ./PUNC نقول/VBP طبعا/NN هو/PRP حزب/NN الله/NNP ده/DT مش/NN شيعى/NN بتاع/NN ايران/NNP ./PUNC وحماس/NN سنى/VBD بس/NN ماشيين/JJ مع/NN ايران/NNP وكمان/NN تابعين/JJ للمحظورة/NN اللى/WP عندنا/VBD ./PUNC 

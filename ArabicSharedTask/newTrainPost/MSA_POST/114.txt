@@ -1,0 +1,1 @@
+واعتقد/NNP ايظا/NNP ان/IN المطلوب/DTNN من/IN حمد/NNP تجديد/NN المنتخب/DTNN بعناصر/NNP جديده/NNP تكون/VBP قادره/JJ على/IN تقديم/NN اضافه/NN جديده/JJ للمنتخب/NN ولا/NN بأس/NN من/IN النظر/DTNN الى/IN لاعبي/NNS الانديه/DTNN الاخرى/DTJJ من/IN خارج/NN الفيصلي/DTNNP والشباب/NN والوحدات/NNS والاستعانه/NNP بعدد/NNP منهم/NN لتمثيل/NN المنتخب/DTNN ./PUNC 

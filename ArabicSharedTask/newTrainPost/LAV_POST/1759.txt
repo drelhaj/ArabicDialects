@@ -1,0 +1,1 @@
+النقوط/DTNN مليح/NN مره/NN يكون/VBP نقدي/JJ وعيني/JJ يعني/VBP في/IN بعض/NOUN العادات/DTNNS عنا/VBD تنقط/VBP العريس/DTNN في/IN العرس/DTNN وبعدها/NN تذهب/VBP لبيته/NN وتأخذ/NN هديه/NN معك/JJ اما/RP ان/IN تكون/VBP -LRB-/PUNC طناجر/NN \//NN كاسات/NNS عصير/NN \//NN برواز/NNP \//VBD مكواه/NN \//NN .../PUNC -RRB-/PUNC وحسب/NN احتياج/NN العروسين/DTNNS للمنزل/DTJJ -RRB-/PUNC 

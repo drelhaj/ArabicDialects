@@ -1,0 +1,1 @@
+4-أرجع/VBD وأقول/NNP شوبير/NNP هو/PRP الشخصية/DTNN العربية/DTJJ الرياضية/DTJJ الوحيدة/DTJJ الجاذبة/DTJJ لمحبين/NN الرياضة/DTNN ليس/VBD فى/IN مصر/NNP فقط/RB ولكن/VBN فى/IN العالم/DTNN العربى/DTJJ وهو/VBD شخصية/NN مشهورة/JJ جدا/NN بس/NN هو/PRP محتاج/NN دبلوماسية/JJ وميخبطش/NN فى/IN أى/NN حد/NN مهما/JJ كان/VBD بس/NN كانت/VBD شخصيته/NN قوية/JJ ./PUNC 

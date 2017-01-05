@@ -1,0 +1,1 @@
+مشان/NNP الله/NNP حدى/VBD يجي/VBP يشوف/NN الطرة/DTNN ،/VBD يشوف/VBP الشوارع/DTNN والحفر/NN ولكم/NN ساحة/NN بيت/NN رئيس/NN البلدية/DTNN مزفت/NNP أحسن/NNP من/IN كل/NOUN شوارع/NN سهل/NN حوران/NNP ./PUNC 

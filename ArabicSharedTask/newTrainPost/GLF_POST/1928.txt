@@ -1,0 +1,1 @@
+إرفق/VBD على/IN عمرك/NN ترى/VBP الحريم/DTNN من/IN طينة/NN وحدة/NN سواء/NN سعودية/JJ ولاأجنبية/JJ ./PUNC ./PUNC وعلى/VBD قول/NN المثل/DTNN -LCB-/NN كل/NOUN عويد/NN فيه/NN دخان/NN ئ/NN 

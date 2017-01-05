@@ -1,0 +1,1 @@
+سيناريو/NN القصة/DTNN فاشل/JJ وقديم/NN وأحلى/NN ما/IN فى/IN الموضوع/DTNN هدؤ/NN و/CC عقل/NN القراء/DTNN ./PUNC هو/PRP دة/NN الكلام/DTNN !!/CD 

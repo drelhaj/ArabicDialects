@@ -1,0 +1,1 @@
+نيفين/NNP مشتاق/NNP -/PUNC مصر/NNP موش/NNP محتاجة/VN للمنافقين/NNS زيك/NNP ./PUNC ./PUNC ريحينا/NNP من/IN نفاقك/NN هي/PRP موش/NN نقصاكي/VBP انتي/NN كمان/NN ./PUNC 

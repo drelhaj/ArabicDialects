@@ -1,0 +1,1 @@
+وبعدين/NNS الزمالك/DTNNP زعلان/NNP ليه/NNP الدورى/DTNNP للأهلى/VBD زى/NN كل/NOUN سنة/NN -LRB-/PUNC بواسطة/NN الحكام/DTNN -RRB-/PUNC ومع/NN السلامة/DTNN ياكابتن/NNP حسام/NNP انت/PRP كبرت/VBD .../PUNC .../PUNC .../PUNC والسن/NN له/NN احكام/NN 

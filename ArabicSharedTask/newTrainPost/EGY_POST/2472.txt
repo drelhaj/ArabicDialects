@@ -1,0 +1,1 @@
+السؤال/DTNN الرابع/ADJ :/PUNC المسؤل/DTNN الكبير/DTJJ ده/DT أعطى/JJR لمصر/NN إيه/NN وأعطانا/NN إحنا/VBD إيه/NN عشان/NN يستاهل/VBP كل/NOUN الدلع/DTNN ده/DT ./PUNC ./PUNC عمل/NN إيه/NN عشان/NN يمتص/VBP شوية/NN الدم/DTNN إللى/VBD فاضلين/NNS فى/IN عروقنا/NN ؟/CD 

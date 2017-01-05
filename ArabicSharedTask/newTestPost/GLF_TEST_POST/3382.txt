@@ -1,0 +1,1 @@
+سوال/NN ساذج/JJ لو/IN باع/VBD كليته/NN كم/PRP$ راح/NN يجيه/VBP مو/NN اقل/JJR من/IN دخل/NN سنتين/NNS وهو/NN متبرع/JJ لوجه/NNP الله/NNP --/CD 

@@ -1,0 +1,1 @@
+سمعت/VBD كثير/NN عن/IN ابناء/NN الراجحى/DTNN لو/IN تشوفه/NN تقول/VBP هذا/DT يكذب/VBP ويقول/NN انا/PRP ولد/NN الراجحي/DTNN ولد/NN البنك/DTNN حسافه/NNP ./PUNC 

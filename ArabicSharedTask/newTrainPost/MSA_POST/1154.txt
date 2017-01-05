@@ -1,0 +1,1 @@
+مستشفى/NN الاميره/DTNN بسمه/NNP يقع/VBP في/IN اربد/NN المدينه/DTNN و/CC ليس/RP في/IN الشونه/DTNN الشماليه/DTJJ و/CC المستشفى/DTNN المقصود/DTJJ ذكره/NN هو/PRP مستشفى/NN ابوعبيده/NNP الواقع/DTNN في/IN منطقة/NN وادي/NNP الريان/DTNNP -LRB-/PUNC وادي/NN اليابس/DTJJ -RRB-/PUNC و/CC شكرا/NN 

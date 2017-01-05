@@ -1,0 +1,1 @@
+اصلاً/VBD المرور/DTNN ما/WP عنده/VBD سالفه/NNP واكثريتهم/NNP نايمين/NNP في/IN العسل/DTNN ولا/NN ليش/NNP وضعو/VBD نظام/NN ساهر/NNP مدري/JJ سارق/NN فا/NN كيف/WRB بيهتمون/NNP في/IN سيارات/NNS العالم/DTNN وعندنا/NN هينا/NNP بالسعوديه/NNP مثل/NN او/CC كلمة/NN يترددها/VBP الاكثرية/DTNN -LRB-/PUNC شي/NNP مالي/NNP مصلحه/NN فيه/NNP مالي/NNP شغل/NN فيه/NNP -RRB-/PUNC 

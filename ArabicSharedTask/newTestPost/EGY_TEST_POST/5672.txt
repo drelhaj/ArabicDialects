@@ -1,0 +1,1 @@
+علشان/NNP متقولوش/NNP الزمالك/DTNNP بيتحجج/NNP بالحكام/NNP امل/NN حسام/NNP البدرى/DTJJ ولول/NN زى/NN الحريم/DTNN فى/IN ماتش/NNP الحرس/DTNN وقال/NN مؤامرة/NN علشان/NN نخسر/VBP الدورى/DTNN ليه/NNP علشان/NNP الجون/DTNNS اللى/WP جه/VBD فى/IN الاهلى/DTNN الكورة/DTNNP كان/VBD اصلها/NN تسلس/NN شوفتوا/NNP 

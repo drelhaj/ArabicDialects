@@ -1,0 +1,1 @@
+يلا/VBD زيدو/NNP كمان/NN ضرايب/NN و/CC غلاء/NN اسعار/NN و/CC ارفعوا/VBD الدعم/DTNN عن/IN كل/NOUN اشي/NN ,/PUNC بكرا/NNP بيصير/NNP الهوا/NN عليه/NNP ضريبه/NNP و/CC بيصيروا/NNP يحطوه/VBP في/IN قناني/NN 1.25/CD و/CC 2.25/CD زي/NN البيبسي/DTNNP ./PUNC 

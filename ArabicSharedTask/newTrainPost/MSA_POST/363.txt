@@ -1,0 +1,1 @@
+مستوى/NN تدريب/NN الحراس/DTNN حيث/WRB انخفض/VBD مستوى/NN الحارس/DTNN عامر/NNP شفيع/NN واهتزت/NN الروح/DTNN القتاليه/DTJJ فيه/NNP وتعدد/NNP الاخطاء/DTNN ذاتها/NN دون/NN اي/NOUN تعديل/NN عليها/NN ./PUNC 

@@ -1,0 +1,1 @@
+مشان/NNP الله/NNP شو/NNP قصة/NN شركة/NN الجوما/DTNNP شهر/NN ونصف/NNP وهي/NNP بالداون/NNP اشترينا/VBD السهم/DTNN على/IN سعر/NN 132/CD قرش/NN والان/NN 47/CD قرش/NN وليس/NN لنا/VBD من/IN مجيب/JJ انقذوني/JJ من/IN الافلاس/DTNN 

@@ -1,0 +1,1 @@
+على/IN كل/NOUN حال/NN اللي/WP مات/VBD الله/NNP لا/RP يردو/VBP ./PUNC ./PUNC واللي/NNS من/IN ايدو/NNP الله/NNP يزيدو/NNP 

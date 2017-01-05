@@ -1,0 +1,1 @@
+ميسي/NNP يسجل/VBP 4/CD أجوان/NNS في/IN ماتش/NNP واحد/CD و/CC ميدو/NNP حلمو/NNP يجيب/VBP جون/NNP واحد/NN هههه/NNP و/CC مش/NN عارف/NNP يجيب/VBP جون/NNP واحد/NN حتى/IN من/IN ضربة/NN جزاء/NN ههههه/NN ده/DT الفرق/DTNN بين/NN لعيب/NN ذهبي/JJ زي/NN ميسي/JJ ز/NN لعيب/NN خشب/NN زي/NN ميدو/NNP ههههههه/NNP 

@@ -1,0 +1,1 @@
+ماهذا/NNP الاستخفاف/DTNN بنا/NN و/CC بعقولنا/NN ؟/NN ماما/NNP امريكا/NNP دي/NNP تبقى/VBP أم/NN هذا/DT النظام/DTNN الفاسد/DTJJ و/CC الأم/DTNN الشرعية/DTJJ لحزبكم/NNP الفاسد/DTNNP موش/NNP هذة/DT أمريكا/NN اللي/WP بتحسن/VBN على/IN نظامكم/NNP الذي/WP 

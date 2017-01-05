@@ -1,0 +1,1 @@
+شو/NNP هالهبل/NNP هادا/NNP ./PUNC الحمد/NN لله/NN الأهلي/DTNNP ارتاح/VBD منك/NN ومن/NN أخوك/NN الأزعر/DTNN 

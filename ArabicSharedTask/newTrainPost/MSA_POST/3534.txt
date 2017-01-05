@@ -1,0 +1,1 @@
+سيعود/NNP الرمثا/DTNNP بعد/NN ان/IN يغادر/VBP ال/DT .../PUNC 

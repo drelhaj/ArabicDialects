@@ -1,0 +1,1 @@
+القرار/DTNN البلجيكي/DTJJ يمثل/VBP اكثر/NOUN القرارات/DTNNS منطقية/NN ./PUNC القرار/DTNN يتحدث/VBP بشكل/NN واضح/JJ عن/IN حظر/NN ''/NN ما/WP يمكن/VBP ان/IN يجعل/VBP التعرف/DTNN على/IN هويةمن/NN يرتديه/NNP متعذرا/JJ ''/VB اين/WRB الخطأ/DTNN في/IN ذلك/DT ؟/NN ./PUNC 

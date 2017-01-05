@@ -1,0 +1,1 @@
+ويقول/NNP ''/VBD ماما/NNP بتمنعني/NNP أركض/VBD وألعب/NN بالكرة/JJ في/IN البيت/DTNN عشان/NN ما/WP يتكسر/VBP شي/NNP ،/NN وبتخاف/NN تخليني/NN ألعب/JJ مع/NN أولاد/NN الجيران/DTNN في/IN الشارع/DTNN ،/VBD بس/NN لما/NNP نطلع/VBP متل/NN هيك/NNP بصير/NNP ألعب/NNP براحتي/NNP وبكون/NNP مبسوط/NN كتير/NN ''/NN ./PUNC -RRB-/PUNC 

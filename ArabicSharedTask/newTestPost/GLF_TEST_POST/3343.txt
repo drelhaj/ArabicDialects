@@ -1,0 +1,1 @@
+و/CC ياليت/VBN أحنا/NN النساء/DTNN أذا/VBD ركبنا/NN السيارة/DTNN نجلس/VBP زين/NNP و/CC بركاده/NNP و/CC نلم/VBP عباياتنا/NN مو/NN نسكر/VBP عليها/NN الباب/DTNN .../PUNC بلاش/NN الربشة/DTNN و/CC الرجة/DTNN .../PUNC الدنيا/DTNN ما/WP راح/VBD تطير/VBP .../PUNC و/CC أذا/NN نزلنا/VBD نفس/NN الشيء/DTNN ./PUNC ./PUNC 

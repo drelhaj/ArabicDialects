@@ -1,0 +1,1 @@
+-/PUNC الفيصلي/DTNNP فاز/VBD بلقب/NN الدوري/DTNN وحده/NNP ب/IN 31/CD لقبا/NN ./PUNC ./PUNC وباقي/NNS الاندية/DTNN جميعها/NN فازت/VBD ب/IN 27/CD لقبا/NN فقط/RB 

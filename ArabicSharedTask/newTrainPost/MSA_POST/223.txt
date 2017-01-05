@@ -1,0 +1,1 @@
+:/PUNC ومن/NN فعل/NN ذلك/DT فهم/NN المستشرقون/DTNNS الذين/WP يريدون/VBP معرفة/NN مكان/NN الحديث/DTNN فعملوا/NNP -LRB-/PUNC المعجم/DTNN المفهرس/DTJJ -RRB-/PUNC لأن/NN المسلمين/DTNNS كما/CC وصفوا/VBD في/IN الإنجيل/DTNN :/PUNC إنجيلهم/NNP -LRB-/PUNC قرآنهم/NNP -RRB-/PUNC في/IN صدورهم/NNP ./PUNC 

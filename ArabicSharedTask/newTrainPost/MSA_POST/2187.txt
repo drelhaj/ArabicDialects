@@ -1,0 +1,1 @@
+-/PUNC الاخ/DTNN عبدالدايم/NNP وبقية/NN الاخوة/DTNN ./PUNC ./PUNC ليس/RP هنالك/RB اي/NOUN اساءة/NN كما/CC تدعي/VBP وانا/NN اتكلم/VBP بالنيابة/NN عن/IN جماهير/NN النادي/DTNN الفيصلي/DTNNP -/PUNC اذا/IN سمحو/NNP لي/NNP -/PUNC وهذا/NNP شان/NN يعنينا/VBP ان/IN كنا/VBD نعتبرها/NN بطولة/NN لها/NN قيمتها/NN ام/CC لا/RP .../PUNC 

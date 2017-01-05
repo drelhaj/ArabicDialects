@@ -1,0 +1,1 @@
+اولا/ADJ هارلك/NN للنشامى/NN الوحدات/DTNNS والخير/NNP بالجايات/NNP انشاء/NN الله/NNP .../PUNC ولكل/NNP جواد/NNP كبوه/NNP .../PUNC وثانيا/NNP مبروك/NNP للاسود/NNP .../PUNC وكل/VBD يوم/NN عن/IN يوم/NN بيكبر/NNP بعيون/NNP الاردنيين/DTJJ .../PUNC حتى/RP من/IN جمهور/NN الوحدات/DTNNS والفيصلي/DTJJ .../PUNC 

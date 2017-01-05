@@ -1,0 +1,1 @@
+بس/NN لما/NNP اجيت/VBD هون/NN على/IN الغربة/DTNN ودرست/VBD دراسات/NNS عليا/JJR ببلاش/NN يا/RP ناس/JJ ./PUNC لا/RP مش/NN بس/NN هيك/NNP بدفعو/NNP فلوس/NNP ممان/NNP للابحاث/NNP اللي/WP بنعملها/NN وتسهيلات/NNS للطلاب/NN وقروض/NN بدون/IN فائدة/NN .../PUNC و/CC .../PUNC و/CC .../PUNC واللي/NNP اشي/NNP بحزن/NNP ./PUNC 

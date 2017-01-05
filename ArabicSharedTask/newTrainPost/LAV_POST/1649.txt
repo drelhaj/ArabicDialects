@@ -1,0 +1,1 @@
+العرب/DTNN مشغولين/JJ بالمونديال/NNP و/CC ماحدا/NNP فاضي/NNP .../PUNC هيك/NNP اخبار/NN ما/IN بتهمهم/NN .../PUNC اهم/JJR شي/NNP البرازيل/DTNNP و/CC ايطاليا/NNP 

@@ -1,0 +1,1 @@
+فاذا/NN كانت/VBD الزعامة/DTNN بعدد/NN البطولات/DTNNS ./PUNC ./PUNC فانا/NNP لن/RP اقارن/VBD القاب/NN الفيصلي/DTNNP بالقاب/NNP الوحدات/DTNNP وحده/NNP فقط/RB ./PUNC ./PUNC انا/PRP ساقارن/NNP القاب/NN الفيصلي/DTNNP بالقاب/NNP كافة/NN الاندية/DTNN الاردنية/DTJJ الاخرى/DTJJ جميعهامنذ/NN نشاتها/NN وحتى/JJ الان/DTNN ./PUNC ./PUNC فشاهدو/NNP معي/NNP :/PUNC 

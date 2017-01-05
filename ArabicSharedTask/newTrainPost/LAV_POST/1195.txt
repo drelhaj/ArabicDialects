@@ -1,0 +1,1 @@
+طبعا/NN كل/NOUN تاخير/NN يعنى/VBP زيادة/NN الكلفه/DTNN ./PUNC ./PUNC بعدين/NNP هلكتونا/NNP حكي/NNP عن/IN ها/PRP الخط/DTNN و/CC على/IN الفاضي/DTNN ./PUNC ./PUNC لا/RP و/CC لسه/NN الحكومه/DTNN بدها/NN تعمل/VBP شبكه/NN قطار/NN يربط/VBP الاردن/DTNNP مع/NN الدول/DTNN المجاورة/DTJJ على/IN ها/PRP الحال/DTNN بدنا/NN كمان/NN 200/CD سنه/NN ./PUNC ./PUNC 

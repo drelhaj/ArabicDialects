@@ -1,0 +1,1 @@
+2/CD -RRB-/PUNC جمهور/NN المارد/DTNN اثبت/VBD بالامس/NNP انه/NNP جمهور/NN الكره/DTNN الاردنيه/DTJJ ومثال/NN عالي/JJ لجميع/NN جماهير/NN الاردن/DTNNP والعالم/NNP ومفخره/NNP لنا/VBD جميعا/NOUN ./PUNC ./PUNC -LRB-/PUNC اشكر/VBP عاشق/NN الفيصلي/DTNNP -RRB-/PUNC 

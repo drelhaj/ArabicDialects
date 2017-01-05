@@ -1,0 +1,1 @@
+ايطاليا/NNP و/CC البرتغال/DTNNP و/CC اليونان/DTNNP تقريبا/NN نفس/NN النسبة/DTNN فرنسا/NNP في/IN و/CC في/IN تونس/NNP بالله/NNP فهمهالي/NNP هذه/DT اسبانيا/NN فيها/NN في/IN المائة/DTNN بطالة/NN 

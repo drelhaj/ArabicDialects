@@ -1,0 +1,1 @@
+اخي/NN ابوفادي/NNP ./PUNC ./PUNC بلاش/NNP احصائية/JJ خط/NN الفقر/DTNN في/IN الأردن/DTNN !!/VBD هاي/NNP صعبة/JJ عليهم/NN !!/NN 

@@ -1,0 +1,1 @@
+بوركت/NNP الارض/DTNN التي/WP انجبتك/VBD ولو/NNP ان/IN كل/NOUN النساء/DTNN مثلك/NN لما/IN كان/VBD هنالك/RB حاجة/NN لصندوق/NN المعونة/DTNN الوطنية/DTJJ ./PUNC 

@@ -1,0 +1,1 @@
+وفق/NN الله/NNP الجميع/NOUN وكتب/NN السعادة/DTNN للجميع/DTJJ ./PUNC ./PUNC وارجو/NNP من/IN المجتمع/DTNN بأن/NN لا/RP يظلم/VBP احد/NN بالمسميات/NNS ./PUNC ./PUNC فلا/NN يرحم/VBP من/IN لم/RP تتزوج/VBP ويجرح/DTNN المطلقة/DTJJ بالفاظ/NNP لا/RP داعي/NN لها/NN .../PUNC 

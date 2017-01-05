@@ -1,0 +1,1 @@
+انا/PRP عاوز/VN اتاكد/NN اذا/IN كنت/VBD هقدر/NNP اسافر/NN من/IN هيدفع/NN لى/NN ثمن/NN التذكرة/DTNN وعشان/NN اخفف/JJR عليكم/NN المصاريف/DTNN عاوز/VN تذكرتين/NNS ذهاب/NN انا/PRP والطبيبة/NN زوجتى/NN وسيبكم/JJ من/IN العودة/DTNN ./PUNC البعد/DTNN عنكم/NN غنيمة/JJ 

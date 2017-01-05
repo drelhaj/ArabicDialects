@@ -1,0 +1,1 @@
+بداية/NN تشكيلة/NN امبارح/NN راح/NN منها/NN اهم/JJR لاعب/NN بمبارياتنا/NN السابقه/DTNN والي/NN هوا/NN يحيى/NNP جمعه/NNP اللاعب/DTNN المتميز/DTJJ -LRB-/PUNC -LRB-/PUNC بعدين/NNP اتزكر/NNP ينزله/NNP -RRB-/PUNC -RRB-/PUNC 

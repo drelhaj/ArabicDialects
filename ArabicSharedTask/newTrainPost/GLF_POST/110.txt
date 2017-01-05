@@ -1,0 +1,1 @@
+ياحليلك/VBP ياعبير/NNP ألحين/NNS بعض/NOUN البنات/DTNNS صاروا/VBD هم/PRP الي/IN يغازلون/VBP ./PUNC 

@@ -1,0 +1,1 @@
+ذوسائل/NN المواصلات/DTNNS العامة/DTJJ اولا/ADJ غير/NN منتظمة/JJ وكأن/NN العاملين/DTNNS بها/NN بيشتغلوا/NNP ''/NNP -LRB-/PUNC في/IN عزبة/NN ابوهم/NNP -RRB-/PUNC ''/VBD وعددها/NN قليل/JJ جدا/NN ولا/NN تمثل/VBP اي/NOUN اعتماد/NN رئيس/NN للأهالي/JJ لأستخدامها/NN ./PUNC ./PUNC فيييين/NNP شغلك/NNP يامعالي/NNP سيادة/NN المحافظ/DTNN ./PUNC 

@@ -1,0 +1,1 @@
+الى/IN الاستاذ/DTNN العميري/DTJJ المحترم/DTJJ كلامك/NNP اليوم/DTNN صحيح/JJ مائه/NN بالمائه/NNP ولكنه/NNP جاء/VBD من/IN العيار/DTNN الثقيل/DTJJ اليوم/DTNN على/IN نادي/NN الوحدات/DTNNS ./PUNC 

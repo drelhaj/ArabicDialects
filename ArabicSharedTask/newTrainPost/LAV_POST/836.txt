@@ -1,0 +1,1 @@
+ليش/NNP شو/NNP سار/NNP شو/NNP نعمل/VBP احنا/NN جمهور/NN الفيصلي/DTNNP بنلم/NNP تبرعات/NNS 

@@ -1,0 +1,1 @@
+كلو/NNP كوم/NNP و/CC ضربتين/NNS الجزاء/DTNN اللي/WP ضيعهم/VBP قصي/NN كوم/NNP .../PUNC ./PUNC 

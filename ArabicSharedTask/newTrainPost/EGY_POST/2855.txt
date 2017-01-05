@@ -1,0 +1,1 @@
+فين/NNP لجنة/NN الكرة/DTNN في/IN الأهلي/DTNNP وسايب/NNP حسام/NNP البدري/DTNNP اللي/WP مش/NN عرف/VBD بيعمل/NNP أيه/NNP ./PUNC 

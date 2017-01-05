@@ -1,0 +1,1 @@
+3/CD -/PUNC التوسع/DTNN في/IN قبول/NN ابناء/NN المعلمين/DTNNS -LRB-/PUNC المكرمة/DTNN الملكية/DTJJ السامية/DTJJ لابناء/NN المعلمين/DTNNS -RRB-/PUNC ومساواتهم/NN بأبناء/NN المكرمة/DTNN العسكرية/DTJJ من/IN حيث/WRB الحقوق/DTNN والأمتيازات/NNS ./PUNC 

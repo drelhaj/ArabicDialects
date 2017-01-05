@@ -1,0 +1,1 @@
+ياريت/NNP تلمو/VBP البودره/DTNN والبرشام/NN الي/IN حيكلو/NN العيال/DTNN ./PUNC الحشيش/DTNN مش/NN حيموت/NN حد/NN بس/NN دول/NN حيدمرو/NNP البلد/DTNN 

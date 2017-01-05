@@ -1,0 +1,1 @@
+أ/NN ./PUNC محمود/NNP .../PUNC انت/PRP عملت/NN اللى/WP عليك/VBN وعتابى/NN لك/NN ان/IN بلدنا/VBD بها/NN اشياء/NN اكبر/JJR من/IN كده/NN بكثير/NN قوى/NN 

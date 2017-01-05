@@ -1,0 +1,1 @@
+فمثلا/NN اكبر/JJR رأس/NN مال/NN لبنك/JJ اردني/JJ هو/PRP 720/CD مليون/CD دينار/NN تقريبا/NN اي/NOUN ان/IN مبلغ/NN التعثر/DTNN يفوق/VBP رأس/NN مال/NN بنك/NN بالكامل/NNP ونحن/NNP نتحدث/VBP عن/IN اكبر/JJR بنك/NN بالاردن/JJ وهو/VBD بنك/NN دولي/JJ ./PUNC 

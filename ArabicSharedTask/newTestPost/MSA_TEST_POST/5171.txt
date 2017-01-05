@@ -1,0 +1,1 @@
+./PUNC ./PUNC أتمنى/VBD ومن/NN كل/NOUN قلبي/NN ان/IN يكتب/VBP له/NN الاسلام/DTNN هدا/NN الرجل/DTNN القوي/DTJJ الدي/DTJJ لا/RP يخاف/VBP من/IN قول/NN الحق/DTNN ./PUNC ./PUNC اللهم/NN اجعله/NN مسلما/NN وعجل/JJ في/IN اسلامه/NNP 

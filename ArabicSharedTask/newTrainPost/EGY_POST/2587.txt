@@ -1,0 +1,1 @@
+يعنى/VBP لو/IN فى/IN شغل/NN ./PUNC ./PUNC وفى/VBD شقق/NN ./PUNC ./PUNC حد/NN هيعمل/NNP كده/NNP 

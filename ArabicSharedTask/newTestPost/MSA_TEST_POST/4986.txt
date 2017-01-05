@@ -1,0 +1,1 @@
+40/CD مليون/CD دينار/NN .../PUNC ثم/CC إلغاء/NN الاتفاق/DTNN ؟/NN !/PUNC لماذا/WRB الإلغاء/DTNN و/CC لماذا/WRB وقع/VBD الاتفاق/DTNN في/IN الأصل/DTNN ./PUNC 

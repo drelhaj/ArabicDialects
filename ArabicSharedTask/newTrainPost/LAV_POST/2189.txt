@@ -1,0 +1,1 @@
+طبعا/NN موقفو/NNP جميل/NNP ويشكر/NNP عليه/NNP ./PUNC ./PUNC لكن/VBP انو/NN يغير/VBP اسمو/VBD من/IN اسرائيل/NNP لاسرافيل/NNP ./PUNC ./PUNC اشي/VB مابفش/NN الغل/DTNN ./PUNC ./PUNC وكان/NNP الاولى/ADJ ان/IN يسمي/VBP نفسه/NN فلسطين/NNP او/CC حماس/NNP او/CC غزة/NNP او/CC عزالدين/NNP القسام/DTNNP او/CC على/IN الاقل/DTJJR عزرايين/NN قابض/NN الارواح/DTNN 

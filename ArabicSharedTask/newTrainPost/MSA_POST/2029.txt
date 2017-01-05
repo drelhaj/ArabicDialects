@@ -1,0 +1,1 @@
+ويشهد/NNP الله/NNP ./PUNC ./PUNC ان/VBP فوزنا/NNP بالدوري/NNP وخطفه/NN من/IN الوحداتيين/DTNNS وحرمانهم/NNP منه/NNP يساوي/VBP كل/NOUN البطولات/DTNNS 

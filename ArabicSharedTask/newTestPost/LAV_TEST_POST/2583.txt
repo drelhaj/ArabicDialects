@@ -1,0 +1,1 @@
+ممكن/JJ اسأل/NN سؤال/NN ليش/NN ستاد/NN عمان/NNP كما/CC مسكر/NNP أي/NNP لو/IN بتوسعوا/VBD فيه/NNP لصار/NNP خالص/VBD صارله/NN سنة/NN مسكر/JJ بكفي/JJ بعدين/NN كأس/NN الكؤوس/DTNN لازم/VBD ينلعب/VBP بالقويسمة/NN لعدة/NN اسباب/NN :/PUNC 1-مكانه/CD في/IN العاصمة/DTNN عمان/NNP 2-افضل/NNP ارضية/NN ملعب/NN في/IN الأردن/DTNN 3-مدرجاته/NN اكبر/JJR وافضل/NN من/IN ملعب/NN الزرقاء/DTNNP 

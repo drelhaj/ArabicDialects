@@ -1,0 +1,1 @@
+ان/VBP الالتزام/DTNN بروح/NN القانون/DTNN هو/PRP امتثال/NN لقواعد/NN الاخلاق/DTNN الحميدة/DTJJ ,/PUNC وبعكس/NN ذلك/DT يكون/VBP حبا/NN للنفس/JJ مع/NN الاصرار/DTNN على/IN أذى/NN الآخرين/DTNNS ويكون/NNP قد/RP فقد/VBD معنى/NN ان/IN بكو/NNP انسانا/NN 

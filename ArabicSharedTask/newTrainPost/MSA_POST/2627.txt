@@ -1,0 +1,1 @@
+انا/PRP لله/NN وانا/NN اليه/NNP راجعون/NNP ./PUNC رحمهم/NNP الله/NNP عز/VBD وجل/NN جميعا/NOUN وغمد/NN روحهم/NN الجنة/DTNN ./PUNC وكما/NN يقال/VBN :/PUNC لاتدري/NNP نفس/NN باي/NNP ارض/NN تموت/NNP ./PUNC 

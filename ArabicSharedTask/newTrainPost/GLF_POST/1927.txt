@@ -1,0 +1,1 @@
+كنت/VBD ناوي/NNP اتزوج/VBD بس/NN الحين/DTNN مافيه/NNP امل/NNP ؟/IN دام/VBD الزواج/DTNN فيه/NNP مشاكل/NN ؟/NN هاذي/JJ قالت/VBD وهاذا/NN قال/VBD يذكرني/NNP بالابتدائي/NNP ./PUNC 

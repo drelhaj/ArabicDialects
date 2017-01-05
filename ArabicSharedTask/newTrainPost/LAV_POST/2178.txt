@@ -1,0 +1,1 @@
+يالله/VBP النا/NNP الله/NNP ./PUNC ./PUNC و/CC الله/NNP يعين/VBP الناس/DTNN ./PUNC جاييهم/NNP رمضان/NNP أأأهلا/NNP عمي/NNP 

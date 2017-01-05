@@ -1,0 +1,1 @@
+النادي/DTNN الفيصاي/DTJJ اسم/NN كبير/JJ ./PUNC ./PUNC ولكن/VBN اين/WRB الديمقراطية/DTJJ ؟/VBD ؟/NN ؟/NN واين/NNP التجديد/DTNN في/IN النادي/DTNN الفيصلي/DTNNP 

@@ -1,0 +1,1 @@
+مبارك/NNP للامام/NNP واتمنى/NNP بوجود/NNP الروح/DTNN الرياضية/DTJJ لذى/VBD الجميع/NOUN ./PUNC 

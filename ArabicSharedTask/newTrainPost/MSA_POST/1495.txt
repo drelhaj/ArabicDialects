@@ -1,0 +1,1 @@
+2/CD ./PUNC ضرورة/NN التعاقد/DTNN مع/NN مهاجمين/NNS على/IN سوية/NN عالية/JJ وان/NNP لم/RP نكن/VBP قادرين/JJ على/IN ذلك/DT فعلينا/NN اشراك/NN المواهب/DTNN الصغيرة/DTJJ التي/WP تقدم/VBP مستويات/NNS لافتة/JJ مع/NN فرق/NN الناشئين/DTNNS والشباب/NN والصبر/NNP عليهم/NNP ./PUNC 

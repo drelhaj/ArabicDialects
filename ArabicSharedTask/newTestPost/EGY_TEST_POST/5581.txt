@@ -1,0 +1,1 @@
+ولكن/VBN أخطأعندما/NN أختار/NNP شريف/NNP والي/NN امينا/NN للحزب/NN بالجيزة/JJ ./PUNC ./PUNC مشاكله/NN كترت/NNP ./PUNC ./PUNC والحزب/NNP خربان/NNP 

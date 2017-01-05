@@ -1,0 +1,1 @@
+اللهم/NN ارحمه/NN وعفه/NN واعفوا/NNP عنه/NNP ,/PUNC اللهم/NN نقه/NN من/IN خطاياه/NN كما/CC ينقى/VBP الثوب/DTNN الأبيض/DTJJ من/IN الدنس/DTNN ,/PUNC اللهم/NN اغسله/NN بالماء/JJ والثلج/NN والبرد/NN ,/PUNC اللهم/NN سبحانك/NNP انت/PRP المولى/DTNNP وانت/VBD النصير/DTNN .../PUNC 

@@ -1,0 +1,1 @@
+بداية/NN لي/NNP تعليق/NN على/IN ما/WP ذكر/VBD في/IN المقالة/DTNN عن/IN أن/NN الفتيات/DTNNS يبحثن/VBP عن/IN رجل/NN شرقي/NN للحماية/JJ ،/VBD مما/NN يفترض/VBN أن/NN الرجل/DTNN الغربي/DTJJ لا/RP يوفر/VBP الحماية/DTNN لزوجته/NN ؟/NN ؟/NN هذا/DT أمر/VBD مغلوط/NN ،/NN فالرجل/JJ سواء/NN شرقي/NN أو/NN غربي/JJ يهمه/VBP أمن/NN وسلامة/NN زوجته/NN ./PUNC 

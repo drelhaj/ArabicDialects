@@ -1,0 +1,1 @@
+مش/NN قلتلكم/NNP قبل/NN كده/NNP :/PUNC ياما/NNP فى/IN الجراب/DTNN يا/RP بردعى/NN ؟/VBD وما/NN فيش/NNP دخان/NN من/IN غير/NN نار/NN ؟/NN ولسه/NNP ولسه/NNP ياما/NNP هنشوف/NNP ,/PUNC مصر/NNP بقت/VBD مسرح/NN كبير/JJ للكوميديا/JJ الواقعية/DTNN ,/PUNC وما/NN بقاش/NNP عادل/NNP امام/NN الكوميديان/DTNN الوحيد/DTJJ اللى/WP بيضحك/VBP الناس/DTNN ,/PUNC ههههههههه/NNP !/PUNC 

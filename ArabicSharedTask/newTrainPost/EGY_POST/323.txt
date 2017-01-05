@@ -1,0 +1,1 @@
+اقباط/NN مصر/NNP مع/NN حسنى/NNP مبارك/NNP -LRB-/PUNC طبعا/NN اومال/NN هيبقوا/VBD مع/NN اللى/WP اول/ADJ ما/WP حط/VBD ايده/NNP حطها/NN فى/IN ايد/NN الاخوان/DTNN ؟/CD -RRB-/PUNC 

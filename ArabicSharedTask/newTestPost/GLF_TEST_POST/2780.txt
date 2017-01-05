@@ -1,0 +1,1 @@
+محاسب/NN ويفتي/NNP ,/PUNC ,/PUNC أكيد/VBD سيأتي/NNP بالعجائب/NNP ./PUNC ./PUNC إلا/VBD عندي/NNP سؤال/NN :/PUNC هذا/DT لو/IN قلطنا/VBD عنده/NN على/IN العشاء/DTNN يخلي/VBP حرمته/NN وبناته/NN وخواته/NN يتعشون/VBP مع/NN الرجاجيل/DTNN ؟/VBD ؟/NN ولا/NN الاختلاط/DTNN حلال/NNP لبنات/NNS الناس/DTNN بس/NN ؟/NN ؟/CD 

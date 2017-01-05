@@ -1,0 +1,1 @@
+رحمك/NNP الله/NNP يا/RP شيخ/NN الأقصى/DTNN ./PUNC ومبروك/NN لك/NN الشهادة/DTNN التي/WP طالما/IN حلمت/VBD بها/NN ./PUNC 

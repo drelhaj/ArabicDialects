@@ -1,0 +1,1 @@
+إيه/NN الحكاية/DTNN كل/NOUN ما/WP واحد/NN شريف/NNP ونظيف/NNP يخرج/VBP ويقول/NN عاوزين/JJ نصلح/VBP ما/WP افسده/VBD الاخرون/DTNNS ونحاول/NN مساعدة/NN هذا/DT الشعب/DTNN فى/IN عدم/NN سرقته/NN واستغلاله/NN ونهب/NN ثروات/NNS البلاد/DTNN وان/NNP كل/NOUN شيىء/NN فيها/NN يصبح/VBP بالانتخاب/NN وليس/NN بالتعيين/JJ ./PUNC ./PUNC 

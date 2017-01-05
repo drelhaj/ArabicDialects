@@ -1,0 +1,1 @@
+./PUNC هينا/NNP جربنا/VBD كل/NOUN إشي/NN ومانفع/NN معنا/NN إشي/NNP !!/CD 

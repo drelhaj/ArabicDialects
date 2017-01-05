@@ -1,0 +1,1 @@
+طيب/NNP يالأتصالات/NNP وليه/NNP ماخلتيهم/NNP يلبسون/VBP قمصان/NN النادي/DTNN وواضح/NN عليه/NNP شعاركم/NNP ./PUNC ./PUNC ولا/VBD وش/NN فايدة/NN الدعاية/DTNN ببدل/NNP مالها/NNP داعي/NN 

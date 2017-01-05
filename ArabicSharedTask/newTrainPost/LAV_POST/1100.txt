@@ -1,0 +1,1 @@
+عامر/NNP ذيب/NNP نريد/VBP ان/IN تفشل/VBP صفقته/NN بالعراق/NN احترف/NN في/IN اي/NOUN بلد/NN يا/RP اخي/NN العراق/DTNNP بلد/NN كلها/NN حروب/NN واحنا/NN مش/NN ناقصين/JJ مشاكل/NN احترف/NN بدوري/NN الدرجه/DTNN الاولى/ADJ ولا/NN تروح/VBP على/IN العراق/DTNNP -LRB-/PUNC احنا/NN لاقينيك/NNP يا/RP زلمه/NNP -RRB-/PUNC 

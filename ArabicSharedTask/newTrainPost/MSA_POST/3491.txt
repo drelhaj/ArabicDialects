@@ -1,0 +1,1 @@
+والله/NNP الموفق/DTJJ والشكر/NNP لله/NNP ثم/CC للرئيس/NNP سعد/NNP الحريري/DTNNP على/IN هذه/DT التحركات/DTNNS الجاده/DTJJ والساعيه/NN لدعم/NN السياسات/DTNNS الدوليه/DTJJ لتحقيق/NN الامن/DTNN والاستقرار/NN بالمنطقه/NNP والعالم/NNP لاكثر/NNP المناطق/DTNN شهره/NNP -LRB-/PUNC الشرق/DTNN الاوسط/DTJJR -RRB-/PUNC عبر/NN التاريخ/DTNN والثقافه/NNP العالميه/DTNNP ./PUNC 

@@ -1,0 +1,1 @@
+والصورة/NNP الموجودة/DTJJ هي/PRP طلب/NN الترشيح/DTNN للسنة/NN الماضية/DTNN أما/NN السنة/DTNN الحالية/DTJJ فكان/NN يحوي/VBP مكان/NN لولادة/NNP الاب/DTNN .../PUNC 

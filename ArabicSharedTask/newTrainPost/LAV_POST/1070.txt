@@ -1,0 +1,1 @@
+وبنقول/NNP ليش/NNP البلد/DTNN مكسورة/NNP ,/PUNC والاقتصاد/NNP متدمر/NNP ,/PUNC لأن/VBD في/IN ناس/NN بيشتروا/NNP الاشاره/DTNNP بمبلغ/NNP 200/CD دينار/NN وبسجلوا/VBD كلفة/NN الاشاره/DTNN 20/CD الف/CD !!!/NN يعني/VBP ما/WP في/IN عاقل/NN بصدق/NNP ان/IN الاشاره/DTNN الوحده/DTJJ بتكلف/NNP 20/CD الف/CD !!!/NN على/IN شو/NNP !!!/CD 

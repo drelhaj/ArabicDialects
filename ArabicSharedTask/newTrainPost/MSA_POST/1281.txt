@@ -1,0 +1,1 @@
+تستحق/VBP كل/NOUN الاندية/DTNN الاردنية/DTJJ منا/NN كل/NOUN الاحترام/DTNN والتقدير/NNP ./PUNC ./PUNC وخصوصا/NN فريق/NN شباب/NNP الاردن/DTNNP احد/NN اقطاب/NN الكرة/DTNN الاردنية/DTJJ وممثل/NN الاردن/DTNNP الوحيد/DTJJ حاليا/JJ في/IN كاس/NN الاتحاد/DTNN الاسيوي/DTJJ 

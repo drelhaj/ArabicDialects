@@ -1,0 +1,1 @@
+ده/DT بيقولك/NN ''/NN قاطعوا/VBD الانتخابات/DTNNS ''/NN و/CC بيشجع/NN الشباب/DTNN تهاتي/VBP في/IN الشارع/DTNN و/CC تتعرض/VBP للأمن/NN طبعا/NN لأنها/NN قافلة/NN ميدان/NN التحرير/DTNN و/CC بينادو/NNP بسقوط/NNP النظام/DTNN ./PUNC ./PUNC اسقاط/NN الانظمة/DTNN لا/RP يأتي/VBP ''/NN بالمهاتية/JJ ''/VBD يا/RP حلوين/NN يا/RP مؤيدي/NNS البرادعي/DTNN 

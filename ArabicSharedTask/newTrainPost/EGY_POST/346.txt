@@ -1,0 +1,1 @@
+المشكلة/DTNN انى/VBD مش/NN لاقى/VBD ولا/NN تعليق/NN بيمدح/NNP فى/IN تصريحات/NNS السيد/DTNN المستشار/DTNN بل/CC بالعكس/NN جابه/NN لنفسه/NN بمثل/NN هذه/DT التصريحات/DTNNS وقلب/VBN على/IN نفسه/NN مواجع/JJ كان/VBD فى/IN غنى/NN يسمعها/JJ او/CC يفتكرها/NN ./PUNC 

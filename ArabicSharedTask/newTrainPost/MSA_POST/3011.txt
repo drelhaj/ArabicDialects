@@ -1,0 +1,1 @@
+ادارة/NN فريق/NN او/CC نادي/NN تحتاج/VBP لخبرة/NN و/CC ممارسة/NN للعبة/NN ./PUNC الخطأ/DTNN الذي/WP ارتكبه/VBD طارق/NNP خوري/NNP لا/RP يمكن/VBP ان/IN يرتكبه/VBP خبرات/NNS كروية/JJ مثل/NN جمال/NNP محمود/NNP او/CC عزت/NNP حمزة/NNP او/CC ابناء/NN شلباية/NNP فرفع/NN المعنويات/DTNNS ليس/VBD بهذه/NN الطريقة/DTNN 

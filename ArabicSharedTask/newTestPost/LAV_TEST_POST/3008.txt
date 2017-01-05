@@ -1,0 +1,1 @@
+يا/RP عالم/NN الله/NNP اكبر/JJR اي/NOUN قسما/NN بالله/NNP اشي/NNP بقشعر/NNP البدن/DTNN ./PUNC ./PUNC شوف/NN قديش/NN اهله/NN تعبه/VBP لمن/NN كبروه/NN وشافو/NNP المر/DTNNP لمن/NNP صار/VBD شاب/NN ووصل/NN مرحلة/NN التوجيهي/DTJJ وراح/NN بشربة/NNP مي/NNP ./PUNC ./PUNC اي/RP يجعل/VBP لحدا/NN نجح/VBD اذا/IN بدي/NN اخسر/VBD شعره/NN من/IN شعر/NN ابني/NNP 

@@ -1,0 +1,1 @@
+الوحدات/DTNNS صاحب/NN الرباعيه/DTNN الاردنيه/DTJJ وبرشلونه/NNP صاحب/NN الرباعيه/DTNN العالميه/DTJJ خروجكم/NNP في/IN يوم/NN واحد/JJ دليل/NN على/IN انكم/NN فرق/NN كبيره/NN حاربتكم/JJ في/IN كل/NOUN الجبهات/DTNNS بطوله/NN الدوري/DTNN والكأس/NN والبطولات/NNS الخارجيه/DTNNP ./PUNC 

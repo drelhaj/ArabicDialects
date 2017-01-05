@@ -1,0 +1,1 @@
+تراني/NNP عزوبي/NNP واعرف/NN اكثر/JJR منهم/NN خخخ/NN ^/CD _/PUNC ^/CD 

@@ -1,0 +1,1 @@
+ازاى/VBD والنظام/NNP والبرلمان/NNP بيدافع/NNP عن/IN حياته/NN كما/CC يقول/VBP المثل/DTNN -LRB-/PUNC -LRB-/PUNC يا/RP قاطع/NN قوتى/NN يا/RP ناوى/VBN على/IN موتى/NN -RRB-/PUNC -RRB-/PUNC 

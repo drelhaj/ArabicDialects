@@ -1,0 +1,1 @@
+يوم/NN لشهر/NN لتر/NN حليب/NN مرتين/NNS في/IN النهار/DTNN من/IN شهر/NN لشهرين/NNS من/IN من/WP ثلاثة/CD أيام/NN إلى/VBD يوم/NN تعطيه/NN لتر/NNP مرتين/NNS في/IN النهار/DTNNP 

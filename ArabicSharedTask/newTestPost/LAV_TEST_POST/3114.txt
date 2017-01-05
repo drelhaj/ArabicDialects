@@ -1,0 +1,1 @@
+وهيك/NNP علمنا/NNP ابو/NNP حسين/NNP .../PUNC شعب/NN واحد/JJ مش/NN شعبين/NNS 

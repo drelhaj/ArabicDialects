@@ -1,0 +1,1 @@
+تركناها/NN لغيرنا/NNP يفرحو/NNP فيها/NNP ./PUNC ./PUNC بس/NN هالمرة/NNP مش/NN رايح/NN تسلم/NN الهم/DTNN الجرة/DTJJ 

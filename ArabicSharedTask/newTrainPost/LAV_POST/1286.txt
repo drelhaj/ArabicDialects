@@ -1,0 +1,1 @@
+كنا/VBD نحضر/VBP افتتاحية/NN كاس/NN العالم/DTNN انا/PRP وصديقي/JJ وسالني/NNS شو/NNP بلش/NNP الفطبل/DTNN وكيف/NN حظوظ/NN الفيصلي/DTNNP والوحدات/NNS في/IN هذا/DT الكاس/DTNN ./PUNC 

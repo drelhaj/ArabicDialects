@@ -1,0 +1,1 @@
+المبلغ/DTNN الفروض/DTNN للغرامة/NNP ليس/VBD رادعا/NN اذا/IN قارناه/VBD بالضرر/NNP الي/IN يسببه/VBP المدخن/DTNN لمن/NNP حوله/NNP واتمنى/NNP ان/IN تكون/VBP العقوبة/DTNN بدنية/NN كالجلد/NNP في/IN مكان/NN عام/NN حتى/IN لا/RP يتأثر/VBP من/IN يعولهم/VBP المدخن/DTNNS بالغرامة/DTJJ التي/WP ستنقص/VBD عليهم/NN نفقاتهم/NNP الحياتية/DTJJ ./PUNC 

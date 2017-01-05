@@ -1,0 +1,1 @@
+انا/PRP مسيحى/JJ عجبنى/NN تعليق/NN الاخ/DTNN المسلم/DTJJ -LRB-/PUNC على/IN فكرة/NN دا/NN مش/NN اسلوبى/NN اخ/NN مسلم/NN واخ/NN مسيحى/JJ كلنا/VBD مصريين/JJ وما/NN حدش/NN يعرفنا/VBP من/IN بعض/NOUN -RRB-/PUNC رقم/NN 6/CD ولو/NN الدولة/DTNN فهمت/VBD كلامه/NN ولو/NN الدولة/DTNN حبت/VBD الشعب/DTNN الدنيا/DTNN هتتعدل/NNP 

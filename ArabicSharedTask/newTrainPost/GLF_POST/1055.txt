@@ -1,0 +1,1 @@
+حلوة/JJ يا/RP جريدة/NN الرياض/DTNNP ./PUNC ./PUNC اذا/IN المؤشر/DTNN مرتفع/JJ ./PUNC ./PUNC حطيتوا/VBD صورة/NN صالة/NN التداول/DTNN وفيها/NN ناس/JJ ./PUNC ./PUNC إذا/NN منخفض/JJ ./PUNC ./PUNC نفس/NN المكان/DTNN بس/NN مافيه/NN ناس/JJ ./PUNC ./PUNC خخخ/NN ./PUNC ./PUNC :/PUNC -RRB-/PUNC 

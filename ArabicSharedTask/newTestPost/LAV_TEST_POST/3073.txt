@@ -1,0 +1,1 @@
+عنجد/NNP الفيصلي/DTNNP غير/NN شكلءمبروك/NN يا/RP محمد/NNP خير/NN لبسك/NN الفنيله/DTNN الزرقاء/DTJJ ومبروك/NNP يا/RP فيصلي/NNP عليكم/NNP محمد/NNP وان/NNP شاء/VBD الله/NNP وجهك/NN خير/NN بالتتويج/NNP بالكأس/NNP وراح/NN تكون/VBP الفرحه/DTNN فرحتين/NNS فرحه/NN الفوز/DTNN بالكأس/NNP وفرحه/NNP الفوز/DTNN على/IN الوحدات/DTNNS ويا/NN رب/NN خير/NN .../PUNC حموز/NNP الفيصلاوي/DTNNP 

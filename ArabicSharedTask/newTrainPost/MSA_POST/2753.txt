@@ -1,0 +1,1 @@
+وكذلك/NN لعب/VBD بدون/IN المدرب/DTNN الذي/WP لم/RP يحضر/VBP بعد/NN ان/IN جلد/NN لاعبوه/NNP مرمى/NN الوحدات/DTNNS بعدد/NN لا/VBP باس/NN به/NN من/IN الاهداف/DTNN في/IN الخرطوم/DTNNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+اولا/ADJ اسم/NN القريه/DTNNP كفر/NNP المصيلحه/DTNNP مش/NN كفر/NN مصيلحى/JJ ./PUNC ./PUNC ثانيا/ADJ مدرسه/NN الريس/DTNN فى/IN شبين/NN مش/NN فى/IN كفر/NN المصيلحه/DTNN الا/RP بقى/VBD لو/IN كان/VBD زار/VBD المدرسه/DTNN الابتدائى/DTJJ ./PUNC ./PUNC 

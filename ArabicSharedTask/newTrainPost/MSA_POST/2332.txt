@@ -1,0 +1,1 @@
+معقول/JJ ./PUNC ./PUNC اسوأ/VBD خبر/NN يمكن/VBP ان/IN يسمعه/VBP أي/NN أردني/JJ ./PUNC ./PUNC كأن/VBD من/IN عمل/NN على/IN هذا/DT القانون/DTNN لا/RP يعيش/VBP في/IN الأردن/DTNN ولم/NN يشهد/VBP ما/WP أحدثه/VBP الصوت/DTNN الواحد/DTJJ من/IN استقطاب/NN عشائري/NNS ومناطقي/JJ والغاء/NN للقوى/NN والاحزاب/DTNN السياسية/DTJJ 

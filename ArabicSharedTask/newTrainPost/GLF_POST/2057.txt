@@ -1,0 +1,1 @@
+هالحين/NNP ماتعطون/NNP الرجال/DTNN فلوسه/NNP وجالسين/NNP تشتمون/VBP فيه/NNP عشان/NNP يلعب/VBP عشانكم/NNP ,/PUNC ,/PUNC صدق/NN فقراويه/NNP ,/PUNC ,/PUNC ,/PUNC 

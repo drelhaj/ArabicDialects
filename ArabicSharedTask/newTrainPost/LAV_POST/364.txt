@@ -1,0 +1,1 @@
+والله/NNP يا/RP عمي/NNP الرمثا/DTNNP بدعت/VBD مبارح/NN والله/NN لو/IN كان/VBD عندهم/NN شويت/NNP خبرة/NN لكان/NN وضع/NN الفيصلي/DTNNP مأساوي/NNP ولكن/NNP مبارك/NNP هذا/DT الانجاز/DTNN للرمثا/NN ./PUNC 

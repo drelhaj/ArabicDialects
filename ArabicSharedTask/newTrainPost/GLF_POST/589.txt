@@ -1,0 +1,1 @@
+والله/NN نريد/VBP بطولاتك/NN ترجع/VBP ./PUNC ./PUNC وينك/NNP يالزياني/NNP وينك/NNP ياصالح/VBP خليفه/NN وينك/NNP ياباخشوين/NNP والدبيخي/NNP ./PUNC ./PUNC 

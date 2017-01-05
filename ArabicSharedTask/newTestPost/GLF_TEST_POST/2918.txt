@@ -1,0 +1,1 @@
+كلها/NN عشب/NN بعشب/NNP ./PUNC ./PUNC ماأدري/NNP ليش/NNP مليار/CD ./PUNC ./PUNC 

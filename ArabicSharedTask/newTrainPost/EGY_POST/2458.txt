@@ -1,0 +1,1 @@
+من/IN يقول/VBP 98/CD %/PUNC من/IN التعليقات/DTNNS هنا/RB تؤيد/VBP البرادعى/DTNN \//NN حضرته/NN مش/NN فاهم/JJ ان/IN كل/NOUN واحد/NN من/IN شباب/NN الفيسبوك/DTNNP بتوع/NN البرادعى/DTNN بيقعد/NNP على/IN النت/NN يكتب/VBP الاف/NN التعليقات/DTNNS باسامى/VBD مختلفة/JJ ؟/NN !!!!/NN 

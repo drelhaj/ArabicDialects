@@ -1,0 +1,1 @@
+كان/VBD لديهما/NN سيفان/NNP جاهزان/NNP -/PUNC ليس/VBD سكين/NN مطبخ/NN أو/NN مقص/NN أو/NN شيء/NN في/IN متناول/NN اليد/DTNN -/PUNC بل/CC سيف/NNP 

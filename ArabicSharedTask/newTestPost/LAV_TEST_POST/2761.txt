@@ -1,0 +1,1 @@
+يا/RP جماعه/NN ليش/NNP مستعجلين/VN على/IN الزلمه/DTNN .../PUNC والله/NN حرام/NN عليكم/NN هيك/NNP .../PUNC كنتو/NNP ستنيتو/NNP شوي/NNP حتى/IN يكملهم/VBP لل100/NN .../PUNC والله/NN غلبتو/NNP حالكم/NNP و/CC حمدالله/NNP على/IN السلامه/DTNN ./PUNC 

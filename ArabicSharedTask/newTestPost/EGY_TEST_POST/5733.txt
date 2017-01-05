@@ -1,0 +1,1 @@
+إلى/VBD رقم/NN 10/CD أحترم/NN نفسك/NN يأخوى/VBP أكل/NN وشرب/NN ايه/NN هى/NNP بالأكل/NNP والشرب/NNP انت/PRP أهبل/NN ولا/NN عبيط/NN وبعدين/JJ مالنا/VBD ومال/NN سياسات/NNS الدول/DTNN وتحيا/NN مصر/NNP وتحيا/NN الصعيد/DTNN وتحيا/NN الدول/DTNN العربية/DTJJ الشقيقة/DTNN المخلصة/DTJJ ./PUNC 

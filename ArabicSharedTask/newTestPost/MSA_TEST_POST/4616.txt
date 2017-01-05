@@ -1,0 +1,1 @@
+ـ/VBD إن/NN 80/CD %/PUNC من/IN المدخنين/DTNNS في/IN العالم/DTNN هم/PRP ذكور/NN ،/NN أما/NN الإناث/DTNN فيشكلن/NNP 20/CD %/PUNC من/IN المدخنين/DTNNS ./PUNC 

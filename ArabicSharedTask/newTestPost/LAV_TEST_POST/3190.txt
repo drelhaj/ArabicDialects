@@ -1,0 +1,1 @@
+عدنان/NNP حمدو/NNP يا/RP مدرب/NN المنتخب/DTNN يا/RP معلم/NN هل/RP شاهدت/VBD رأفت/NN علي/IN سؤال/NN سألناه/NNP الف/CD مره/NN وما/NN بدنا/NN ترد/VBP علينا/NN يا/RP ابو/NN الخطط/DTNN التكتيكيه/DTJJ انت/PRP ./PUNC 

@@ -1,0 +1,1 @@
+هذا/DT الخبر/DTNN المفرح/DTJJ اخيرا/NN جبنا/VBD لاعب/NN زي/NN العالم/DTNN والناس/NNP جونيورز/NNP اسطورة/NN الزعيم/DTNN الجديد/DTJJ ان/IN شاء/VBD الله/NNP كل/NOUN البطولات/DTNNS الاردنية/DTJJ للزعيم/NNP -LRB-/PUNC الاردني/DTJJ -RRB-/PUNC 

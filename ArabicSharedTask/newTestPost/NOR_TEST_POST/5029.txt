@@ -1,0 +1,1 @@
+عاما/NN للنساء/NN العاصمة/DTNN طرابلس/NNP اللغة/DTNN الرئيسية/DTJJ العربية/DTJJ اللغة/DTNN الرسمية/DTJJ الدين/DTNN و/CC تعداد/NN السكان/DTNN ملايين/CD نسمة/NN الأمم/DTNN المتحدة/DTJJ متوسط/NN الأعمار/DTNN عاما/NN للرجال/NNP 

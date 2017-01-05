@@ -1,0 +1,1 @@
+الحمدلله/DTNN على/IN نعمه/NNP الكثيرة/DTJJ لبلدنا/VBD الطيب/DTNNP والغالي/NNP -LRB-/PUNC الاردن/DTNNP -RRB-/PUNC حمى/VBD الله/NNP بلدنا/NNP بقيادة/NNP سيد/NN البلاد/DTNN الملك/DTNN عبدالله/NNP الثاني/DTNNP المعظم/DTJJ ./PUNC 

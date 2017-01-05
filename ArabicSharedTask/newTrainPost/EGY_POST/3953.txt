@@ -1,0 +1,1 @@
+هو/PRP مافيش/NNP فى/IN مصر/NNP غير/NN الشيخ/DTNN خالد/NNP .../PUNC الشيخ/DTNN خالد/NNP حرام/NN كده/NNP والله/NNP مصر/NNP فيها/NN كتيييرعلماء/JJ 

@@ -1,0 +1,1 @@
+2/CD -/PUNC صرامة/NN في/IN عقوبة/NN الحق/DTNN العام/DTJJ -LRB-/PUNC وعلى/NN الجميع/NOUN -RRB-/PUNC وبالعدل/NN ./PUNC فالعدل/NNP أساس/NNP الحكم/DTNN ./PUNC 

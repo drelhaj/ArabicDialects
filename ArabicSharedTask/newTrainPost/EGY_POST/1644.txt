@@ -1,0 +1,1 @@
+و/CC دي/NN معلومه/NNP للاخوه/NNP اللي/WP بيتهموا/VBD البرادعي/DTNN انه/NNP لما/NNP كان/VBD رئيس/NN للمنظمه/NN الدوليه/DTNN للطاقه/NN الذريه/DTNN ماكانش/NNP بيفتش/NNP علي/IN اسرائيل/NNP طيب/JJ و/CC يفتش/VBP عليها/NN ازاي/NNP و/CC هيه/NNP ما/WP ماضيتش/VBD علي/IN الاتفاقيه/DTNN زي/NN بقيت/VBD الدول/DTNN العربيه/DTJJ .../PUNC ؟/NN !/PUNC 

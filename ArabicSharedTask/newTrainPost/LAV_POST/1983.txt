@@ -1,0 +1,1 @@
+بدري/NNP يا/RP جماعة/NN .../PUNC يطعمكم/VBP الحج/DTNN و/CC الناس/DTNN راجعة/JJ ./PUNC 

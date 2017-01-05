@@ -1,0 +1,1 @@
+د/NN ./PUNC وليد/NNP المعاني/DTNNP وزير/NN التعليم/DTNN العالي/DTJJ ./PUNC 

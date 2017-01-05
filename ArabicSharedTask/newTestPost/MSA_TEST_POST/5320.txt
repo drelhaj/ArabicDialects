@@ -1,0 +1,1 @@
+انا/PRP من/IN خريجى/NN الكليه/DTNN العربيه/DTJJ 1992/CD و/CC اشعر/VBP بخسارة/NN كبيرة/JJ عليها/NN فقد/VBD كانت/VBD ارقى/VBD و/CC افضل/JJR كليه/NNP كما/CC ان/IN الدارسين/DTNNS فيها/NN كانو/NNP من/IN طبقه/NN اجتماعيه/NN مميزة/JJ كلما/WRB مررت/VBD بشارع/NN الشهيد/DTNN وصفي/NN التل/DTNN احن/VBD الى/IN تلك/DT الايام/DTNN فعلا/NN خسارة/NN ./PUNC ./PUNC 

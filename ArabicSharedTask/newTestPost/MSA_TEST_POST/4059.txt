@@ -1,0 +1,1 @@
+نرفع/VBP لقائد/NN الوطن/DTNN ابو/NNP الحسين/DTNNP المفدى/DTJJ ولحميع/NN ابناء/NN الوطن/DTNN اسمى/NNP التبريكات/NNP والتهانى/NNP بعيد/NN الاستقلال/DTNN وكل/VBD عام/NN والوطن/NN وقائدة/NN الرائد/DTNN المبدع/DTNN ولجميع/NN ابناء/NN الوطن/DTNN بالف/NNP خير/NNP ./PUNC 

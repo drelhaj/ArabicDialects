@@ -1,0 +1,1 @@
+أقول/NNP تر/VBP زودوها/NN تفرح/VBP في/IN البيت/DTNN وتسوي/NN عشاء/NN وترقص/NN بس/NN في/IN بيتها/NNP الله/NNP يسترنا/VBP في/IN الدنيا/DTNN والاخره/NNP قلناها/NNP عالم/NN ثاني/NNP :/PUNC -LRB-/PUNC 

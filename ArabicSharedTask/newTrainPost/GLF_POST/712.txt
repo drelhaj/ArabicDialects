@@ -1,0 +1,1 @@
+بالعكس/NNP انا/PRP احس/NN انه/NN ظالم/JJ نفسه/VBP عنده/NN ملايين/NN واخبر/NN سيارته/NN كدلك/NNP ./PUNC ومشقي/NN نفسه/NN وهو/NN بهذا/NN العمر/DTNN ،/VBD وش/NN فايدة/NN الفلوس/DTNN والشركات/NNS !/PUNC 

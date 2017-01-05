@@ -1,0 +1,1 @@
+والله/NNP احسن/VBD اشي/NN اصير/NN تاجر/NN ،/NN والله/NN الواحد/DTNN بربح/NNP منكم/NNP بلاوي/NNP على/IN البارد/DTNNP المستريح/DTJJ ومن/NN غير/NN اي/NOUN تعليق/NN ./PUNC 

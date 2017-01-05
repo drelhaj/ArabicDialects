@@ -1,0 +1,1 @@
+بارك/NNP الله/NNP فيك/NNP يااميرنا/NNP والله/NNP الرياض/DTNNP بلياك/NNP ماتسوى/NNP شي/NNP 

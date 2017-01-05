@@ -1,0 +1,1 @@
+شوف/NN الوحدات/DTNNS وين/NNP بحترفو/NNP لاعبينو/NNP وين/NNP يتالقوابناء/VBP النادي/DTNN واحد/JJ مع/NN افضل/JJR اندية/NN سوريه/NNP واسيانادي/NNP الكرامة/DTNN والاعب/NN الاخر/DTNN ابن/NN النادي/DTNN عبد/NNP الله/NNP ذيب/VBD في/IN اوروبا/NNP -LRB-/PUNC وسوف/NNP يعود/VBP الى/IN عرينه/NN الوحدات/DTNNS انشاء/NN المولى/DTNNP -RRB-/PUNC 

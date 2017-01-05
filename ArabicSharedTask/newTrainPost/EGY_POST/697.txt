@@ -1,0 +1,1 @@
+جمال/NNP حاشر/NNP نفسه/NN بالعافية/JJ و/CC عمره/NN ما/IN ها/PRP يعترف/VBP بأى/NN مصيبة/NN سابقة/JJ لأنها/NN ببساطة/NN هاتبقى/NNP مصيبة/NN أبوه/NNP .../PUNC ./PUNC المشكلة/DTNN أننا/VBD مش/NN عاوزين/NNS سياسات/NNS الحزن/DTNN الواطى/DTJJ و/CC الأفراد/DTNN مش/NN مشكلة/NN كلهم/NNP على/IN شاكلة/NN واحدة/JJ .../PUNC مصلحتهم/JJ وبس/NN .../PUNC ويتحرق/NN الشعب/DTNN 

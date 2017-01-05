@@ -1,0 +1,1 @@
+فليسأل/NN كل/NOUN شخص/NN نفسه/VBP ماذا/WP سيفعل/VBN لو/IN تم/VBD اخباره/NN ان/IN زوجته/NN حامل/NN بجنين/NNP مشوه/NNP وانه/NNP سيكون/NNP لديه/NNP طفل/NN معاق/NN ؟/NN ؟/NN وكيف/NN سيكون/NNP تاثير/NN ذلك/DT على/IN حياته/NN وحياة/NN عائلته/NN وبناته/NN واسرته/NN ومستقبلا/NN ./PUNC 

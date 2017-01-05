@@ -1,0 +1,1 @@
+هو/PRP اصلا/NN بيتكلم/NN بصفته/NN ايه/NN وف/NN انهى/VBD دولة/NN بيطلع/NN امين/NN سياسات/NNS حزب/NNP ايا/RP كان/VBD الحزب/DTNN ويصرح/NN ويتكلم/NN ويمشى/NN الوزراء/DTNN وراه/NNP زى/NNP الشماشيرجية/DTJJ ./PUNC ./PUNC سؤال/NN بسيط/JJ ./PUNC ./PUNC ايه/NN هى/VBD الصلاحية/DTNN القانونيه/DTJJ اللى/WP بيتكلم/VBP بيها/NN جمال/NNP مبارك/NNP 

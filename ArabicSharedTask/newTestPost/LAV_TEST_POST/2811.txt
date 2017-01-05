@@ -1,0 +1,1 @@
+كلامك/NN صحيح/JJ اخ/NN جلال/NNP تخيل/NN اليوم/DTNN على/IN الفيس/NNP بوك/NNP كل/NOUN االاردنيين/NNS بيحكوا/NNP عن/IN الشووب/DTNN وإنها/NN مولعه/NN مش/NN غلط/NN وكل/NN واحد/JJ حر/JJ بس/NN يعني/VBP اذا/IN واحد/CD بفكر/NN يزور/VBP الاردن/DTNNP ببطل/NNP .../PUNC صح/VBD 

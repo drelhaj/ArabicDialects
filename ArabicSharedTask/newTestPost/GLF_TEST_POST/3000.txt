@@ -1,0 +1,1 @@
+.../PUNC شي/NNP عجيب/NNP يعني/VBP الي/IN دخلوا/VBD البحرين/DTNNP خلاال/NN اربع/CD شهور/NN دبل/VBD عدد/NN سكان/NN الدوله/DTNN 4/CD مراات/NNS .../PUNC !!!/CD 

@@ -1,0 +1,1 @@
+علشان/NN مفيش/NN حد/NN هينفعني/NNP .../PUNC وعلي/NNP العموم/DTNNP انا/PRP لسه/NN في/IN سنه/NN اؤلي/JJ فكنت/VBD مش/NN عارف/NNP ائ/NN حاجه/JJ ./PUNC 

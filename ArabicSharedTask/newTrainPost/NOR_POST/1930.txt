@@ -1,0 +1,1 @@
+زيد/NNP خليه/NNP يشيح/VBP و/CC أخيرا/NN صب/NN الجبس/DTNN شبه/NN سائل/JJ من/IN و/CC لتكوين/NN الهيكل/DTNN الخارجي/DTJJ مبعد/NN ما/WP يشيح/VBP صب/NN عليه/NN الشمع/DTNN المذاب/DTJJ 

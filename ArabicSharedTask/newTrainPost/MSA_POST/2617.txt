@@ -1,0 +1,1 @@
+اعتقد/VBP ان/IN مصر/NNP اليوم/DTNN لا/RP تملك/VBP اية/NOUN قوة/NN للمحافظة/JJ على/IN مصالحها/NN وخاصة/NN انها/NN تجاهلت/VBD دول/NN منبع/NN النيل/DTNNP كثيرا/NN ويتعاملون/JJ مع/NN تلك/DT الدول/DTNN بفوقية/JJ واضحة/JJ افقدتهم/VBD احترام/NN تلك/DT الدول/DTNN وبل/VBD وزاد/NN من/IN نقمتهم/NN على/IN النظام/DTNN المصري/DTJJ ./PUNC 

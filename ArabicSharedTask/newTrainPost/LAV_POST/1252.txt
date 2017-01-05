@@ -1,0 +1,1 @@
+حي/NNP الله/NNP الاردن/DTNNP وشعب/NN الاردن/DTNNP وملك/NN الاردن/DTNNP وكل/NN عاما/JJ وانتم/JJ بخير/NN تحت/NN راية/NN بنى/VBD هاشم/NNP التى/WP لا/RP تفرق/VBP بين/NN اي/NOUN اردني/NN مهما/JJ كان/VBD اصله/NN ودينه/NNP وفكره/NNP -LRB-/PUNC اردن/NNP يا/RP اردن/VBD يا/RP حبة/NN عيني/NNS بدي/NN اغنيلك/NN شرقي/NN وهجني/JJ ورقصلك/NN رقصة/NN عالدالعونا/NNP 

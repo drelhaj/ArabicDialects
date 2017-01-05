@@ -1,0 +1,1 @@
+حقا/NN انها/VBD مصر/NNP الان/DTNN .../PUNC هى/VBD دى/NNP جامعتنا/NNP ./PUNC ./PUNC هم/PRP دولا/NN شبابنا/NN .../PUNC هم/PRP دول/NN أملنا/VBD .../PUNC يا/RP ليتنى/VBD مت/NN قبل/NN هذا/DT و/CC كنت/VBD نسيا/NN منسيا/JJ !/PUNC 

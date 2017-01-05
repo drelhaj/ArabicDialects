@@ -1,0 +1,1 @@
+2/CD -/PUNC من/IN 1980/CD الى/IN 2000/CD مباراه/NN يستحق/VBP فيها/NN الوحدات/DTNNS الفوز/DTNN ولكن/NNP بفعل/NNP الحكام/DTNN يخطف/VBP الكأس/DTNN 

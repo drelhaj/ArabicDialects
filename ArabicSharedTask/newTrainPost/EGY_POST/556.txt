@@ -1,0 +1,1 @@
+بالبلدي/NNP كده/NNP ومن/NN غير/NN تزويق/NN ابعد/JJR عن/IN الراجل/DTNN صاحب/NN العفريت/DTNN .../PUNC ده/DT صاحبي/NNS وأخويا/JJ وعنده/NN عيال/NN زى/NN حالاتي/JJ ./PUNC ./PUNC وبصراحة/NN بعد/NN ما/IN اشتعل/VBD الرأس/DTNN شيبا/NN بنمشي/NNP جنب/NN الحيط/DTNN مش/NN ناقصين/JJ بس/NN اليوم/DTNN السابع/ADJ جاب/NN رجلنا/VBD لأخر/NN الاسبوع/DTNN !/PUNC 

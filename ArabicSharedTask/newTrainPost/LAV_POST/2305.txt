@@ -1,0 +1,1 @@
+بصراحه/NNP يا/RP علي/IN يا/RP روعه/NN .../PUNC بدنا/NN نحكي/VBP على/IN المكشوف/DTNN شان/NN داخلي/JJ ما/IN بدنا/NN نشوف/JJ ./PUNC وشكرا/NN الك/DTNN لانك/NNP بتطرق/NNP مواضيع/NN حساسه/NN وساخنه/NN وشكرا/NN للغد/NN الروعه/DTNN انت/PRP روعه/NNP والغد/NNP روعه/NNP وبحبك/NNP يا/RP عليان/NNP 

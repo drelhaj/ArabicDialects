@@ -1,0 +1,1 @@
+عموما/NN موش/NNP هناخد/NNP على/IN كلامك/NNP لانك/NNP من/IN الناس/DTNN الطيبين/DTNNS و/CC نصيحه/NN لابونا/NNP الحاج/DTNNP وهي/NNP خليك/NNP في/IN الزرعه/DTNN و/CC البهايم/DTNN بتعتك/NNP و/CC أدام/NNP الله/NNP لكم/VBG الصحة/DTNN و/CC شرب/VBD الشاي/DTNNP ساعة/NN العصاري/DTNNP 

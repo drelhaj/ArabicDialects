@@ -1,0 +1,1 @@
+أما/NN إذا/NN كان/VBD الحـوارُ/DTNN عـن/NNP الغنـا/DTNNP و/CC سألتَ/NNP عنْ/NNP -LRB-/PUNC أحلام/NNP -RRB-/PUNC أو/NNP -LRB-/PUNC شاكيرا/NNP -RRB-/PUNC 

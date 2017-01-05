@@ -1,0 +1,1 @@
+ولا/NN يوجد/VBN مصنع/NN وحيد/NNP لل/NNP ا4/CD ,/PUNC نحن/PRP ايضا/RB مصنع/NN لتصنيع/NN الورق/DTNN التصوير/DTNN فأرجو/NNP تعديل/NN بأن/NN هناك/RB اكثر/JJR من/IN مصنع/NN في/IN المملكة/DTNN ,/PUNC ونحن/NN نطالب/VBP بحماية/NN الصناعة/DTNN المحلية/DTJJ ايضا/RB 

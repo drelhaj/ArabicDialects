@@ -1,0 +1,1 @@
+وربي/NNP اخواني/NNP مافيهم/NNP خير/NN حدهم/NN يدلعون/VBP بحريمهم/NN وابوي/NNP الله/NNP يسامحه/VBP الريال/DTNN مايطلع/NNP منه/NNP ./PUNC ./PUNC تعبنا/VBD من/IN الحاجه/DTNN والقهر/NNP جامعيه/NNP يعني/VBP ضيعت/NN سنين/NNS عمري/JJ على/IN وهم/NN ./PUNC ./PUNC 

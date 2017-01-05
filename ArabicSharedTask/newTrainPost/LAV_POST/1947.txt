@@ -1,0 +1,1 @@
+اورنج/NNP مبتزه/NNP دائمه/NNP لزبائنها/NN بحكم/NN تفردها/NN بخدمه/NNP الارضي/DTJJ فشو/NNP ذنبي/NNP اذا/IN بدي/NN خط/NN نت/NNP اني/NNP ادفع/VBP بدل/NN اشتراك/NN هاتف/NN و/CC بدل/NN خدمه/NN انترنت/NNP و/CC بدل/NN مزود/JJ 

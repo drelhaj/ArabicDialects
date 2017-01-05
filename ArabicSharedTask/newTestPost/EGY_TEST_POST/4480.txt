@@ -1,0 +1,1 @@
+أريد/VBD عند/NN أحيي/NN كاتب/NN المقال/DTNN لأنه/NNP لخص/VBD التطور/DTNN الاجتماعي/DTJJ المصري/DTJJ منذ/IN أيام/NN الثورة/DTNN .../PUNC متى/WRB ترد/VBP علينا/NN مصر/NNP .../PUNC غالبا/NN شالوا/VBD العدة/DTNN 

@@ -1,0 +1,1 @@
+-/PUNC ما/WP حدا/VBD عاتبك/JJ على/IN مديحك/NN لحسونة/NN الشيخ/DTNN وحاتم/NNP عقل/NNP ./PUNC ./PUNC بالعكس/NNP ./PUNC ./PUNC خطوة/NN جيدة/JJ ومشكور/NN عليها/JJ جدا/NN ./PUNC ./PUNC فليش/NNP بتجيب/NNP سيرة/NN هذا/DT الموضوع/DTNN ؟/NN ؟/CD 

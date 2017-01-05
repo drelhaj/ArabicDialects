@@ -1,0 +1,1 @@
+شكرا/NN على/IN السرد/DTNN الرقمي/DTJJ لبطولات/NNS المارد/DTNN ,/PUNC ,/PUNC ,/PUNC ,/PUNC ولكن/NNP يبدو/VBP ان/IN المصدر/DTNN الذي/WP نقلت/VBD منه/NNP متوقف/JJ عند/NN عام/NN 2004/CD ,/PUNC حيث/WRB ان/IN الوحدات/DTNNS فاز/VBD بالدوري/NNP 11/CD مره/NN وليس/NN 8/CD مرات/NNS كما/CC ذكرت/VBD ,/PUNC ,/PUNC ,/PUNC ,/PUNC قاقتضي/NNS التنويه/DTNN ./PUNC 

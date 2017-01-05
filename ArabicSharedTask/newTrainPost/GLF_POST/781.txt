@@ -1,0 +1,1 @@
+وصراحة/NN ماكرهت/NNP لاعب/NN هلالي/NNP -/PUNC وكلهم/NNP حبايبنا/NNP -/PUNC مثل/NN كرهي/NNP لرادوي/NNP 

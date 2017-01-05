@@ -1,0 +1,1 @@
+كما/CC أن/VBD العلاقة/DTNN الأردنية/DTJJ الفلسطينية/DTJJ ذات/NN خصوصية/NN حيث/WRB ان/IN الأردنيين/DTNNS من/IN أصل/NN فلسطيني/NN هم/PRP$ أردنيون/JJ الجنسية/DTNN والهوية/JJ قبل/NN إحتلال/NN الضفة/DTNNP الغربية/DTJJ فلا/NN يعني/VBP الإحتلال/DTNN بسلبهم/NNP أرضهم/NNP وتهجيرهم/NNP سلبهم/NNP هويتهم/NNP الأردنية/DTJJ ./PUNC 

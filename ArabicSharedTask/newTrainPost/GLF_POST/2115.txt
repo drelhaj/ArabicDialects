@@ -1,0 +1,1 @@
+وش/NN دخل/VBD الحض/DTNN في/IN ان/IN لاعبهم/NNP مطرود/NNP سبق/VBD ان/IN طرد/VBN في/IN مباراة/NN الاتحاد/DTNN ولم/NN يفز/VBP الاتحاد/DTNN رغم/NN انه/NN يلعب/VBP على/IN ارضه/NN 

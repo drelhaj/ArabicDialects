@@ -1,0 +1,1 @@
+من/IN علامات/NNS يوم/NN القيامة/DTNN كثرة/NN الهرج/DTNN و/CC المرج/DTNN -LRB-/PUNC الله/NNP يرحمنا/NNP برحمته/NNP -RRB-/PUNC 

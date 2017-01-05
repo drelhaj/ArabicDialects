@@ -1,0 +1,1 @@
+./PUNC ./PUNC عارف/NNP انك/VBD بالهوى/NNP توك/NNP غرير/NNP ./PUNC ./PUNC تو/NN ما/WP جربت/VBD هالدنيا/JJ كثير/NN 

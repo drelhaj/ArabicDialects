@@ -1,0 +1,1 @@
+اول/ADJ صورة/NN بنت/NN حاطة/JJ اديها/VBD على/IN كتف/NN واحد/JJ ادام/NN العسكري/DTNN -LRB-/PUNC عادي/NN -RRB-/PUNC والثانية/NN عساكر/NNP بيتفرجوا/NNP على/IN النيل/DTNNP -LRB-/PUNC بيتحرشوا/NNP بالمياه/NNP ولا/NNP في/IN بنت/NNP نتعوم/NNP .../PUNC ممكن/JJ -RRB-/PUNC والثالثة/JJ البنت/DTNN نامت/VBD وخطيبها/NN بيقوقها/NNP -LRB-/PUNC عادي/NN -RRB-/PUNC 

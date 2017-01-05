@@ -1,0 +1,1 @@
+حلاوه/NNP الحكومه/DTNNP دى/VBD اخر/JJR شطاره/NN ./PUNC 

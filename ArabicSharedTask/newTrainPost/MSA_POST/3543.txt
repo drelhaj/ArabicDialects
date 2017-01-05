@@ -1,0 +1,1 @@
+الله/NNP اكبر/JJR وبعون/NN الله/NNP الكأس/DTNN للمارد/NNP الاخضر/DTNNP يوم/NN الجمعه/DTNN .../PUNC ./PUNC ./PUNC 

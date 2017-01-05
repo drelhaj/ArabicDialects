@@ -1,0 +1,1 @@
+كان/VBD قبل/NN كل/NOUN مباراة/NN يتوقع/VBN نتيجتها/NN ./PUNC ./PUNC وتاتي/NNS النتيجة/DTNN عكسية/NN دائما/NN وابدا/JJ 

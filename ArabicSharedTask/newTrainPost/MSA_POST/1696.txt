@@ -1,0 +1,1 @@
+الى/IN جمهور/NN الجزيره/DTNN نحن/PRP بانتطار/NNP الفوز/DTNN غدا/NN على/IN اسود/JJ غمدان/NN وبعد/NN ان/IN ننتصر/VBP عبيهم/NNP سنسميهم/NNP -RRB-/PUNC قطط/NN غمدان/NNP -RRB-/PUNC 

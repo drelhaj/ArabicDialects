@@ -1,0 +1,1 @@
+أيه/NN هين/NN بس/NN نجيب/NNP افضل/JJR مقدم/NN برنامج/NN في/IN الشرق/DTNN الأوسط/DTJJ ونتمنى/NNP من/IN قناتنا/NN الرياضية/DTNN استضافتة/NN دائما/NN لأنه/NN رجل/NN لايعرف/NN سوى/NN الحقيقة/DTNN اللتي/DTJJ تغضب/VBP الكاذبين/DTNNS مثل/NN بعض/NOUN الناس/DTNN ./PUNC 

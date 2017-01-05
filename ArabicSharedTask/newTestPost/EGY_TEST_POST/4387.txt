@@ -1,0 +1,1 @@
+لسه/VBD هيستضيفه/NNP كل/NOUN يوم/NN ويصدع/NN اهلنا/NNP ثاني/NNP -LRB-/PUNC طبعا/NN اللي/WP عمله/VBN علي/IN هواه/NNP -RRB-/PUNC 

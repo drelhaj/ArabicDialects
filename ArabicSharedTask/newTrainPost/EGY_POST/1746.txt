@@ -1,0 +1,1 @@
+الراجل/DTNN أو/VBD الشخص/DTNN دة/NN طول/NN عمره/NN عميل/NN و/CC قدم/VBD الكثير/DTNN لأسرائيل/NNP -LRB-/PUNC كفاية/NN إنه/NN المصدر/DTNN الأول/DTJJ لحديد/NN جدار/NN الفصل/DTNN العنصري/DTJJ -RRB-/PUNC ،/VBD مش/NN غريبة/JJ عليه/NN خالص/NN الكلام/DTNN المهين/DTJJ لكل/VBD أبناء/NN مصر/NNP ،/VBD خلانا/NN عاملين/NNS زي/NN المرتزقة/DTNN بنحارب/NN عشان/NN الفلوس/DTNN !!/CD 

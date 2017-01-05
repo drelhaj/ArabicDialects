@@ -1,0 +1,1 @@
+انا/PRP ما/WP بقول/VBD غير/NN إنو/NN هذا/DT برنامج/NN فاشل/JJ و/CC صهيوني/JJ كمان/NN ،/NN ،/NN عشان/NN يلهي/VBP الناس/DTNN عن/IN متايعت/NN القضيه/DTNN الفلسطنية/NN إلي/NN قربو/NN الناس/DTNN ينسوها/NN و/CC اخر/NN شي/NNP بقولو/NNP لاحول/NNP ولا/NN قوة/NN إلا/NN بالله/NNP ،/VBD ،/NN ،/JJ و/CC عاش/VBD الاردن/DTNNP حراً/NN ابياً/JJ .../PUNC 

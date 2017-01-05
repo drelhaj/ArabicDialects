@@ -1,0 +1,1 @@
+انا/PRP عارف/NNP اليوم/DTNN الفوز/DTNN حليف/NN الفيصلي/DTNNP لكن/VBP الفيصلي/DTNNP بضل/VBD بطل/NN اسيا/NNP 2/CD ووصيف/NN اسيا/NNP 1/CD ووصيف/NN العرب/DTNN 1/CD 

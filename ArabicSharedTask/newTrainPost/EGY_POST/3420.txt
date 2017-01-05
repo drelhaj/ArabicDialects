@@ -1,0 +1,1 @@
+بداية/NN سيئة/JJ سيئة/JJ فين/NNP المسيحيين/DTNNS و/CC تمثيلها/NN ./PUNC من/IN اولها/NN ما/WP فيش/VBD مسيحيين/JJ ./PUNC نيتكم/NNP وحشة/NNP ./PUNC انا/PRP ضد/NN الكلام/DTNN الفارغ/DTJJ دا/NNP ./PUNC سلام/NN لكن/VBP لا/RP كلام/NN !/PUNC 

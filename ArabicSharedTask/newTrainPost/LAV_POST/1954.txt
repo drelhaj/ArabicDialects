@@ -1,0 +1,1 @@
+بس/NN شاطرين/NNS يعملولنا/VBP مراجيح/NN وسحاسيل/NNP للاطفال/NNP ./PUNC ./PUNC شو/NNP بدي/NN بالمراجيح/NNP والسحاسيل/NNP وانا/NNP واطفالي/NNP جوعانين/NNP الديون/DTNN تراكمت/VBD علينا/NN وشحدنا/NN الملح/DTNN فهل/NN من/IN مجيب/JJ ./PUNC ./PUNC لا/RP حول/NN ولا/NN قوة/NN الا/RP بالله/NN العلي/DTNN العظيم/DTJJ ./PUNC 

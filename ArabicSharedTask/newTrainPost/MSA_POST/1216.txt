@@ -1,0 +1,1 @@
+ماذا/WP نقول/VBP لك/NN -LRB-/PUNC نقول/VBP لك/NN -RRB-/PUNC 

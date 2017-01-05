@@ -1,0 +1,1 @@
+شعب/NN تافه/NNP وشعب/NNP غلبان/NNP مافى/NNP وجوه/NN الجزائريين/DTNNS اي/NOUN حياء/NN عيد/NN قومى/NN ايه/NN الي/IN بتتكلموا/VBD عليه/NN عبط/NN بلا/NNP نهايه/NNP وتخلف/JJ من/IN البداية/DTNN 

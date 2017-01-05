@@ -1,0 +1,1 @@
+يومكم/VBP مو/NNP قد/RP شعاراتكم/VBD ولكم/NN اسبوع/NN تصرحون/VBP انكم/NN بنقص/NN اجل/NN ليه/NN تحطون/VBP شعاركم/NNP دااايم/NNP -LRB-/PUNC النصر/DTNNP بمن/NN حضر/VBD -RRB-/PUNC 

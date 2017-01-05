@@ -1,0 +1,1 @@
+ههه/NNP ./PUNC ./PUNC وبلادهم/NN بلاد/NN القوانين/DTNN والانظمة/NN عصب/NN ./PUNC ./PUNC كيف/WRB لو/IN هو/PRP عنا/VBD هون/NN في/IN اي/NOUN بلد/NN عربي/JJ .../PUNC كان/VBD اجتو/VBD سكتة/NN قلبية/JJ ومااات/NNS بأرضو/NNP 

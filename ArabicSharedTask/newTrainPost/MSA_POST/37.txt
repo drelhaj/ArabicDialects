@@ -1,0 +1,1 @@
+مبروك/NNP تأهل/VBP نادي/NN شباب/NNP الاردن/DTNNP وتشريفه/NN للكرة/NN الاردنيه/DTNN مع/NN تمنياتي/NNS له/NN بالتقدم/NNP لادوار/NNP متقدمه/VN في/IN البطوله/DTNN ./PUNC 

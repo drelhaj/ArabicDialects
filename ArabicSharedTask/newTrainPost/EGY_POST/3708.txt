@@ -1,0 +1,1 @@
+وأخيرا/NN وليس/NNP آخرا/NNP .../PUNC ./PUNC بلاش/NNP تقطيم/NNP ف/CC الناس/DTNN اللي/WP شايفه/VBP شغلها/NN 

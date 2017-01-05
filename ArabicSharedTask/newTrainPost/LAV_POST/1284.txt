@@ -1,0 +1,1 @@
+يعني/VBP راح/NN يتحرك/VBP السوق/DTNN صح/VBD والناس/NN راح/NN تهجم/NN على/IN المحلات/DTNNS مشات/NNS تركب/VBP لاقط/NN ثاني/ADJ وبرمجه/NN وقصه/NN يعني/VBP مشان/NN العربسات/DTNNS ./PUNC 

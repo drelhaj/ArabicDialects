@@ -1,0 +1,1 @@
+و/CC كثيرا/NN ما/WP تجد/VBP رجل/NN بالخمسين/JJ من/IN عمره/NN و/CC أكبر/NN أولاده/NN يناهز/VBP الخمسة/DTNN عشره/NN فكلاهما/NN لا/RP يكادان/VBP يتمتعان/VBP بالعلاقة/NN الأبويه/DTNN الحميمه/DTJJ التي/WP تنشأ/VBP من/IN غريزه/NNP طبيعيه/NNP خلقها/NNP الله/NNP و/CC جعلها/NN نعمه/NN من/IN نعم/NN الحياه/DTNN ./PUNC 

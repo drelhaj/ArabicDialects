@@ -1,0 +1,1 @@
+قال/VBD صلى/VBD الله/NNP علية/NN وسلم/JJ -LRB-/PUNC يا/RP معشر/NN الشباب/DTNN ،/VBD من/IN استطاع/VBD الباءة/DTNN فليتزوج/NN ،/NN فإنه/NN أغض/NN للبصر/NN وأحصن/NN للفرج/NN ،/NN ومن/NN لم/RP يستطع/VBP فعليه/NNP بالصوم/NNP ،/VBD فإنه/NN له/NN وجاء/NN -RRB-/PUNC ./PUNC صدق/VBD رسول/NN الله/NNP صلى/VBD الله/NNP علية/NN وسلم/JJ 

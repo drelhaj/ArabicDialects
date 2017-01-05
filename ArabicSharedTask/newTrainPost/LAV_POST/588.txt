@@ -1,0 +1,1 @@
+الوحدات/DTNNS كمان/NN مش/NN دايما/JJ بخسر/JJ و/CC اله/NN نتائج/NN خارجية/NN مشرفة/JJ و/CC كاد/VBD ان/IN يصل/VBP نهائي/NN دوري/NN ابطال/NN العرب/DTNN و/CC لكن/CC بظلم/NN تحكيمي/JJ خرج/VBD و/CC انت/PRP ذكرت/VBD لا/RP يعيب/VBP الفريق/DTNN الخسارة/DTNN ,/PUNC 

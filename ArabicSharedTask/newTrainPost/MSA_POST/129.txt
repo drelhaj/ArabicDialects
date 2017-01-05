@@ -1,0 +1,1 @@
+اخي/VBP جار/NN العز/DTNN ./PUNC ./PUNC الله/NNP يعطيك/VBP العافية/DTNN على/IN مقالك/NN الطويل/DTNNP وانا/NNP اعارض/VBP كل/NOUN كلمة/NN قلتها/NN فيه/NNP لافتقادك/NNP للوقائع/NN والحقائق/JJ 

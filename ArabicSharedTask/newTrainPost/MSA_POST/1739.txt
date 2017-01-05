@@ -1,0 +1,1 @@
+كل/NOUN يوم/NN يجب/VBP أن/NN ننام/VBP على/IN خبر/NN جريمة/NN قتل/NN ،/NN ،/NN ،/NN وأن/NN نستيقظ/VBP على/IN خبرين/NN !!/NN إن/NN جرائم/NN القتل/DTNN أصبحت/VBD مثل/NN شربة/NN ماء/NN .../PUNC أين/NN الخوف/DTNN من/IN الله/NNP -LRB-/PUNC قتل/NN النفس/DTNN -RRB-/PUNC لا/RP حول/NN ولا/NN قوة/NN إلا/NN بالله/NN العلي/DTNN العظيم/DTJJ 

@@ -1,0 +1,1 @@
+3/CD -RRB-/PUNC كأس/NN الكؤوس/DTNN -LRB-/PUNC احتفالية/NN افتتاح/NN الموسم/DTNN -RRB-/PUNC و/CC تقام/VBN بين/NN بطل/NN الدوري/DTNN و/CC بطل/NN الكأس/DTNN او/CC وصيفه/NN 

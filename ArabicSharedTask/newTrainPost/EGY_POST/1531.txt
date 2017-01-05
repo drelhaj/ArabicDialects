@@ -1,0 +1,1 @@
+يا/RP عم/NN منير/NNP رشدي/NNP بجد/NNP شكلك/NNP ساقط/NNP ابتدائي/NNP ومش/NN بتعرف/NN تكتب/VBP لأن/NNP -LRB-/PUNC زيك/NNP -RRB-/PUNC بتتكتب/NNP كده/NNP مش/NN -LRB-/PUNC ذيك/NNP -RRB-/PUNC 

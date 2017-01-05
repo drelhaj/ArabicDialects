@@ -1,0 +1,1 @@
+طبيعي/NN يكون/VBP للتمر/NN كل/NOUN هاي/NN الفوائد/DTNN لأنه/NNP الرسول/NNP صلى/VBD الله/NNP عليه/NNP وسلم/VBD وصى/NN انه/NN يبقى/VBP ببيوتنا/NN دائما/NN برمضان/NNP وبغير/NNP رمضان/NNP حيث/WRB قال/VBD عليه/NN الصلاة/DTNN والسلام/NNP :/PUNC بيت/NNP ليس/VBD فيه/NNP تمر/VBP جياع/NN اهله/NN ./PUNC 

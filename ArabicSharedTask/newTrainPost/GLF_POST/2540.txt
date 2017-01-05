@@ -1,0 +1,1 @@
+منب/NN سهل/NN يالرخيص/NNP تساوم/VBP وتعي/NN الاصابه/DTNN مصري/JJ ولاعب/NN كل/NOUN لاعبين/NNS افريقيا/NNP ناجحين/NNS الا/RP المصريين/DTNNS حدهم/NN فووول/NNP ,/PUNC ,/PUNC ,/PUNC 

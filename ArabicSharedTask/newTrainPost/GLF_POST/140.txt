@@ -1,0 +1,1 @@
+يامصور/VBP لاعاد/NNP تلبسون/VBP التمثال/DTNN عباية/NN وتصورونه/NNP ثاني/NNP مره/NNP ./PUNC ./PUNC له/NN حق/NN الخصوصية/DTNN مثله/NN مثلك/NN ه/PRP$ 

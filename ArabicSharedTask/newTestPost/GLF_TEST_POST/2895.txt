@@ -1,0 +1,1 @@
+ماراح/NNP ينزل/VBP الحديد/DTNN والكل/NN يركظ/VBP وراء/NN شرائه/NN لكن/VBP اتركوا/VB الحديد/DTNN لفتره/NN شهر/NN شهرين/NNS ثلاث/NN شهور/NN راح/NN ينزل/VBP السعر/DTNN كالبرق/NNP وراح/NNP تستفيدوا/VBD لكن/VBP الكل/NOUN ماعنده/NN تفكير/NN والكل/NN عنده/NNP فلوس/NNP ويدفع/NNP راح/NN ترتفع/VBP الاسعار/DTNN يعني/VBP حديد/NN ليه/NNP العجله/DTNNP 

@@ -1,0 +1,1 @@
+بالعربي/NNP الفصيح/DTNN لايصح/NNP الا/RP الصحيح/DTNN فالكاس/NNP للوحدات/NNP لانه/NNP لن/RP يذهب/VBP كل/NOUN هذه/DT المسافات/DTNNS فالوحدات/NNS هوزعيم/NN كل/NOUN البطولات/DTNNS وعالرايح/NN جاي/NNP بنقول/NNP لللموسم/NNP باي/NNP باي/NNP باي/NNP 

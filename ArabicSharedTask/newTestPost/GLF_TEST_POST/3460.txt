@@ -1,0 +1,1 @@
+يا/RP رجال/NN انا/PRP سيارتي/NNS سحبها/JJ راع/NN سطحه/NN وودها/NN للحجز/NN وهو/NNP ليس/VBD له/NN علاقه/NN بالمرور/NNP على/IN حسب/NN كلام/NN شهود/NN عيان/NN لم/RP تكن/VBP معه/NN دوريه/NNP سحبها/NNP بكيفه/NNP يوم/NN جيت/NN استلمها/NN قالوا/VBD لي/NNP ادفع/VBP حق/NN السطحه/DTNN 100/CD ريال/NN و/CC مخالفة/NN وقوف/NN خاطئ/JJ 

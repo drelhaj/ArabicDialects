@@ -1,0 +1,1 @@
+اهو/VBD كدا/NN الحكومه/DTNN ولا/NN بلاش/NNP ./PUNC خلي/NN البلد/DTNN تنضف/VBP 

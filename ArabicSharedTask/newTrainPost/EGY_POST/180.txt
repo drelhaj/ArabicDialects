@@ -1,0 +1,1 @@
+حسبى/NNP الله/NNP و/CC نعم/NN الوكيل/DTNN ./PUNC ./PUNC ناس/NN بتموت/NN من/IN السيول/DTNN و/CC الجوع/DTNN و/CC ناس/NN بتحط/NN اكوام/NN فلوس/NNP فى/IN البنوك/DTNN ./PUNC ./PUNC دا/NNP يبقى/VBP غبى/NNP اللى/WP مش/NN مؤمن/NN بأن/NN فيه/NNP آخره/NNP يحاسب/VBP فيه/NN كل/NOUN واحد/NN عن/IN عمله/NN و/CC ماله/NN .../PUNC 

@@ -1,0 +1,1 @@
+حرام/NN عليكم/NN مش/NN عوزين/JJ سكه/NN حديد/NN بلها/NN كفايه/NN مصايب/NN وقتل/NN فى/IN الارواح/DTNN .../PUNC ونبى/VBD مش/NN عرفين/NN نشغل/VBP سكه/NN حديد/NN ورحين/JJ نتكلم/VBP عن/IN محطات/NNS نوويه/NN حرام/NN الشعب/DTNN هيخلص/NN من/IN القتل/DTNN 

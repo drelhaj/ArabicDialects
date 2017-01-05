@@ -1,0 +1,1 @@
+2/CD -/PUNC بعد/NN توالي/NN مشاركته/NN و/CC بعد/NN مرور/NN ما/WP يقارب/VBP ال/DT 18/CD عاماً/NN من/IN المشاركات/DTNNS أبشركم/DTJJ إستطاع/NN الوحدات/DTNNS أن/VBD يخرج/VBP من/IN قمقم/NN المجموعات/DTNNS و/CC يتأهل/VBP ليلعب/NNP في/IN دور/NN الثمانية/DTNN لأول/NNP مرة/NN في/IN حياته/NN ./PUNC 

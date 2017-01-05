@@ -1,0 +1,1 @@
+-LRB-/PUNC انا/PRP اعرف/VBP انه/NN ولا/NN مشجع/JJ فيصلاوي/NNP فرحان/NNP من/IN قلبو/NNP ولا/VBD حتى/IN اللاعبين/DTNNS لانو/NNP لسا/NNP قبلها/NN بيومين/NNP كان/VBD الوحدات/DTNNS معلم/NN على/IN الفيصلي/DTNNP -RRB-/PUNC انتهى/VBD الاقتباس/DTNN 

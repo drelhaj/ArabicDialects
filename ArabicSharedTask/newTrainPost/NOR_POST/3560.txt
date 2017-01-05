@@ -1,0 +1,1 @@
+حزب/NNP راشد/NNP الغنوشي/DTNNP و/CC الاتحاد/DTNN العام/DTJJ التونسي/DTJJ للشغل/NNP و/CC نقابة/NN و/CC بن/NN جعفر/NNP و/CC حزب/NNP المنصف/DTJJ المرزوقي/DTNNP و/CC حزب/NNP حمة/NNP الهمامي/DTNNP 

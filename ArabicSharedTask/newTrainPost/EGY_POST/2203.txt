@@ -1,0 +1,1 @@
+لانه/NNP هايجي/NNP النادي/DTNN يعتذر/VBP ويطلب/NN من/IN الجمهور/DTNN السماح/DTNN والجمهور/NNP الاهلاوي/DTNNP طاهر/NNP القلب/DTNN ومشاعره/NN نظيفة/JJ ./PUNC ./PUNC هيسامح/VBD ابن/NN النادي/DTNN اللي/WP غلط/VBD فيه/NNP .../PUNC 

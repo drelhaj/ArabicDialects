@@ -1,0 +1,1 @@
+-LRB-/PUNC المسئول/DTNN :/PUNC -/PUNC عارف/NNP يا/RP عم/NN بس/NN اهدى/VBD شويه/NNP ./PUNC ./PUNC انتا/VBD كده/NNP بتنقض/NNP الحكومه/DTNNP -RRB-/PUNC 

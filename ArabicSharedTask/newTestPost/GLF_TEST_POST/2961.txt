@@ -1,0 +1,1 @@
+ك/IN العاده/DTNN ب/IN يردّونا/NN السكرتيّه/DTNN ,/PUNC و/CC كلِمة/NN ''/NN ممنوع/JJ يا/RP شباب/NNP ,/PUNC عوايل/NN بس/NN ''/NN تتردّد/VBP في/IN أذهاننا/NN إلى/NN الأبد/DTNN ,/PUNC فلذلك/NNP ,/PUNC نحنّ/VBP لسنا/VBD متشوّقين/JJ لهذه/NN الحديقه/DTNNP =/PUNC \//CD 

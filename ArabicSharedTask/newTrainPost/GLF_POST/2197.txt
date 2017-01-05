@@ -1,0 +1,1 @@
+من/IN ثمانين/CD جلدة/NN الى/IN سجن/NN يومين/NNS و/CC يطلع/VBP بكفالة/NNP .../PUNC !/PUNC 

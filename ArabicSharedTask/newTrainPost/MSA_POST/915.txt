@@ -1,0 +1,1 @@
+عدم/NN الاعتراف/DTNN بوجود/NNP حريه/NNP في/IN الجامعات/DTNNS الاردنيه/DTJJ لان/NN الجامعه/DTNN الهاشميه/DTJJ هي/PRP جامعه/NN حره/NNP بحد/NNP ذاتها/NN فكيف/NNP تكون/VBP هنالك/RB حريه/NN في/IN بقية/NN الجامعات/DTNNS ./PUNC 

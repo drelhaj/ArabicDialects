@@ -1,0 +1,1 @@
+كيلعبنا/NNP عام/NN في/IN كأس/NN رابطة/NN الابطال/DTNN بعد/NN مدة/NN طويلة/JJ وصلنا/VBD و/CC و/CC الفوز/DTNN علي/IN النجم/DTNN في/IN نهائي/NN الكاف/DTNN في/IN سوسه/NN بالذات/NNS 

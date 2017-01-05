@@ -1,0 +1,1 @@
+طبعا/NN ستفعل/NN اكثر/JJR مما/NN فعلنا/NN وستفرح/NN اكثر/JJR مما/NN فرحنا/NN ./PUNC ./PUNC هذا/DT لو/IN شعرت/VBD بشعورنا/NNP تماما/NN 

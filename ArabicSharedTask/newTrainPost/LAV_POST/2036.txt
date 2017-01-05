@@ -1,0 +1,1 @@
+هادا/NNP هيك/NNP و/CC القوات/DTNNS لأمنية/JJ محددة/NN المسار/DTNN و/CC عاملين/NNS كلالإحتياطات/NNS الأمنية/DTNN .../PUNC و/CC الله/NNP أمن/NN قوي/JJ ./PUNC ./PUNC 

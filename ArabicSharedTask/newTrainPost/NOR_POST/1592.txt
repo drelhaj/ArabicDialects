@@ -1,0 +1,1 @@
+خدمة/NN إسكندر/NNP تحب/VBP نكلمك/NN وقت/NN الفطور/DTNN ريم/NNP باهي/NNP إسكندر/NNP ولا/NNP برشا/NNP كان/VBD قلقتك/NNP ريم/NNP تتدارك/VBP لا/RP آنا/VBD سامحني/NNP بلحق/NNP عندي/NNP خدمة/NN 

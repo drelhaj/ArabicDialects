@@ -1,0 +1,1 @@
+تصوروا/VBD أنّ/NN الأستاذ/DTNN الجامعي/DTJJ هناك/RB ينادي/VBP الطالب/DTNN \//NN الطالبة/DTNN ليس/VBD بإسمه/NN \//NN بإسمها/NN الأول/DTNN وإنما/NN بإسم/NN العائلة/DTNN مسبوقاً/NN بـ/NN سيد/NN \//NN سيدة/NN ./PUNC أضف/VBD إلى/VBD ذلك/DT أنّ/NN الطبقية/DTJJ تكاد/VBP تكون/VBP معدومة/JJ هناك/RB ./PUNC 

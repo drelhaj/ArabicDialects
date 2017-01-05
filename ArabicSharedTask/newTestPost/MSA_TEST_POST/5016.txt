@@ -1,0 +1,1 @@
+ويبدو/NNP أن/VBD المعلمين/DTNNS قد/RP يئسوا/VBP من/IN كثرة/NN الوعود/DTNN الحكومية/DTJJ المتعاقبة/DTJJ بتحسين/NNP ظروفهم/NNP فكان/NNP لا/VBP بد/NN من/IN تكثيف/NN الجهود/DTNN الرامية/VN الى/IN تحقيق/NN هدفهم/NN الرامي/DTNN الى/IN تكوين/NN نقابة/NN ترعى/VBP مصالحهم/NN كما/CC هو/PRP الحال/DTNN في/IN بعض/NOUN الدول/DTNN الاخرى/DTJJ ./PUNC 

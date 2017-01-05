@@ -1,0 +1,1 @@
+رومانيا/NNP إنضمتا/NNP للإتحاد/NNP الأروبي/DTNNP إذن/NN نتصور/VBP الدخول/DTNN إليهما/NN يتطلب/VBP فيزا/NN و/CC باستثناء/NN تونس/NNP تuنiس/NN شكرا/NN كiسس/NNP أخي/NNP اللي/WP نعلمو/VBP كونها/NN بلغاريا/NNP 

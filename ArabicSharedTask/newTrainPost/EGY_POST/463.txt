@@ -1,0 +1,1 @@
+انا/PRP ساكن/NN فى/IN نفس/NN الشارع/DTNN الحصل/DTNN فيه/NNP الاعتداء/DTNN على/IN البنات/DTNNS وطلع/NN مسيحى/JJ السائق/DTNN التاكسى/DTNN وضربناه/NNP وسلمناه/NNP لقسم/NNP الشرطه/DTNNP بعد/NN ما/IN مات/VBD ضرب/NN ادى/VBD اخونا/NN المسيحين/DTNNS بيعملو/NNP فتنه/NNP فى/IN مصر/NNP وهما/NN سبب/NN المشاكل/DTNN والحمدلله/VN على/IN نعمه/NN الاسلام/DTNN 

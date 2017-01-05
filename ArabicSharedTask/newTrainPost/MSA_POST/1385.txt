@@ -1,0 +1,1 @@
+-/PUNC يبدو/VBP ان/IN لاعبي/NNS فريق/NN الرمثا/DTNNP اغترو/NNP بانفسم/NNP كثيرا/NN ./PUNC ./PUNC صحيح/JJ ان/IN الرمثا/DTNNP فريق/NN كبير/JJ وعنيد/NN ./PUNC ./PUNC ولكن/NNP ليس/VBD بمستوى/NN الفيصلي/DTNNP والذي/NNP لم/RP يكن/VBP في/IN يومه/VBP في/IN تلك/DT المباراة/DTNN 

@@ -1,0 +1,1 @@
+احنا/NN بنفرح/NNP لما/NNP نأدي/VBP ونبقي/NNS أقوياء/JJ ونستمتع/JJ بالكورة/JJ ./PUNC ./PUNC حتي/RP لو/IN مكسبناش/NNP ف/CC الآخر/DTNN ،/VBD انتو/NNP بقي/VBD بتستمتعوا/NNP ازاي/NNP بمكسب/NNP مقرف/NN كدة/NN ؟/NN ؟/NN ؟/CD 

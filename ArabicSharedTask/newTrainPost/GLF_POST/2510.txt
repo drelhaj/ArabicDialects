@@ -1,0 +1,1 @@
+ساعه/NNP بالكثير/NNP وانت/NNP راز/NNP خشتك/NNP عندهم/NNP بعد/NN الوداع/DTNN عاد/VBD دور/NN وجهك/NN !!/NN 

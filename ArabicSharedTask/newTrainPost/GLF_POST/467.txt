@@ -1,0 +1,1 @@
+ماأعتقد/NNP أن/VBD المشاكل/DTNN العائليه/DTJJ توصل/VBP لهذا/NN الحد/DTNN أن/NN الفتاه/DTNN تهرب/VBP من/IN البيت/DTNN وتسبب/NN مشاكل/NN حق/NN أهلها/NN ليش/NNP ماتناقش/NNP أهلها/NN في/IN المشكله/DTNN ./PUNC ثانياً/ADJ :/PUNC كل/NOUN مشكله/NN ولها/NN حل/NN مهما/JJ صار/VBD حجم/NN المشكله/DTNN 

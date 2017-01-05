@@ -1,0 +1,1 @@
+1/CD -/PUNC ان/IN هنالك/RB اشتباك/NN -LRB-/PUNC قتال/NN -RRB-/PUNC بين/NN الجيش/DTNN الاسرائيلي/DTJJ و/CC الاسطول/DTNN 

@@ -1,0 +1,1 @@
+جزاكم/NNP الله/NNP خير/NN على/IN المعلومات/DTNNS المفيدة/DTJJ في/IN هذا/DT المقال/DTNN و/CC أرغب/NN بإضافة/NN معلومة/NN جديدة/JJ تتعلق/VBP بالمقال/NN بأنه/NN من/IN المفيد/DTNN حفظ/NN المعلومات/DTNNS قبل/NN النوم/DTNN لأن/NN الدماغ/DTNN يقوم/VBP ببرمجتها/NN وترتيبها/NN أثناء/NN النوم/DTNN مما/NN يساعدعلى/VBP حفظها/NN بشكل/NNP اسرع/JJR 

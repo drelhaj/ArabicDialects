@@ -1,0 +1,1 @@
+نص/NN الدوري/DTNN بالظبط/NNP عيطووو/NNP .../PUNC والشهادة/NNP لله/NNP ./PUNC ./PUNC محدش/NN شمت/VBD فيكم/NNP لدرجة/NN ان/IN الاهلاوية/DTNN اول/ADJ ناس/NN اصابتهم/JJ الشفقة/DTNN عليكم/NN ./PUNC ./PUNC والله/NNP كنا/VBD بندعي/NNP ليكم/NNP ان/IN ربنا/NNP يرجعكم/VBP تاني/NN زي/NN ماكنتم/NNP 

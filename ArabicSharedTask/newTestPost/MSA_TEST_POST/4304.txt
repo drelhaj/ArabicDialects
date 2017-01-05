@@ -1,0 +1,1 @@
+أحرز/VBD بطولة/NN كأس/NN الاردن/DTNNP بالطائرة/NNP -LRB-/PUNC 7/CD -RRB-/PUNC سبع/CD مرات/NNS 

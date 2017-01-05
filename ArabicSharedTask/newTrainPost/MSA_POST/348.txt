@@ -1,0 +1,1 @@
+ثانيا/ADJ :/PUNC -/PUNC الوحدات/DTNNP ممكن/JJ ان/IN يكون/VBP له/NN حضور/NN عربي/JJ ومحلي/JJ اكبر/JJR مما/NN هو/PRP عليه/NN الان/DTNN ./PUNC 

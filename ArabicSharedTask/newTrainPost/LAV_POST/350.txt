@@ -1,0 +1,1 @@
+اول/ADJ اشي/NN لقب/NN الزعيم/DTNN للزعيم/NNP الفيصلي/DTNNP واذا/NN بدكم/NN اتسموا/VBD ناديكم/NNP بالزعيم/NNP لازم/VBD ياخذ/VBP بطولات/NNS اكثر/JJR من/IN الفيصلي/DTNNP وهذا/NN مستحيل/JJ ./PUNC ثاني/ADJ اشي/VB ماتقولوا/VB رباعية/JJ لانه/NN دخل/NN بمرمى/NN الوحدات/DTNNS 3/CD اهداف/NN وفوزكو/NNP اجابطلوع/NNP الروح/DTNN ./PUNC 

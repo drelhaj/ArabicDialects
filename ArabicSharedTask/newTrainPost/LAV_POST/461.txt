@@ -1,0 +1,1 @@
+سيموكوندا/NNP لما/NNP النادي/DTNN تبعكوا/VBD جابوا/VBD من/IN وين/NNP جابوا/VBD ,/PUNC ,/PUNC ,/PUNC ومين/NNS اللي/WP رماه/NN ,/PUNC ,/PUNC ,/PUNC ,/PUNC هل/RP تعرف/VBP الجواب/DTNN ؟/CD 

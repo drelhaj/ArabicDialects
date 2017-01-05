@@ -1,0 +1,1 @@
+لو/IN أنا/VBD من/IN صاحب/NN السيارة/DTNN ،/VBD ،/NN ارفع/JJR شكوى/NN بسرقة/NN أي/NN شيء/NN داخل/NN السيارة/DTNN :/PUNC -RRB-/PUNC 

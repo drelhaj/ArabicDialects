@@ -1,0 +1,1 @@
+اذا/IN اردت/VBD ان/IN تستمتع/VBP بمباراة/NN لا/RP تتكرر/VBP كثيرا/NN تابع/JJ غدا/NN الزعيم/DTNN الاخضر/DTJJ رئيس/NN امبراطورية/NN الفن/DTNN و/CC المتعة/DTNN و/CC غزلان/NNP الشمال/DTNN اللذين/WP عادوا/VBD الى/IN الزمن/DTNN الجميل/DTJJ و/CC المتعة/DTJJ ./PUNC 

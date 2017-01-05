@@ -1,0 +1,1 @@
+سبحان/NN الله/NNP ما/RP أعظم/VBD رحمته/NN ببني/NNP ادم/NNP فان/NNP الاسلام/DTNNP يجب/VBP ما/WP قبله/VBN ./PUNC وها/VBD هو/PRP اخانا/NN الستيني/DTNNP بالعمر/NNP يسلم/VBP لربه/NN ولا/NN شك/NN ان/IN خطاياه/NNP السابقة/DTJJ قد/RP غفرت/VBD انشاء/NN الله/NNP ./PUNC فهنيئا/NN له/NN ومبارك/NN عليه/NN التوبة/DTNN ./PUNC 

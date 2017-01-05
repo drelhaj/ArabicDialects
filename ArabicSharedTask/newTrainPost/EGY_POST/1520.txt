@@ -1,0 +1,1 @@
+يا/RP دكتور/NNP محمد/NNP هما/PRP مغلطوش/NNP لان/NNP ده/DT فعلا/NN الشكل/DTNN الجديد/DTJJ من/IN اوت/NNP لاندر/NNP ومن/NN الخلف/DTNN ستشين/NN زي/NN القديمه/DTNN وبمنتهي/NNP البساطه/DTNNP اعمل/VBD سيرش/NNP علي/IN جوجل/NNP باسمها/NNP وشوف/NNP لو/IN انت/PRP مش/NN متابع/JJ علي/IN موقع/NN عربيات/NNP عالمي/JJ يعني/VBP 

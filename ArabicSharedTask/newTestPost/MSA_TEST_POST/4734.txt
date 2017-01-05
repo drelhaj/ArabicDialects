@@ -1,0 +1,1 @@
+اللهم/NN حرر/VBD المسجد/DTNN الأقصى/DTJJ من/IN دنس/NN اليهود/DTNN المعتدين/DTNNS ./PUNC اللهم/NN اكتب/VBP لنا/NN الصلاة/DTNN فيه/NNP والشهادة/NNP على/IN بابه/NNP ./PUNC ./PUNC اللهم/NN اكتب/VBP لنا/NN الصلاة/DTNN فيه/NNP والشهادة/NNP على/IN بابه/NNP ./PUNC ./PUNC 

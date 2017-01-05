@@ -1,0 +1,1 @@
+حكمة/NN :/PUNC إن/NN كان/VBD بيتك/NNP من/IN زجاج/NN فلا/NN ترمي/VBP بيوت/NN الآخرين/DTNNS بالحجارة/NNP 

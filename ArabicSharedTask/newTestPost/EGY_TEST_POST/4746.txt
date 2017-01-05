@@ -1,0 +1,1 @@
+فى/IN نفس/NN الاسبوع/DTNN الشعب/DTNN بيتكلم/NNP فى/IN قصة/NN سفالة/NN لاعب/NN كرة/NN ومهرجان/NNP غنائى/NNP لحماقى/NNP فى/IN ثانى/NN اهم/JJR جامعة/NN فى/IN مصر/NNP والشعب/NN مخدشى/JJ باله/JJ ان/IN كان/VBD فى/IN اعتصمات/NNS ومظاهرات/NNS اتسحل/VBP بيها/NN الارض/DTNN كانت/VBD بتدافع/NN عن/IN ارضه/NN 

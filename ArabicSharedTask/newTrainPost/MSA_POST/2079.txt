@@ -1,0 +1,1 @@
+ولكن/NNP باختصار/NNP ;/PUNC في/IN مباراة/NN أمس/NN أبدع/NN الحكم/DTNN بظلم/NN نادي/NN الرمثا/DTNNP ./PUNC 

@@ -1,0 +1,1 @@
+الله/NNP يعين/VBP ./PUNC ./PUNC قال/VBD ايش/NNP الوظائف/DTNN لرجال/NNP ./PUNC ./PUNC 

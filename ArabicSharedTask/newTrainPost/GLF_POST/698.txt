@@ -1,0 +1,1 @@
+بالمشمش/NNP يباع/VBN بمبلغ/NNP 500ريال/NNP والله/NNP لو/IN عليه/NNP دعم/NN الطن/DTNN والله/NN ما/WP يباع/VBN بهالسعر/NN لأن/NN عندنا/NN تجار/NN يخافون/VBP الله/NNP وتذكروا/VBD كلامي/NNS .../PUNC 

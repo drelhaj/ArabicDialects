@@ -1,0 +1,1 @@
+يا/RP جماعه/NN في/IN بعض/NOUN الناس/DTNN وانتم/NNP عارفينهم/NNP دون/NN ذكر/NN اسمه/NN ,/PUNC ,/PUNC ,/PUNC خرج/VBD فريقهم/NN من/IN مولد/NN الكاس/DTNN من/IN الباب/DTNN الخلفي/DTJJ بلا/NNP حمص/NNP ولا/NN عدس/NN ولا/NN برغل/JJ حتى/IN ,/PUNC ,/PUNC ,/PUNC ,/PUNC لكنهم/VBD مصرين/NNS على/IN التواجد/DTNN يوميا/NN والتعليق/JJ على/IN مواضيع/NN تخص/VBP غيرهم/NNP 

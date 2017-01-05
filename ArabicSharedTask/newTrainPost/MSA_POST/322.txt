@@ -1,0 +1,1 @@
+حتى/IN خطيب/NN الجمعه/DTNN لهذا/NN الاسبوع/DTNN تحدث/VBD عن/IN الهجوم/DTNN ضد/NN المارد/DTNN الاخضر/DTJJ -LRB-/PUNC لم/RP يقل/VBP المارد/DTNN الاخضر/DTJJ -RRB-/PUNC الصدق/DTNN في/IN نقل/NN المعلومه/DTNN ولكن/NNP اعلموا/VBD ان/IN الوحدات/DTNNS منكم/VN واليكم/NN والسلام/NNP عليكم/NNP 

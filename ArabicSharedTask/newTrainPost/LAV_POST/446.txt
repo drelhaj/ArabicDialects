@@ -1,0 +1,1 @@
+يعني/VBP بدل/NN ما/WP نعمل/VBP على/IN تحسين/NN ظروفنا/NN السياحية/NN لتناسب/NN شعبنا/NN وحتى/JJ يتمكن/VBP كل/NOUN مواطن/NN يقوم/VBP برحلة/NN سياحية/JJ داخل/NN البلد/DTNN ولو/VBD لمرة/NN واحدة/JJ فقط/RB في/IN العام/DTNN ./PUNC لا/RP المسؤولين/DTNNS بدهم/NN يحبسو/VBP الشعب/DTNN وضيقو/NN الخناق/DTNN عليهم/NNP ./PUNC 

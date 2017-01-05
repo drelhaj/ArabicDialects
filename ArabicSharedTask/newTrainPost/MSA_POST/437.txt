@@ -1,0 +1,1 @@
+جزا/VBD الله/NNP خيرا/NN جلالة/NN الملك/DTNN على/IN مواقفكم/NN العظيمة/DTJJ بنصرة/NN اهل/NN غزة/NNP قدر/NN المستطاع/DTNN ,/PUNC ونسال/NNP الله/NNP ان/IN يكون/VBP ذلك/DT في/IN ميزان/NN حسناتكم/JJ يوم/NN القيامة/DTNN ./PUNC 

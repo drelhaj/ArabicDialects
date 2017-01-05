@@ -1,0 +1,1 @@
+انا/PRP معك/NN اخ/NN حسام/NNP سلامة/NNP ميسي/NNP لاعب/NN مهاري/JJ كبير/JJ بس/NN اللي/WP بساعده/VBP على/IN الشهرة/DTNN والتميز/NNP عنة/NNP ابرز/JJR منافسيه/NN كريستيانو/NNP رونالدو/NNP هو/PRP الفريق/DTNN اللي/WP معو/VBD لو/IN كريستيانو/NNP رونالدو/NNP معو/NNP فريق/NN متل/JJ فريق/NN ميسي/NNP كان/VBD حكي/JJ تاني/NN يكفي/VBP ميسي/NNP تشافي/NNP 

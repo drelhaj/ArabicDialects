@@ -1,0 +1,1 @@
+شكلك/VBD تقصد/VBP دائرة/NN معينة/JJ .../PUNC المرور/DTNN مثلا/NN .../PUNC افصح/VBD عن/IN مكنون/NN نفسك/NNP .../PUNC بالله/NNP فيه/NNP شحات/NNP بيقول/NNP تعال/NN بكره/NN .../PUNC هل/RP ترى/VBP اننا/NN هنود/NN يالحبيب/NNP 

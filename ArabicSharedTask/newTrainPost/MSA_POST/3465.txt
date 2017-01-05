@@ -1,0 +1,1 @@
+تابعت/VBD الصحف/DTNN وقرأت/NN حول/NN القانون/DTNN ولاحظت/NNP ان/IN التركيز/DTNN على/IN الشركات/DTNNS ولم/NN يتناول/VBP الافراد/DTNN وفئات/NNS المجتمع/DTNN ./PUNC والتحليل/NNP القى/VBD الضوء/DTNN على/IN هذا/DT الموضوع/DTNN واعتقد/JJ لا/VBP بد/NN من/IN توسيع/NN التغطية/DTNN لتشمل/NN الجميع/NOUN ./PUNC 

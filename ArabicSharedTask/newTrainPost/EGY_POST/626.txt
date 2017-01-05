@@ -1,0 +1,1 @@
+والعميد/NN حسام/NNP حسن/NNP اكبر/NNP منه/NNP في/IN السن/DTNN وبيتعلموا/NNP منه/NNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+الا/IN يابعد/VBP حيي/NN ياحايل/NNP واهلها/NNP -LRB-/PUNC ./PUNC ^/VB !/PUNC ^/VBD ./PUNC -RRB-/PUNC 

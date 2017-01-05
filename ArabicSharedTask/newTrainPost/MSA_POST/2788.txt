@@ -1,0 +1,1 @@
+سنشاهد/NNP مساء/NN اليوم/DTNN مباراة/NN ستحدد/NN الملامح/DTNN الاولية/DTJJ للفريق/DTJJ الذي/WP سيتاهل/VBN الى/IN نهائي/NN بطولة/NN جبر/NNP الخواطر/DTNN ./PUNC ./PUNC والتي/NNS تاتي/VBP تعويضا/NN للفرق/NNP التي/WP لم/RP تستطع/VBP ان/IN تبرز/VBP كفرق/NN قوية/JJ بدوري/JJ المناصير/DTNN للمحترفين/NNP 

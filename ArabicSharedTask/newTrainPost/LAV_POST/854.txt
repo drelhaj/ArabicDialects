@@ -1,0 +1,1 @@
+بعدين/NNP يا/RP جماعة/NN معكم/JJ ./PUNC ./PUNC مرة/NN بتقولوا/NNP انه/NNP حكوا/VBD ما/WP دراغان/VBP ومرة/NN مع/NN مش/NN عارف/NNP مين/NNP ./PUNC ./PUNC كمان/NN شوي/NNP بجوز/NNP تقولوا/VBP مورينيو/NNP راح/NN يدرب/VBP الوحدات/DTNNS ،/VB او/CC ديلبوسكي/NNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+إن/VBD الإسلام/DTNN ،/NNP الذي/WP جاء/VBD في/IN القرن/DTNN السابع/ADJ الميلادي/DTJJ ،/NN كان/VBD رائداً/JJ من/IN روّاد/NN الفكرة/DTNN الديمقراطية/DTJJ ./PUNC وقد/NN كان/VBD العالم/DTNN العربي/DTJJ بحق/NN المهد/DTNN الأصيل/DTJJ لهذه/NN الديمقراطية/DTJJ ./PUNC 

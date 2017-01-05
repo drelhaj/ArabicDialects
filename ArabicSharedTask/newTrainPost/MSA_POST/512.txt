@@ -1,0 +1,1 @@
+مبروك/NN لاخي/NNP العزيز/DTNNP احمد/NNP خالد/NNP ابو/NNP عوض/NNP لحصوله/NNP على/IN الحزام/DTNN الاسود/DTJJ 1/CD دان/VBD للكراتيه/NNP ومبروك/NNP لنادي/NNP النجار/DTNNP 

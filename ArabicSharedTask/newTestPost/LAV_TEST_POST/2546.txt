@@ -1,0 +1,1 @@
+خلي/NN فيروز/NNP اللي/WP تبرعت/VBD باجر/NN حفلة/NN بعمان/NNP في/IN الثمانينات/DTNNS للكتائب/NN واشترطت/NN الدفع/DTNN كاش/NNP -LRB-/PUNC 100.000/CD دولار/NN لليلة/NN بعمان/NNP -RRB-/PUNC ما/WP تزعلو/VBP مني/VBN لاني/NNP دايخ/NNP 

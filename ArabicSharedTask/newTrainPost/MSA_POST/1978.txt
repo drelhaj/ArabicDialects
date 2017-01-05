@@ -1,0 +1,1 @@
+-LRB-/PUNC شفاء/NN -/PUNC نداء/NN -/PUNC لينا/NNP وبناتهم/NNP من/IN الاردن/DTNNP -RRB-/PUNC 

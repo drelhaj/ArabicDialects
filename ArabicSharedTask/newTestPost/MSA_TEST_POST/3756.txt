@@ -1,0 +1,1 @@
+نحن/PRP نعيش/VBP ببلد/NN ديمقراطي/NNP متفاهم/VN .../PUNC فكيف/NN يكون/VBP داخل/NN الاردن/DTNNP نادي/NN متسلط/JJ بادارته/NNP التي/WP استلمت/VBD النادي/DTNN منذ/IN عشرات/NNS السنين/DTNNS واحتكرت/NNP ادارتها/NNP -LRB-/PUNC بالوراثة/NNP -RRB-/PUNC 

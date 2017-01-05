@@ -1,0 +1,1 @@
+يعني/VBP العسكري/DTNN يسوي/VBP شي/NNP ماتدري/NNP هو/PRP مشروع/NN او/CC لا/RP ./PUNC ./PUNC هل/RP هو/PRP حق/NN لا/RP هو/PRP لا/RP ./PUNC ./PUNC والله/NN مصيبه/JJ يا/RP اخوان/NN ./PUNC ./PUNC رجل/NN الأمن/DTNN يجب/VBP ان/IN يكون/VBP متعلم/JJ وياخذ/NN مادة/NN القانون/DTNN 

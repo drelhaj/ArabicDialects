@@ -1,0 +1,1 @@
+فادي/NNP -/PUNC ممن/NN ولدوا/VBN وعاشوا/NN في/IN الكويت/DTNNP 1990/CD 

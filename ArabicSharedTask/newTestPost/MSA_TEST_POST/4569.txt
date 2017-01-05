@@ -1,0 +1,1 @@
+و/CC من/IN هنا/RB أحذر/NN المعلمين/DTNNS من/IN مغبة/NN النكوص/DTNN أو/VBD التراجع/DTNN عما/NN بدأوا/NN به/NN و/CC أن/NN يستمروا/VBP بالسير/NNP على/IN الطريق/DTNN الذي/WP يؤدي/VBP الى/IN تحقيق/NN مطلبهم/NN الرئيس/DTNN المتمثل/DTJJ بالنقابة/NNP ./PUNC فالنقابة/NN النقابة/DTNN النقابة/DTNN و/CC لا/RP بديل/NN عنها/NN ./PUNC 

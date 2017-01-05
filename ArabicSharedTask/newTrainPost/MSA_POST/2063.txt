@@ -1,0 +1,1 @@
+3/CD -RRB-/PUNC عام/NN 99/CD يشارك/VBP الوحدات/DTNNS في/IN كأس/NN العرب/DTNN أبطال/NN الدوري/DTNN في/IN مصر/NNP ويخرج/NNP من/IN الدور/DTNN التمهيدي/DTJJ كالعادة/NNP وبعدها/NNP بشهرين/NNP يشارك/VBP الزعيم/DTNN في/IN الكأس/DTNN العربية/DTJJ أبطال/NN الكأس/DTNN في/IN الكويت/DTNNP ويصل/NN لقبل/NNP النهائي/DTJJ 

@@ -1,0 +1,1 @@
+فوز/NN الجزيرة/DTNN ./PUNC ./PUNC ومن/NN ثم/CC انتظار/NN فوز/NN الرمثا/DTNNP لتنتهي/NNS المرحلة/DTNN الاولى/ADJ كما/CC توقعناها/NN ./PUNC ./PUNC للرمثا/NN والجزيرة/JJ ./PUNC ./PUNC لتكون/NN الجولة/DTNN القادمة/DTJJ نهاية/NN هذا/DT الاسبوع/DTNN الجولة/DTNN الحاسمة/DTJJ ومكملة/NN لتوقعاتنا/NNP 

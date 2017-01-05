@@ -1,0 +1,1 @@
+الله/NNP يفرح/VBP كل/NOUN طلاب/NN التوجيهي/DTJJ وبتمنى/JJR ما/WP يصير/VBP احزان/NN بدل/NN الافراح/DTNN بسبب/NN العيارات/DTNNS النارية/DTJJ والالعاب/NN الناريةوبهديهم/DTNN اغنية/NN احلام/NN -LRB-/PUNC نجحنا/VBD والله/NN وفقنا/NN واخر/NN صبرنا/NNP نلنا/NNP -RRB-/PUNC 

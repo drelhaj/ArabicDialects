@@ -1,0 +1,1 @@
+اللّهُـمَّ/DTNN إِنّـي/NNP أَعـوذُبِكَ/NNP مِنَ/NN الْكُـفر/DTNN ،/VBD وَالفَـقْر/NN ،/NN وَأَعـوذُبِكَ/NN مِنْ/NN عَذابِ/NN القَـبْر/DTNN ،/NN لا/RP إلهَ/VBP إلاّ/NN أَنْـتَ/DTNN ./PUNC -LRB-/PUNC ثلاثاً/CD -RRB-/PUNC -LRB-/PUNC أبو/NNP داود/NNP 4\/324/CD -RRB-/PUNC 

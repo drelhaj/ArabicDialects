@@ -1,0 +1,1 @@
+وابو/NNP جبّة/NNP ريّس/NNP العمم/DTNN ./PUNC ./PUNC 

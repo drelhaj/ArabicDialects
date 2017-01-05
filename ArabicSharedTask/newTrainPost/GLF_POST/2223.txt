@@ -1,0 +1,1 @@
+ياااويلها/VBP من/IN الله/NNP ./PUNC ./PUNC !/PUNC مافي/NNP قلبها/NNP رحمها/NN حسبي/NNP الله/NNP عليهم/NN هالي/JJ يعذبون/VBP الأطفال/DTNN ./PUNC ./PUNC قلوبهم/NNP ميته/NNP !/PUNC 

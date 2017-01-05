@@ -1,0 +1,1 @@
+بس/NN يا/RP ريت/NN نشوف/VBP الكلام/DTNN ده/DT عملي/JJ علشان/NN الفلاح/DTNN يزرع/VBP قمح/NN ومصر/NN تبطل/VBP تستورده/NN من/IN الي/IN يسوي/VBP والي/NN ميسواش/NNP بدل/NN ما/IN الفلاحين/DTNNS لا/RP بيزرعوا/VBD قمح/NN ولا/NN قطن/NN ,/PUNC ./PUNC ,/PUNC ./PUNC بقوا/VBD بيزرعوا/NNP فراولة/NN وموز/NN .../PUNC 

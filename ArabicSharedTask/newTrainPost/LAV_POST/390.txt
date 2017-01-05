@@ -1,0 +1,1 @@
+الله/NNP محي/NNP اصلكم/NN شباب/NN غزة/NNP اثبت/VBD للعالم/NN انكم/NN رجال/NN ومو/NN غريب/JJ على/IN الشعب/DTNN الفلسطين/DTJJ كرمه/NNP وعطائه/NNP وتحمله/NNP للمصاعب/NNP ,/PUNC واكبر/VBD دليل/NN الدول/DTNN المجاورة/DTJJ الي/IN ساهم/VBD في/IN انمائها/NN وبنائها/NN ./PUNC ./PUNC 

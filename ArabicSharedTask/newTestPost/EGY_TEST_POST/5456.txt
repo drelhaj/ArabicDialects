@@ -1,0 +1,1 @@
+انت/PRP بتقول/NNP عز/NNP -LRB-/PUNC يبقى/VBP انت/PRP اللى/WP قتلت/VBD ببايا/NN -RRB-/PUNC 

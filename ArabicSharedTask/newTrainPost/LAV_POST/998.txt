@@ -1,0 +1,1 @@
+يعني/VBP يا/RP الشباب/DTNN طلب/VBD يا/RP الفيصلي/DTNNP عرض/NN اللعيبة/DTNN مقابل/NN ان/IN ياخذوا/VBP لاعب/NN \//NN لعيبة/NN مقابلهم/JJ ./PUNC 

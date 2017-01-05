@@ -1,0 +1,1 @@
+6/CD -/PUNC معدل/NN تزويد/NN الناس/DTNN بالوقود/NNP هو/PRP 4/CD مرات/NNS -LRB-/PUNC فل/NNP -RRB-/PUNC شهريا/NN يعني/VBP 14خ4/CD =/PUNC 56/CD دينارا/NN شهريا/JJ من/IN كل/NOUN سيارة/NN 

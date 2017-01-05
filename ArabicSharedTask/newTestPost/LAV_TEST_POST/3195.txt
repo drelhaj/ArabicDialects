@@ -1,0 +1,1 @@
+سلم/VBD سلامات/NNS الرقم/DTNN -LRB-/PUNC 13/CD -RRB-/PUNC حلو/NNP على/IN الوحدات/DTNNS 

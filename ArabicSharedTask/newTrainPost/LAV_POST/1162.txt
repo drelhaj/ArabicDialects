@@ -1,0 +1,1 @@
+والله/NN كبييير/NNP يااا/NNP رمضاان/NNP ورح/NN تضلك/VBP كبيييير/NN وإنت/NN ستاااار/NN بعيووننا/NN ومـا/NN في/IN أردني/NNS دخل/VBD ع/NN الأكاديمية/DTNN وما/NN صار/VBD ستار/NN بفضل/NNP سمعتنا/NNP وأصلنا/NNP ./PUNC ./PUNC 

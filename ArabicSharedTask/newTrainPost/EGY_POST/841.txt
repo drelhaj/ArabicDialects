@@ -1,0 +1,1 @@
+هل/RP لوكان/NNP حسام/NNP حسن/NNP مكان/NN هاني/NNP سعيد/NNP ماذا/WP كان/VBD يفعل/VBP ودا/NN معروف/JJ عن/IN حسام/NNP حسن/NNP انه/VBD هو/PRP عصبي/NNP شويه/NNP وبعدين/NNP ليه/NNP الغرامه/DTNNP كبيره/NNP جدا/NN 50الف/JJ كتير/JJ علي/IN حاجه/NN مش/NN مستهله/NN لوكان/NNP حسام/NNP حسن/NNP هو/PRP اللي/WP اتفرض/VBP عليه/NNP 50الف/NNP ماذا/WP كان/VBD يفعل/VBP 

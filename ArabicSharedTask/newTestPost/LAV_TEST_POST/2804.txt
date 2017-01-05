@@ -1,0 +1,1 @@
+يارئيس/NNP البلديه/DTNNP انتا/VBD قاعد/NN بتهدر/NN اموال/NN الناس/DTNN على/IN الارصفه/DTNN وهي/NNP ليست/VBD بحاجه/NN الى/IN تغيير/NN وخصوصا/NN الجزيره/DTNN الوسطيه/DTJJ اللي/WP على/IN طريق/NN صالة/NN الشرق/DTNN الى/IN حواره/NNP انا/PRP مابدي/JJ ادفع/VBP ضريبه/NN علشان/NN نزبط/VBP رصيف/NN مابدو/NNP تغيير/NN .../PUNC الاسراف/DTNN حرام/NN 

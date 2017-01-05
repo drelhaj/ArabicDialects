@@ -1,0 +1,1 @@
+نبي/NN الف/CD جامعه/NN مثل/NN هالجامعة/NNP عشان/NNP نقش/NNP الغبار/DTNN عن/IN المجتمع/DTNN ./PUNC طول/NN الله/NNP في/IN عمرك/NN ابا/NN متعب/JJ ./PUNC 

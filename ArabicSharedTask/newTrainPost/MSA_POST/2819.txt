@@ -1,0 +1,1 @@
+هي/PRP نسبة/NN طبيعية/JJ مقارنة/JJ مع/NN ما/WP نشر/VBN بالنسبة/NN لدول/NN اخرى/JJ ،/VBD ولكنها/NN مرتفعة/JJ جدا/NN في/IN الواقع/DTNN ،/VBD فوجود/NN رجل/NN من/IN بين/NN كل/NOUN اثنين/NNS يعاني/VBP من/IN مشكلة/NN جنسية/JJ انا/PRP باعتقادي/JJ ان/IN المسبب/VN الاول/ADJ لهذه/NN الامور/DTNN هو/PRP الجهل/DTNN فهو/NNP قد/RP يكون/VBP :/PUNC 

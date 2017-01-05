@@ -1,0 +1,1 @@
+نعم/NN الوطن/DTNN بخير/NNP طالما/IN ان/IN هناك/RB هذا/DT العدد/DTNN الكبير/DTJJ من/IN المواطنيين/DTNNS الواعين/DTJJ للخطر/NNP الذي/WP يمثلة/VBP الصهاينة/DTNN على/IN الاردن/DTNNP وفلسطين/NNS وباقي/JJ الدول/DTNN العربية/DTJJ ./PUNC 

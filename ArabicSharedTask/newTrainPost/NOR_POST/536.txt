@@ -1,0 +1,1 @@
+يسمع/VBP كلامهم/NNP ويفتخر/NNP بأرائهم/NNP ونجدهم/NNP في/IN كل/NOUN مكان/NN في/IN تونس/NNP من/IN رحمه/NNP الله/NNP الطاهر/DTNNP بن/NNP عاشور/NNP لكن/VBP اليوم/DTNN أصبح/VBD المنحطين/DTNNS هم/PRP 

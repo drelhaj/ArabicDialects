@@ -1,0 +1,1 @@
+ملاحظ/NN ان/IN مافيش/NNP زملكاوى/NNP بيتكلم/NNP عن/IN حسام/NNP البدرىلا/DTNNP بالخير/NNP ولا/NNP بالشر/NNP ./PUNC انتم/PRP حطين/NNP دماغكم/NNP ليه/NNP فى/IN حسام/NNP حسن/NNP ؟/NN كارهينه/NNP هو/PRP وابراهيم/NNP اوى/VBD وشغالين/NNS تعليقات/NNS عليه/NNP ./PUNC اللى/WP يعرف/VBP الاجابه/DTNN يقول/VBP لى/NN ويكسب/NN تعليقين/JJ مجانا/JJ 

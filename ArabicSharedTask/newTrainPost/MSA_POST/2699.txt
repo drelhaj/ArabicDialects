@@ -1,0 +1,1 @@
+1.8/CD ؤ/NN #/NN 1642/CD ;/PUNC عن/IN المتوسط/DTNN الذي/WP تم/VBD التسعير/DTNN على/IN أساسه/NN الشهر/DTNN الماضي/DTJJ حين/NN بلغ/VBD المتوسط/DTNN مستوى/NN 83.5/CD دولار/NN ./PUNC -RRB-/PUNC 

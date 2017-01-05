@@ -1,0 +1,1 @@
+لا/RP اعرف/VBP ليش/NNP مايحطون/NNP نظام/NN للرعي/JJ ./PUNC ./PUNC وكل/VBD راعي/NN مسئول/NN عن/IN رعيته/NN ولا/NN أظن/NN انها/NN نهاية/NN الحوادث/DTNN مع/NN الابل/DTNN بل/CC اعلم/VBD انه/NN قد/RP يكون/VBP هناك/RB المزيد/DTNN بالاشهر/NNP القادمة/DTJJ ./PUNC ./PUNC دام/VBD وزارة/NN النقل/DTNN ساكته/NN 

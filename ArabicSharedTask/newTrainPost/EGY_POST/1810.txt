@@ -1,0 +1,1 @@
+طيب/NNP يا/RP كابتن/NN ماتجرب/NN مره/NN الاحتراف/DTNN وشوف/NN كدا/NN اولا/ADJ ليبيا/NNP مش/NN بعيده/NNP وهتلعب/NNP ف/CC جو/NNP كويس/NNP وهتقدر/NNP ترجع/VBP وتاخد/NN راحتك/JJ كمان/NN ولا/VBD انت/PRP عايز/NNP تسافر/NN كندا/NNP 

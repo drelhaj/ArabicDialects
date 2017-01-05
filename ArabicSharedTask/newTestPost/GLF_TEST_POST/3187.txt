@@ -1,0 +1,1 @@
+بصراحه/NNP فيه/NNP كثير/NN من/IN نوعية/NN هذي/DT البيوت/DTNN في/IN جده/NN ./PUNC ./PUNC لازم/VBD يسوون/VBP اي/NOUN شي/NNP 

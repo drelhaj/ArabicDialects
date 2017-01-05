@@ -1,0 +1,1 @@
+والدليل/NN على/IN هادا/NN الحكي/DTNN هوه/NNP واقعنا/NNP المرير/DTJJ ./PUNC ./PUNC دراسة/NN 4/CD سنوات/NNS من/IN جهد/NN وعنا/NN .../PUNC لحتى/NN بلاخر/NN نقعد/VBP في/IN البيوت/DTNN .../PUNC 

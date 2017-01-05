@@ -1,0 +1,1 @@
+على/IN راى/VBD احمد/NNP ادم/NNP فى/IN فيلم/NN معلش/NN احنا/NN بنتبهدل/NNP -LRB-/PUNC -LRB-/PUNC يا/RP برادعى/NNP ماتحن/NNP علية/NN المانجة/DTNN ماهياش/NNP نووىة/NNP -RRB-/PUNC -RRB-/PUNC انتوا/VBD نسيتواا/NNP فضيحة/NN لعراق/NN يبتاع/VBP النووى/DTNN 

@@ -1,0 +1,1 @@
+يا/RP ريت/NNP عماد/NNP بيه/NNP يتمسك/VBP بموقفه/NNP ويستقيل/NNP فى/IN أسرع/NN وقت/NN .../PUNC ويـــــــــــا/NN ريت/NN الكابتن/DTNN أحمد/NN العجوز/DTNN يمسك/VBP النادى/DTNN لإنه/NN بيعشق/NN النادى/DTNN وبيحمس/NNP لعيبته/NNP ورجل/NNP قلبه/NNP على/IN النادى/DTNN 

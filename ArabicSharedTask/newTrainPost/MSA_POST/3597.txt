@@ -1,0 +1,1 @@
+ازالة/NN الحواجز/DTNN امام/NN المخافر/DTNN والمواقع/DTJJ الامنية/DTJJ لانه/NNP من/IN غير/NN المعقول/DTNN ان/IN نلفت/VBP العامة/DTNN ان/IN المواقع/DTNN الامنية/DTJJ تتوقع/VBP مهاجمتها/NN وغير/NN قادرة/JJ عبر/NN اجهزتها/NN الوقائية/DTJJ من/IN افشال/NN اي/NOUN عمل/NN تخريبي/JJ ./PUNC 

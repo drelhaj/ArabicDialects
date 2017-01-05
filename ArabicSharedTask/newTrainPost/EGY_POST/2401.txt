@@ -1,0 +1,1 @@
+-/PUNC بالنسبه/NNP للمتظاهرين/NNP ربنا/VBD يخلنا/NN الحكومه/DTNN ./PUNC ./PUNC مش/NN حرمه/NN حد/NN من/IN حاجه/NN 

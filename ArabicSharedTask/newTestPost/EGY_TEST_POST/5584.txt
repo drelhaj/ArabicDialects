@@ -1,0 +1,1 @@
+الكلام/DTNN ده/DT طبعا/NN كدب/NN ومفيش/NN ادنى/JJR صحة/NN ./PUNC انا/PRP طالب/VBD في/IN كلية/NN الهندسة/DTNN جامعة/NN عين/NNP شمس/NNP وكنت/VBD في/IN الكلية/DTNN اليوم/DTNN ه/PRP$ واليوم/NN عدي/NNP طبيعي/JJ جدا/NN و/CC محصلش/NN فيه/NN اي/NOUN حاجة/NN 

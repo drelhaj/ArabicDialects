@@ -1,0 +1,1 @@
+للأسف/NNP عزت/NNP حمزة/NNP هو/PRP من/IN يضع/VBP العصا/DTNN في/IN الدولايب/DTNN والتي/NNS تمنع/VBP تقدم/NN الوحدات/DTNNS !/PUNC 

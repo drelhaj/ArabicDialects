@@ -1,0 +1,1 @@
+إنت/VBD بقى/NN يا/RP خفيف/NNP عارف/NNP مين/NNP سجل/VBD الأهداف/DTNN الستة/DTJJ لما/NNP فاز/VBD نادي/NN الملك/DTNN فاروق/NNP و/CC إنت/VBD عارف/NNP يعني/VBP إيه/NN لما/NNP يلعب/VBP نادي/NN الملك/DTNN فاروق/NNP مع/NN النادي/DTNN الأهلي/DTJJ الذي/WP يتشرف/VBP بأنه/NNP كان/VBD نادي/NN أبناء/NN الشعب/DTNN و/CC الفدائيين/DTNNS في/IN ذلك/DT الوقت/DTNN ./PUNC 

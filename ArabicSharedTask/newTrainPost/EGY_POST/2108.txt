@@ -1,0 +1,1 @@
+العار/DTNN عارك/NNP فان/NNP كان/VBD نظام/NN التعيين/DTNN شئ/NN موروث/NN فما/NN ذنب/NN الازهر/DTNNP فهل/NNP كافحت/NNP وناضلت/NNP وسجنت/VBD من/IN اجل/NN تغيير/NN هذا/DT الارث/DTNN ولاهى/NN فرقعة/NN للشهرة/NN وما/NN دخل/NN الاقباط/DTNN والشيعة/NN ولاانت/NN بتروج/NN لهم/NN وليه/NNP !/PUNC 

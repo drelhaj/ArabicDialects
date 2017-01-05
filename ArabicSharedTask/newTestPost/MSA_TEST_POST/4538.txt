@@ -1,0 +1,1 @@
+كل/NOUN الشكر/DTNN للدكتور/NN كاتب/NN المقال/DTNN فالمقال/NN حقيقي/JJ وواقعي/JJ واذا/JJ اردنا/VBD ان/IN نذهب/VBP للعمل/NN لا/RP يحق/VBP لنا/NN الجمع/DTNN بين/NN الرواتب/DTNN ./PUNC وهل/VBD يعقل/VBN ان/IN نبقى/VBP في/IN بيوتنا/NN ولا/NN نعمل/VBP لان/NN التقاعد/DTNN المدني/DTJJ يوقف/VBP رواتبنا/NN ويربطها/NN بالضمان/NNP الاجتماعي/DTJJ ./PUNC 

@@ -1,0 +1,1 @@
+يعني/VBP باسم/NNP فتحى/NNP ممتاز/NNP وصخرة/NN في/IN الدفاع/DTNN ومش/NN لازم/JJ نهاجمه/VBP لمجرد/NN انه/NN طالب/NN بحقوقه/NN ،/NN الزلمة/DTNN طالع/JJ من/IN جيزة/NNP ويمكن/NNP مزنوق/NNP :/PUNC -RRB-/PUNC 

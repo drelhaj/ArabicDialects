@@ -1,0 +1,1 @@
+بطل/NN دوري/NN من/IN ورق/NN -LRB-/PUNC مكتوب/JJ على/IN ورق/NN او/CC مصنوع/NN خصيصا/NN -RRB-/PUNC 

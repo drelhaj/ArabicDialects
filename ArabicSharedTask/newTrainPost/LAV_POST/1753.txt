@@ -1,0 +1,1 @@
+طيب/NNP منيح/NNP إذا/NN فتح/NNP بتقدر/NNP إتأثر/NNP على/IN تركيا/NNP ,/PUNC ,/PUNC ,/PUNC ,/PUNC والله/NN لو/IN صار/VBD زلزال/NN في/IN هاييتي/NNP بتحكو/NNP فتح/NNP هي/PRP السبب/DTNN ,/PUNC ,/PUNC سبحان/NN الله/NNP 

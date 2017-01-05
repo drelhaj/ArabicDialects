@@ -1,0 +1,1 @@
+ولو/VBD الشباب/DTNN سابو/NNP الاضراب/DTNN و/CC المظاهرات/DTNNS وسابو/NNP ''/NNP اليوم/DTNN التاريخي/DTJJ ده/DT ''/ADJ عشان/NN يسمعو/VBP اغاني/NN يبقو/VBP شباب/NN ملهومش/JJ لازمة/JJ ومايستحقوش/NN الحقوق/DTNN ولا/NN المطالب/DTNN اللي/WP بيطالبو/VBD بيها/NN اصلا/NN ولا/NN هينفعو/NNP البلد/DTNN في/IN يوم/NN ./PUNC 

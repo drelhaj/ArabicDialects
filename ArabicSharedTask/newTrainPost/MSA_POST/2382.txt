@@ -1,0 +1,1 @@
+أرى/VBD أن/NN يعتزل/VBP رأفت/NN اللعب/DTNN الآن/DTNN وهو/NNP في/IN قمة/NN عطائه/NN ،/NN لقد/RP بدأ/VBD مستوى/NN رأفت/NN بالتدني/JJ ،/VBD ولا/NN يلام/VBP على/IN ذلك/DT ،/VBD للسن/NNP احكام/NN ،/NN وعليه/NN أن/NN يتيح/VBP الفرصة/DTNN للاعبين/NNS ناشئين/JJ أثبتوا/VBD أنهم/NN على/IN سوية/NN عالية/JJ ./PUNC هكذا/RB يفعل/VBP الكبار/DTNN يا/RP رأفت/VBN ./PUNC 

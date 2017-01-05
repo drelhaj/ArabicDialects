@@ -1,0 +1,1 @@
+آلله/VBD عليك/NNP يالمبدع/NNP ./PUNC ./PUNC آلصرآحه/NN الابدآع/DTNN ولآ/NN ششي/NNP عندك/NNP ./PUNC ./PUNC تسسلم/VBP آيدينك/NNP -RRB-/PUNC ./PUNC ./PUNC 

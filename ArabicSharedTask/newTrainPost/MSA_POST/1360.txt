@@ -1,0 +1,1 @@
+الوحدات/DTNNS مدرسة/NN لتخريج/NN اللاعبين/DTNNS اذكر/VBP لي/NNP ثلاثة/CD اسماء/NN من/IN لاعبي/NNS الفيصلي/DTNNP من/IN ابناء/NN النادي/DTNN طبعا/NN لا/RP يوجد/VBN لانكم/NN تعتمدون/VBP على/IN الاسماء/DTNN الجاهزة/DTJJ و/CC هذا/DT هو/PRP الفشل/DTNN بحد/NN ذاته/NN ,/PUNC اما/RP الوحدات/DTNNS فلا/NN خوف/NN على/IN مستقبله/NN لانه/NNP مصنع/NN لللاعبين/NNP و/CC النجوم/DTNN ,/PUNC 

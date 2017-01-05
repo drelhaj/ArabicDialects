@@ -1,0 +1,1 @@
+يعني/VBP بعدين/NNP الضريبه/DTNN مفروضه/NN الها/NN شهر/NN لما/NNP النفط/DTNN انخفض/VBD بكل/NN العالم/DTNN الا/RP حكومتنا/VBD الرشيده/DTNN رفعتو/NNP -RRB-/PUNC 

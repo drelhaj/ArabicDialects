@@ -1,0 +1,1 @@
+لكل/VBD فرد/NN في/IN المجتمع/DTNN حرية/NN التعبير/DTNN عن/IN نفسه/NN ,/PUNC وكل/NN فرد/NN في/IN اي/NOUN مجتمع/NN يستطيع/VBP ان/IN يدخل/VBP اي/NOUN مجال/NN يجد/VBP نفسه/NN فيه/NNP ,/PUNC ذكر/VBD ام/CC انثى/VBD 

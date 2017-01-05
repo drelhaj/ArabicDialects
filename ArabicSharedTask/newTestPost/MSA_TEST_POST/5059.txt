@@ -1,0 +1,1 @@
+اسرائيل/NNP تشن/VBP حرب/NN دينية/JJ على/IN المسلمين/DTNNS بالدرجة/NN الأولى/DTNN ./PUNC ./PUNC هؤلاء/DT القادة/DTNN النشامى/DTJJ مسلمون/JJ وليس/NN بغريب/NN عليهم/NN فعل/NN ذلك/DT مع/NN عدم/NN اعفاء/NN الاخرين/DTNNS عن/IN تقصيرهم/NN الواضح/DTNN ./PUNC ./PUNC مشكلة/NN فلسطين/NNP هي/PRP مشكلة/NN اسلامية/JJ بالدرجة/JJ الاولى/ADJ ولن/NN تحل/VBP الا/RP عن/IN طريق/NN الدين/DTNN 

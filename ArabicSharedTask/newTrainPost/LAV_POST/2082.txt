@@ -1,0 +1,1 @@
+ياناس/NNP ياههو/NNP اسبانيا/NNP رح/NN تكتسح/NN هولندا/NNP زي/NN مل/VBD الوحدات/DTNNS رح/NN يفوز/VBP بكاس/NNP الكؤوس/DTNN -LRB-/PUNC انشاء/NN الله/NNP -RRB-/PUNC وباقي/NNS البطولات/DTNNS باذن/NN رب/NN العالمين/DTNNS 

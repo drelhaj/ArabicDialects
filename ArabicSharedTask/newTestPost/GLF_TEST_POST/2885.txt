@@ -1,0 +1,1 @@
+بيض/NN الله/NNP وجيهكم/NNP ياجريده/NNP الرياض/DTNNP ,/PUNC وعلى/VBD الحكومه/DTNN الضرب/DTNN بيد/NN من/IN حديد/NN على/IN هؤلاء/DT الخونه/DTNN الذين/WP يستغلون/VBP المواطنين/DTNNS ولازالو/NNP يصرون/VBP على/IN بقاء/NN اسعار/NN الحديد/DTNN عندنا/NNP مرتفعه/NNP ./PUNC 

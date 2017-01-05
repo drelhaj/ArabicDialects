@@ -1,0 +1,1 @@
+يعني/VBP اسرائيل/NNP مش/NN شايفه/NN حدا/NN ييضربها/NN او/CC يوقف/VBP في/IN طريقها/NN .../PUNC قال/VBD يافرعون/NNP مين/NNP فرعنك/NNP قال/VBD ما/WP لقيت/VBD حدا/NN يوقفني/NNP .../PUNC ./PUNC 

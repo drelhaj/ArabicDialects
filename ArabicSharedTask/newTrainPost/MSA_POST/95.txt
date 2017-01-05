@@ -1,0 +1,1 @@
+ولنتذكر/NNP دائماً/NNP أن/NN الغرب/DTNN يحاول/VBP تطبيق/NN حقوق/NN الأنسان/DTNN في/IN بلاد/NN المسلمين/DTNNS ولا/NN يطبقها/NN في/IN بلاده/NNP ./PUNC ./PUNC أين/NNP الديمقراطية/DTJJ ؟/VBD وأين/NN الحرية/DTNN الشخصية/DTJJ للأفراد/NNP ؟/NNP 

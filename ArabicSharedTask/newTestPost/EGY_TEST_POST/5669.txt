@@ -1,0 +1,1 @@
+3/CD -/PUNC الحكم/DTNN يحسب/VBP ضربتين/NNS جزاء/NN على/IN الزمالك/DTNNP فى/IN بتروجيت/NNP ومحرم/NNP عليه/NNP يحسب/VBP ضربات/NNS جزاء/NN للزمالك/NNP فى/IN ماتش/NNP الشرطة/DTNN ./PUNC 

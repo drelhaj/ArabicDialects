@@ -1,0 +1,1 @@
+-LRB-/PUNC مهند/NNP محادين/NNP -/PUNC بطوله/NNP النخبه/DTNNP المغرب/DTNNP ,/PUNC هيثم/NNP الشبول/DTNNP -/PUNC بطولة/NN النخبه/DTNNP الاردن/DTNNP ,/PUNC افضل/JJR حارس/NN انيس/NNP شفيق/NNP -RRB-/PUNC 

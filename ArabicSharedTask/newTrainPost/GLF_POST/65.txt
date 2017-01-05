@@ -1,0 +1,1 @@
+لاحول/NNP ولا/NNP قوة/NN الا/RP بالله/NNP ./PUNC ./PUNC كثر/NN القتل/DTNN والعياذ/DTJJ بالله/NNP الله/NNP لا/RP يبلانا/VBP ويعافينا/NNP 

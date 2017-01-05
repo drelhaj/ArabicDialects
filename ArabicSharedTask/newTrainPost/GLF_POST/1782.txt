@@ -1,0 +1,1 @@
+عبدالسلام/NNP حتى/IN ما/WP يدري/VBP هي/PRP قبل/NN الطبخ/DTNN والا/NN بعده/NNP يعني/VBP تخيل/NN ثلاث/CD مغارف/NN قبل/NN الطبخ/DTNN تصير/VBP حول/NN صحن/NN ابو/NNP حبة/NN دجاج/NN نفرين/NNS رز/NNP :/PUNC -RRB-/PUNC 

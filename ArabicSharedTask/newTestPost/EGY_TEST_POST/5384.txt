@@ -1,0 +1,1 @@
+بابا/NN .../PUNC بيقولوا/NNP إحنا/VBD بنستورد/NNP إن/NN مصر/NNP تستورد/VBP ثلثى/NOUN استهلاكها/NN من/IN الفول/DTNN إللى/VBD هو/PRP وجبة/NN الغلابة/DTNN .../PUNC بعد/NN كده/NN ناكل/JJ ايه/NN 

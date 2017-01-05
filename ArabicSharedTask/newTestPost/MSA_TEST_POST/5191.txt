@@ -1,0 +1,1 @@
+اما/RP انا/PRP فاقول/NNP لهم/NNP بان/NNP الساكت/DTNN عن/IN الحق/DTNN شيطان/NN اخرس/NNP واذكرهم/NNP بالحديث/NNP الشريف/DTNNP -LRB-/PUNC من/IN راى/VBD منكرا/NN فليغيره/NNP بيده/NNP فان/NNP لم/RP يستطع/VBP فبلسانه/NNP فان/NNP لم/RP يستطع/VBP فبقلبه/NN وذلك/NN اضعف/JJR الايمان/DTNN -RRB-/PUNC 

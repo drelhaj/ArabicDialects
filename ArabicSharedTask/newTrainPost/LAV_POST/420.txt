@@ -1,0 +1,1 @@
+ويعني/NNP شو/NNP راح/NN يختلف/VBP المجلس/DTNN القادم/DTJJ عن/IN اللي/WP قبله/NN ./PUNC 

@@ -1,0 +1,1 @@
+ما/WP قدرنا/VBD نجيب/NNP لاعبين/NNS من/IN فلسطين/NNP بسبب/NN الاحتلال/DTNN اخذنا/VBD لاعبين/NNS الوحدات/DTNNS ./PUNC 

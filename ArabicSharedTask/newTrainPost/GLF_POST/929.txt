@@ -1,0 +1,1 @@
+والله/NN العنقري/DTNN مو/NN المشكله/DTNN المشكله/DTJJ قلة/NN الكاش/DTNN ./PUNC شوف/NN النصر/DTNN المعفن/DTJJ صار/VBD يجيب/VBP مراكز/NN افضل/JJR مننا/NN بعد/NN كاش/NNP فيصل/NNP بن/NNP تركي/NNP ./PUNC جيب/NNP كاش/NNP وانته/NNP تنجح/VBP ./PUNC والله/NNP لو/IN تحط/VBP علبة/NN ميرندا/NNP فاضيه/NNP رئيس/NN بس/NN معاه/NNP كاش/NNP ليتعدل/NNP الحال/DTNN ./PUNC 

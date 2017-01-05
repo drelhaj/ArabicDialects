@@ -1,0 +1,1 @@
+عندماارتفعت/VBD قيمة/NN المخالفة/DTNN لقطع/NN الاشارة/DTNN الحمراء/DTJJ الى/IN 500/CD دينار/NN ارتفعت/VBD الاصوات/DTNN المنادية/DTJJ بعكس/NNP ذلك/DT لكن/CC اقول/VBP وبصوت/NN عالي/JJ -/PUNC وانا/NNP احمل/VBP رخصة/NN قيادة-انه/NNP عند/NN اصدار/NN قانون/NN يجب/VBP ان/IN تكون/VBP هناك/RB قوة/NN لتطبيق/NN هذا/DT القانون/DTNN 

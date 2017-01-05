@@ -1,0 +1,1 @@
+دائماً/NNP بتدور/NNP بتدور/NNP وبترجع/NNP للمواطن/NNP انا/PRP مش/NN فاهم/JJ ليش/NN المواطن/DTNN اللي/WP بدو/NN يتحمل/VBP اخطاء/NN الحكومة/DTNN دائماً/DTJJ ,/PUNC ليش/NN ما/WP كان/VBD في/IN ترشيد/NN نفقات/NNS وتخفيض/NN لرواتب/NN الوزراء/DTNN من/IN قبل/NN ولا/NN مشان/NN المواطن/DTNN يسكت/VBP وما/NN يكنلوش/VBP حجة/NN ./PUNC 

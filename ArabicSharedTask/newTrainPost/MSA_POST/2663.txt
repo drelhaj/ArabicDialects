@@ -1,0 +1,1 @@
+ـ/VBD كثرة/NN الأوقاف/DTNN التي/WP أوقفت/VBD على/IN المسجد/DTNN الأقصى/DTJJ من/IN خارج/NN فلسطين/NNP وكثرتها/NN في/IN داخل/NN فلسطين/NNP مظهر/NN آخر/NN من/IN مظاهر/NN الاهتمام/DTNN بالمسجد/NNP الأقصى/DTNNP انظر/VB كتاب/NN أوقاف/NN بيت/NNP المقدس/DTJJ ،/VBD وأوقاف/NN صفد/NNP ./PUNC 

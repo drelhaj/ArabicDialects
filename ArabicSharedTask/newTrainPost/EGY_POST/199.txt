@@ -1,0 +1,1 @@
+خلى/VBD بالك/NNP يا/RP حسام/NNP من/IN .../PUNC حــــازم/NN امــــام/NN .../PUNC و/CC .../PUNC احمد/NNP الميرغنى/DTNNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+صح/VBD بحكي/NNP أنا/VBD ولا/NN غلط/NN ؟/NN لأن/NN معاقبة/NN المدخنين/DTNNS والدخان/NNS منتشر/JJ في/IN كل/NOUN مكان/NN وفي/NN كل/NOUN المحلات/DTNNS عبارة/NN عن/IN تخدير/NN للشعب/NN ./PUNC 

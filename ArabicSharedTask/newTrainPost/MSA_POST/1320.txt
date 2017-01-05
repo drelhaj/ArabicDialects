@@ -1,0 +1,1 @@
+بوركت/NNP جهودكم/NNP و/CC شفا/NN الله/NNP جراح/NN مجاهدينا/JJ في/IN غزه/NN و/CC مرضانا/NN فهم/NN منا/JJ و/CC نحن/PRP لهم/NN ./PUNC 

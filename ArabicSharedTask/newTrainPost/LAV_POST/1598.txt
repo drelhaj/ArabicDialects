@@ -1,0 +1,1 @@
+الله/NNP يعينه/VBP ويعينا/NN والله/NN لا/RP أذكر/VBP آخر/NN مرة/NN أكلت/VBN فيها/NN أنا/VBD وأولادي/NNP لحم/NNP يمكن/VBP قبل/NN ثلاث/CD سنوات/NNS وكنا/NN معزومين/JJ ./PUNC والشكر/VBP كل/NOUN الشكر/DTNN لحكومتنا/NN الرشيدة/DTNN بدها/NN مصلحتنا/NN واللحم/NNP بعمل/NNP كوليسترول/NNP ونقرص/NN عند/NN الأردنيين/DTNNS ./PUNC يالله/VBP الانتخابات/DTNNS جاي/NNP 

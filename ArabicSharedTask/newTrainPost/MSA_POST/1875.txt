@@ -1,0 +1,1 @@
+بسم/NNP الله/NNP اُلرحمن/NNP اُلرحيم/NNP .../PUNC إن/NN من/IN يقدم/VBP على/IN ممارسة/NN هذا/DT النّوع/DTNN اُلفعليّ/VBP ،/NN 

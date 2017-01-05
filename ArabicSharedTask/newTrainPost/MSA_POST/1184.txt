@@ -1,0 +1,1 @@
+5/CD -/PUNC اللّهُـمَّ/DTNN ما/WP أَصْبَـَحَ/VBD بي/NN مِـنْ/NN نِعْـمَةٍ/VBP أَو/NN بِأَحَـدٍ/NN مِـنْ/JJ خَلْـقِك/NN ،/NN فَمِـنْكَ/NN وَحْـدَكَ/JJ لا/RP شريكَ/VBP لَـك/NN ،/NN فَلَـكَ/NN الْحَمْـدُ/DTNN وَلَـكَ/NN الشُّكْـر/DTNN ./PUNC -LRB-/PUNC أبو/NNP داود/NNP 4\/318/CD -RRB-/PUNC 

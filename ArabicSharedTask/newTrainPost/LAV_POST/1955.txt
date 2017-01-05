@@ -1,0 +1,1 @@
+هذا/DT مثل/NN اخي/NN لي/NNP ،/VBD تجوز/NN بالدين/NNP وساكن/NN اجار/NN وراتبه/NN 200/CD دينار/NN ،/VBD الله/NNP رزقه/NN بتوم/NN الاولاد/DTNN ،/VBD وزارد/NN مصاريف/NN ,/PUNC وما/NN في/IN 9/CD شهور/NN على/IN التوم/DTNNP حتى/IN انجب/VBD ابنه/NN ،/NN وليل/NN نهاروا/VBD يتشحود/VBP ،/NN ،/CD 

@@ -1,0 +1,1 @@
+ولا/NN يهمك/VBP ياد/NNP يا/RP ميدو/NNP ./PUNC ./PUNC كفاية/NN انك/NN هتلعب/NN جنب/NN بوشكاش/NNP ./PUNC ./PUNC تحب/VBP اطلبلك/NN معايا/NN وجبتين/NNS دليفرى/NNP 

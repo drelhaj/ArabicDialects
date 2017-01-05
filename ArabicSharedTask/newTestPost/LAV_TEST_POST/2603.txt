@@ -1,0 +1,1 @@
+لعنة/NN الله/NNP عليهم/NNP وين/NNP ما/WP يرووحو/VBP انشالله/NN ربنا/NNP بيحرقهم/NNP حرق/NN قبل/NN ما/WP يفكروا/VBP بهيك/NNP شي/NNP وبيخسف/NNP الأرض/DTNN فيهم/NNP خسف/NNP .../PUNC لاحول/NNP ولا/NNP قوة/NN الا/RP بالله/NNP .../PUNC 

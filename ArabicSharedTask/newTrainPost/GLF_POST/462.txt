@@ -1,0 +1,1 @@
+سافرت/VBD من/IN الطائف/DTNNP الا/RP مكه/NN ولوحدها/NN بعد/NN ./PUNC ./PUNC !/PUNC وكل/VBD هذا/DT مادروا/VBD انها/NN بنت/NNP ./PUNC ./PUNC !/PUNC طيب/NNP واهلها/NNP مابلغوا/NNP عنها/NN بعد/NN ./PUNC !/PUNC والشاب/NN اللي/WP كانت/VBD معه/NN بالحرم/NNP مايدرري/NNP انها/NN بنت/NNP .../PUNC !/PUNC 

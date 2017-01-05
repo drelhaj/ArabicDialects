@@ -1,0 +1,1 @@
+ياأخوان/NNP دولتهم/NNP قائمة/VN على/IN القانون/DTNN والدين/NNS الاسلامي/DTNN لها/NN لا/RP شيء/NN ,/PUNC فليه/NN الزعل/DTNN إذا/NN رفضوا/VBD النقاب/DTNN أو/NN الحجاب/DTNN ./PUNC 

@@ -1,0 +1,1 @@
+بيقولى/NNP -LRB-/PUNC دلع/NN عينى/NN دلع/NN البرادعى/DTNN عملها/NN وخلع/NN -RRB-/PUNC 

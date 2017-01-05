@@ -1,0 +1,1 @@
+بس/NN شدو/NNP حالكو/NNP يوم/NN السبت/DTNN بكاس/NNP الترضيه/DTNNP وجبر/NN الخواطر/DTNN بلاش/NNP بيطير/NNP منكو/NNP كما/CC طار/VBD الدوري/DTNN لانه/NNP الزعيم/DTNN ينتظر/VBP مباراة/NN كاس/NN الكؤوس/DTNN مش/NN فاضي/JJ لهيك/JJ سوالف/JJ ./PUNC 

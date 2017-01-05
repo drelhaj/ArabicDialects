@@ -1,0 +1,1 @@
+يا/RP ريت/NNP يفوز/VBP الوحدات/DTNNS و/CC الفيصلي/DTNNP و/CC يتلاقوا/VBP بدور/NN النصف/NOUN نهائي/NN و/CC نغلبهم/NN -LRB-/PUNC كالعادة/NNP -RRB-/PUNC و/CC نحكيلهم/VBP باي/NNP و/CC لا/RP تحلموا/VBP ببطولة/NN من/IN الوحدات/DTNNS ./PUNC 

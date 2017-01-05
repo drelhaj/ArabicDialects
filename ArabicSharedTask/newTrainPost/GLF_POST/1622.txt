@@ -1,0 +1,1 @@
+سبحان/NN الله/NNP ذا/NN الديره/DTNN غير/NN ونيسه/NN وضنكه/NNP بسبب/NNP طردهم/NNP للنبي/NNP صلى/VBD الله/NNP عليه/NNP وسلم/VBD يوم/NN جاهم/JJ يدعو/VBP للاسلام/NN 

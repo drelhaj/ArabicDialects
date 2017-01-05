@@ -1,0 +1,1 @@
+قبل/NN أن/NN أقرأ/NN هذه/DT الخبر/DTNN المؤسف/DTJJ عن/IN دعم/NN وضجة/NN أكاد/NN أجزم/NN أن/NN من/IN يقف/VBP وراءه/NN هم/PRP$ شركات/NNS الاتصال/DTNN المستفيد/DTNN الوحيد/DTJJ منه/NNP ./PUNC 

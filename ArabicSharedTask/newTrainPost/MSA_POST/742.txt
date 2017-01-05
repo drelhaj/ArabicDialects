@@ -1,0 +1,1 @@
+2/CD -RRB-/PUNC يوم/NN 6/4/2008/CD مباراة/NN الزعيم/DTNN والشباب/NN كان/VBD الفارق/DTNN 3/CD نقاط/NN للوحدات/NNS وبحاجة/JJ للفوز/JJ فقط/RB ومن/VBD ثم/CC الفوز/DTNN على/IN الوحدات/DTNNS لفرض/VBD كذلك/NN جولة/NN فاصلة/JJ لكن/VBP الشباب/DTNN تعادل/VBD وأهدى/NN الدوري/DTNN للوحدات/NNS 

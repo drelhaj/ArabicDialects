@@ -1,0 +1,1 @@
+السلام/DTNN عليكم/NN ./PUNC والله/NNP حنا/NNP بخير/NNP والبلد/NNP في/IN نعمه/NN لا/RP تفتحلنا/VBP باب/NN وكل/NN الأنظار/DTNN علينا/NNP بذات/NNP حنا/NNP يا/RP السعوديه/NNP ماأقول/NNP اللى/WP الله/NNP يستر/VBP علينا/NN في/IN المستقبل/DTNN ./PUNC ./PUNC ويصلح/NNP ويهدي/NNP الجميع/NOUN ./PUNC 

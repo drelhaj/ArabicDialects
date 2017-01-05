@@ -1,0 +1,1 @@
+سبحان/NN الله/NNP إن/VBD ملك/NN الموت/DTNN قابض/NN روحه/NNP لا/RP محالة/VN اليوم/DTNN وكنها/NN عبرة/NN لمن/NN ألقى/VBD السمع/DTNN وهو/NNP شهيد/NNP .../PUNC الموت/DTNN آتيك/NNP ولكن/NNP يؤخره/VBP رب/NN الناس/DTNN لأسباب/NN لا/RP يعلمها/VBP إلا/NN هو/PRP .../PUNC رحمه/NNP الله/NNP وصبر/NN أهله/NN ولتكن/NN عبرة/NN لنا/VBD ./PUNC ./PUNC اللهمأحسن/DTNN خاتمتنا/VBD يا/RP رب/NN 

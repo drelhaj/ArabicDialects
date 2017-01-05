@@ -1,0 +1,1 @@
+كلها/VBD ابن/NNP مسؤول/NN يموت/VBP فوق/NN هذا/DT الجسر/DTNN ./PUNC رح/VBD يغيروا/VBP معالم/NN الزرقاء/DTNNP من/IN واراه/NNP 

@@ -1,0 +1,1 @@
+مصروف/NN 10/CD دنانير/NNP -LRB-/PUNC مجهول/NN -/PUNC الأردن/DTNNP -RRB-/PUNC 

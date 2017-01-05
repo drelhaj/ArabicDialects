@@ -1,0 +1,1 @@
+اهم/JJR شيئ/NN ./PUNC عبدالعيز/NNP السويد/DTNNP هو/PRP من/IN ال/DT 12/CD ./PUNC لايجيه/NNP شيئ/NNP لأن/VBD رئيس/NN نادي/NN النصر/DTNNP يصفه/VBP في/IN القناة/DTNN الرياضيه/DTJJ بلإعلامي/NNP الكبير/DTJJ ./PUNC ض/VB ح/NN ك/PRP$ ت/NN ./PUNC ./PUNC ك/IN ث/NN ي/PRP$ ر/NN .../PUNC 

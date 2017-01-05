@@ -1,0 +1,1 @@
+والله/NN الفيصلي/DTNNP فريق/NN كبير/JJ وبيضلو/NNP فريق/NN كبير/JJ ومش/NN بس/NN الفيصلي/DTNNP عانا/VBD مناالازمه/NN الماليه/DTNN كل/NOUN الانديه/DTNN كمان/NN عانت/VBD بس/NN الفيصلي/DTNNP رجع/VBD وقف/NN على/IN من/WP جديدوما/NN بدنا/NN محترفين/NNS عنا/VBD لعيبه/NN جدعان/NN وزلام/NN .../PUNC ./PUNC ./PUNC وبتمنى/DTNN العربي/DTJJ يفوز/VBP على/IN الوحدات/DTNNS ان/IN شاء/VBD الله/NNP 

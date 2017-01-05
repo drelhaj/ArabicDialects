@@ -1,0 +1,1 @@
+اقترب/VBD وقت/NN الفرح/DTNN ايها/RP الوحداتييون/DTNNS جهزوا/VBD انفسكم/NN جهزوا/VBD الطبول/DTNN جهزوا/VBD الرايات/DTNNS الخضر/DTNN والحمر/NNP غدا/NN يوم/NN الفرح/DTNN غدا/NN موعد/NN الزفاف/DTNN الوحداتي/DTJJ جهزوا/VBD العريس/DTNN الوحداتي/DTJJ جهزوا/VBD الحنع/DTNN للمارد/NNP الاخضر/DTNNP ./PUNC 

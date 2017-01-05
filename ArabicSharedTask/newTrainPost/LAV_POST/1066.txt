@@ -1,0 +1,1 @@
+واضح/NN يادكتور/NNP إنه/NNP هالمجموعة/NNP عندها/NN أجندة/NN وبدها/NN تنفذها/NN بغض/NN النضر/DTNN عن/IN الوسائل/DTNN -LRB-/PUNC كولسة/NN تحشيدو/NNP كذب/NN نقض/NN عهود/NN ,/PUNC تشوية/NN سمعة/NN ,/PUNC تنظيم/NN خاص/JJ ,/PUNC أي/NN وسيلة/NN -RRB-/PUNC 

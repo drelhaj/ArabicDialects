@@ -1,0 +1,1 @@
+شو/NNP القصه/DTNN ./PUNC ./PUNC شكلها/NN أصبحت/VBD ظاهره/NN يوميه/NNP ومتكرره/NNP ./PUNC ./PUNC والمصيبه/NN الأكبر/DTNN أنه/NNP اخوه/NNP ./PUNC ./PUNC 

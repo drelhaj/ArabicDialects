@@ -1,0 +1,1 @@
+يا/RP سيادة/NN الوزير/DTNN ./PUNC ./PUNC انت/PRP قبلت/VBD الواسطة/DTNN والمحسوبية/JJ ورجعت/VBD المنقولين/DTNNS للمدرسة/NN ./PUNC ./PUNC حلو/NNP المحسوبية/DTNN كده/NNP بقت/NNP عينى/NNP عينك/NNP 

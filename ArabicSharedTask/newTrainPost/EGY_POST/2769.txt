@@ -1,0 +1,1 @@
+حسبي/NNP الله/NNP ونعم/NN الوكيل/DTNN ./PUNC ./PUNC كل/NOUN ده/DT عشان/NN ايه/NN !/PUNC ناس/NN بطالب/NN بأبسط/NN حقوقها/NN !/PUNC 

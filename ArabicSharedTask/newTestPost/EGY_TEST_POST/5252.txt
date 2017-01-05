@@ -1,0 +1,1 @@
+كالعادة/NNP ملناش/NNP دية/NN بنقع/NN كل/NOUN يوم/NN زى/VBD الحشرات/DTNNS فى/IN حوادث/NN الطرق/DTNN والقطارات/NNS وغيرة/JJ ومحدش/NN بيدور/NNP علينا/NNP .../PUNC تعازينا/VBD لاهالى/NN الضحايا/DTNN ولمصر/NNP كلها/NNP فى/IN مصابنا/NN 

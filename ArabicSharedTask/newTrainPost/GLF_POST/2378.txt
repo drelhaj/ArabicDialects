@@ -1,0 +1,1 @@
+تتعنس/VBP عشان/NN ولد/NN العم/DTNN ./PUNC ./PUNC !/PUNC ويمكن/NNP ولد/NNP العم/DTNN مايبها/NNP اصلاً/NNP 

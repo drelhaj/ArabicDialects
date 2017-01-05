@@ -1,0 +1,1 @@
+حاول/VBD ان/IN تبحث/VBP الاجابة/DTNN عن/IN سؤالك/NN بنفسك/NNP ./PUNC ./PUNC وستجد/NN الفرق/DTNN واسع/NN وشاسع/NN وناصع/JJ 

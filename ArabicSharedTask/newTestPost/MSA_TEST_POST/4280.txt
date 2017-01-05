@@ -1,0 +1,1 @@
+كل/NOUN الشكر/DTNN للدكتور/NNP يوسف/NNP الربابعة/DTNN على/IN هذا/DT الكلام/DTNN الجميل/DTJJ وارجو/NNP من/IN الاستاذ/DTNN فهد/NNP الفانك/DTNNP قراءة/NN هذا/DT المقال/DTNN والتمعن/NNP فيه/NNP ./PUNC 

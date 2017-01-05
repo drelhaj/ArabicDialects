@@ -1,0 +1,1 @@
+انا/PRP اردني/JJ ,/PUNC من/IN اصل/NN نوري/NNP ,/PUNC ولا/NN عجب/NN ,/PUNC ''/NN لا/RP فضل/NN لعربي/JJ على/IN عجمي/NNS الا/RP بالتقوى/NNP ''/NNP ,/PUNC اليس/NNP هذا/DT الدين/DTNN ,/PUNC ,/PUNC و/CC تعالوا/VBD لأخبركم/NNP شيئأ/NNP ,/PUNC :/PUNC ما/WP في/IN حدا/NN احسن/JJR من/IN حدا/NN :/PUNC ,/PUNC ,/PUNC ,/PUNC ,/PUNC 

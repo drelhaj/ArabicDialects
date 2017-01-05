@@ -1,0 +1,1 @@
+@/VBD الله/NNP يطول/VBP بعمر/NN ملكنا/NN الحاني/DTNN الباني/NNP ابو/NNP متعب/NNP ./PUNC ./PUNC سر/NN ونحن/NN من/IN ورائكم/NN ياحاني/JJ ياباني/JJ و/CC الله/NNP يعز/VBP حكومتنا/NN ./PUNC 

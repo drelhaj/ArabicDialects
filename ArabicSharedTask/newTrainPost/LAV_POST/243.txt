@@ -1,0 +1,1 @@
+وعادي/NNP برشلونه/NNP ولما/NN خسر/VBD الكل/NOUN صار/VBD يحكي/VBP انو/NN خسر/VBD لانه/NNP غريب/NNP ان/IN يخسر/VBP برشلونه/NNP والان/NNP ارى/VBP ان/IN خساره/NN الفيصلي/DTNNP الزعيم/DTNN واسودغمدان/NNP شباب/NNP الاردن/DTNNP كانت/VBD غريبه/NNP والدليل/NNP الاراء/DTNN التي/WP قرأتها/NN 

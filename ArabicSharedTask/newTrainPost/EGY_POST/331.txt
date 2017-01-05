@@ -1,0 +1,1 @@
+مش/NN المحافظ/DTNN ده/DT كان/VBD هيستقيل/NNP لو/IN المية/DTNN اللي/WP في/IN المحافظة/DTNN طلعت/VBD ملوثة/NN بالمجاري/JJ ./PUNC ./PUNC مستقالش/NN ليه/NNP .../PUNC ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

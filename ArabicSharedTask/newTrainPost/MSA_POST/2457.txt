@@ -1,0 +1,1 @@
+ولك/VBD كل/NOUN التحية/DTNN من/IN عشائر/NN الظاهريه/DTNNP -/PUNC الخليل/DTNNP في/IN والاردن/NN وفلسطين/NNS والى/NN الامام/DTNN والتقدم/NNP لخدمة/NNP اردننا/NNP العزيز/DTNNP تحت/NN ظل/NN راية/NN مليكنا/NNP المفدى/DTJJ ابي/NNP الحسين/DTNNP حفظه/NNP الله/NNP ورعاه/NNP ./PUNC 

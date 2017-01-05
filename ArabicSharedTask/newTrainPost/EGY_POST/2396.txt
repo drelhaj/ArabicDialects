@@ -1,0 +1,1 @@
+-LRB-/PUNC مسئول/NN مهم/JJ :/PUNC -/PUNC يا/RP د/NN \//NN برادعى/NNP هتودينا/NNP فى/IN دهيه/NNP ./PUNC ./PUNC اهده/VB شويه/NNP -RRB-/PUNC 

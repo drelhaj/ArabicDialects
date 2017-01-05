@@ -1,0 +1,1 @@
+احنا/NN مشغولين/JJ بالدورى/JJ القوى/DTNN و/CC الساخن/DTJJ .../PUNC ./PUNC ./PUNC هما/PRP راحوا/VBD كاس/NN العالم/DTNN و/CC الفيلم/DTNN انتهى/VBD .../PUNC ./PUNC هما/PRP مفكرين/NNS هيرجعوا/VBD بالكاس/NNP ولا/NNP اية/NNP .../PUNC ./PUNC زى/VBD ام/NN الدنيا/DTNN 

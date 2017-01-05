@@ -1,0 +1,1 @@
+بعذره/NNP ابلشوه/NNP بهالحريم/NNP والبزارين/NNP وهو/NNP 28/CD سنة/NN الله/NNP يرحمه/NNP ./PUNC ./PUNC 

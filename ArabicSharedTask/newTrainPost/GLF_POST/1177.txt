@@ -1,0 +1,1 @@
+لحد/NNP يسوي/VBP فيها/NN محترم/JJ وهو/VBD اول/ADJ واحد/NN يسوي/VBP الي/IN يشوفه/VBP بمعتقده/NNP انه/NNP غلط/NNP ,/PUNC ,/PUNC طاش/VBD المسلسل/DTNN الوحيد/DTJJ الي/IN اثبت/VBD نفسه/NN بالساحه/NNP لحد/NNP هاذي/NNP الفتره/DTNNP ./PUNC ./PUNC 

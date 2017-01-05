@@ -1,0 +1,1 @@
+كلن/VBD على/IN همه/NN سرا/NN .../PUNC خخخ/NN آآآه/NN بس/NN لو/IN يجمعون/VBP التجار/DTNN في/IN مثل/NN هالصاله/NNP ثم/CC يقضبوناهم/VBP ./PUNC ثم/CC نبدا/VBP في/IN تجار/NN الحديد/DTNN ثم/CC نرنهم/VBP بهالعقال/NN لين/NNP يقلون/VBP للحديد/NN ياخشب/VBP ثم/CC ننتقل/VBP لتجار/NN المواد/DTNN الغذائيه/DTJJ ثم/CC نرنهم/VBP لين/NNP يقولون/VBP لنيدو/NNP يا/RP ببسي/NNP ./PUNC ووو/NNP 

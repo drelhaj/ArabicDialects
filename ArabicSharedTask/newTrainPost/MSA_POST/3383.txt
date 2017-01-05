@@ -1,0 +1,1 @@
+فعلا/NN انه/VBD افة/NN ولكن/NNP -LRB-/PUNC -LRB-/PUNC ضراوة/NN -RRB-/PUNC -RRB-/PUNC الشركات/DTNNS تعتم/VBP عن/IN مضاره/NN وتوهم/NN بلذائذه/NNP ./PUNC 

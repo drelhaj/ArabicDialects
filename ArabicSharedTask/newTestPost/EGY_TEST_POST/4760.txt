@@ -1,0 +1,1 @@
+مع/NN السلامة/DTNN ./PUNC ./PUNC البلد/DTNN اللى/WP تودى/VBN ./PUNC ./PUNC فى/IN 60/CD داهية/JJ ./PUNC ./PUNC ها/PRP نكسر/VBP وراك/NN زير/NN ./PUNC ./PUNC غور/NNP فى/IN الف/CD مصيبة/NN ./PUNC ./PUNC هو/PRP انت/PRP لسة/NN فى/IN البلد/DTNN يارزل/VBP ياررررررررررررررررررررررزل/NNP 

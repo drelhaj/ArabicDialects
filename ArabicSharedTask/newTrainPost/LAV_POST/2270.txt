@@ -1,0 +1,1 @@
+ذ/NN يعني/VBP بدل/NN ما/WP نسوق/VBP لمشروع/NN العبدلي/DTNNP تحت/NN إسم/NN وسط/NN جديد/JJ لمدينة/NN عمان/NNP ،/CD خلينا/NN نحافظ/VBP على/IN وسط/NN المدينة/DTNN الأصلي/DTJJ اللي/WP بمثل/VBD تراث/NN و/CC نشأة/NN عمان/NNP ،/CD و/CC تكون/VBP المشاريع/DTNN الجديدة/DTJJ هي/PRP إمتداد/NNP للأصل/NNP ./PUNC 

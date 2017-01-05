@@ -1,0 +1,1 @@
+ارجو/VBP ان/IN لا/RP يتكرر/VBP ذلك/DT وان/NNP ياخذوا/VBP فريق/NN العربي/DTNN على/IN محمل/NN الجد/DTNN لانه/NNP فريق/NN لا/RP يوجد/VBN ما/WP يخسره/VBP وسوف/NN يقدم/VBP كل/NOUN ما/WP عنده/VBN !/PUNC 

@@ -1,0 +1,1 @@
+باسمي/NNP و/CC باسم/NNP جمهور/NN الوحدات/DTNNS ابعث/VBP رسالة/NN الى/IN نادي/NN الوحدات/DTNNP و/CC نطالبهم/NNP بترتيب/NNP اوراقهم/NNP للاستعداد/NNP للمشاركات/NNS الخارجية/DTNN القادمة/DTJJ ,/PUNC 

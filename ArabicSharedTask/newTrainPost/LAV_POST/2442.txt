@@ -1,0 +1,1 @@
+والله/NN مش/NN لازم/JJ الوحدات/DTNNS يشارك/VBP في/IN هاي/NNP البطولة/DTNN لأنو/NNP بكون/NNP الدوري/DTNN مبلش/NN وبصير/NN جعلكة/JJ وتأجيل/NN مباريات/NNS على/IN بطولة/NN ودية/JJ وبهلكوا/VBD الاعبين/DTNNS هيك/NNP اذا/IN بكثفوا/VBD المباريات/DTNNS ./PUNC هاض/VBD الرأي/DTNN تاعي/NNP مين/NNP عندي/NNP رأي/NN اخر/JJ ./PUNC وشكرا/NN 

@@ -1,0 +1,1 @@
+يعني/VBP لو/IN الحكومه/DTNN خايفه/NN ع/NN الاقتصاد/DTNN الوطني/DTJJ وبدها/NN تخفف/VBP من/IN فاتوره/NN المحروقات/DTNNS كان/VBD شجعت/VBD السيارات/DTNNS الهجينه/DTJJ ذات/NN المحركات/DTNNS الصغيره/DTJJ مش/NN بتروح/NN تفرض/VBP ضريبه/NN عليها/NN عشان/NNP -LRB-/PUNC تحل/VBP مشكله/NN عجز/NN الموازنه/DTNN اللي/WP عمرو/NNP ما/WP راح/VBD ينحل/VBP مشكله/NN عجزها/NN -RRB-/PUNC 

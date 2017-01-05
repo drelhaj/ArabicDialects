@@ -1,0 +1,1 @@
+-/PUNC الفيصلي/DTNNP فاز/VBD بلقب/NN كاس/NN الاردن/DTNNP وحده/NNP ب/IN 16/CD لقبا/NN ./PUNC ./PUNC وباقي/NNS الاندية/DTNN جميعها/NN فازت/VBD ب/IN 13/CD لقبا/NN فقط/RB 

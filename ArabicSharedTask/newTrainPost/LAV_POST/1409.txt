@@ -1,0 +1,1 @@
+حجج/NN واهيه/NNP وحكي/NNP فاضي/NNP الفساد/DTNN ناخرنا/NNP نخر/NNP وحلول/NNP الحكومه/DTNNP بثبت/VBD عجزها/NN وما/NN عندها/NN اي/NOUN اشي/NN يعني/VBP اي/NOUN شخص/NN ما/IN عندو/VBD خبره/NN في/IN اي/NOUN مجال/NN وواجه/NN مشكله/NN برفع/NN الاسعار/DTNN لانه/NNP ما/WP عند/NN حكومتنا/NN لاخبر/NNP ولاناس/NNP عارفه/NNP شو/NNP بتشتغل/NNP بس/NN شاطري/JJ في/IN التنظير/DTNN 

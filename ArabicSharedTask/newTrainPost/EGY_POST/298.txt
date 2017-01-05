@@ -1,0 +1,1 @@
+ده/DT غير/NN طبعا/NN النظافة/DTNN والامن/NN المفقود/DTNN تماما/NN تماما/NN وغيره/NN الكتير/DTNN بلاش/NN الواحد/DTNN يكمل/VBP احسن/JJR اصل/NN الحلول/DTNN بسيطة/JJ وعبيطة/NN وعيب/JJ جدا/NN الواحد/DTNN يصغر/VBP من/IN فكر/NN سيادة/NN السادة/DTNN سيدي/NNP القوم/DTNN معالي/NNP المسئوليييين/DTJJ جدا/NN .../PUNC فيييين/NNP شغلك/NNP يامعالي/NNP سيادة/NN المحافظ/DTNN ./PUNC 

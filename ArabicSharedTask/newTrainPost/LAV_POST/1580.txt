@@ -1,0 +1,1 @@
+انا/PRP رايي/NNP انو/NNP هيفاء/NNP وهبي/NNP ازا/NNP طلعت/VBD بالسفينه/NNP رح/NN تنحل/VBP المشكلة/DTNN و/CC توصل/VBD المساعدات/DTNNS لاهل/NNP غزه/NNP و/CC الغاية/DTNN تبرر/VBP الوسيلة/DTNN 

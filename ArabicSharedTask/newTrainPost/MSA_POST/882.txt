@@ -1,0 +1,1 @@
+و/CC عن/IN ابن/NN أبي/NNP سعيد/NNP الخدري/DTNNP ،/VBD أن/NN رسول/NN الله/NNP صلى/VBD الله/NNP عليهم/NNP وسلم/NNP قال/VBD :/PUNC -/PUNC إذا/VBD تثاءب/NN أحدكم/NN فليمسك/NNP بيده/NNP ،/VBD فإن/NN الشيطان/DTNN يدخل/VBP صحيح/JJ مسلم/NN ./PUNC 

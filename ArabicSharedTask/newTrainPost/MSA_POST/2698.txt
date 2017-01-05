@@ -1,0 +1,1 @@
+الفقرة/DTNN الأخيرة/DTJJ في/IN المقال/DTNN تقول/VBP حرفيا/NN -LRB-/PUNC وبلغ/NN متوسط/NN سعر/NN خام/NN برنت/NNP خلال/NN الأيام/DTNN الثلاثين/DTJJ الماضية/DTJJ 85/CD دولارا/NN ،/NN ليسجل/NN ارتفاعا/NN نسبته/NN 

@@ -1,0 +1,1 @@
+ماعدش/NNP فيه/NNP فرصة/NN للخوف/NN خلاص/NN ./PUNC كده/NNP ولا/NNP كده/NNP ضايعين/NNS احنا/NN عاوزيين/NNS التغيير/DTNN و/CC الاصلاح/DTNN زهقنا/VBD من/IN القمع/DTNN والفساد/NNP والفقر/NNP ./PUNC مش/NN المفروض/DTNN اني/NNP أنا/VBD أو/NN غيري/JJ النخاف/DTNN المفروض/DTJJ والطبيعي/JJ ان/IN الارتكب/DTNN الجرائم/DTNN في/IN حق/NN الشعب/DTNN المصري/DTJJ هو/PRP اليخاف/DTNN ./PUNC 

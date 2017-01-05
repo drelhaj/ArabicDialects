@@ -1,0 +1,1 @@
+رافت/NNP سيمدد/NNP عقده/NNP مع/NN الوحدات/DTNNS وهاذي/NN كلها/NN مجرد/NN اشاعات/NNS وبنقول/JJ متل/JJ ما/WP قال/VBD الشوالي/DTNNP لزيزو/NNP فرنسا/NNP لا/RP تساوي/VBP شي/NNP بدون/IN زيدان/NNP الوحدات/DTNNP لا/RP يساوي/VBP شي/NNP بدون/IN رافت/NNP 

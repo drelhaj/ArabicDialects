@@ -1,0 +1,1 @@
+بالتوفيق/NNP للمدرب/NNP واللاعب/NNP السابق/DTJJ هشام/NNP عبدالمنعم/NNP في/IN فريقه/NNP الجديد/DTJJ بني/NN ياس/NN الاماراتي/DTNN والذي/NN سيدرب/NN الفئات/DTNNS العمرية/DTJJ فيه/NNP ./PUNC ./PUNC بالفعل/NNP انك/VBD ريحت/NNP راسك/NNP وعملت/VBD عين/NN العقل/DTNN يا/RP كابتن/NN هشام/NNP 

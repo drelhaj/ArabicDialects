@@ -1,0 +1,1 @@
+2/CD -/PUNC لأن/NNP إسمه/NNP مش/NN ماشي/JJ مع/NN المهنة/DTNN ./PUNC ./PUNC فرجل/NN الأمن/DTNN مش/NN من/IN صفاته/NN -LRB-/PUNC الفتاح/DTNNP -RRB-/PUNC ./PUNC ./PUNC دا/NN واجب/NN يسموه/VBP -LRB-/PUNC قفال/NN -RRB-/PUNC ./PUNC ./PUNC فهمت/VBD يا/RP باشا/NN ؟/JJ ./PUNC ./PUNC ربنا/NNP يفتح/VBP عليك/NNP ./PUNC 

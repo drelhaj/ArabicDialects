@@ -1,0 +1,1 @@
+وماذا/NN عن/IN ابنائنا/NN في/IN امريكا/NNP ./PUNC ./PUNC اسالوهم/VBP عن/IN حجم/NN المعاناة/DTNN حتى/IN يتحصل/VBP على/IN نتفة/NN بكالوريوس/NNP ./PUNC 

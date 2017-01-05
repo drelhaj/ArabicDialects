@@ -1,0 +1,1 @@
+ويبدو/NNP ان/IN المسافة/DTNN تباعدت/VBD بيننا/NN كثيرا/JJ يا/RP صديقي/JJ ولن/NN تعود/VBP كسابق/NN عهدها/NN بعد/NN الان/DTNN ./PUNC ./PUNC على/IN كل/NOUN حال/NN تشرفت/VBD بمعرفتك/NNP واسف/NNP على/IN التجريح/DTNN الغير/DTNN مقصود/JJ 

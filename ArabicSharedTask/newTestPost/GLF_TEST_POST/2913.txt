@@ -1,0 +1,1 @@
+مانبي/NNP حدائق/NN نبي/NN بيوت/NN نبي/NN تحسين/NN الاوضاع/DTNN الماديه/DTJJ نبي/NN ونبي/JJ للمواطن/NN السعودي/DTNN وليس/NNP للمواطن/NNP الاجنبي/DTJJ ونبي/NNP مصانع/NN تجلجل/VBP في/IN هذا/DT البلد/DTNN في/IN كل/NOUN زاويه/NN من/IN هذا/DT البلد/DTNN سيف/NN ب/IN 1000/CD مليون/NN والله/NN حرام/NN 

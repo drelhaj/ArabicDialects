@@ -1,0 +1,1 @@
+الواحد/DTNN فينا/NNP شو/NNP بدو/NN يحكي/VBP مثل/NN بالع/NNP الموس/NNP ان/IN طلعتوا/VBD جرحك/NN وان/NNP دخلتو/NNP سطحك/NNP -LRB-/PUNC والله/NNP المستعان/DTJJ -RRB-/PUNC 

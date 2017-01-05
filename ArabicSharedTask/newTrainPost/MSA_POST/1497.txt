@@ -1,0 +1,1 @@
+5/CD ./PUNC ضرورة/NN البحث/DTNN عن/IN اكثر/JJR من/IN لاعي/NNS يلعب/VBP كصانع/NN العاب/NN وممول/NN للمهاجمين/NNS 

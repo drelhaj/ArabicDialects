@@ -1,0 +1,1 @@
+الحمد/NN الله/NNP اخيرا/NN شالو/NNP سعد/NNP الحارثي/DTNNP والله/NNP اني/NNP بغيت/NNP اترك/VBP نادي/NN النصر/DTNNP والسبب/NNP سعد/NNP الحارثي/DTNNP ياخي/VBP أذا/NN قلنا/VBD للنصراويين/NNS اللاعب/DTNN هذا/DT داج/NN قالو/JJ لنا/VBD أخلاق/NN حنا/NNP نبي/NN لعب/NN مو/NNP أخلاق/NN با/NN الملعب/DTNN ./PUNC 

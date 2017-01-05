@@ -1,0 +1,1 @@
+ياحبيبى/VBP انت/PRP فاكر/NNP هى/NNP لعبه/NNP علشان/NNP طلعت/VBD برج/NN الحمام/DTNNP عندكم/NNP يبقى/VBP خلاص/NN طلعت/VBD قمت/NN جبل/NNP الالب/DTNNP .../PUNC ./PUNC 

@@ -1,0 +1,1 @@
+الله/NNP الله/NNP وفيه/NN نقص/NN ونحن/NN من/IN العشرين/DTNNS الدوله/DTJJ اكبر/JJR اقصاد/NN في/IN العالم/DTNN -LRB-/PUNC علاج/NN الكحه/DTNN الخاص/DTJJ بالأطفال/NNP كثير/NN من/IN الأوقات/DTNNS مانحصل/NNP عليه/NNP في/IN المستوصفات/DTNNS الحكوميه0قيمته/DTJJ اتوقع/VBP بخمسه/NN ريال/NNP فوسعوا/NNP صدوركم/NNP -RRB-/PUNC 

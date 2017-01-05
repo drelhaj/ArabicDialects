@@ -1,0 +1,1 @@
+دولةابو/NNP عصام/NNP رجل/NN المهمات/DTNNS الصعبة/DTJJ لذلك/NN كانت/VBD حكومته/NN اول/ADJ حكومته/NN في/IN عهد/NN جلالة/NN الملك/DTNN عبدالله/NNP الثاني/DTNNP حفظة/NN الله/NNP ولهذا/NN اقول/VBP دولة/NN ابو/NNP عصام/NNP يجب/VBP ان/IN يكون/VBP في/IN المرحلة/DTNN القادمة/DTJJ لانها/NN مرحلة/NN تحتاج/VBP الى/IN رجل/NN كدولة/NN ابو/NNP عصام/NNP 

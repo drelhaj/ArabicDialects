@@ -1,0 +1,1 @@
+الوحدات/DTNNS لديه/NN ثلاث/CD فرص/NN :/PUNC الفوز/DTNN باي/NNP نتيجه/NNP ,/PUNC او/CC التعادل/DTNN الايجابي/DTJJ باي/NNP نتيجه/NNP ,/PUNC او/CC التعادل/DTNN السلبي/DTJJ والفوز/NNP بالركلات/NNP ,/PUNC بينما/IN الحسين/DTNNP اربد/VBD له/NN فرصتان/NNS فقط/RB :/PUNC الفوز/DTNN باي/NNP نتيجه/NNP ,/PUNC او/CC التعادل/DTNN السلبي/DTJJ واللجوء/NN للركلات/NNS فقط/RB ./PUNC 

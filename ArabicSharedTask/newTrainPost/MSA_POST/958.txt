@@ -1,0 +1,1 @@
+انشاء/NN الله/NNP الكاس/DTNN .../PUNC سيذهب/NNP للفريق/NNP الذي/WP يستحق/VBP الا/RP وهو/VBD .../PUNC شباب/NN الاردن/DTNNP .../PUNC فعلا/NN فريق/NN يستحق/VBP الاعجاب/DTNN والدعم/NN .../PUNC وجمهوره/NN كل/NOUN يوم/NN في/IN تزايد/NN 

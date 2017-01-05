@@ -1,0 +1,1 @@
+والله/NN العظيم/DTNNP أضحك/VBP كل/NOUN ما/WP أسمع/VBD سالفة/JJ نادي/NN وحيد/NNP القرن/DTNN ./PUNC ./PUNC وش/VBD شولن/NNP نادي/NN يحتفل/VBP بأنجازه/NNP عن/IN طريق/NN الاحتفال/DTNN بنفسه/NNP ./PUNC ./PUNC مثل/VBD الاب/DTNN يحتفل/VBP بتفوق/NN ولده/NNP وهو/NNP راسب/NNP ويعطيه/NNP كذلم/NNP جائزة/NN ./PUNC ./PUNC يعنى/VBN كاد/VBD المريب/DTNN أن/NN يقول/VBP خذونى/NN 

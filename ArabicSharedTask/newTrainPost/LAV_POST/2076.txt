@@ -1,0 +1,1 @@
+احمد/NNP عبد/NNP الحليم/DTNNP والله/NNP انه/NNP لاعب/NN كبير/JJ وبيسحق/JJ مليون/JJ مثل/NN ما/IN قال/VBD اخونا/NN سيف/NNP ربنا/NNP يوفق/VBP وين/NN ما/WP تكون/VBP 

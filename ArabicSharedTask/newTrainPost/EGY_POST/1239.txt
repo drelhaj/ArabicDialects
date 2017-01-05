@@ -1,0 +1,1 @@
+شيرين/NNP من/IN حوالى/NOUN 3/CD ايام/NN نفت/VBD الخبر/DTNN ده/DT على/IN موقع/NN اليوم/DTNN السابع/ADJ وقالت/NN انها/NN غنت/VBD الاغنية/DTNN بدون/IN اى/NOUN تعليمات/NNS من/IN الوزير/DTNN ./PUNC ./PUNC 

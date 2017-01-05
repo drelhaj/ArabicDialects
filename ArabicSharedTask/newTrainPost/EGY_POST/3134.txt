@@ -1,0 +1,1 @@
+والله/NN ده/DT ينفع/VBP بتاع/NN انابيب/NN سريح/JJ او/CC اى/NOUN حاجه/NN غير/NN لاعب/NN كورة/NNP وواجه/NNP لبلده/NNP .../PUNC بلا/NNP ارف/VB ده/DT امبارح/VBP الناس/DTNN شبعت/VBD شتيمه/NN فيه/NNP بس/NN هنقول/NN ايه/NN اهو/VBD شبه/NN مدربه/NN بيئه/NNP واطيه/NNP ./PUNC 

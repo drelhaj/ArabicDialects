@@ -1,0 +1,1 @@
+لاشك/VBD أن/NN المداخلة/DTNN التي/WP يقدمها/VBP الأستاذ/DTNN جوزيف/NNP مسعد/NNP غنية/JJ في/IN أبعادها/NN التحليلية/DTNN وسبرها/NN لأغوار/NN الأحداث/DTNN والنفوس/NNP ./PUNC لكن/VBP هذا/DT الموقف/DTNN وموقف/NN الكثيرين/DTNNS من/IN الفلسطينيين/DTNNS الذين/WP يعيشون/VBP في/IN الغرب/DTNN يدعو/VBP إلى/NN الإستغراب/DTNN فهم/NN :/PUNC 

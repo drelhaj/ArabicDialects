@@ -1,0 +1,1 @@
+فعلا/NN عندما/NN ارى/VBP ام/NN حسني/NNP بسوق/NN الوحدات/DTNNS اشعر/VBP بالقوة/NN ./PUNC لان/NNP تلك/DT السيدة/DTNN الكبيرة/DTJJ بالسن/NN جميلة/JJ الوجة/DTNN كلها/NN عطاء/NN فعندما/JJ اذهب/VBP للسوق/NN امشي/VBP من/IN جانبها/NN لكي/NNP ارى/VBP وجهها/NN الصبوح/DTNN ./PUNC اتمنى/VBP لها/NN الصحة/DTNN والعافية/JJ ./PUNC 

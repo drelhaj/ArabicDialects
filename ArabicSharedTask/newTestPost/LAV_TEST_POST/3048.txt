@@ -1,0 +1,1 @@
+حضّـــرلي/NNP 10/CD كيلو/NN عصافيري/JJ ./PUNC ./PUNC وبــ15/NNP فلافل/NNP :/PUNC -RRB-/PUNC 

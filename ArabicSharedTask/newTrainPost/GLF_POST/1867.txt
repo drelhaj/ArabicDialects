@@ -1,0 +1,1 @@
+والي/NN يقول/VBP نبي/NN نموت/VBP قبل/NN ذاك/NN الوقت/DTNN ./PUNC ./PUNC إذا/VBD بتموت/NNP خلال/NN هال50/CD سنة/NN طيب/JJ أبناءك/NN وأبناءنا/NN والأحفاد/NN وش/NN ذا/NN الأنانية/DTNN ؟/NN ؟/CD 

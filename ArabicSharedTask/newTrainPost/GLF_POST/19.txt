@@ -1,0 +1,1 @@
+حسبي/NNP الله/NNP ونعم/NN الوكيل/DTNN كل/NOUN شي/NNP صار/VBD الو/NNP ضريبه/NN حتى/IN ع/NN الحياه/DTNN والبترول/NNP والاتصالات/NNP شو/NNP خليتو/NNP بعد/NN وش/NN تبو/VBD ترفعو/NNP خلينا/NNP نعمل/VBP احسابنا/NN بس/NN نيي/VBP ع/NN الاردن/DTNNP 

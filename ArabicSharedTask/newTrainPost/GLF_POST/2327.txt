@@ -1,0 +1,1 @@
+وبالنسبه/NNP للي/NNP يستغلون/VBP حاجة/NN البنات/DTNNS للوظائف/NN تراها/NN كثرت/VBD بشده/NNP أكثر/NN من/IN وحده/NN تقولي/VBP نفس/NN السالفه/DTNNP -LRB-/PUNC @/CD _/PUNC @/CD -RRB-/PUNC 

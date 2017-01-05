@@ -1,0 +1,1 @@
+اولا/ADJ اخ/NN سيف/NN نحن/PRP غير/NN شامتون/JJ في/IN الفيصلي/DTNNP ,/PUNC ,/PUNC ,/PUNC ,/PUNC لانه/NNP يبقى/VBP ناديا/NNP اردنيا/NNP عريقا/NN ,/PUNC ,/PUNC ,/PUNC ,/PUNC وقد/VBD يصيب/VBP غيره/NN ما/WP اصابه/VBD من/IN ضائقة/NN ماليه/NNP ,/PUNC ,/PUNC ,/PUNC ,/PUNC نامل/VBP ان/IN يفرجها/VBP الله/NNP على/IN الجميع/NOUN ./PUNC 

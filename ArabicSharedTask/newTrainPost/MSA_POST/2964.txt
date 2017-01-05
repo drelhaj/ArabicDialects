@@ -1,0 +1,1 @@
+ليس/VBD مجرد/NN يوم/NN يمر/VBP كباقي/NNS الأيام/DTNN ./PUNC ./PUNC 

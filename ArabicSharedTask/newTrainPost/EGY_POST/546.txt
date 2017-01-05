@@ -1,0 +1,1 @@
+هتقول/NNP إيه/NNP ./PUNC ./PUNC حاصرتهم/NNP لما/NNP كانوا/VBD بيتضربوا/NNP و/CC منعت/VBD المعونات/DTNNS عنهم/NNP !!/NNP 

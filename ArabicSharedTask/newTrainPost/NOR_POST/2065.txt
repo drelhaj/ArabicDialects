@@ -1,0 +1,1 @@
+بعدين/NNP اليونان/DTNNP صحيح/JJ في/IN الاول/ADJ ندم/NNP و/CC فد/NNP برشا/NNP اما/RP و/CC في/IN القرايه/DTNNP انا/PRP عندي/JJ شكون/JJ من/IN العئله/DTNN حرق/NN تونس/NNP تركيا/NNP 

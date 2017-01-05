@@ -1,0 +1,1 @@
+مش/NN عارف/NNP ايه/NN الناس/DTNN اللي/WP حشره/VBN نفسها/NN في/IN اللي/WP ليها/NN فيه/NNP واللي/NNP ملهاش/NNP فيه/NNP عاوز/VN اقولكوا/VB الكلب/DTNN بتاعي/NN كل/NOUN ماحد/NN يقرب/VBP مني/VBN يهوهو/NNP ./PUNC 

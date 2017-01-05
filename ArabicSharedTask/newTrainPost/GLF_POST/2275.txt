@@ -1,0 +1,1 @@
+واللي/NNP قاهرني/NNP لوحة/NN قبل/NN تفتيش/NN الخرج/DTNN يمكن/VBP بكيلوين/NN مكتوب/JJ عليها/NN السرعة/DTNN 30/CD ./PUNC بالله/NNP فيه/NNP مجنون/NN بيهدي/NNP لسرعة/NN 30/CD وكم/NN سيارة/NN بتلزق/NN بظهرة/NN ؟/NN ؟/CD 

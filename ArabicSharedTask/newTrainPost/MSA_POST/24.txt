@@ -1,0 +1,1 @@
+1/CD -RRB-/PUNC الاستغناء/DTNN عن/IN بعض/NOUN اللاعبين/DTNNS والذين/NNS لا/RP يشكلون/VBP اضافه/NN بل/CC عاله/VBD على/IN الفريق/DTNN وهم/NN -LRB-/PUNC باسم/NNP فتحي/NNP واحمد/NNP كشكش/NNP والسباح/NNP والتعاقد/NNP مع/NN محترفين/NNS على/IN سويه/NN عاليه/NNP تكون/VBP اضافه/NN للفريق/JJ ./PUNC 

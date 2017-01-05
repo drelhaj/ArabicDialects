@@ -1,0 +1,1 @@
+بلا/NNP والله/NNP من/IN زين/NNP الجيرة/DTNNP و/CC طيب/NNP الجار/DTNN ./PUNC ./PUNC أنا/VBD لو/IN منك/VBD أبيع/NN بيتي/NNP ,/PUNC انتقل/VBD لجار/NNP أطيب/NNP و/CC أكرم/NNP موب/NNP علشاني/NNP بس/NN علشان/NNP عيالنا/NNP و/CC عياله/NN ما/WP يتهاوشون/VBP في/IN المستقبل/DTNN على/IN سكة/NN او/CC على/IN بلكة/NN او/CC برميل/NN قمامه/NN 

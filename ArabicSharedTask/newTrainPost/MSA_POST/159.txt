@@ -1,0 +1,1 @@
+كلمة/NN اخيرة/NN تحية/NN لجمهور/NNP الوحدات/DTNNP الذي/WP خسر/VBD من/IN شباب/NN الاردن/DTNNP وخسر/NN بطولة/NN الدوري/DTNN وخرج/NN الجمهور/DTNN يصفق/VBP للعب/NN الجميل/DTNN من/IN الفريقين/DTNNS 

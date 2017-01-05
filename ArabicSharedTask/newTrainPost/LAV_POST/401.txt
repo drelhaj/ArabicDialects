@@ -1,0 +1,1 @@
+انا/PRP من/IN رأيي/NN لازم/JJ يعملوا/VBP يوم/NN من/IN السنة/DTNN اسمه/NN يوم/NN الاحتفال/DTNN بالشوكولاته/NNP او/CC يوم/NN عيد/NN حب/NN الشوكولاته/DTNNP .../PUNC صدقوني/NNP انه/NNP رح/NN تنباع/NN الشوكولاته/DTNNP بهاد/NNP اليوم/DTNN اكتر/VBP من/IN ما/WP انباع/VBD الورد/DTNN الاحمر/DTJJ بعيد/NN الحب/DTNN ./PUNC 

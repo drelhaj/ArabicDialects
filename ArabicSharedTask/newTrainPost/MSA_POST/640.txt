@@ -1,0 +1,1 @@
+اليس/NNP هذا/DT فسادا/NN ./PUNC اين/WRB الوزارات/DTNNS المختصة/DTJJ ./PUNC مثل/VBD وزارة/NN الصحة/DTNN و/CC البيئة/DTNN و/CC الطاقة/DTNN والمياه/NNP ونقابة/NNP اصحاب/NN محطات/NNS المحروقات/DTNNS 

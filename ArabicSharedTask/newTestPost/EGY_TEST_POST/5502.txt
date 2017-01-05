@@ -1,0 +1,1 @@
+نتمنى/VBP حل/NN للمشكلة/JJ دي/NN ./PUNC ./PUNC لو/IN ماتحلتش/NNP مترجعوش/NNP تقولو/NNP هي/PRP السياح/DTNN بتحرم/NNP تيجي/NNP مصر/NNP تاني/NN ليه/NNP !/PUNC 

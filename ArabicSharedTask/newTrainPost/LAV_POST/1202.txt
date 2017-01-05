@@ -1,0 +1,1 @@
+هيك/NNP يكون/VBP الابطال/DTNN والذين/JJ تربوا/VBD على/IN الاسلام/DTNN وعلى/NN العقيدة/DTNN السليمة/DTJJ والشجاع/NN شجاع/JJ ،/VBD والاسد/NN اذا/IN قاد/VBD جيش/NN من/IN الارانب/DTNN اصبحوا/VBD وسود/NN ،/NN والاسود/JJ اذا/IN قادهم/VBD ارنب/NN اصبحوا/VBD ارانب/NNP 

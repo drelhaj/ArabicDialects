@@ -1,0 +1,1 @@
+لو/IN تنزل/VBP عند/NN باب/NN السيارة/DTNN تسولف/VBP مع/NN صديقك/NN لو/IN تبي/VBD تشيك/VBP كفر/NN مبنشر/JJ لو/IN يجي/VBP أحد/NN يقولك/VBP لوحتك/NNP تبي/NNP تطيح/VBP كفرك/NNP منسم/NN وقف/NN وطف/NN السيارة/DTNN وخذ/NN المفتاح/DTNN وانزل/NN شف/NN المشكلة/DTNN ويالله/NNP السلامه/DTNNP ./PUNC 

@@ -1,0 +1,1 @@
+أنموذجا/NN يحتذى/VBN للمرأة/NN العربية/DTNN ،/VBD التي/WP خطت/VBD بيديها/NN نجاحاتها/NN ،/NN وكافحت/NN من/IN أجل/NN تربية/NN أبنائها/NN ،/NN وغدت/VBD في/IN آخر/NN المطاف/DTNN ،/VBD الجدة/DTNN والأم/NNP التي/WP تبعث/VBP على/IN الفخر/DTNN والاعتزاز/NN ./PUNC 

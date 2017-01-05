@@ -1,0 +1,1 @@
+الف/CD الف/CD مبروك/NN لبهاء/NN عبد/NNP الرحمن/DTNNP .../PUNC عنوان/NN منزل/NN بهاء/NN ./PUNC جبل/NN النصر/DTNNP بقرب/NNP مخفر/NN النصر/DTNNP طلوع/NN عاليه/NNP .../PUNC بتلاقو/NNP الصواوين/DTJJ هناك/RB 

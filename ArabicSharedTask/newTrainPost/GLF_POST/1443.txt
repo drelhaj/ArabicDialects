@@ -1,0 +1,1 @@
+اقول/VBP اضيفوا/VB بعد/NN الماجستير/DTNN اللي/WP حصل/VBD عليها/NN السلهام/DTNN للعدد/NNP بطولاتكم/NNP ترا/VBP ماباقي/NNS الا/IN هي/PRP وتسووونها/NN -LRB-/PUNC فريق/NN البيانات/DTNNS -RRB-/PUNC 

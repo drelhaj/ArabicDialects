@@ -1,0 +1,1 @@
+هذا/DT الزين/DTNNP وليس/NNP عندنا/NNP ./PUNC ./PUNC شركات/NNS مثل/NN .../PUNC !!/CD 

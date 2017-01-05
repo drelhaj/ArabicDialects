@@ -1,0 +1,1 @@
+ومش/VBD عارف/NNP ليه/NNP كل/NOUN الزمالكويه/DTNN عايزن/VBD اتحاد/NN الشرطه/DTNN يعاقب/VBN على/IN اى/NOUN شئ/NN يعاقب/VBN لا/RP اعلم/VBP ./PUNC ./PUNC 

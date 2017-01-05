@@ -1,0 +1,1 @@
+الرمثا/DTNNP ايضا/RB يستحقه/VBP لانه/NNP فريق/NN عنيد/NN رائع/JJ روعه/NN متعه/NN ويستحقه/NNP بجداره/NNP لانه/NNP هزم/VBN الفيصلي/DTNNP بطل/NN الدوري/DTNN من/IN -LRB-/PUNC ورق/NN -RRB-/PUNC من/IN -LRB-/PUNC كرتون/NN -RRB-/PUNC 

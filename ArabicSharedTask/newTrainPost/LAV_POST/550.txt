@@ -1,0 +1,1 @@
+2/CD -/PUNC انا/PRP متأكد/JJ بأن/NN جماهير/NN الفيصلي/DTNNP في/IN حقيقة/NN نفسها/NN تعلم/NN بأن/NN الدوري/DTNN هذه/DT السنه/DTNN ليس/VBD له/NN طعم/NN بسبب/NN الحساره/DTNN من/IN الوحدات/DTNNS رايح/NNP جاي/NNP -LRB-/PUNC صعبه/NN كثير/NN والله/NN -RRB-/PUNC 

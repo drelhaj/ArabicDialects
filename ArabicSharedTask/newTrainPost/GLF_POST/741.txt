@@ -1,0 +1,1 @@
+ما/WP شاء/VBD الله/NNP عليك/NNP يا/RP دكتور/NNP الله/NNP يوفقك/VBP ويكفاك/NN شر/NN العين/DTNN ،/NN ما/WP تلاحظون/VBP إن/NN فيه/NNP شخص/NN ثاني/ADJ يحمل/VBP نفس/NN الاسم/DTNN والمؤهل/NN طبعاً/NN في/IN تخصص/NN آخر/NN ،/NN ياليت/NNP إضافة/NN اسم/NN العائلة/DTNN للتمييز/NNP ./PUNC 

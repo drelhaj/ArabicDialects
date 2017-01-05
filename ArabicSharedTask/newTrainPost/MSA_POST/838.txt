@@ -1,0 +1,1 @@
+بصراحة/NN يا/RP اخ/NN حسام/NNP احنا/NN دائما/JJ نقلل/VBP من/IN الانجازات/DTNNS القوية/DTJJ التي/WP تقدمها/VBD الاندية/DTNN الاردنية/DTJJ مثل/NN عرض/NN شباب/NNP الاردن/DTNNP -LRB-/PUNC الاسود/DTNN -RRB-/PUNC في/IN الليلة/DTNN الماضية/DTJJ وهذا/NN يرجع/VBP لتحيز/NN بعض/NOUN الصحفين/DTNNS لاندية/JJ اخرى/JJ ذات/NN قدرات/NNS ضعيفة/JJ 

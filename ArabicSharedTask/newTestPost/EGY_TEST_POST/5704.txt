@@ -1,0 +1,1 @@
+انا/PRP قبل/NN كده/NNP كنت/NNP عايز/NNP ادخل/VBD احضر/VBP ورشة/NN عمل/NN مع/NN فريق/NN جيان/NNP بكلية/NN الاعلام/DTNN ومنعنى/VBD قائد/NN الحرس/DTNN بنفسه/NNP اللى/WP عند/NN باب/NN مترو/NN 

@@ -1,0 +1,1 @@
+انا/PRP من/IN سكان/NN ماركا/NNP الشمالية/DTJJ والبنت/VBD الي/IN طعنوها/NN عمرها/NN 14/CD سنة/NN والله/NN لو/IN تشوفو/VBP شكل/NN البنت/DTNN لتبكو/NNP عليها/NN ما/WP حدا/VBD قدر/NN يقرب/VBP اخوانها/NN شكلهم/NN مجانين/NNS ما/WP فهمو/VBD القصة/DTNN .../PUNC ./PUNC ./PUNC 

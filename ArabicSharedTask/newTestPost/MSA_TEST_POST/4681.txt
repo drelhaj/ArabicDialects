@@ -1,0 +1,1 @@
+سأتي/NNP يوم/NN تنطلق/VBP منه/NNP صرخات/NNS .../PUNC ليأتي/NNP صلاح/NNP الدين/DTNNP الايوبي/DTNNP وياتي/NNP عمر/NNP بن/NNP الخطاب/DTNNP ليسلم/VBD المفاتيح/DTNN الى/IN امة/NN المسلمين/DTNNS ./PUNC ./PUNC وهذا/VBD لن/RP يعود/VBP الا/RP بارجوع/VBD الى/IN عباداتكم/NN والاهم/NN صلاة/NN الفجر/DTNN ./PUNC 

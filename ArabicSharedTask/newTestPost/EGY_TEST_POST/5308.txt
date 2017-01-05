@@ -1,0 +1,1 @@
+مش/NN عارف/NNP الجماعه/DTNNP دول/NN مالهم/JJ مايقوموا/VBD الجنود/DTNN اللي/WP محتلين/VBG البلد/DTNN من/IN أمريكا/NN والدول/NN التانيه/DTNN مالهم/VBG هما/PRP$ ومال/NN المدنيين/DTNNS اللي/WP في/IN الغالب/DTNN بيكونوا/NNP من/IN العراقيين/DTNNS اللي/WP ملهمش/NN دعوه/NNP بأي/NNP حاجه/NNP أساساً/NNP 

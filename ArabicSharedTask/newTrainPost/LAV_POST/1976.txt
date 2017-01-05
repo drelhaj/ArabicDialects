@@ -1,0 +1,1 @@
+كبير/JJ يا/RP ابو/NNP علي/NNP ./PUNC والله/NN منحبك/NN وما/NN بتخيل/NN تلعب/VBP لفريق/NN غير/NN الوحدات/DTNNS ان/IN شاء/VBD الله/NNP السنة/DTNN خماسية/NN جديدة/JJ ياملهم/VBP الوحدات/DTNNS ./PUNC 

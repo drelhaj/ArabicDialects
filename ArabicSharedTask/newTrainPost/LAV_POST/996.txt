@@ -1,0 +1,1 @@
+طيب/NNP شو/NNP اخبار/NN تعويذتك/NNP المشهورة/DTJJ -LRB-/PUNC سلم/NN سلم/NN سلامات/NNS كاس/NN الدوري/DTNN للوحدات/NNS -RRB-/PUNC 

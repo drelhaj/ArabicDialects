@@ -1,0 +1,1 @@
+وادعى/VBD ميرزا/NNP أنه/NN نبي/NN وأنه/NN أيضا/NN المهدي/DTNNP المنتظر/DTJJ ،/VBD كما/CC يدعي/VBP أتباع/NN الطائفة/DTNN أنهم/NN ''/NN مسلمون/JJ ''/VBD لكنهم/NN يؤمنون/VBP بأن/NN آخر/NN الأنبياء/DTNN هو/PRP غلام/NNP أحمد/NNP قاديان/NNP ./PUNC 

@@ -1,0 +1,1 @@
+بلكي/NNP .../PUNC !!/NN بلكي/NNP ./PUNC ./PUNC !!/CD 

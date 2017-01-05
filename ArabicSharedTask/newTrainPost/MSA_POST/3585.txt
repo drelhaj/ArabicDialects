@@ -1,0 +1,1 @@
+اعتقد/VBP ان/IN الدولة/DTNN هي/PRP المسؤولة/DTNN عن/IN توفير/NN سبل/NN الحياة/DTNN الكريمة/DTJJ للمواطن/NNP ./PUNC فعندما/NN ينخفض/VBP سعر/NN النفط/DTNN تزداد/VBP أجرة/NN المواصلات/DTNNS فينكس/NNP ذلك/DT إيجابيا/JJ على/IN صحة/NN ونفسية/JJ المواطن/DTNN 

@@ -1,0 +1,1 @@
+قناتي/NNP دريم/NNP والمحور/NNP بيعرضوا/NNP الخواطر/DTNN بعد/NN صلاة/NN الجمعة/DTNN إنما/NN التليفزيون/DTNNS المصرى/DTJJ يعرض/VBP المسخرة/DTNN وبس/NN ./PUNC الله/NNP يرحمك/VBP ياشيخ/NN شعراوي/NNP ويرحم/NNP أمتنا/VBD من/IN الضياع/DTNN ./PUNC 

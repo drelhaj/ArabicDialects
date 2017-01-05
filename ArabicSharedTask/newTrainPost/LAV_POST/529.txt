@@ -1,0 +1,1 @@
+مشان/NNP الله/NNP تعبنا/VBD و/CC تعبت/VBD نفسيتنا/NN اكثر/JJR ./PUNC 

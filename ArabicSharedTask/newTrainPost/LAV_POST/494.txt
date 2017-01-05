@@ -1,0 +1,1 @@
+يعني/VBP ابو/NNP محيسن/NNP بدوش/NNP اليوم/DTNN يعلق/VBP لانه/NNP صايم/NNP زي/NN ما/WP حكى/VBD ,/PUNC ,/PUNC ,/PUNC ,/PUNC وهيك/NNP علق/VBD ,/PUNC ,/PUNC ,/PUNC كيف/WRB لو/IN انه/VBD مش/NN صايم/JJ وناوي/JJ يعلق/VBP ,/PUNC ,/PUNC ,/PUNC ,/PUNC على/IN كل/NOUN اقول/VBP له/NN :/PUNC 

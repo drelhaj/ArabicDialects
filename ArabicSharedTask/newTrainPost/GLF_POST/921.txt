@@ -1,0 +1,1 @@
+اقول/VBP خلوا/NN عنكم/NN الخسائر/DTNN وكثرة/NN المهايط/DTNN نصف/NOUN بطولة/NN مستحيل/NN تحققونها/NN حتى/IN كاس/NN النيدو/DTNNP بعيد/JJ عن/IN شواربكم/NNP لذلك/NNP -LRB-/PUNC صلي/VB فرضك/NN وامسك/NNP أرضك/NNP -RRB-/PUNC قال/VBD ايش/NNP قال/VBD ايطاليا/NNP 

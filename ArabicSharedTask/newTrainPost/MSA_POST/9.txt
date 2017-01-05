@@ -1,0 +1,1 @@
+6/CD -/PUNC سلوك/NN الجمهور/DTNN سلبا/NN على/IN الاندية/DTNN ./PUNC وتحقيق/NN مفهوم/NN الروح/DTNN الرياضية/DTJJ بايجابية/JJ إلا/NN أنه/NN للأسف/NNP الشديد/DTJJ يلاحظ/VBP إنخفاض/NN القيم/DTNN التربوية/DTJJ للمنافسات/NNS الرياضية/DTNN بسبب/NN السلوكيات/DTNNS غير/NN المسؤولة/DTNN من/IN قبل/NN الجماهير/DTNN او/CC اللاعبين/DTNNS 

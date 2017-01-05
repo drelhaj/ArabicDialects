@@ -1,0 +1,1 @@
+بالتوفيق/NNP للزعيم/NNP نادي/NN ذات/NN راس/NN \//NN الكرك/DTNN صاحب/NN الصولات/DTNNS والجولات/NNS النادي/DTNN الوحيد/DTJJ من/IN الجنوب/DTNN الذي/WP تربع/VBP في/IN دوري/NN الأضواء/DTNN عام/NN 2004/CD ونتمنى/NN من/IN إدارة/NN النادي/DTNN المحترفة/DTJJ أن/VBD تعود/VBP به/NN الى/IN مكانه/NN الطبيعي/DTNN بين/NN أندية/NN الكبار/DTNN 000والله/NNP وكبير/NNP يا/RP ذات/NN راس/NN 

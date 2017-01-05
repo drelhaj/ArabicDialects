@@ -1,0 +1,1 @@
+الوحدات/DTNNS لو/IN فاز/VBD بالمباريات/NNS كلها/NN وخسر/NN من/IN شباب/NN الاردن/DTNNP -LRB-/PUNC مرتين/NNS -RRB-/PUNC بفوز/NNP بالدوري/NNP 

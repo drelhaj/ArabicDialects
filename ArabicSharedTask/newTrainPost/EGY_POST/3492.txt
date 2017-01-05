@@ -1,0 +1,1 @@
+مش/NN عيب/NN السلسلة/DTNN ده/DT يا/RP حاج/NNP حسن/NNP ده/DT انت/PRP جد/NN وراجل/NN كبير/JJ وشعرك/JJ شايب/VBD سبت/NN ايه/NN لحفيدتك/NNP -/PUNC ربنا/NNP يكرمك/VBP لو/IN ما/WP عندكش/VBD حفيدة/NN -/PUNC 

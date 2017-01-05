@@ -1,0 +1,1 @@
+ولو/VBD صدقنا/NN مزاعم/NN الكاتب/DTNN الصهيوني/DTJJ اعلاه/NN او/CC لو/IN صدق/VBD المسيحيون/DTNNS بالعالم/NN هذا/DT الزعم/DTNN المبني/VN على/IN انبعاث/NN الديانة/DTNN اليهودية/DTJJ من/IN على/IN ارض/NN فلسطين/NNP لكان/NNP لهم/NN الحق/DTNN ايضا/RB بان/VBD يدعوا/VBP احقيتهم/NN بارض/NNP ميلاد/NNP سيدنا/NNP عيسى/NNP عليه/NNP السلام/DTNN ./PUNC 

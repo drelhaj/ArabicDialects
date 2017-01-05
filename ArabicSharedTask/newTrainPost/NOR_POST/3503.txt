@@ -1,0 +1,1 @@
+غسول/NNP للفم/NNP فوطة/NNP صحيه/NNP نعم/UH حتى/IN إذا/NN كنت/VBD لا/RP تتوقعين/VBP و/CC بيكون/NNP في/IN الفندق/DTNN سشوار/NN و/CC لكن/CC تأكدي/VBP معجون/NNS فرشاة/NN اسنان/NN 

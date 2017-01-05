@@ -1,0 +1,1 @@
+سلملى/VBD على/IN ابراهيم/NNP حسن/NNP اللى/WP عاوز/VN ياخد/VBP الدورى/DTNN وحياة/NN .../PUNC .../PUNC .../PUNC ما/WP هيشوف/VBP الدورى/DTNN وهيفضل/NN ياكل/VBP فى/IN نفسه/NN لحد/NNP ما/WP ادارة/NN الزمالك/DTNNP تستغنى/VBP عنه/NN هو/PRP وحسحس/NN ./PUNC 

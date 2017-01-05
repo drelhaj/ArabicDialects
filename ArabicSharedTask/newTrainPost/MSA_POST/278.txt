@@ -1,0 +1,1 @@
+شخصيا/NN كنت/VBD دائماً/VBP أبحث/NN عن/IN شخص/NN يعطيني/VBP حريتي/NNS التي/WP أستحقها/VBD كإنسان/NNP في/IN اختيار/NN ما/WP أريد/VBD وما/NN أفعل/JJ ضمن/NN المعقول/DTNN والمقبول/NNP ./PUNC لا/RP نريد/VBP انفلاتاً/NN ولكننا/NN نريد/VBP أن/NN نحترم/VBP كبشر/NN فنحن/NN نصف/NOUN المجتمع/DTNN ونحن/NN شريك/NN لكم/VBG في/IN الحياة/DTNN ولسنا/NN مجرد/NN ظل/NN ./PUNC 

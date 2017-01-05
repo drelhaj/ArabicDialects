@@ -1,0 +1,1 @@
+ـ/VBD كثرة/NN الكتب/DTNN التي/WP ألفت/VBD فعن/NN بيت/NNP المقدس/DTJJ عاديك/VN عن/IN الأبواب/DTNN التي/WP في/IN الكتب/DTNN الكبيرة/DTJJ وأحكام/NN تختص/VBP ببيت/NN المقدس/DTNNP وقد/VBD ألف/NN فيه/NNP مفردا/NN الربعي/DTNN وابن/NNP الجوزي/DTNNP وابن/NNP تيمية/NNP وغيرهم/NNP كثير/NN ./PUNC 

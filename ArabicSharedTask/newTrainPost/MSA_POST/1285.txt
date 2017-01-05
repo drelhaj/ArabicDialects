@@ -1,0 +1,1 @@
+وهناك/NNP معلومه/NNP للتاريخ/NNP لمن/VBD يحب/NN التاريخ/DTNN ان/IN فريق/NN البقعه/DTNNP عندما/NNP تاسس/VBD في/IN ستينيات/NNS القرن/DTNN الماضي/DTJJ لعب/VBD لمده/NN عامين/NNS تحت/NN اسم/NN الفيصلي/DTNNP -LRB-/PUNC ب/IN -RRB-/PUNC لعدم/NN حصوله/NN على/IN تصريح/NN بانشاء/NN النادي/DTNN كماذكر/NNP رئيس/NN نادي/NN البقعه/DTNNP واحلا/NNP زعيم/NN ولله/NNP 

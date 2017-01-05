@@ -1,0 +1,1 @@
+اللجوء/DTNN لوسائل/NNP إحترافية/NNP ومهارية/NN وتطوير/NN العمل/DTNN الإستخباري/DTJJ في/IN تنفيذ/NN المهام/DTNN ودون/NN إستخدام/NN العنف/DTNN الغير/DTNN مبرر/NN من/IN قبل/NN رجال/NN الأمن/DTNN العاملين/DTJJ على/IN تطبيق/NN القانون/DTNN يساهم/VBP حتما/NN في/IN الحد/DTNN من/IN مظاهر/NN العنف/DTNN الإجتماعي/DTJJ والإصطدام/NN المباشر/DTNN مع/NN رجال/NN الأمن/DTNN العام/DTJJ ./PUNC 

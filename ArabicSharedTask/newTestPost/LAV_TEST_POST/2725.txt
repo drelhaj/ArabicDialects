@@ -1,0 +1,1 @@
+تأخير/VBP التوجيهي/DTJJ الى/IN هذه/DT الدرجه/DTNN فيه/NNP خطأكبير/NNP رمضان/NNP قادم/JJ والناس/NN من/IN الحر/DTNN مش/NN عارفين/JJ يحكو/VBP ./PUNC ./PUNC كنت/VBD الان/DTNN في/IN المستشفى/DTNN -LRB-/PUNC مش/NN رمضان/NNP -RRB-/PUNC والجميع/NNP معصب/NNP -LRB-/PUNC شوب/NNP -RRB-/PUNC كيف/WRB بدنا/NN نتابع/VBP معاملاتنا/NN في/IN هذه/DT الظروف/DTNN 

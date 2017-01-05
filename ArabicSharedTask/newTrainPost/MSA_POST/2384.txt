@@ -1,0 +1,1 @@
+حاتم/NNP حسونه/NNP و/CC خالد/NNP نمر/NNP و/CC علاء/NNP مطالقة/NNP من/IN شباب/NNP الحسين/DTNNP 

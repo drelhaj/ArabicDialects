@@ -1,0 +1,1 @@
+ياناس/VBP ياهوه/NNP يا/RP محرر/JJ يا/RP زمالكاويه/NN ما/WP فيش/VBD غير/NN عميد/NN واحد/JJ للكره/NN المصريه/DTNN هو/PRP احمد/NNP حسن/NNP هو/PRP مش/NN حقه/NN اما/CC صاحبنا/NN كفايه/NN عليه/NNP كده/NNP عميد/NN سابق/JJ والا/NN احنا/NN لسانا/NN واخد/JJ على/IN حاجه/NN معينه/JJ حتى/RP لو/IN غلط/VBD 

@@ -1,0 +1,1 @@
+اريد/VBP ان/IN اقول/VBP للاخ/NN سيف/NN بأن/NN توقعاتك/NNP واحلامك/NNP لم/RP تكن/VBP بمحلها/NN عندما/NN حلمت/NN بأن/NN الوحدات/DTNNS سوف/RP يخرج/VBP على/IN يد/NN الرمثا/DTNNP بل/CC جاءت/VBD النتيجه/DTNN عكسيه/NNP وهي/NNP فوز/NN كاسح/NNP للوحدات/NNS الزعيم/DTNN على/IN الرمثا/DTNNP والتأهل/NNP للمباراه/NNP النهائيه/DTNNP ./PUNC ./PUNC 

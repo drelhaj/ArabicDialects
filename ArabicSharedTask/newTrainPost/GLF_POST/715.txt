@@ -1,0 +1,1 @@
+تعرف/VBP حريمنا/NNP وش/NNP بيقولون/NNP لك/NN .../PUNC الله/NNP يعين/VBP حريمتك/NN بس/NN !/PUNC شكلك/VBD بخيل/NNP !!!/CD 

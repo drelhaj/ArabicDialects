@@ -1,0 +1,1 @@
+اذا/IN هذي/DT نظرتكم/DTNN ./PUNC ./PUNC معناه/NNP ان/IN الرجال/DTNN ماله/NNP عقل/NNP وماعليه/NNP شرهة/NN ومرفوع/NN عنه/NN القلم/DTNN ومايستاهل/NN المكانة/DTNN اللي/WP انتم/PRP حاطينه/JJ فيها/NN !/PUNC 

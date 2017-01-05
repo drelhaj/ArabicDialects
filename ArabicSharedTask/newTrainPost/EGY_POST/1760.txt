@@ -1,0 +1,1 @@
+فـ/VBD بنتظاهر/NNP فى/IN جامعتنا/NNP وبنعلن/NNP رأينا/NNP ./PUNC ./PUNC ايه/NN الغلط/DTNN بقى/VBD فـ/NN كدا/NN ؟/NN ؟/CD 

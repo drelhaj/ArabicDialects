@@ -1,0 +1,1 @@
+مبارح/NN عبيت/NN السيارة/DTNN فل/NNP من/IN محطة/NN في/IN جدة/NNP 45/CD ليتر/NN ب/IN 25/CD ريالا/NN في/IN الاردن/DTNNP ممكن/JJ يكلفوني/VBP 225/CD ريالا/NN الله/NNP يعينو/VBP الشعب/DTNN الاردني/DTJJ شعب/NN صامدعلى/JJ الرغم/DTNN من/IN كل/NOUN الللي/DTNN بيصير/NNP فيه/NNP 

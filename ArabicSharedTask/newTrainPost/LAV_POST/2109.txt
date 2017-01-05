@@ -1,0 +1,1 @@
+الله/NNP يرحمها/VBP ويحسن/NN اليها/NN ،/NN والله/NN هاي/NNP الغلطة/DTNN اللي/WP غلطها/VBD الدكاترة/DTNN لازم/JJ يتعاقبوا/VBP عليها/NN عقاب/NN كتير/NN كبير/JJ لإنو/VBD أرواح/NN الناس/DTNN مش/NN لعبة/NN بين/NN إيديهم/NNP ./PUNC هادا/NN اسمه/NN استهتار/NN وعدم/NN الحس/DTNN بالمسؤولية/NNP وين/NNP المسؤولين/DTNNS عنهم/NN ./PUNC 

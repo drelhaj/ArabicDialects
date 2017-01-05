@@ -1,0 +1,1 @@
+ده/DT انتو/VBD ضربتو/NN بعض/NOUN ./PUNC ./PUNC ونزلتو/NNP ضربتو/NNP الناس/DTNN وشتمتم/NN الحكام/DTNN بالفاظ/NN خارجة/JJ وبالرغم/JJ ان/IN الجهاز/DTNN الفني/DTJJ بتاعكم/NNP كان/VBD بيهدييكم/NNP وانتم/NNP برضه/NNP شتيمة/NN وقلة/NN ادب/NN ./PUNC ./PUNC ماشفتش/NNP كدة/NNP الصراحة/DTNN ./PUNC ./PUNC 

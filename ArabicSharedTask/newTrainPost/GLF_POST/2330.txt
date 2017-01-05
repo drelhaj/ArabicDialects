@@ -1,0 +1,1 @@
+نشوف/NNP عاد/VBD ربعنا/NNP وش/NNP يسوون/VBP ./PUNC ./PUNC هذا/DT وجهي/NN أن/NN اعدموة/JJ ./PUNC ./PUNC والله/NNP ان/IN يطلع/VBP منها/NN مثل/NN غيرة/NN من/IN الأجانب/DTNN ./PUNC ./PUNC 

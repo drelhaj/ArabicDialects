@@ -1,0 +1,1 @@
+ونبي/NNP عزيز/NNP مكان/NN الغنام/DTNN والدوسري/NNP بدال/NNP الشلهوب/DTNNP ./PUNC ./PUNC 

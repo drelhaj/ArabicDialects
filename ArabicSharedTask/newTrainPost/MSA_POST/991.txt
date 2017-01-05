@@ -1,0 +1,1 @@
+اقامت/VBD مدرسة/NN رقية/NNP بالتعاون/NNP مع/NN مركز/NN امن/NN النصر/DTNNP بعمل/NN دورة/NN توعية/NN مرورية/JJ للطالبات/NNS وكانت/NN ناجحة/JJ جدا/NN وارجو/NNP ان/IN تطبق/VBP هذه/DT التجربة/DTNN في/IN جميع/NOUN المدارس/DTNN حيث/WRB استفادت/VBD الطالبات/DTNNS من/IN هذه/DT الدوره/DTNN ونشكر/NN جميع/NOUN من/WP ساهم/VBD في/IN انجاحها/NN 

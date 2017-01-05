@@ -1,0 +1,1 @@
+الى/IN سمور/NN انا/NN مش/NN عارف/NNP هالحكي/NNP هذا/DT كله/NN ليش/NN الوحدات/DTNNS شكلة/NN وصل/VBD الى/IN المبارة/NN النهائية/DTNN لكاس/NN العالم/DTNN للاندية/JJ وين/NNP كلامك/NNP عن/IN اللاعبين/DTNNS وعن/VBD رئيس/NN النادي/DTNN بس/NN طار/VBD منكو/NN الدوري/DTNN وهلا/NN صارو/NN ابطال/NN 

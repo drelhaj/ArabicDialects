@@ -1,0 +1,1 @@
+ده/DT اسمه/NN رعب/NN الحكومة/DTNN والله/NN بجد/NN ./PUNC ./PUNC رعب/NN جامد/JJ ./PUNC ./PUNC وان/NNP دل/NNP يدل/VBP على/IN مدى/NN تعاون/NN الشرطة/DTNN والداخليه/NNP مع/NN النظام/DTNN ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+بس/NN ثلاث/CD اسماء/NN معروفه/JJ والباقي/JJ كومبرس/NN وين/NN نجومنا/NN الاردنين/DTNNS والله/NN ايشي/NNP بخجل/NNP ./PUNC ./PUNC مسلسل/NN اردني/JJ كله/NN فنانين/NNS من/IN سوريا/NNP .../PUNC سؤال/NN لو/IN هذا/DT السلسل/DTNN انعمل/VBD بسوريا/NNP بجيبوا/NNP من/IN الاردن/DTNNP ممثلين/NNS يا/RP عيب/NN العيب/DTNN يا/RP زمن/NN .../PUNC .../PUNC .../PUNC 

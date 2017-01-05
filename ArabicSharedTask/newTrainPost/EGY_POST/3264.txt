@@ -1,0 +1,1 @@
+مبروك/NN للنادى/NNP الملكى/DTNNP الزمالك/DTNNP التاهل/DTNN لمونديال/NNP اندية/NN العالم/DTNN وقبلها/NN فاز/VBD كبار/JJ اليد/DTNN على/IN الجزائر/DTNNP وحتى/VBD فريق/NN 18عام/NNP للناشئين/NNP فاز/VBD على/IN الجزائر/DTNNP وتاهل/NN اللة/NN اكبر/JJR هما/PRP$ دول/NN المصريين/DTNNS وفين/NN الروح/DTNN الرياضية/DTJJ يا/RP محمود/NNP 

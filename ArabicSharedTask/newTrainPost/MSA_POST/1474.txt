@@ -1,0 +1,1 @@
+لايختلف/NNP اثنان/CD على/IN ان/IN مباريات/NNS كاس/NN الاردن/DTNNP لها/NN نكهة/NN كروية/JJ من/IN نوع/NN خاص/NN وان/NNP كان/VBD مذاقهافي/JJ البداية/DTNN مر/VBD على/IN بعض/NOUN الانديةوحلاوة/DTNN على/IN بعض/NOUN الاندية/DTNN تفوح/VBP منها/NN نسمات/NNS شماليه/NNP محملةبالامل/NNP بالعوده/NNP بالكاس/NNP الى/IN خزائن/NN الشمال/DTNN الكروية/DTJJ 

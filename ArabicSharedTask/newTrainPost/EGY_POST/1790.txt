@@ -1,0 +1,1 @@
+هى/VBD عيشة/NN ولا/NN موتة/JJ ولا/VBD فوتة/NN فى/IN حارة/NN سد/NN ./PUNC ./PUNC موت/NN و/CC خد/NN عشرة/CD معاك/NN 

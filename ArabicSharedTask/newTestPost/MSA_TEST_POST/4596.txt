@@ -1,0 +1,1 @@
+ابا/NN عصام/NNP رجل/NN بكل/NN معنى/NN الكلمة/DTNN ،/VBD فهو/NN رجل/NN مباديء/JJ واخلاق/JJ ودين/JJ وربى/VBD ابناؤه/NNP على/IN نفس/NN الطريقة/DTNN ،/VBD الله/NNP يبارك/VBP في/IN عمره/NN ويحفظ/NNP ابنائه/NNP ./PUNC 

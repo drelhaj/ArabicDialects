@@ -1,0 +1,1 @@
+ده/DT بجد/NN تهريج/NN اذا/IN الكلام/DTNN ده/DT بجد/NN حتى/IN شرع/VBD الله/NNP بقى/VBD للتهريج/NN -/PUNC السبب/DTNN الاساسي/DTJJ للزواج/NNP هو/PRP زيادة/NN النسل/DTNN مش/NN الدلع/DTNN ده/DT واذا/NN كانت/VBD كدبة/NN ابريل/NN تبقى/VBP بايخة/NN زي/NN اللي/WP قالها/NN 

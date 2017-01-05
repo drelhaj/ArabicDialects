@@ -1,0 +1,1 @@
+كفو/NNP والله/NNP يااهل/NNP الرس/NNP ./PUNC ./PUNC بس/NN لو/IN تتركون/VBP عنكم/NN الحسد/DTNN والقراده/NNP كان/VBD صرتوا/VBD صدق/NN رجال/NN 

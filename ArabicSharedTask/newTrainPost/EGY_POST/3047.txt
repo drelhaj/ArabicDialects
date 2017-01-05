@@ -1,0 +1,1 @@
+ويرمى/NNP -/PUNC هما/PRP بعض/NOUN الستات/DTNNS عاملين/NNS كده/NNP بالظبط/NNP بس/NN مش/NN ناويين/JJ يسيبوا/VBP الموبايل/DTNN إلا/NN لما/NNP يخربوه/NNP 

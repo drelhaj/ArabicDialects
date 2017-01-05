@@ -1,0 +1,1 @@
+اشترى/VBD كرامتك/NNP وهيبتك/NNP وشرفك/NNP وارميهم/NNP قبل/NN ما/WP يرموك/VBP زى/NN خيل/NN الحكومة/DTNN ./PUNC 

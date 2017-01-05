@@ -1,0 +1,1 @@
+شو/NNP شكلو/NNP مش/NN فاضيين/JJ بحضروا/VBD كأس/NN العالم/DTNN مشكلة/NN زي/NN هيك/NNP كيف/WRB ممكن/JJ ينسكت/VBP عنها/NN ./PUNC ./PUNC 

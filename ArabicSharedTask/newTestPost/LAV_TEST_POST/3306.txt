@@ -1,0 +1,1 @@
+لما/NNP يخلص/VBP الدوام/DTNN يترك/VBP أ/NN -RRB-/PUNC شي/NNP بيده/NNP ويمشي/NNP لأنه/NNP انتهى/VBD دوامه/NNP وأنجز/NNP اللي/WP عليه/VBN لهذا/NN اليوم/DTNN 

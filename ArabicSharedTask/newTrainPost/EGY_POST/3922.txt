@@ -1,0 +1,1 @@
+واجعين/NNP دماغنا/NNP بصلحهم/NNP وخصامهم/NNP ليه/NNP ،/VBD هي/PRP البلد/DTNN خلصت/VBD من/IN القضايا/DTNN المهمة/DTJJ اللي/WP ممكن/JJ تتكلموا/VBP فيها/NN ،/NN ولا/NN ده/DT من/IN دعائم/NN خطة/NN الإشغال/DTNN اللي/WP عايزين/JJ تشغلوا/VBP الناس/DTNN بيها/NN عن/IN قضاياهم/NN الأساسية/DTNN ./PUNC 

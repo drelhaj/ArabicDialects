@@ -1,0 +1,1 @@
+ياراقل/NNP دي/NNP مصر/NNP أم/NN الدنيا/DTNN تستاهل/VBP كل/NOUN خير/NN ,/PUNC شعب/NN طيب/JJ مكافح/NN شجاع/JJ 

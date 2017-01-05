@@ -1,0 +1,1 @@
+الله/NNP المستعان/DTJJ .../PUNC بس/NN احنا/NN في/IN الاردن/DTNNP دائما/JJ نساعد/VBP أهل/NN غزة/NNP .../PUNC وهناك/NN مستشفيات/NNS ميدانية/JJ في/IN قطاع/NN .../PUNC طيب/NNP ليش/NNP أهل/NN غزة/NNP الي/IN عندنا/NN الحكومة/DTNN ما/WP تساعدهم/VBP ./PUNC ./PUNC القران/DTNNP يقول/VBP ''/NN الاقربون/DTNNS أولى/VBD بالمعروف/NNP ''/CD 

@@ -1,0 +1,1 @@
+ياليت/NNP والله/NNP يسوون/VBP فينا/NNP خير/NNP :/PUNC -RRB-/PUNC 

@@ -1,0 +1,1 @@
+خطوه/NN رائع/JJ نحو/NN الامام/DTNN للانفتاح/NN على/IN الثقافة/DTNN التركية/DTJJ الثريه/DTNN بتجاربهاالرياديه/NNP في/IN الشرق/DTNN الاوسط/DTJJR ./PUNC -LRB-/PUNC الانسانيه/DTNN و/CC التقنية/DTNN -RRB-/PUNC 

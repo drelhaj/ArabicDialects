@@ -1,0 +1,1 @@
+والشيخ/NNP صلاح/NNP -LRB-/PUNC صلاح/NNP الدين/DTNNP 2/CD -RRB-/PUNC ومن/VBD معه/NN من/IN مجاهدين/NNS الحرية/DTNN لن/RP ننساهم/VBP وهم/NN أصحاب/NN راية/NN الحق/DTNN ./PUNC ./PUNC رحمكم/NNP الله/NNP وكتبكم/NN من/IN الشهداء/DTNN ./PUNC 

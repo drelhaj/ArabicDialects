@@ -1,0 +1,1 @@
+إزاي/NNP نقبل/VBP بالمجانين/NNP يحكمونا/NNP ./PUNC ./PUNC يبقى/VBP إحنا/NN أجن/NN منهم/JJ ./PUNC 

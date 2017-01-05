@@ -1,0 +1,1 @@
+آلية/NN .../PUNC وش/NN هي/PRP ؟/NN ؟/NN ومن/NN جابوها/NN ؟/NN ؟/NN ؟/NN وهل/NN ستعمل/NN ؟/NN ؟/NN وماهي/JJ طريقتها/NN ؟/NN ؟/NN ؟/NN هل/RP هي/PRP ضخ/NN دراهم/NN ؟/NN ؟/NN ؟/NN ام/NN تطبيق/NN عقوبات/NNS العقود/DTNN ؟/NN ؟/NN ام/CC نصبة/NN أخرى/NN ؟/NN ؟/NN ؟/CD 

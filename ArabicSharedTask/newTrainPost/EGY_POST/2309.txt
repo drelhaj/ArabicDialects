@@ -1,0 +1,1 @@
+انا/PRP مش/NN عارف/NNP أقول/NNP ايه/NN لزميلنا/NNP اللي/WP في/IN مصانع/NN لوتس/NNP أو/NNP ترانس/NNP أو/NNP أي/NNP مصنع/NN تاني/NN بييتأخر/NNP مرتباتهم/NNP وزعلانين_امال/NNP انا/PRP اعمل/VBP ايه/NN اللي/WP بقالي/NN شهرين/NNS ماخدتش/NNP مرتبي/JJ ولاعارف/NN امشي/VBP لان/NNP لو/IN مشيت/VBD مش/NN ضامن/NN اخد/NN المرتب/DTNN -LRB-/PUNC ده/DT بقي/VBD عيوب/NN مصنع/NN سامو/NNP -RRB-/PUNC 

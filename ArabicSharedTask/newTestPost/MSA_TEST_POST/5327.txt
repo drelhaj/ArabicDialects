@@ -1,0 +1,1 @@
+نسأل/VBP الله/NNP أن/NN يجعل/VBP حكام/NN المسلمين/DTNNS ممن/NN يحكمون/VBP بكتاب/NNP الله/NNP و/CC سنة/NN رسول/NN الله/NNP ,/PUNC فوالله/NNP و/CC تاالله/NNP أننا/VBD نود/VBP ونأمل/NN أن/NN يجمعنا/NNP الله/NNP بحكامنا/NNP فى/IN جنة/NN الرحمن/DTNNP ./PUNC فهل/VBD هذا/DT ما/WP يفكر/VBP به/NN حكامنا/JJ !/PUNC 

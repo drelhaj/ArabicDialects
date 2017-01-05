@@ -1,0 +1,1 @@
+حسن/NNP عبد/NNP الفتاح/DTNNP طول/NN حياته/NN مبدع/JJ فنان/NN شاطر/NN ويسموه/NNP السوريون/DTJJ -LRB-/PUNC الشاطر/DTNN حسن/NNP -RRB-/PUNC وفعلا/NN انك/NNP ولد/NNP فلته/NNP ولد/NNP لعيب/NNP ولد/NNP ازكورت/NNP 

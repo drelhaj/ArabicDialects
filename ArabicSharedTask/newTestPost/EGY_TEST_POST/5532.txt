@@ -1,0 +1,1 @@
+احنا/NN مجتمع/NN شرقي/JJ ذكوري/JJ يشوبه/VBP التخلف/DTNN .../PUNC ./PUNC بس/NN هنعمل/NN ايه/NN مفيش/NN حاجه/NN هتتغير/NNP .../PUNC ./PUNC وكمان/NNS مستحيل/JJ يكون/VBP الراجل/DTNN طلقها/NN من/IN الباب/DTNN للطاق/NN اكيد/JJ هي/PRP كمان/NN مسئوله/JJ عن/IN انفصال/NN الاسره/DTNN وبدل/NNP ماكانت/NNP انتحرت/VBD كانت/VBD حفظت/VBD علي/IN بيتها/NN .../PUNC مش/NN كده/NNP .../PUNC .../PUNC 

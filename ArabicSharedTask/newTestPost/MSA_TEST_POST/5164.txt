@@ -1,0 +1,1 @@
+القرار/DTNN الذي/WP اتخذه/VBD مجلس/NN الوزراء/DTNN العرب/DTJJ بكسر/NN الحصار/DTNN عن/IN اهلنا/NN في/IN قطاع/NN غزة/NNP خطوة/NN جيدة/JJ وبالاتجاه/NN الصحيح/DTNN وان/NNP كانت/VBD متاخرة/JJ جدا/NN وجاءت/NN بعد/NN جريمة/NN مذبحة/NN اسطول/NN الحرية/DTNN الذي/WP حاول/VBD ابطاله/NN اخذ/NN زمام/NN المبادرة/DTNN بانفسهم/NNP وكسر/NN الحصار/DTNN الظالم/DTJJ عن/IN غزة/NNP 

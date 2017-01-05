@@ -1,0 +1,1 @@
+وينكم/NNP يوم/NN النقص/DTNN الكبير/DTJJ واللعب/NNP بالصف/NNP الثاني/DTNNP امام/NN الهلال/DTNNP ./PUNC 

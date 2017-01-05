@@ -1,0 +1,1 @@
+وبالنسبة/NN للبنية/JJ الأساسية/NN مصر/NNP 55/CD والجزائر/NN 99/CD -LRB-/PUNC واخدلي/NNP بالك/NNP من/IN إن/NN الجزائر/DTNNP بلد/NN بترولي/NNP وأنا/VBD بأتكلم/NNP عن/IN البنية/DTNN الأساسية/DTJJ -RRB-/PUNC 

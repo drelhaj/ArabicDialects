@@ -1,0 +1,1 @@
+كلمات/NNS راقية/JJ جداً/NN قالها/NN الاديب/DTNN والفنان/NNP الشعبي/DTJJ -LRB-/PUNC أبو/NN الليف/DTNN -RRB-/PUNC ينتقد/VBP وبشدة/NN مستخدمين/NNS الفيس/NNP بوك/NNP تعلموا/VBD من/IN هذا/DT المبدع/DTNN يا/RP شباب/NN ويا/JJ صبايا/JJ وابتعدوا/VBD عن/IN الفيس/NNP بوك/NNP فهو/NNP مضيعة/NN للوقت/NN وايضاً/NNP يقضي/VBP على/IN العلاقات/DTNNS الاسرية/DTJJ ./PUNC 

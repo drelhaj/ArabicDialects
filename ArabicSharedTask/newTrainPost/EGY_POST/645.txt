@@ -1,0 +1,1 @@
+رواه/NNP الترمذي/DTNNP والحاكم/NNP ./PUNC ./PUNC ده/DT هدى/NNP المصطفى/DTNNP ولا/NN يمكن/VBP أغتبار/NN حقارة/NN بعض/NOUN الألفاظ/DTNN التى/WP ترد/VBP فى/IN أفلامك/NN كفيلم/JJ صايع/JJ بحر/NN مثلا/NN أنها/NN من/IN الفن/DTNN أو/VBD أنها/NN ترتقى/NN بأذواق/NN الجماهير/DTNN ./PUNC 

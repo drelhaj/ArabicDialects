@@ -1,0 +1,1 @@
+صورتك/VBD نورت/NNP الرياض/DTNNP ياعريسنا/NNP الله/NNP يوفقك/NNP ./PUNC ./PUNC 

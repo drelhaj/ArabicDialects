@@ -1,0 +1,1 @@
+الله/NNP يوفقك/VBP ياياسر/VBP مع/NN الهلال/DTNNP ./PUNC ./PUNC حوار/NN ممتع/JJ وكشف/NN لنا/VBD شخصيه/NN نجم/NN كبير/JJ ./PUNC ./PUNC 

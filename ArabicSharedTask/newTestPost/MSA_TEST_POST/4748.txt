@@ -1,0 +1,1 @@
+في/IN نبأ/NN غير/NN مؤكد/NN أن/NN الشيخ/DTNN رائد/NNP اصيب/VBN باصابات/NNS خلال/NN الهجوم/DTNN -/PUNC وتناقلت/VBD بعض/NOUN وكالات/NNS الانباء/DTNN عن/IN نبأ/NN استشهاده/NN -/PUNC هذا/DT الشيخ/DTNN الذي/WP اخذ/VBD على/IN عاتقه/NN مسئولية/JJ الدفاع/DTNN عن/IN الأقصى/DTNN والقدس/NNP 

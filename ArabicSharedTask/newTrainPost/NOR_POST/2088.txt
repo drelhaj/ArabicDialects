@@ -1,0 +1,1 @@
+الهرسك/DTNNP أذريبدجان/NNP رومانيا/NNP بلغاريا/NNP آسيا/NNP بنغلاداش/NNP كمبوديا/NNP تيمور/NNP الشرقية/DTJJ هونج/NNP و/CC الموريس/NNP الموزمبيق/DTNNP النيجر/DTNNP السنغال/DTNNP السيشال/DTNNP الطوغو/DTNNP أوغندا/NNP زمبيا/NNP أوروبا/NN البوسنة/DTNNP 

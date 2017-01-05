@@ -1,0 +1,1 @@
+حرام/NN ياناس/NNP الي/IN بصير/NN ومن/NN ويت/NN جابوا/VBD القتل/DTNN القصد/DTNN في/IN اوضح/JJR من/IN هيك/NNP قضية/NN قتل/NN مع/NN سبق/NN الاصرار/DTNN وتحضير/NNP لمسرح/NNP الجريمة/DTNN وارهاب/NNP في/IN الشارع/DTNN العام/DTJJ وبعدين/NNS 15/CD سنة/NN بس/NN يعني/VBP تشجيع/NN لارتكاب/NNP الجرائم/DTNN -LRB-/PUNC 

@@ -1,0 +1,1 @@
+هذا/DT القرار/DTNN الذي/WP اقره/VBD الاتحاد/DTNN الاردني/DTJJ لكرة/NN الطائرة/DTNN بالتاكيد/NNP هو/PRP قرار/NN ليس/VBD في/IN موضعه/NN في/IN خدمة/NN الطائرة/DTNN الاردنية/DTJJ ومصلحة/NN تحليقها/NN بتاتا/NN وانا/NN متاكد/JJ بان/VBD هذا/DT القرار/DTNN لن/RP يتخذ/VBP ابدا/NN فمستحيل/NNP ان/IN يهبط/VBP قطبا/NN الطائرة/DTNN الاردنية/DTJJ بهذا/NN الشكل/DTNN 

@@ -1,0 +1,1 @@
+مع/NN اني/NNP ما/WP اتابع/VBD كثير/NN لكن/CC اتمنى/VBP الانتر/DTNNP يتأهل/VBP ./PUNC ./PUNC مادري/NNP ليش/NNP اكره/VBP برشلونه/NNP :/PUNC -RRB-/PUNC كذا/VB بدون/IN سبب/NN ههه/NN 

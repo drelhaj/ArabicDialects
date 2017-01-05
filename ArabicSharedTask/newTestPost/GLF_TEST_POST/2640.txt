@@ -1,0 +1,1 @@
+شي/NNP غريب/JJ جدا/NN والله/NN هنا/RB امان/NN بس/NN مدري/JJ ايش/VBD فيهم/NNP علي/NNP الاطفال/DTNN ./PUNC 

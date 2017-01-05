@@ -1,0 +1,1 @@
+ياناس/NNP وين/NNP وزير/NN العمل/DTNN وش/NN اللي/WP عمره/VBP 82/CD سنة/NN وقاعد/NN هنا/RB ليه/NNP وش/NNP يسيوي/VBP ؟/NN ؟/NN يشتغل/VBP ولا/NN عاطل/JJ وحنا/VBD ناقصين/NNS عدد/NN سكان/NN عاطلة/JJ تاكل/VBP وتشرب/NN على/IN غير/NN سنع/NN ؟/NN هذا/DT نموذج/NN أن/NN السعودية/DTNNP ما/WP فيه/VBD امل/NN تتطور/VBP اذا/IN مشت/VBD على/IN هذا/DT النهج/DTNN 

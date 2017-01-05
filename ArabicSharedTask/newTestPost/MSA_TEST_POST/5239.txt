@@ -1,0 +1,1 @@
+دكتور/NNP مهدي/NNP اعجابي/NNP بك/NNP يزيد/VBP يوم/NN بعد/NN يوم/NN ,/PUNC ,/PUNC الى/IN الامام/DTNN يا/RP دكتور/NNP 

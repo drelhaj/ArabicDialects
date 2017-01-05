@@ -1,0 +1,1 @@
+-/PUNC الاخ/DTNN انس/NNP ./PUNC ./PUNC ومنين/NNS جايبلي/JJ هالاحصائية/JJ ؟/VBD ؟/NN ؟/NN طيب/JJ انا/PRP حر/JJ وبدي/JJ احسبها/JJ من/IN الموسم/DTNN الماضي/DTJJ لحد/NNP اليوم/DTNN ./PUNC ./PUNC الزعيم/DTNN 1/CD الوحدات/DTNNS لا/RP شيء/NN مزبوط/JJ ??/VBD والا/NN انا/PRP غلطان/NN مادم/NN كل/NOUN واحد/NN بحسبها/NN على/IN كيفو/NNP ؟/NNP ؟/CD 

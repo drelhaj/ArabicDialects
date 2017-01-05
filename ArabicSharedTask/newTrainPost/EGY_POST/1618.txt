@@ -1,0 +1,1 @@
+ايه/NN القلق/DTNN الموجود/DTJJ عندكم/NN ده/DT ./PUNC ./PUNC الناس/DTNN دي/NN ليه/NNP عندهم/NNP احبااااااااااط/NN من/IN الاهلي/DTNNP .../PUNC 

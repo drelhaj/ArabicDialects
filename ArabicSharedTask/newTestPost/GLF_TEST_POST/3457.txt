@@ -1,0 +1,1 @@
+مهوب/NN من/IN حق/NN أي/NN واحد/JJ يسكر/VBP على/IN الناس/DTNN و/CC يوقف/VBP غلط/NN ,/PUNC فيه/NN ناس/NN بتاخرهم/NN عن/IN رحلاتهم/NN ,/PUNC فيه/NN ناس/NN تعبانه/NN ,/PUNC و/CC يجي/VBP طويل/JJ البال/DTNN يوقف/VBP في/IN مكان/NN غلط/NN و/CC يروح/VBP لشغله/NNP و/CC يخلي/VBP الناس/DTNN تتورط/VBP على/IN حماقته/NN ./PUNC 

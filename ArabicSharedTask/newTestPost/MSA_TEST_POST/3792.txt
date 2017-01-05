@@ -1,0 +1,1 @@
+وبالمقابل/NNP كلمة/NN لبعض/VBD الوحداتيين/DTNNS الذين/WP اغتنمو/VBD هذا/DT الخبر/DTNN ليعبروا/VBD عما/NN يجيش/VBP في/IN صدورهم/NN من/IN غيرة/NN وشماتة/JJ للفيصلي/JJ ./PUNC ./PUNC اقول/VBP لهم/NN 

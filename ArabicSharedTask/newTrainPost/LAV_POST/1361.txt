@@ -1,0 +1,1 @@
+لذا/VBD ابدأ/NNP بنفسي/NNP واتبرع/NNP بمبلغ/NN بسيط/JJ لوجه/NNP الله/NNP عبارة/NN عن/IN 20/CD دينار/NN !/PUNC والله/NN عشرة/JJ غيري/JJ عملوا/VBD نفس/NN الشي/DTNNP بنكون/NNP آمنا/VBD 200/CD دينار/NN لهذه/NN الاسرة/DTNN !!/CD 

@@ -1,0 +1,1 @@
+ليتها/NN اراء/NN شخصية/JJ وصادرة/JJ عنك/VBD انت/PRP ومن/NN نتاج/NN عقلك/NN انت/PRP ,/PUNC لكنا/VBD رددنا/NN عليها/NN ,/PUNC لكن/VBP مش/NN معقول/JJ الانسان/DTNN هايقعد/NNP يرد/VBP على/IN مجموعات/NNS من/IN الناس/DTNN بلا/NNP فكر/NN او/CC منطق/NN يخالفون/VBP منطق/NN الاشياء/DTNN ويدافعون/NNP دائما/NN عن/IN الخطأ/DTNN وهو/NNP مايسمى/NNP فى/IN اللغة/DTNN استنطاع/DTJJ ./PUNC 

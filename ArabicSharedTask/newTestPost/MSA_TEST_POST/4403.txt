@@ -1,0 +1,1 @@
+اللـهـم/DTNN إن/NN كان/VBD محسناً/JJ فزد/NN من/IN حسناته/NN ,/PUNC وإن/NN كان/VBD مسيئاً/JJ فتجاوز/NN عن/IN سيئاته/NNP ./PUNC 

@@ -1,0 +1,1 @@
+والله/NN بطلنا/NN نسمع/VBP بالاردن/NN غير/NN حوادث/NN السير/DTNN كل/NOUN شوي/NNP حادث/NN سير/NN في/IN -LRB-/PUNC .../PUNC -RRB-/PUNC وافر/JJ عن/IN اصابة/NN -LRB-/PUNC .../PUNC -RRB-/PUNC حرام/NN عليكم/NNP 

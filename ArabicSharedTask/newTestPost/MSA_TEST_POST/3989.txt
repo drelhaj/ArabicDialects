@@ -1,0 +1,1 @@
+والحمد/NNP لله/NNP ./PUNC ./PUNC تخرجت/VBD بكامل/NN سعادتي/NNS وبتالق/JJ :/PUNC -RRB-/PUNC 

@@ -1,0 +1,1 @@
+مرة/NN أخرى/VBD تتحفنا/VBP الكاتبه/DTNN بمقاله/NNP رائعه/NNP من/IN خلال/NN الروابط/DTNN بين/NN الروايه/DTNN والفيلم/NNP و/CC الفكر/DTNN ./PUNC حس/NN أدبي/JJ عالي/JJ ولغه/NN مطواعه/JJ ./PUNC أتمنى/VBD لك/NN التوفيق/DTNN والنجاح/NN ./PUNC 

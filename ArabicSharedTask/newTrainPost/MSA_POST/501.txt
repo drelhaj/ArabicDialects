@@ -1,0 +1,1 @@
+ويبدو/NNP ان/IN ادارة/NN الوحدات/DTNNS ايقنت/VBD تماما/NN قدرة/NN هذا/DT المدرب/DTNN على/IN التحكم/DTNN بمفاتيح/NN اللعب/DTNN بعد/NN ان/IN استهانو/VBD به/NN كثيرا/JJ قبل/NN مباراة/NN الوحدات/DTNNS مع/NN شباب/NN الاردن/DTNNP ولذلك/NN عرفو/NNP قيمته/NN تماما/JJ بعد/NN ان/IN كان/VBD احد/NN العوامل/DTNN الرئيسة/DTJJ لتجريد/NN الوحدات/DTNNS من/IN لقب/NN الدوري/DTNN 

@@ -1,0 +1,1 @@
+موضوعي/JJ ماله/NN شغل/NN بالخبر/NNP ولا/NN قريت/NN الخبر/DTNN لكن/CC اود/VBP اطلاق/NN مناشده/NN لابو/NNP متعب/JJ ان/IN ينظر/VBP في/IN مزضوع/NN الحديد/DTNN وماهو/NN عدم/NN وجوده/NN في/IN الاسواق/DTNN سيدي/NNP نرجو/VBP من/IN الله/NNP ثم/CC منك/NN التدخل/DTNN وحل/NN هذه/DT الموعضله/DTNN تكفى/VBD يابوي/VBP نبيك/NN توقف/NN عصابات/NNS تجار/NN الحديد/DTNN عن/IN حدهم/NN 

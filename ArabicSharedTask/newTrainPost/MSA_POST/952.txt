@@ -1,0 +1,1 @@
+والى/VBD جماهير/NN الزعيم/DTNN اتوجه/VBP بنداء/NN ورجاء/NN بان/NNP نذهب/VBP وبكثافة/NN الى/IN ملعب/NN الحسن/DTNNP باربد/NNP لنقف/NNP مع/NN الزعيم/DTNN ولنؤازره/NNP وليشعر/NNP اللاعبين/DTNNS ان/IN جمهورهم/NN معهم/JJ في/IN كل/NOUN الاوقات/DTNN ./PUNC ./PUNC والذين/NNP بدورهم/NNP سيكونون/NNP عند/NN حسن/NN ظن/NN الجماهير/DTNN بهم/NNP انشاءالله/NNP 

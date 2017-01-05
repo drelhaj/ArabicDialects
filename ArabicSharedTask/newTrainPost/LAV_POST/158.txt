@@ -1,0 +1,1 @@
+لاعب/NN بمستوى/NNP حسن/NNP عبد/NNP الفتاح/DTNNP مو/NNP عارف/NNP كيف/WRB بسهوله/NNP بتتخلو/NNP عنو/NNP مين/NNP اهم/JJR من/IN الوحدات/DTNNS ولا/NN هي/PRP تجاره/NN والسلام/NN بالله/NNP عليكم/NNP ارحمونا/NNP واقولها/NNP واعيدها/NNP سيقى/NNP الاخضر/DTNNP البطل/DTNN الوحيد/DTJJ 

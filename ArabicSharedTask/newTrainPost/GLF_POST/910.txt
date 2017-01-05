@@ -1,0 +1,1 @@
+مباراه/NNP ./PUNC وحده/NNP ./PUNC والحين/NNP ./PUNC زعلان/NNP ؟/VBD ؟/NN ./PUNC هلالي/NNP ./PUNC مالومك/NNP 

@@ -1,0 +1,1 @@
+حكاية/NN النادي/DTNN ,/PUNC الاخضر/DTJJ ,/PUNC نسبة/NN الى/IN لون/NN القمصان/DTNN التي/WP ترتديها/VBP فرقه/NN الرياضية/DTNN حكاية/NN طويلة/JJ مع/NN الكفاح/DTNN والصبر/NNP والمعاناة/NNP التي/WP صنع/VBD منها/NN ابناؤه/NNP عبر/NN عدة/JJ اجيال/NN محطات/NNS مثيرة/JJ على/IN دروب/NN الابداع/DTNN حكاية/NN تحتاج/VBP الى/IN فصول/NN عدة/JJ لسردها/NN 

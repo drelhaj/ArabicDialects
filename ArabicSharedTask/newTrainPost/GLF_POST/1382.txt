@@ -1,0 +1,1 @@
+ولا/NN عاد/VBD تعودها/NN مرة/NN ثانية/ADJ وخل/NN أمها/NN معها/NN دايم/NNP لاتصير/NNP مخفة/NN مثلي/JJ تشيل/VBP البزارين/DTNNS وتوديهم/NN حتى/IN للدكتور/NN لحالك/NN ثم/CC تاخذ/VBP عليك/NN العصا/DTNN بعدين/NNP ./PUNC 

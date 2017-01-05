@@ -1,0 +1,1 @@
+حلاوتك/NNP يراجل/VBP ياأخر/NNP سطل/NNP ./PUNC ./PUNC 

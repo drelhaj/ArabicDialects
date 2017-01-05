@@ -1,0 +1,1 @@
+ياشين/VBP المبالغة/DTNN ./PUNC ./PUNC لعنبوا/VBD ابليسكم/NNP اللي/WP يقرأ/VBP الخبر/DTNN يقول/VBP قطعة/NN من/IN النمسا/DTNNP على/IN غفلة/NN ،/NN ومن/NN زين/NNP الاسامي/DTNNP -LRB-/PUNC سد/NN العلب/DTNN -RRB-/PUNC لا/RP يسمعونكم/VBP البنقالية/DTNN عن/IN تجميع/NN العلب/DTNN ./PUNC ./PUNC 

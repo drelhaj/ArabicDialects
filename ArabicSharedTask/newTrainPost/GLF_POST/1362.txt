@@ -1,0 +1,1 @@
+ياليت/NNP نرى/VBP دورية/NN وحدة/NN في/IN طريق/NN الخرج/DTNN لتتبع/NN المخالفين/DTNNS ./PUNC 

@@ -1,0 +1,1 @@
+الله/NNP يعطيهم/VBP العافية/DTNN رجال/NN الامن/DTNN ,/PUNC يا/RP ريت/NNP يركزوا/VBP على/IN الاعراس/DTNN ال/DT بيسكروا/NNP الناس/DTNN فيها/NN الشوارع/DTNN خلال/NN الزفة/DTNN بالسيارات/NNS ,/PUNC لانها/NN عنجد/NN ظاهرة/NN كثير/NN منتشرة/JJ في/IN عمان/NNP وخصوصا/NNP انه/VBD شوارع/NN عمان/NNP ازمة/NN بدون/IN هالواسطة/NNP .../PUNC 

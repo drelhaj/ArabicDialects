@@ -1,0 +1,1 @@
+بس/NN قسم/NN بالله/NNP ان/IN طعمة/NNP ولذت/VBD الصيد/DTNN فية/NN تسوى/VBN الدنيا/DTNN كلها/NN ./PUNC ./PUNC 

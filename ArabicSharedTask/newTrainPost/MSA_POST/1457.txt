@@ -1,0 +1,1 @@
+السيارة/DTNN الهجينة/DTJJ أغلى/VBD بكثير/NN من/IN مصنعها/NN من/IN اختها/NN ذات/NN الوقود/DTNN العضوي/DTJJ أي/NNP أن/NNP تخفيضكم/VBP مصصم/NN للحفاظ/NN على/IN دخل/NN الخزينة/DTNN لا/RP غير/NN -LRB-/PUNC المواطن/DTNN سيدفع/NN سعر/NN الهجينة/DTNN الأعلى/DTJJ ونسبة/NN أقل/NN من/IN الرسوم/DTNN والضرائب/NN على/IN سعر/NN أساسي/JJ أعلى/JJ -RRB-/PUNC 

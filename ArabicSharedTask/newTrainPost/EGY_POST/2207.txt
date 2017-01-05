@@ -1,0 +1,1 @@
+او/CC نفسه/VBP الحضري/DTNN يروح/VBP الزبالك/DTNN وبرضه/NNP هيكون/NNP -LRB-/PUNC زبالكاوي/NNP -RRB-/PUNC وغالبا/NNP هيكون/NNP هو/PRP هو/PRP نفس/NN الشخص/DTNN الاولاني/DTJJ 

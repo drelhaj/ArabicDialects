@@ -1,0 +1,1 @@
+الوحدات/NNP صديقي/NNP العزيز/DTNNP لم/RP يحتفل/VBP بالدوري/NNP ./PUNC ./PUNC وأنما/NN كانت/VBD فرحة/NN الاقتراب/DTNN منه/NNP والفوز/NNP على/IN الغريم/DTNN ذهابا/NN وأيابا/NN ./PUNC ./PUNC 

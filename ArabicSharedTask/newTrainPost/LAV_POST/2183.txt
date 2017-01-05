@@ -1,0 +1,1 @@
+بعدين/NN كل/NOUN الناس/DTNN احتجو/VBP لمن/NN الشرطه/DTNN حكو/NN الاعلام/DTNN مخالفه/NN سير/NN ،/NN بس/NN فعلا/NN ما/WP بنستاهل/VBD ،/PRP وكمان/NNS لازم/JJ الحكومه/DTNN شوشت/VBD على/IN بث/NN كأس/NN العالم/DTNN مشان/NN ما/WP نعرف/VBP اشي/NN ولا/NN نتابع/VBP اشي/VB .../PUNC يا/RP عمي/JJ والله/NN ما/WP بلبقلنا/VBD ./PUNC 

@@ -1,0 +1,1 @@
+من/IN الواضح/DTNN ان/IN الجريده/DTNN مش/NN واخده/NNP بالها/NNP ان/IN الموضوع/DTNN متفبرك/VN ومش/NN ظريف/NNP اتمنى/VBP انها/NN تحزفه/NN لان/NNP كده/NNP هتبقى/NNP علامه/NNP مش/NN كويسه/NNP فى/IN حقكوا/NN ./PUNC 

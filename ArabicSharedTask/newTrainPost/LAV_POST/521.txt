@@ -1,0 +1,1 @@
+والله/NN فكرة/NN ولا/NN أحلى/VBD ايش/NNP ريكم/NNP بانجح/NNP مشروع/NN على/IN وجه/NN الكوكب/DTNN .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC أحسنت/VBD ''/NN حكومة/NN ''/NN بتعمل/NN إلي/JJ بدك/NN اية/NOUN .../PUNC تفرض/VBP ضرايب/NN ،/NN ترفع/VBP أسعار/NN .../PUNC هو/PRP حدة/NN بقدر/NNP يحكي/VBP 

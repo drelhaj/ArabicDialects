@@ -1,0 +1,1 @@
+اسرائيل/NNP الارضية/DTNN على/IN الشبكة/DTNN يعني/VBP الانتين/DTNNS رايحة/JJ تبث/VBP كل/NOUN المباريات/DTNNS ومش/NN راح/NN تكلفكم/NN اشي/NNP .../PUNC ./PUNC ./PUNC 

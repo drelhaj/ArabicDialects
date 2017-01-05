@@ -1,0 +1,1 @@
+بلاش/NNP تسيب/VBP البلد/DTNN ./PUNC احسن/VBD سكان/NN البلد/DTNN اللى/WP تروحها/VBP ان/IN مصر/NNP فيها/NNP بلطجيه/NNP و/CC تكون/VBP صورتنا/NN وحشه/NN فى/IN البلد/DTNN الى/IN انتم/PRP ح/NN تروحوها/NN 

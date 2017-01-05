@@ -1,0 +1,1 @@
+العلاج/DTNN فى/IN مستشفى/NN أميريكى/NNP والعودة/NNP بطائرة/NN فرنسية/JJ !!!/VBD إنتم/NN مش/NN واخدين/JJ بالكم/JJ إن/VBD معظم/NOUN القيادات/DTNNS فى/IN مصر/NNP بيتعالجوا/NNP فى/IN الخارج/DTNN وأحيانا/NN أحفادهم/NN كمان/NN بيتولدوا/NNP فى/IN الخارج/DTNN ,/PUNC وبعد/NN كده/NNP يقولولك/VBP :/PUNC تطوير/NN النظام/DTNN الصحى/DTJJ ؟/VBD ؟/NN ؟/CD 

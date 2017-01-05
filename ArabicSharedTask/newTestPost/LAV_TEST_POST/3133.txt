@@ -1,0 +1,1 @@
+البطولات/DTNNS كلها/NN للوحدات/NNS ،/NN خشبة/NN ،/NN تنكة/NN ،/NN شو/NNP ما/WP كانت/VBD البطولة/DTNN لازم/VBD يكون/VBP لونها/NN أخضر/JJ 

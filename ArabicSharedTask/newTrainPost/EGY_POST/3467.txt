@@ -1,0 +1,1 @@
+بالنسبه/NNP للتعليقات/NNS يا/RP رجال/NN مصر/NNP وشببها/NN لازم/JJ تكون/VBP -LRB-/PUNC جد/NN شويه/NN -RRB-/PUNC وموضوعيه/NN مش/NN إحنا/NN مصريين/JJ ؟/JJ 

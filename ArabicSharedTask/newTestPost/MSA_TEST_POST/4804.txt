@@ -1,0 +1,1 @@
+لاحول/NNP ولا/NNP قوة/NN الا/RP بلله/NN .../PUNC ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+إشي/NNP كويس/NNP بس/NN ياريت/NNP يتطبق/VBP على/IN الواقع/DTNN و/CC يبلش/VBP من/IN فوق/NN يعني/VBP من/IN الوزراء/DTNN و/CC النواب/DTNN و/CC المدراء/DTNN في/IN مكاتبهم/NN و/CC أماكن/NN عملهم/JJ من/IN شان/NN يكونوا/VBP قدوة/NN للموظفين/JJ ./PUNC 

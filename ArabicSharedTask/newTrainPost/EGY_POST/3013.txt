@@ -1,0 +1,1 @@
+2/CD -/PUNC موضوع/NN اللواءات/DTNNS والعقداء/NN والعمداء/NN والمقدمين/NNS -/PUNC القادمين/DTNNS لنا/VBD من/IN الجيش/DTNN والذين/JJ يتولون/VBP مناصب/NN رفيعة/JJ داخل/NN وزارة/NN التربية/DTNN والتعليم/NNP وانتا/NNP طبعا/NN عارف/NNP كويس/NNP دول/NN جم/NN ازاي/NNP -LRB-/PUNC اوعى/NNP تقولي/NNP كفاءة/NN وموضوعية/JJ -RRB-/PUNC 

@@ -1,0 +1,1 @@
+الرجل/DTNN اميركي/JJ وديانته/NN اليهودية/DTNN ./PUNC ./PUNC بذلك/VBD انتم/PRP تسوقون/VBP للصهيونية/NN ./PUNC ./PUNC افرضوا/VBD لغتكم/NN ومصطلحاتكم/NN ولا/NN تسوقوا/VBD مفردات/NNS العدو/DTNN الاسرائيلي/DTJJ ./PUNC 

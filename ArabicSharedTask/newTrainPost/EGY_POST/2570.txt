@@ -1,0 +1,1 @@
+دول/NN هما/PRP$ الى/IN ضربوا/VBD المتظاهريين/DTNNS و/CC أخلوا/VBD بالامن/NNP العام/DTNN و/CC عطلوا/VBD المرور/DTNN ./PUNC ./PUNC إحنا/VBD كنا/VBD وقفيين/NNS على/IN الرصيف/DTNN و/CC بنادى/NN بتعديل/NN الدستور/DTNN الى/IN هو/PRP حقنا/NN ./PUNC ./PUNC فرق/NN الكارتييه/DTNN هي/PRP الى/IN لازم/JJ تتهم/VBP هذه/DT الاتهامات/DTNNS أصلا/NN 

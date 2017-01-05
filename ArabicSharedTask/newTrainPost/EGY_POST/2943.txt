@@ -1,0 +1,1 @@
+يمكن/VBP يحس/NN بينا/NNP ./PUNC ./PUNC و/CC بالبلد/NNP ./PUNC ./PUNC و/CC بالفشل/VBD التعليمي/DTNN اللي/WP الدنيا/DTNN كلها/NN شايفاه/NNP ماعدا/NNP حكومتنا/NNP .../PUNC 

@@ -1,0 +1,1 @@
+يوم/NN الجمعة/DTNN القادم/DTJJ سيكون/NNP ختام/NN مسابقة/NN كأس/NN الاردن/DTNNP نتمنى/VBP ان/IN يكون/VBP ختامها/NN مسك/NN و/CC اتمنى/VBP كوحداتي/NNP محب/NN ان/IN يفوز/VBP فريقي/NNS و/CC يسعد/VBP جماهيره/NNP التي/WP تنتظر/VBP يوم/NN الجمعة/DTNN بفارغ/NN الصبر/DTNN ./PUNC 

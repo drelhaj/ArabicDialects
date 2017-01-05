@@ -1,0 +1,1 @@
+بس/NN بصراحه/NNP سته/NN الاف/NN للعداد/NNP ماهي/NNP شي/NNP ولا/NN حق/NN البنزين/DTNN وطلعت/VBD الدرج/DTNN للعماير/NNP اللي/WP مافيها/NN مصعد/NNP الله/NNP يعينهم/VBP ./PUNC ياليت/NNP يزودون/VBP المكافاه/DTNN لهم/NN 

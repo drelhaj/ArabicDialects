@@ -1,0 +1,1 @@
+الحفل/DTNN تكاليفه/VBP مدفوعه/NN من/IN نادي/NN الهلال/DTNNP وبالاخص/NNP نائب/NN الرئيس/DTNN ./PUNC من/IN اجل/NN تصديق/NN كذبة/NN اتحاد/NN الشغالات/DTNNS دفعوا/VBD الملايين/DTNN لاثبات/NNS كذبتهم/JJ ./PUNC المهم/DTNN لاتنسون/NNP تعزمون/NNP الشغالات/DTNNS بدبي/NNP ./PUNC 

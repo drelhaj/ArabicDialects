@@ -1,0 +1,1 @@
+طيب/NNP هو/PRP لو/IN صبر/NN وراح/NN ع/NN دكتور/NN تجميل/NN ./PUNC هوا/NN مو/NNP أحسن/NNP من/IN نانسي/NNP وهيفا/NNP !!!/VBD هيهم/NNP تغيروا/VBD كليا/NN !!/NN بعدين/JJ يا/RP شباب/NN الشب/DTNN مهما/WP يكون/VBP فيو/NNP عيوب/NN بياخد/NN أحسن/NNP بنت/NNP .../PUNC 

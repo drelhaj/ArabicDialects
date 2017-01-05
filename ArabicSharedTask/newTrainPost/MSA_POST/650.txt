@@ -1,0 +1,1 @@
+هذا/DT الخبر/DTNN الاول/ADJ الذي/WP ينشر/VBP عن/IN هذه/DT البطولة/DTNN لعدم/NN وجود/NN تغطية/NN صحفية/JJ للفريق/JJ ./PUNC ./PUNC واحب/VBN ان/IN اخبركم/VBP ان/IN اللاعب/DTNN نضال/NN الوادي/DTNN فاز/VBD امس/NN على/IN اللاعب/DTNN الكازاخستاني/DTJJ بنتيجة/NNP 6:5/CD 

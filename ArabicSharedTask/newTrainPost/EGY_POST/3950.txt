@@ -1,0 +1,1 @@
+مرتضى/NNP منصور/NNP اكثر/JJR ذكاءا/NN بكثير/JJ جدا/NN من/IN شوبير/NNP وكان/NNP عامل/NN كمين/NN له/NN وجرجره/NN ووقعه/NN في/IN شر/NN اعماله/NN وفرج/NN الناس/DTNN كلها/NN على/IN شوبير/NNP وفضايحه/NNP وكله/NNP بالذوق/NNP والادب/NNP والاحترام/NNP ./PUNC ./PUNC اما/RP شوبير/NNP للاسف/NNP شخص/NN مكابر/NN ومصر/NN على/IN الخطأ/DTNN ويستاهل/NNP اللي/WP يجرى/VBP له/NN ./PUNC 

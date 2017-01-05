@@ -1,0 +1,1 @@
+مين/NNP اللي/WP قالك/VBD بس/NN ياج/VBP ان/IN عمرو/NNP موسي/NNP بعيد/NN مهو/NN البرادعي/DTNN موضب/NN كل/NOUN دة/NN معاه/NN مشفتش/NN صورتهم/NN وهما/NN بيتفقوا/NN سوا/NN دا/NN اتفق/VBD معاه/NN قبل/NN اي/NOUN حد/NN وهو/VBD البرادعي/DTNNP قال/VBD لما/NNP جه/NNP اول/ADJ خطوة/NN اقعد/VBD مع/NN موسي/NNP ونتفق/NNP سوا/NN 

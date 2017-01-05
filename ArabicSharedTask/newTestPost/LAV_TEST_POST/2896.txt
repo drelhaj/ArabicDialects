@@ -1,0 +1,1 @@
+كنت/VBD احترم/NN آراء/JJ الأخ/DTNN سيف/NN ظنا/NN بأنه/NN بيشجع/NN اللعبة/DTNN الحلوة/DTJJ رغم/NN تعصبه/NN النادوي/DTNNP ./PUNC ولكن/VBN شده/NN على/IN يد/NN المدرب/DTNN لعدم/NNP ضمه/NNP افضل/JJR لاعب/NN انجبته/NN ملاعبنا/NNP لا/RP تعبر/VBP عن/IN مهنية/NN من/IN ناحية/NN ولا/NN عن/IN غيرة/NN على/IN قميص/NN المنتخبمن/DTNN ناحية/NN أخرى/JJ ./PUNC 

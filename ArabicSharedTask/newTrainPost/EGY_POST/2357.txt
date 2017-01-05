@@ -1,0 +1,1 @@
+ارخص/JJ حاجه/NN فى/IN مصر/NNP هى/VBD حياة/NN المواطن/DTNN المصرى/DTJJ على/IN فكره/NNP انا/NNP وصلت/VBD مكان/NN الحادث/DTNN قبل/NN سياره/NN الاسعاف/DTNN مع/NN انى/VBD كنت/VBD راكب/NN موتوسكل/JJ دى/VBD استهبال/NN من/IN الاسعاف/DTNN ورجال/NN السرطة/DTNN 

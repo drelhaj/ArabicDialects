@@ -1,0 +1,1 @@
+بس/NN ألحين/JJ أعوذ/VBD بالله/NN كل/NOUN الرسوم/DTNN صارت/VBD قتل/NN وذبح/NN وشي/NN عادي/NN وفيه/NN شخصيات/NNS غريبه/NNP بالرسوم/NNP بقعه/NNP خضراء/JJ وسطها/NN عيون/NN والقصص/NN باخيه/NNP تحث/VBP على/IN العنف/DTNN ./PUNC 

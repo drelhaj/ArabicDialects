@@ -1,0 +1,1 @@
+@/VBD عجيب/NN امركم/NN يا/RP الشعب/DTNN السعودي/DTJJ !!/VBD اجل/NN تصرفون/VBP خمسة/CD مليارات/NNS في/IN البحرين/DTNNP خلال/NN اربعة/NN شهور/NN وتصرفون/JJ في/IN دبي/NNP اضعافها/NN على/IN السياحة/DTNN -LRB-/PUNC .../PUNC -RRB-/PUNC وتجون/NNS هنا/RB وتقولون/NN ما/IN نبي/NN اماكن/NN سياحية/JJ نبي/NN شرهات/NNS وفلوس/JJ !/PUNC ./PUNC ./PUNC وش/NN تسوون/VBP بالشرهات/NNS ؟/CD 

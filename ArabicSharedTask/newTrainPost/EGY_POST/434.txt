@@ -1,0 +1,1 @@
+معلش/NN يادكتور/NNP هيفضلو/NNP يلفو/VBP ويدور/NN علشان/NN الناس/DTNN دى/VBD مش/NN عايزه/NNP تتعتع/VBP من/IN مكانها/NN وخيفين/NNS من/IN اى/NOUN حد/NN يحكم/VBP البلد/DTNN غير/NN مبارك/NNP لانه/NNP حاميهم/NNP والحق/NNP ان/IN مبارك/NNP من/IN غيرهم/NN كويس/NNP جدا/NN لاكن/NNP انى/VBD مش/NN عارف/NNP الرئيس/DTNN خايف/NNP منهم/NNP ولا/NN ايه/NN 

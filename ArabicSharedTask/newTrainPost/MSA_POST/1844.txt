@@ -1,0 +1,1 @@
+3/CD -/PUNC تدريس/NN ابتاء/NN المعلمين/DTNNS في/IN الجامعات/DTNNS على/IN نفقة/NN الحكومة/DTNN ./PUNC 

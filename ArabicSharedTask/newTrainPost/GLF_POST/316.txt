@@ -1,0 +1,1 @@
+ورا/VBD بعد/NN ماجابو/NNP معاهم/NN معدات/NNS ثقيلة/JJ وصواريخ/NN وأحزمة/NN ناسفة/JJ .../PUNC وخذوا/VBD حقهم/NN صح/VBD ./PUNC ./PUNC 

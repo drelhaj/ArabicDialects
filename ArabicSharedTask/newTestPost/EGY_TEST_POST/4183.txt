@@ -1,0 +1,1 @@
+يا/RP ريت/NNP عندنا/NNP زيك/NNP ثلاثة/CD في/IN الصحة/DTNN والداخلية/NN والأعلام/NNP كانت/VBD مصر/NNP أتصلحت/VBD وربنا/NN يقويك/VBP علي/IN المصايب/DTNN والبلاوي/NNP ألي/NNP بيعملوها/NNP ./PUNC 

@@ -1,0 +1,1 @@
+دعاية/NN أميركية/JJ صهيونية/JJ أخرى/VBD هدفها/NN تشويه/NN صورة/NN الإسلام/DTNN .../PUNC و/CC لا/RP ممكن/JJ أصدق/VBP هيك/NNP خبر/NN و/CC بطلب/NN من/IN الناس/DTNN الواعية/DTJJ الفهمانة/DTNN انها/NN ما/WP تصدق/VBP كل/NOUN شيء/NN بنكتب/NN .../PUNC خصوصا/NN عن/IN الإسلام/DTNN !/PUNC 

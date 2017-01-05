@@ -1,0 +1,1 @@
+و/CC الامثله/DTNN كثيره/NNP -LRB-/PUNC هو/PRP الدكتور/DTNN احمد/NNP زويل/NNP طفش/NN من/IN شويه/NNP -RRB-/PUNC 

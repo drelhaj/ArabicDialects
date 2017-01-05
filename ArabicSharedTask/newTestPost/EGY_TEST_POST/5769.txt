@@ -1,0 +1,1 @@
+هيا/VBD السويس/DTNNP كلها/NN فيها/NN 10/CD كيلومتر/NN ؟/NN ؟/NN بورتوفيق/NN لا/RP يفصلها/VBP عن/IN الصالة/DTNN غير/NN شارع/NN واحد/JJ على/IN الكورنيش/DTNNP .../PUNC و/CC ياريت/NNP يشوفولهم/VBP صالة/NN تانية/JJ في/IN مدينة/NN تانية/JJ .../PUNC بدل/NN ما/WP كل/NOUN شوية/NN يوقفونا/VBP عن/IN اللعب/DTNN في/IN الصالة/DTNN بحجة/NN البطولات/DTNNS دي/NN ./PUNC ./PUNC !!!/CD 

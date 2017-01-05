@@ -1,0 +1,1 @@
+طبعا/NN شيء/NN بديهي/JJ ان/IN يكون/VBP الاردن/DTNNP في/IN المركز/DTNN الخامس/ADJ ونحمد/NNP الله/NNP انه/VBD ليس/VBD في/IN المركز/DTNN العاشر/ADJ ./PUNC ./PUNC ومعروف/NNP ان/IN فريق/NN الوحدات/DTNNS هو/PRP الفريق/DTNN الذي/WP جعل/VBD الكرة/DTNN الاردنية/DTJJ اضحوكة/NN للجميع/NN ولو/NNP لم/RP يشارك/VBP لكان/NN افضل/JJR له/NN وللكرة/NN الاردنية/DTNN 

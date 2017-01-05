@@ -1,0 +1,1 @@
+وبأذن/NNP الله/NNP بيطيح/NNP الهلال/DTNNP وستروون/NNP ./PUNC ./PUNC 

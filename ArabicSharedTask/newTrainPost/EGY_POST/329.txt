@@ -1,0 +1,1 @@
+شيخ/NN الأزهر/DTNN نفسه/NN عضو/NN أمانة/NN السياسات/DTNNS ./PUNC ./PUNC ووجه/NN خطاب/NN رسمي/JJ لكل/VBD شيوخ/NN الأوقاف/DTNN بوجوب/NNP الدعاء/DTNN للرئيس/NNP بالصحة/NNP وطول/NNP العمر/DTNN ./PUNC ./PUNC ولا/VBD دي/NN مش/NN سياسة/NN ./PUNC ./PUNC مشددا/VN بأنه/NN يعتبر/VBN واجب/NN وطني/JJ وفرض/JJ علي/IN كل/NOUN مصري/NN 

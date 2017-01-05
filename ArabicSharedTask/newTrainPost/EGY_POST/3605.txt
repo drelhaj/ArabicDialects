@@ -1,0 +1,1 @@
+ياريت/VBN الى/IN بيكتب/NN الخبر/DTNN يراعى/VBP ان/IN الناس/DTNN الى/IN بتقرا/NN الخبر/DTNN عندها/NN شوية/JJ مفهومية/JJ ,/PUNC فيكتب/NN الخبر/DTNN من/IN غير/NN الأفلام/DTNN دى/VBD ويكتبوا/VBD بكل/NN تفاصيله/NN من/IN غير/NN الإفتراء/DTNN الواضح/DTJJ ده/DT ./PUNC 

@@ -1,0 +1,1 @@
+ماهيتاب/NNP الزمالكاويه/DTNNP متعصبين/NNS فعلا/NN والسفسطائي/JJ عنده/NN حق/NN -LRB-/PUNC اغسلي/NNP ايدك/NNP وكلي/NNP لك/NN لقمه/NNP -RRB-/PUNC عملتي/NNS اللي/WP عليكي/VBP يا/RP متعصبه/NN ها/PRP$ ها/PRP$ ها/PRP$ ها/PRP$ ها/PRP$ 

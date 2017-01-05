@@ -1,0 +1,1 @@
+تبي/VBP تشوف/NN سيارة/NN خربانة/NN رح/NN للتشليح/NN تلقى/NN أنواع/NN السيارات/DTNNS أختر/NNP و/CC تفرج/VBP و/CC صور/NN على/IN كيفك/NNP ,/PUNC لكن/CC لا/VBP تخلي/NN نفسك/VBP سبب/NN لوفاة/NN ناس/NN أصابهم/NN حادث/NN ./PUNC 

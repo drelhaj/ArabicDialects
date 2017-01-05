@@ -1,0 +1,1 @@
+-LRB-/PUNC فيه/NNP شلة/NNP بزارين/NNP مطقمين/NNP اصفر/NN ./PUNC ./PUNC وش/NN حليلهم/JJ ./PUNC ./PUNC يدننون/VBP 333أ/CD -RRB-/PUNC 

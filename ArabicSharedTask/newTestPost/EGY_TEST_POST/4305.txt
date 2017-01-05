@@ -1,0 +1,1 @@
+كل/NOUN يوم/NN وبعد/NN كل/NOUN اللي/WP بيحصل/VBN ده/DT بيزداد/NN كرهنا/NN للاهلي/JJ ./PUNC ./PUNC هذا/DT النادي/DTNN الذي/WP لا/RP يحي/VBP الا/RP بالظلم/NN والاتستبداد/NN .../PUNC ولا/NN عزاء/NN للاخلاق/NN الريضية/DTNN 

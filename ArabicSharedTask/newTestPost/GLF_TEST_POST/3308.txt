@@ -1,0 +1,1 @@
+وياليت/NNP يحطون/VBP امن/NN نسائي/JJ خاص/JJ بالهيئه/JJ يتعامل/VBP مع/NN النساء/DTNN في/IN الاماكن/DTNN العامه/DTJJ ويقلل/NNP من/IN تصادم/NN النساء/DTNN مع/NN رجال/NN الهيئه/DTNN 

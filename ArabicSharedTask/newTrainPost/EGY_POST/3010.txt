@@ -1,0 +1,1 @@
+يعنى/VBP ياربى/NNP حتى/IN العمل/DTNN الخيرى/DTJJ مش/NN عاوز/VN يكمل/VBP يعنى/VBP نروح/VBP لمين/NN ونقول/NNP يا/RP مين/NNP ./PUNC مافيش/NNP غيرك/NNP يارب/VBP ترحمنا/NN من/IN الهم/DTNN اللى/WP احنا/NN فيه/NNP ده/DT 

@@ -1,0 +1,1 @@
+كلامك/NNP مظبوط/NNP يادكتورة/NNP نيفين/NNP احنا/NN فى/IN مرسى/NNP مطروح/NNP مهتفناش/NNP واظن/NNP انناجزء/NN من/IN مصر/NNP يعنى/VBP مش/NN كل/NOUN مصر/NNP هتفت/VBD الى/IN هتفو/NNP الهتيفا/DTNNP اياهم/NNP واقولك/NNP يادكتورة/NNP تحيا/VBP مصر/NNP 

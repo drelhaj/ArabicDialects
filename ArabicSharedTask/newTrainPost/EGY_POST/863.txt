@@ -1,0 +1,1 @@
+4/CD -/PUNC سكرتير/NN المرأة/DTNN العاملة/DTJJ والطفل/NNP صفية/NNP السيد/DTNN اللى/WP مادياها/VN على/IN حسب/NN الهوى/DTNN ./PUNC حسين/NNP مجاور/JJ الفاسدين/DTNNS جاب/NN لها/NN شقة/NN فى/IN 6/CD اكتوبر/NN ./PUNC كفاية/NN كدة/NN ./PUNC فين/NNP الرجالة/DTNN ./PUNC 

@@ -1,0 +1,1 @@
+معظم/NOUN السينما/DTNN اصلاً/VBP ما/WP فيها/VBD شي/NNP بيرضي/NNP الله/NNP ./PUNC ./PUNC سواءً/NN كانت/VBD اباحية/JJ ام/CC غير/NN اباحية/JJ ./PUNC ./PUNC لانها/VBD اصلا/NN كلها/NN فيها/NN كشف/NN عورات/NNS واختلاط/JJ ومواضيع/JJ ما/RP في/IN داعي/NN لها/NN ./PUNC ./PUNC لو/IN حكيتوا/VBD بموضوع/NN تاني/NN بكون/NNP احسن/JJR ./PUNC ./PUNC مع/NN احترامي/NN لكم/VBG 

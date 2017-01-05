@@ -1,0 +1,1 @@
+مش/NN دةأبراهيم/NNP وحسام/NNP حسن/NNP بتوع/NN زمان/NN كفاية/NN نفاق/NN ,/PUNC القرعة/DTNN تتباهى/VBP بشعر/NN أختها/JJ ,/PUNC والدوري/JJ مهما/WP كان/VBD للاهلي/NNP بالكوسة/NNP بالتحكيم/NNP وسمير/NNP عثمان/NNP وتوفيق/NN السيد/DTNN وغيرهم/NNP والعدل/NNP أساس/NNP الملك/DTNN 

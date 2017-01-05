@@ -1,0 +1,1 @@
+الناس/DTNN اللي/WP بتقولك/NNP سيب/NNP اللي/WP يغير/VBP يغير/VBP .../PUNC ./PUNC ./PUNC يغير/VBP ايه/NN ؟/NN !!/NN 

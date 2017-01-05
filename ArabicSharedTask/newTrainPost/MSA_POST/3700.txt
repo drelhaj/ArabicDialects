@@ -1,0 +1,1 @@
+دخلت/VBD إحدى/NNP النساء/DTNN -LRB-/PUNC لمتجر/NNP الأزواج/DTNNP -LRB-/PUNC لاختيار/NNP زوج/NN لها/NN 

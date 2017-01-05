@@ -1,0 +1,1 @@
+@/VBD يستاهل/VBP حبيبنا/NN الغالي/DTNN ملكنا/NN العادل/DTJJ ان/IN يخلد/VBP اسمه/NN في/IN كل/NOUN شبر/NN من/IN ارجاء/NN الوطن/DTNN ./PUNC ./PUNC ورب/NN العزة/DTNN لو/IN ما/WP الحرام/DTNN كان/VBD قلت/VBD حطوا/VBD له/NN تمثال/NN في/IN أعلى/NN مكان/NN في/IN المملكة/DTNN ./PUNC ./PUNC 

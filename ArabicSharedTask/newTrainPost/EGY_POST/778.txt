@@ -1,0 +1,1 @@
+ليه/NNP اضطر/VBD اسيب/NNP بلدى/NNP واشتغل/NNP بره/NNP عشان/NNP فى/IN بلادى/NNP مش/NN لاقى/VBD فرصى/NN !/PUNC 

@@ -1,0 +1,1 @@
+سبحان/NN الله/NNP ./PUNC هذا/DT ما/WP قلناة/VBD من/IN البداية/DTNN بان/VBD الناطق/DTNN الاعلامي/DTJJ سيخرج/NNP ويقول/NNP بان/NNP الحادثة/DTNN حصلت/VBD بعد/NN ان/IN قام/VBD المرضين/DTNNS بالاعتداء/JJ على/IN الامن/DTNN ولذلك/NN قام/VBD الامن/DTNN بالرد/NNP عليهم/NNP ./PUNC 

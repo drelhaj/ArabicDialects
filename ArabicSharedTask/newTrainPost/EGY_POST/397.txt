@@ -1,0 +1,1 @@
+هى/VBD الناس/DTNN دى/NN ايه/NN معندهاش/NN دم/NN للدرجة/NN دى/NN الكنيسة/DTNN وجهت/VBD الدعوة/DTNN للدكتور/NNP البرادعى/DTNNP والرجل/NNP ذهب/VBD للتهنئة/NN طب/NN انت/PRP ليه/NNP ياجهبذ/NNP لم/RP توجه/VBP اللوم/DTNN للكنيسة/NN على/IN دعوتها/NN للبرادعى/NNP عارف/NNP ليه/NNP لانك/NNP لا/RP تجرؤ/VBP مرة/NN اخرى/JJ لا/RP تجرؤ/VBP 

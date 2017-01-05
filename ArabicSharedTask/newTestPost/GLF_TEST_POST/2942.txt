@@ -1,0 +1,1 @@
+انا/PRP من/IN يوم/NN شفت/NN التصميم/DTNN على/IN شكل/NN هلال/NNP عرفت/VBD انها/NN بتاخذ/NN الزعامة/DTNN تسلم/VBD يمينك/VBP يابو/NNP متعب/JJ ./PUNC ./PUNC 

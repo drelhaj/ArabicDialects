@@ -1,0 +1,1 @@
+خالد/NNP سعد/NNP احترف/NN على/IN مقاعد/NN الاحتياط/DTNN في/IN الزمالك/DTNNP ./PUNC وشكرا/NN 

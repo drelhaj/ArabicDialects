@@ -1,0 +1,1 @@
+ياناس/NNP ياهوه/VBP اليهود/DTNN دمروا/VBD القدس/DTNNP واحتلوا/VBD الأقصى/DTNN وما/NN بيتهزلنا/NN شعرة/NN ,/PUNC وماتش/NN كورة/NN اى/NOUN كلام/NN لايودى/NNP ولايجيب/NNP بيعمل/NNP فينا/NNP كدة/NNP يا/RP جهلة/JJ 

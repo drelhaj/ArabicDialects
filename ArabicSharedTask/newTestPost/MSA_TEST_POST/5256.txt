@@ -1,0 +1,1 @@
+وللاسف/NNP كما/CC تفضلت/VBD بعض/NOUN الانديه/DTNN التي/WP يفترض/VBN ان/IN تكون/VBP كبيره/NN لازالت/NNP تبحث/VBP عن/IN نفسها/NN ولا/NN تجد/VBP لها/NN موطئ/NN قدم/VBD .../PUNC ادارات/NNS اقل/JJR من/IN هاويه/NN غير/NN قادره/NN على/IN ادارة/NN الامور/DTNN ./PUNC 

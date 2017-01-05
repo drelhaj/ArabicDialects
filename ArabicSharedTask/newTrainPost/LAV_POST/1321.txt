@@ -1,0 +1,1 @@
+ناس/NN تفرح/VBP بالمونديال/NNP ./PUNC ./PUNC وناس/NN عم/NN تتدبح/VBP والدم/NN سايح/NNP علطرقات/NNP 

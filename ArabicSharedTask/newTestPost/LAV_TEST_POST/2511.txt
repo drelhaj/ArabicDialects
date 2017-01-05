@@ -1,0 +1,1 @@
+انا/PRP مع/NN اخويه/NN محمد/NNP المعااايطه/DTNNP بالي/NNP بحكيه/NNP ./PUNC ./PUNC جد/NN مشان/NNP الله/NNP حد/NN يحس/NN فينا/NNP وضعنا/VBD بسوووء/NNP :/PUNC -LRB-/PUNC الله/NNP يهوووونها/NNP 

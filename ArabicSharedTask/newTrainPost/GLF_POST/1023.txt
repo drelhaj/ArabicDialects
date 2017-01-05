@@ -1,0 +1,1 @@
+ياهلا/NNP والله/NNP وغلا/NN بأبو/NNP زايد/NNP في/IN ديار/NN أبو/VBD متعب/JJ حللتم/NN أهلاً/NN ووطئتم/NNP سهلاً/NNP بشعب/NNP زايد/NNP الحبيب/DTNNP وإلى/VBD الأمام/DTNN ياكابتن/NNP نجيب/NNP 

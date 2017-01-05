@@ -1,0 +1,1 @@
+الموضوع/DTNN الثاني/ADJ ان/IN السائق/DTNN الذي/WP يحجز/VBP على/IN خلفية/NN حادث/NN دهس/NN او/CC حادث/NN سير/NN ./PUNC يحبس/VBP مع/NN اصحاب/NN الاسباقيات/DTNNS وهذا/JJ جدا/NN مرعب/JJ لهم/JJ خصوصا/NN ان/IN كل/NOUN شخص/NN معرض/NN لمثل/NN هذا/DT الموقف/DTNN 

@@ -1,0 +1,1 @@
+سيبوها/NNP عاوزنين/NNP نعمل/VBP محاوررة/NN ./PUNC ./PUNC سيبوها/NNP يا/RP بهوات/NNS 

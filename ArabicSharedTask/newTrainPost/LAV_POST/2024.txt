@@ -1,0 +1,1 @@
+انا/PRP الي/IN تجارب/NN معهم/JJ ./PUNC ./PUNC قتلو/VBD ابوي/NNP قبل/NN هيك/NNP بابره/NNP غلط/VBD وما/NN حدا/NN سالهم/JJ ليش/NN او/CC كيف/WRB 

@@ -1,0 +1,1 @@
+ولا/VBD بد/NN من/IN تحقيق/NN قفزه/NN نوعيه/NNP في/IN رواتب/NN الموظفين/DTNNS خاصه/NNP الذي/WP يعملون/VBP في/IN مجالات/NNS الاعمال/DTNN الخطره/DTJJ ابتداء/NN بعمال/NN البترول/DTNN والكهرباء/NN والمناجم/NN .../PUNC كي/IN لا/RP نفقد/VBP الكوادر/DTNN المدربه/DTJJ ونعود/NNP لنعاتب/NNP انفسنا/VBD عن/IN هجرة/NN الكفاءات/DTNNS الاردنيه/DTJJ ./PUNC 

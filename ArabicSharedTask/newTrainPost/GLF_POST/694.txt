@@ -1,0 +1,1 @@
+يعني/VBP مشروع/NN شفط/NN فلوس/NNP والا/NNP لو/IN يبون/VBP يخلصون/NN البلد/DTNN من/IN السمنة/DTNN يقوموا/VBP بفحص/NN الاشخاص/DTNN السمينين/DTJJ ومعرفة/NN اسباب/NN السمنة/DTNN وتوزيع/NN اشتراكات/NNS في/IN نوادي/NN صحية/NN مجاناً/NN بشرط/NN التزام/NN الشخص/DTNN بالحضور/NNP يومياً/VBP هذا/DT لو/IN يبون/VBP يشتغلون/VBP صح/VBD 

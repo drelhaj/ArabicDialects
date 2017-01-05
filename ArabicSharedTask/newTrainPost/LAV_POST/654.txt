@@ -1,0 +1,1 @@
+الله/NNP عليك/NNP .../PUNC والله/NN بنعد/NN الايام/DTNN بالغربة/NN عشان/NN الاجازة/DTNN .../PUNC صيف/NN عمان/NNP اجمل/JJR شي/NNP بحياتي/NNP .../PUNC بحبك/NNP يا/RP بلدي/JJ .../PUNC جرش/NN عجلون/NN السلط/DTNN وووو/NNP .../PUNC لف/NNP يووووووو/NNP 

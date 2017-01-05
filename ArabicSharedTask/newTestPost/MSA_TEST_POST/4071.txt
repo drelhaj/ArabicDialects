@@ -1,0 +1,1 @@
+1/CD -/PUNC زيادة/NN نسبة/NN الفقر/DTNN بصورة/NN كبيرة/JJ من/IN سنة/NN 1995/CD تقريبا/NN ./PUNC 

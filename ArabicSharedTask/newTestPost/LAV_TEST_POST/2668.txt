@@ -1,0 +1,1 @@
+بطولات/NNS دوري/NN 3/CD اضعاف/NN بطولات/NNS فريقكو/NNP ./PUNC ./PUNC مش/NN انجاز/NN تاريخي/JJ ؟/VBD ؟/CD 

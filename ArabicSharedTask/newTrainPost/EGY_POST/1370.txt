@@ -1,0 +1,1 @@
+والنبي/NNP والنبي/NNP ياعم/NNP مرتضى/NNP كتر/NNP من/IN زياراتك/NNP لنادي/NNP الزمالك/DTNNP شويتين/NNP علشان/NNP خاطري/NNP ياراجل/NNP علشان/NNP براكاتك/NNP تحل/VBP على/IN الزمالك/DTNNP ويخسر/NN كدا/NN كام/NN نقطه/VBP على/IN وشك/NN 

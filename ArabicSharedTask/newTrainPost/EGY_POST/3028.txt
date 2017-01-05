@@ -1,0 +1,1 @@
+ده/DT حتى/IN أبو/NNP تريكة/NNP وبركات/NNS كأنهم/JJ أول/VBD مرة/NN يلعبوا/VBP كورة/NN ./PUNC أول/VBD مرة/NN أشوف/NNP تريكة/NNP مكشر/NNP ومتنكد/NNP ./PUNC 

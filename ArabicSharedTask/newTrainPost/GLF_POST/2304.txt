@@ -1,0 +1,1 @@
+لو/IN الولد/DTNN أمريكي/JJ أو/NN اوروبي/JJ كان/VBD طلعتوة/NN من/IN تحت/NN الأرض/DTNN ./PUNC ./PUNC ولأصبحت/NN قضيته/NN هي/PRP الشغل/DTNN الشاغل/DTJJ في/IN الإعلام/DTNN ./PUNC ./PUNC لكن/VBP هالمسيكين/NNP ماله/NNP إلا/NN الصبر/DTNN والدعاء/NN ./PUNC ./PUNC وانشالله/NNP الله/NNP ما/WP يخيب/VBP رجاه/NN ./PUNC ./PUNC 

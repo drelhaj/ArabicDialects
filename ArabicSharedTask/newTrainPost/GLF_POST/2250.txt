@@ -1,0 +1,1 @@
+ترى/VBP الموضوع/DTNN مجرد/NN استبيان/NN و/CC كثر/NN الله/NNP خير/JJR الأخوان/DTNNS اللي/WP يعدونكم/VBP ويساهمون/NNS بخدمة/NN هالمجتمع/JJ الي/IN ./PUNC ./PUNC -LRB-/PUNC مانيب/NNP قايل/NNP -RRB-/PUNC كثر/VBD الله/NNP خيرهم/NNP وترى/VBD حقهم/NN من/IN 100000/CD الى/IN 200000/CD ريال/NN ؟/NN ؟/CD 

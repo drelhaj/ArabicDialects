@@ -1,0 +1,1 @@
+أخبار/NN شو/NNP يا/RP رنتيسي/NNP اللي/WP بتتمناها/NN كل/NOUN يوم/NN ؟/VBD احنا/NN بنفوت/NNP نقرأ/VBP الخبر/DTNN و/CC نعلّق/VBP عليه/NNP مش/NN نجيب/NNP أخبار/NNP !/PUNC 

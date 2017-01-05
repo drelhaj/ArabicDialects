@@ -1,0 +1,1 @@
+ويا/VBD جماعه/NNP لما/NNP مرتضى/NNP بيتكلم/NNP كلمة/NN حق/NN لية/NNP عاوز/VN شوبير/NNP يعتذر/VBP هو/PRP مش/NN حلف/NN على/IN المصحف/DTNN وعنده/NN ادله/NN خلاص/NN يخلي/VBP القضاء/DTNN يقول/VBP كلمتة/NN الاخيرة/DTNN وبيطل/NN شغل/NN البروباجاندة/DTNN الكاذبة/DTJJ وعشقة/NN للكاميرا/NN والاضواء/JJ ./PUNC 

@@ -1,0 +1,1 @@
+سنسمعها/NN بعد/NN أن/NN تنتهي/VBP النهائيات/DTNNS بالفشل/NNP الذريع/DTJJ -/PUNC حسب/NN المعطيات/DTNNS الحالية/DTJJ -/PUNC وبعد/NN هذا/DT الفشل/DTNN تبقى/VBP الشماعة/DTNN الازلية/DTJJ السرمدية/DTJJ 1/CD -/PUNC سوء/NN الإعداد/DTNN ./PUNC 2/CD -/PUNC قلة/NN الإمكانيات/DTNNS ./PUNC 3/CD -/PUNC سوء/NN الملاعب/DTNN المحلية/DTJJ ./PUNC 

@@ -1,0 +1,1 @@
+امريكا/NNP تقول/VBP طبعوا/NN كويس/NNP مع/NN اسرائيل/NNP .../PUNC نقول/VBP بس/NN ده/DT كتير/NN وانتوا/VBD شايفين/NNS الشعب/DTNN مش/NN قابل/JJ ./PUNC ./PUNC تقوم/VBP امريكا/NNP تزغر/VBP زغرة/NN نقول/VBP حاضر/NN حاضر/JJ حنصدر/NN الغاز/DTNN مع/NN شوية/NN تطبيع/NN من/IN تحت/NN تحت/NN بعيد/JJ عن/IN عيون/NN الشعب/DTNN ./PUNC ما/WP تحرجنيش/VBP !!!!/CD 

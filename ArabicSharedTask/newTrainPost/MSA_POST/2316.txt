@@ -1,0 +1,1 @@
+فأي/NNP عقل/NNP بشري/NNP يستطيع/VBP ان/IN يقتنع/VBP بأن/NN فتاه/NN عمرها/NN اربعة/CD عشرة/NN عاماً/NN قادرة/JJ على/IN ان/IN تخوض/VBP الحياة/DTNN الزوجية/DTJJ وتنجح/NN بها/NN بكل/NN اركانها/NN .../PUNC !!/NN ا/NN 

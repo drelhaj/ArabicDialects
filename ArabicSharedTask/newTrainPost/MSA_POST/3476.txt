@@ -1,0 +1,1 @@
+جزاكم/NNP الله/NNP خيرا/NN حدثوا/VBD الناس/DTNN عن/IN البغي/DTNN .../PUNC .../PUNC ./PUNC ./PUNC 

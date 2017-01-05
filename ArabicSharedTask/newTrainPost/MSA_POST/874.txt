@@ -1,0 +1,1 @@
+ـ/VBD زيادة/NN الحد/DTNN الادنى/DTJJR للرواتب/NNP الذي/WP لا/RP يكفي/VBP الطعام/DTNN للكثير/JJ جدا/NN من/IN العائلات/DTNNS مع/NN العلم/DTNN ان/IN الاسعار/DTNN في/IN الاردن/DTNNP تساوي/VBP الاسعار/DTNN في/IN اوروبا/NNP فانا/NNP احد/NN المقيمين/DTNNS في/IN اوروبا/NNP ./PUNC 

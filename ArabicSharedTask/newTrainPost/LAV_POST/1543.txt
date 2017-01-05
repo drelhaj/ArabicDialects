@@ -1,0 +1,1 @@
+عادي/NN .../PUNC انا/PRP بقترح/NN انه/NN الاردن/DTNNP يلغي/VBP اعترافه/NN بهولندا/NNP .../PUNC والزام/NNP الهولنديين/DTJJ باصدار/NNP تأشيرة/NNP لدخول/NN الاردن/DTNNP واحنا/VBD اصلا/NN ما/IN بدنا/NN ندخل/VBP هولندا/NNP .../PUNC هي/PRP شو/NNP فيها/NNP اصلا/NN ؟/NN !!/NN 

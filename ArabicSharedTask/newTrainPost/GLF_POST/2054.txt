@@ -1,0 +1,1 @@
+من/IN حق/NN غالي/NN يعطونه/VBP فلوسه/NN ومستحقاته/NN عشان/NNP يعطي/VBP داخل/NN الملعب/DTNN ./PUNC ./PUNC وكذلك/NN كل/NOUN لاعب/NN نصراوي/JJ يجب/VBP اعطائه/NN حقوقه/NN ليه/NNP يا/RP إدارة/NN النادي/DTNN ما/WP تعطون/VBP اللاعبين/DTNNS حقوقهم/NN ؟/CD 

@@ -1,0 +1,1 @@
+أما/NN تكاليف/NN الزواج/DTNN ،/NN فلا/NN تعليق/NN ./PUNC ./PUNC كل/NOUN وحده/NN تبي/VBP تفرح/NN و/CC لا/RP تدري/VBP كيف/WRB تفرح/VBP ،/NN ماتبي/JJ تسوي/VBP عشاء/NN رجال/NN بدون/IN حفلة/NN نساء/NN و/CC برضو/NN ما/WP تبي/VBP تتكلف/VBP بأكثر/NN من/IN اللازم/DTJJ ./PUNC ./PUNC و/CC واقعة/NN بين/NN الحفرتين/DTNNS !/PUNC 

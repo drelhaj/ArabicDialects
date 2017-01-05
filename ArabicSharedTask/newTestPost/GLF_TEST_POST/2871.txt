@@ -1,0 +1,1 @@
+-LRB-/PUNC يحطون/VBP فينا/NNP مايخطينا/NNP -RRB-/PUNC ويذمون/NNP كل/NOUN ما/WP هو/PRP سعودي/JJ ./PUNC ./PUNC !!/CD 

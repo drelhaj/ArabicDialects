@@ -1,0 +1,1 @@
+ان/VBP اصحاب/NN السوابق/DTNN يحفظون/VBP القانون/DTNN عن/IN ظهر/NN غيب/NN ويعرفون/NNP مخارجه/NNP ومداخله/NNP ربما/RB اكثر/NOUN من/IN المحامين/DTNNS انفسهم/NNP 

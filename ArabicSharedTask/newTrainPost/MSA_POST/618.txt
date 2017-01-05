@@ -1,0 +1,1 @@
+زيتونا/NN ./PUNC ./PUNC وزعتر/NNP ./PUNC ./PUNC 

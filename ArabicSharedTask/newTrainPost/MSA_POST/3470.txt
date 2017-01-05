@@ -1,0 +1,1 @@
+ان/VBP انخفاض/NN احجام/NN التداول/DTNN والقيمة/NN السوقية/DTJJ للاسهم/NNP في/IN بورصة/NN عمان/NNP كذلك/NNP انخفاض/NN مؤشر/NN السوق/DTNN وهو/NN ما/WP حدث/VBD في/IN الكثير/DTNN من/IN الاسواق/DTNN الاخرى/DTJJ ./PUNC 

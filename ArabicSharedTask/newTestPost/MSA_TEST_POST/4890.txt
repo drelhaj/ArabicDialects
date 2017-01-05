@@ -1,0 +1,1 @@
+مبارك/NNP لك/NN سيد/NN البدري/DTNNP درجة/NN الماجستير/DTNN ./PUNC ./PUNC لأنك/VBD أهل/NN لاستحقاق/NN مانلته/NNP .../PUNC وإن/NN شاء/VBD الله/NNP للدكتوراة/NN .../PUNC 

@@ -1,0 +1,1 @@
+أنا/VBD أعيش/NN في/IN بلد/NN أجنبي/NNS ،/NN وبدي/JJ ادفع/VBP شؤ/NN #/NN 1633/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC ؤ/NN #/NN 1632/CD ;/PUNC ضرايب/NN بس/NN بعرف/NN كيف/WRB سوف/RP استفيد/VBD منها/NN ،/NN علاج/NN بلاش/NN ،/NN دراسه/NN بلاش/NNP في/IN أحسن/NN الجامعات/DTNNS بالعالم/NNP 

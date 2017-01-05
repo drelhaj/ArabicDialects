@@ -1,0 +1,1 @@
+إيه/NN ده/DT يا/RP أبله/NN نيفين/JJ ,/PUNC ايه/NN اللي/WP انتي/NN كتباه/NN ده/DT ,/PUNC أنا/VBD كنت/NNP قررت/VBD إني/NNP ماردش/NNP عليكي/NNP خالص/VBD عشان/NN كل/NOUN اللي/WP انتي/NN بتكتبيه/NNP كلام/NN تافه/NNP و/CC خزعبلات/NNS تدل/VBP فقط/RB على/IN جهل/NN كاتبها/NN أو/NN استخفافه/NN بالقارئ/NN أو/NN المراهنة/DTNN على/IN جهل/NN الناس/DTNN ./PUNC 

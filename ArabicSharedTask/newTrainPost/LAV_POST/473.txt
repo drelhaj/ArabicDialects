@@ -1,0 +1,1 @@
+ممكن/JJ نعرف/VBP وين/NN الصندوق/DTNN الي/IN حكت/NN عنو/NN الحكومة/DTNN واعلنت/NNP عنو/NNP جريدة/NN الغد/DTNN واللي/NNP بقول/NNP انو/VBD في/IN حال/NN ارتفاع/NN الاسعار/DTNN راح/NN يتم/VBP السحب/DTNN من/IN هذا/DT الصندوق/DTNN ولن/NN يتم/VBP رفع/NN الاسعار/DTNN بالمقابل/NNP ./PUNC حرام/NN يا/RP لجنة/NN التسعير/DTNN حرام/NN ./PUNC 

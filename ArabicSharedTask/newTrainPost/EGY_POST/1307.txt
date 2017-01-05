@@ -1,0 +1,1 @@
+يعنى/VBP زى/NN المثل/DTNN مابيقول/NNP -LRB-/PUNC هيسخطوك/NNP ياقرد/NNP هيعملوا/NNP فيك/NNP ايه/NN -RRB-/PUNC !!!/CD 

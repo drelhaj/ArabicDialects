@@ -1,0 +1,1 @@
+4/CD -/PUNC فش/NNP أجار/NNP سيارة/NN مع/NN الزينة/DTNN ./PUNC ./PUNC توفير/NN 150/CD دينار/NN 

@@ -1,0 +1,1 @@
+قمة/NN الجهل/DTNN -/PUNC ياريت/NNP يقرا/VBP الانجيل/DTNN قبل/NN مايرمى/NNP افكاره/NNP اللى/WP مالهاش/NN اى/NOUN اساس/NN ./PUNC 

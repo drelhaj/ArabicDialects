@@ -1,0 +1,1 @@
+ومش/VBD بس/NN هيك/NNP جمهورك/NN كبير/JJ بكل/NN القارات/DTNNS ./PUNC ./PUNC 

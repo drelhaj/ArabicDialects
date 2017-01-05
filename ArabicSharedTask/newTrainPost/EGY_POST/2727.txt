@@ -1,0 +1,1 @@
+منزل/NN وارضى/NNP طو/NNP سون/NNP تحولت/VBD الى/IN جحيم/NN والان/NNS تحت/NN الاحتلال/DTNN والتهديد/NN على/IN يدى/NN ولمصلحة/NN عادل/JJ لبيب/JJ !/PUNC وشكرا/NN تقدير/NN للسيد/NN ريس/NNP الوزرا/DTNNP والسيد/NNP حسنى/NNP مبارك/NNP على/IN الهدي/DTNN الجميل/DTJJ عادل/NNP لبيب/NNP !!!!!!!!!!!/NNP ونقول/NNP هو/PRP ده/DT عهد/NN مبارك/NNP ياعم/VBP الحاج/DTNN 

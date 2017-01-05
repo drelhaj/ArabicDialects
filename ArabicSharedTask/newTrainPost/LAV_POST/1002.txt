@@ -1,0 +1,1 @@
+تناقد/NN كبير/JJ طيب/JJ شو/NNP نحكي/VBP للي/NN اخد/NN كل/NOUN البطولات/DTNNS يا/RP ماخد/NNP اكبر/JJR بطولة/NN انت/PRP ولا/NN الموضوع/DTNN عندك/NNP مرة/NN كبيرة/JJ ومرة/NN صغيرة/JJ يعني/VBP انت/PRP بتقيم/NN البطولة/DTNN حسب/NN فهمك/NNP الكروي/DTJJ مرة/NN ترتيبها/NN الاول/ADJ مرة/NN الاخير/DTNN -LRB-/PUNC حسب/NN -RRB-/PUNC ،/CD .../PUNC ./PUNC ./PUNC 

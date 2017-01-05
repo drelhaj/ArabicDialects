@@ -1,0 +1,1 @@
+من/IN امن/NN العقوبة/DTNN أساء/NN الادب/DTNN والله/NN مصيبه/JJ اذا/IN مره/VBD على/IN الامارات/DTNNS ومره/NN عالكويت/NNP معناها/NNP ذي/NNP ناويه/NNP على/IN شي/NNP مهو/NNP زين/NNP الله/NNP يفكنا/VBD منها/NN ومن/NN شرها/NN ./PUNC ./PUNC 

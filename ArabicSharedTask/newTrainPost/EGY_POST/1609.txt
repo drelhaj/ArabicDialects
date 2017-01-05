@@ -1,0 +1,1 @@
+واللي/NNP بقي/VBD هيقول/NNP لي/NNP الحكام/DTNN مسهلنهالكو/NNP وبتااااااااااع/NNP ./PUNC ./PUNC وكلام/NN بيقولوووه/NNP للي/NNP مش/NN لاقين/NNS له/NN حجة/NN واي/NNP كلام/NN بيتقال/NNP ./PUNC ./PUNC علي/IN رأي/NN المثل/DTNN ./PUNC ./PUNC مالقوش/NNP للاهلي/NNP عيب/NN ./PUNC ./PUNC قالو/VBD له/NN يااحمر/NNP الخدين/DTJJ 

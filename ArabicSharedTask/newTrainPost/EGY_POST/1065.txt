@@ -1,0 +1,1 @@
+ده/DT نفس/NN Cض/NN بتاع/NN مرتضي/NNP منصور/NNP ؟/NNP :/PUNC -RRB-/PUNC -RRB-/PUNC ./PUNC ./PUNC طب/NN مانا/NN ممكن/JJ اسجل/VBP مكالمة/NN لي/NNP مع/NN شخص/NN تاني/NN و/CC اقول/VBP فيها/NN اي/NOUN حاجة/NN علي/IN اي/NOUN شخص/NN ./PUNC ./PUNC ده/DT مش/NN دليل/NN ./PUNC ./PUNC 

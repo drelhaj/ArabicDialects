@@ -1,0 +1,1 @@
+للتوضيح/NN فقط/RB هناك/RB سيارات/NNS تنتظر/VBP دورها/NN في/IN الشحن/DTNN فترة/NN طويلة/JJ جدا/NN و/CC اسألوا/VBD أي/NN شخص/NN يشحن/VBN بضائع/NN من/IN أمريكا/NN ./PUNC على/IN الحكومة/DTNN أن/NN تعيد/VBP النظر/DTNN في/IN الفترة/DTNN الممنوحة/DTJJ مرة/NN أخرى/VBD والعمل/NN على/IN تمديدها/NN حتى/IN يشمل/VBP العدل/DTNN كل/NOUN الناس/DTNN ./PUNC 

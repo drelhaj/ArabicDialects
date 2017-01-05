@@ -1,0 +1,1 @@
+لو/IN حضرتك/VBD يا/RP استاذ/NN حماقى/NN اتعلمت/NN النظام/DTNN من/IN استاذك/NN عمرو/NNP دياب/NNP مكنش/NNP حصل/VBD اللى/WP حصل/VBD رجاء/NN من/IN حماقى/NNP -LRB-/PUNC بلاش/NNP الغرور/DTNN وخليك/NNP متواضع/JJ -RRB-/PUNC عشان/NN نفضل/NN نحبك/VBP زى/NN عمرو/NNP ./PUNC هيثم/NNP الاهلاوى/DTNN 

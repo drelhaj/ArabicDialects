@@ -1,0 +1,1 @@
+لا/RP حولا/VBN ولا/NN قوة/NN إلا/NN بالله/NN العلي/DTNN العظيم/DTJJ ./PUNC ما/WP أدري/VBP متى/WRB راح/VBD يجي/VBP دور/NN السعودية/DTNNP والمواطن/NN السعودي/DTNN ./PUNC ./PUNC بصراحة/NN تأخر/VBP كثير/NN أول/NN اليمن/DTNNP ،/VBD والبحرين/NNS ولبنان/NNP ووو/NNP ./PUNC ./PUNC اتوقع/VBP إن/NN شاء/VBD الله/NNP أن/NN دور/NN السعودية/DTNNP في/IN نهاية/NN 2050م/CD 

@@ -1,0 +1,1 @@
+فيه/NNP مشاكل/NN شخصية/JJ بين/NN ابراهيم/NNP ورامى/NNP تكون/VBP فى/IN البيت/DTNN وبعدين/DTJJ المضروب/DTJJ مش/NN رامى/NN والزملكاوية/JJ عايزين/JJ يبررو/VBP التصرفات/DTNNS الهمجية/DTJJ غير/NN المسئولة/DTNN والتى/NN تسىء/VBP لنادى/NN الزمالك/DTNNP عيب/NN نلتمس/VBP العذر/DTNN لتلك/NN الافعال/DTNN مهما/WP كانت/VBD الاسباب/DTNN والاخلاق/NN والاحترام/NN أهم/NN من/IN الكورة/DTNNP 

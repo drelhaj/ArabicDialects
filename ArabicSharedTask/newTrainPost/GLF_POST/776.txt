@@ -1,0 +1,1 @@
+ماودي/NNP نصير/VBP مثل/NN غيرنا/NNP ./PUNC ./PUNC نعطي/VBP الاعلام/DTNN والجماهير/NN الثانية/ADJ وجه/VBD بكثرة/NN التصاريح/DTNN ./PUNC ./PUNC 

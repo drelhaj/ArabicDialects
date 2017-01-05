@@ -1,0 +1,1 @@
+انا/PRP اتفرجت/VBD ولسوء/NN حظى/NN انى/VBD اتفرجت/NNP ./PUNC ./PUNC بجد/NNP سخافه/NNP حرام/NN عليكم/NNP والله/NNP ./PUNC ./PUNC على/IN فكره/NN انا/NNP جيت/NNP معزومه/NNP ومشيت/NNP بعد/NN ساعه/NN لانى/VBD مطقتش/NNP .../PUNC على/IN فكره/NN انا/NN مش/NN ناقده/NNP ولا/NNP بنقد/NNP ولا/NN حاجه/JJ انا/PRP بقول/NNP راييى/NNP وبس/NNP 

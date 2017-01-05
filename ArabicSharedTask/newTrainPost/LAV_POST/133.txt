@@ -1,0 +1,1 @@
+يا/RP عمي/NN هيني/NNP انا/NNP راتبي/NNP خمس/CD اضعاف/NN راتبه/NN .../PUNC و/CC يالله/VBP يالله/NNP متجوز/JJ و/CC اذا/IN تجوزت/VBD ما/WP راح/VBD اجيب/NNP عشر/NN ولاد/NN زيو/NNP .../PUNC طيب/NNP ليش/NNP هيك/NNP عمل/NN .../PUNC ثلاثه/NN كانوا/VBD بكفو/NNP .../PUNC 

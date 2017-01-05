@@ -1,0 +1,1 @@
+اسكت/VBD ياراجل/NNP ./PUNC مش/NN الناس/DTNN نزلت/VBD الشوارع/DTNN ./PUNC والبكى/VBN على/IN ودنه/NN ./PUNC والموظفين/NNP ماراحوش/NNP الشغل/DTNN تانى/NNP يوم/NN ./PUNC ووسائل/NN المواصلات/DTNNS توقفت/VBD ./PUNC والنسوان/NNP قعدت/VBD تولول/NNP فى/IN البلكونات/DTNNS ./PUNC لا/RP لا/RP لا/RP لا/VBP ماتعتزلش/NN يا/RP دكتور/NNP ./PUNC 

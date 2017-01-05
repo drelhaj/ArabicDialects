@@ -1,0 +1,1 @@
+أصابت/VBD امرأة/NN وأخطا/NN رجل/NN ./PUNC -LRB-/PUNC هذا/DT اللي/WP يسلم/VBP لحيته/NN للنسوان/NNP -RRB-/PUNC ./PUNC 

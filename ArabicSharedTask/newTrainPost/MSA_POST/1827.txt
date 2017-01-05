@@ -1,0 +1,1 @@
+في/IN مباراة/NN الشباب/DTNN كان/VBD خطأ/VBD من/IN المدرب/DTNN وتخاذل/NN من/IN اللاعبين/DTNNS والثقه/NN الزائده/DTNN اضاعوبها/NN حلم/NN الفوز/DTNN بالبطوله/NNP وكانت/NNP فرصه/NNP لشباب/NN الاردن/DTNNP ليقول/NNP كلمته/NNP في/IN البطوله/DTNN بعد/NN ان/IN اخفق/VBD في/IN المنافسه/DTNN 

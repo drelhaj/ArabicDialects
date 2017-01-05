@@ -1,0 +1,1 @@
+تشومسكى/VBP فى/IN نهاية/NN الامر/DTNN يحتاج/VBP الى/IN قراءة/NN هادئةحتى/JJ نصل/VBP الى/IN ماهو/NNP وراء/NN الحديث/DTNN وهنا/NN تكمن/VBP زبدة/NN الفائدة/DTNN الكبيرة/DTJJ التى/WP تركتها/VBP لناالمادة/NNP المنشورة/DTJJ .../PUNC مرة/NN اخرى/JJ شكرا/NN للغد/NN و/CC لكل/NN العاملين/DTNNS فيها/NN ./PUNC 

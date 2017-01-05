@@ -1,0 +1,1 @@
+بلاش/NN كلام/NN -/PUNC الراجل/DTNN كابرال/NNP ناوي/NNP يلوي/VBP ذراع/NN النادي/DTNN -/PUNC عشان/NNP يجدد/VBP في/IN النادي/DTNN بفلوس/NNP كثير/NN عشان/NN الاستقرار/DTNN -/PUNC او/CC يمشي/VBP و/CC ياخد/VBP المجلس/DTNN معاه/NN -/PUNC لو/IN عفت/VBD كان/VBD موجود/JJ كان/VBD زمان/NN النادي/DTNN يخطط/VBP للعام/NN القادم/DTNN -/PUNC الاتحاد/DTNN نظرته/NN لا/RP تتعدى/VBP تحت/NN قدميه/NN 

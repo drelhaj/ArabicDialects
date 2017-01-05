@@ -1,0 +1,1 @@
+طيب/NNP و/CC النصاري/DTNN مالهم/NNP يا/RP عم/IN انت/PRP ./PUNC ./PUNC حشرتهم/NN في/IN النص/DTNN ليه/NNP ؟/NNP ؟/VBD ؟/VB انا/PRP زيي/NN زيك/NNP و/CC زي/NN كل/NOUN مصري/NN و/CC عربي/NN شريف/NN اتنرفزت/VBD من/IN تصريحات/NNS الزفت/DTNN مدرب/NN اسراذيل/NN ده/DT ./PUNC ./PUNC اتخانق/VBP مع/NN اخويا/NN ممكن/JJ بس/NN لن/RP اسمح/VBP ان/IN يمسه/VBP عدوي/JJ و/CC عدوه/JJ ./PUNC 

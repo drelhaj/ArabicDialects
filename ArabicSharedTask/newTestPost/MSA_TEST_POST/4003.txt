@@ -1,0 +1,1 @@
+./PUNC لكن/VBP الغريب/DTNN في/IN الامر/DTNN انهم/VBD وجدو/VBD ان/IN الثيران/DTNN لاتميز/NNP بين/NN الالوان/DTNN وخاصة/NN اللون/DTNN الاحمر/DTJJ ومع/NN ذللك/NN دائما/JJ يقتل/VBP الثور/DTNN القوي/DTJJ والضعيف/NNP وينتصر/NNP البطل/DTNN 

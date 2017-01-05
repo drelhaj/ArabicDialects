@@ -1,0 +1,1 @@
+إنشالله/NN راح/NN يكون/VBP ديربي/NNP ممتع/NN بوجود/NNP الهلال/DTNNP والنصر/NNP لكن/VBP شي/NNP مستحيل/JJ ان/IN الفوز/DTNN يكون/VBP للنصر/NN لان/NN النصر/DTNNP لا/RP يوجد/VBN عنده/NN لاعبين/NNS كبار/JJ ولهم/NN بصمه/NN حقيقيه/NN لا/RP مع/NN انديتهم/NNP ولا/NNP مع/NN المنتخب/DTNN السعودي/DTJJ فصعبه/NNP عليهم/NNP صعبه/NNP الى/IN راح/NN يواجهم/VBP نادي/NN القرن/DTNN 

@@ -1,0 +1,1 @@
+حياهم/NNP هلا/NNP عين/NN فراش/NN وعين/NN غطاء/NN اهم/JJR شي/NNP يالربع/NNP لاتخلونهم/NNP ياقفون/VBP على/IN الباب/DTNN عند/NN اخذهم/NN للمعلومات/NNS ؟/NN تراها/NN شينة/NN ./PUNC 

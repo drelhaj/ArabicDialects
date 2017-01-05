@@ -1,0 +1,1 @@
+بلاش/NNP تظلموا/VBP الراجل/DTNN يا/RP جماعه/NN ده/DT كان/VBD قصده/NNP شريف/NNP .../PUNC ./PUNC ./PUNC الراجل/DTNN ليس/VBD لديه/NN اجنده/NN وطنية/JJ و/CC لا/RP قومية/NN و/CC دينية/NN و/CC لا/RP ملوخية/JJ 

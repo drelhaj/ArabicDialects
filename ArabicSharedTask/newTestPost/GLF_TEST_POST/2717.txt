@@ -1,0 +1,1 @@
+وماهو/NN هذا/DT الكلام/DTNN تقول/VBP تونا/NN بنبدا/NN من/IN جديد/NN -LRB-/PUNC اختلاط/NN -RRB-/PUNC الكلمة/DTNN عجيبة/JJ ومضحكة/NN وساذجة/NN وش/NN اختلاط/NN 

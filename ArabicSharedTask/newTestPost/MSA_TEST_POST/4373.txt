@@ -1,0 +1,1 @@
+ذ/VBD اول/ADJ نادي/NN اردني/JJ يقيم/VBP معسكرا/NN خارجيا/JJ في/IN اوروبا/NNP ,/PUNC عام/NN 81/CD ,/PUNC في/IN اليونان/DTNNP ./PUNC 

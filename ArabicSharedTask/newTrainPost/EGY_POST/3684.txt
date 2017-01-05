@@ -1,0 +1,1 @@
+احمد/NNP ذكى/NNP بدر/NNP وزير/NN على/IN ما/WP تفرج/VBP بضم/NN التاء/DTNN لحد/NNP ما/WP نلاقى/VBP حد/NN بيفهم/NN لان/NNP الواضح/DTJJ ان/IN كلهم/NNP واخدينها/NNP بالدراع/NNP 

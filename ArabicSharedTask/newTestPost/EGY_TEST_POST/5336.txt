@@ -1,0 +1,1 @@
+على/IN فكرة/NN كل/NOUN الكلام/DTNN دة/NN صح/VBD أنا/NN عندى/NNP صديقتين/NNS علاقتنا/NN ببعض/NN زى/NN ما/IN أستاذة/NN ماجى/NNP الحكيم/DTNNP قالت/VBD كدة/NN بالضبط/JJ دى/VBD أكنها/NN بتوصفنا/NN احنا/NN اكثر/JJR من/IN الأخوات/DTNNS لدرجه/NN أن/NN ولادهم/NN عارفين/NNS أنى/VBD خالتهم/JJ و/CC خالتهم/JJ الحقيقيه/DTNN بتقول/NN أنى/VBD أنا/VBD خالتهم/NN مش/NN هى/NNP ./PUNC 

@@ -1,0 +1,1 @@
+على/IN ادارة/NN الوحدات/DTNNS ان/IN تبحث/VBP عن/IN الاسليب/DTNN الناجحة/DTJJ في/IN اختيار/NN طريقة/NN اللعب/DTNN خارجيا/NN و/CC اختيار/NN الادوات/DTNNS -LRB-/PUNC اللاعبين/DTNNS -RRB-/PUNC بعناية/NN في/IN تادية/NN الخطط/DTNN حسب/NN ما/WP تقتضيه/VBP المباراة/DTNN و/CC الا/RP سيبقى/NN الوحدات/DTNNS مكانك/NN سر/NN ./PUNC 

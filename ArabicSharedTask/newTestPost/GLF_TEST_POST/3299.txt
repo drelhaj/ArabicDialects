@@ -1,0 +1,1 @@
+يا/RP شيخ/NN فكك/VBN من/IN الحراسة/DTNN النسائية/DTJJ لازم/VBD حراسة/NN رجالية/NN بالخارج/NNP و/CC توجد/VBN مندوبات/NNS تنسيق/NN امني/JJ بين/NN الداخل/DTNN و/CC الخارج/DTNN -/PUNC اما/RP تقلي/VBP حراسة/NN نسائية/JJ عل/VBP الباب/DTNN اول/ADJ ما/WP يصير/VBP شي/NNP اول/ADJ ناس/NN يهربون/VBP 

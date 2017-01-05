@@ -1,0 +1,1 @@
+ضيقو/VBD أنا/NN أعوذ/NN بالله/NNP من/IN كلمة/NN أنا/VBD كي/IN قلت/VBD كلمتي/NNS و/CC تحبوه/NN يلعب/VBP علي/IN البطولة/DTNN و/CC زيد/NNP ارضية/NN ملعب/NN الطيب/DTNNP المهيري/DTJJ 

@@ -1,0 +1,1 @@
+ونبه/NN البحث/DTNN بان/VBD عدد/NN الذين/WP يموتون/VBP من/IN جراء/NN الانتحار/DTNN يفوق/VBP عدد/NN الذين/WP يموتون/VBP من/IN جراء/NN الحروب/DTNN وان/NNP هذه/DT النزعة/DTNN في/IN تنامي/NN رغم/NN خطورتها/NN وتداعياتها/NN ./PUNC 

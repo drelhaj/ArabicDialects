@@ -1,0 +1,1 @@
+ياريت/NNP يكون/VBP عندك/NN الشجاعة/DTNN وتقول/NN موقف/NN احمد/NNP الميرغنى/DTNNP ورؤف/NN ورحيل/NN وبوجى/NN وحازم/JJ امام/NN وعمر/NN عادل/JJ وهانى/VBD سعيدوالخ/NN هم/PRP$ مبسوطين/VN على/IN فكرة/NN دول/NN احسن/JJR منك/NN لانهم/NNP شالو/NNP الزمالك/DTNNP العام/DTNN الماضى/DTJJ من/IN الهبوط/DTNN 

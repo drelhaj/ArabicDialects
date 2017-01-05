@@ -1,0 +1,1 @@
+البعض/NOUN بانهيار/NN المسجد/DTNN القبلي/DTJJ -LRB-/PUNC الاقصى/DTNNP -RRB-/PUNC -/PUNC لا/RP قدر/NN الله/NNP -/PUNC ظنا/NN منهم/JJ انه/VBD ما/RP زال/VBD قائما/JJ 

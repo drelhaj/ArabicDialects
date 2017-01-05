@@ -1,0 +1,1 @@
+فعلا/NN مصر/NNP بلد/NN الامن/DTNN والامان/NN تسلم/VBG الحكومة/DTNN اللى/WP موفرة/NN للشعب/NN الامان/DTNN ده/DT كله/NN ونشكر/NN الناس/DTNN اللى/WP بتخش/VBD تشكر/VBP فى/IN الحكومة/DTNN وتقولنا/VBD الانجازات/DTNNS اللى/WP محدش/VBD شايفها/NN غيرهم/NNP 

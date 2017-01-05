@@ -1,0 +1,1 @@
+فهذا/NN كلام/NN غير/NN منطقي/JJ ,/PUNC و/CC أعتقد/VBD ان/IN العقل/DTNN العربي/DTJJ يستطيع/VBP تمييز/NN الحقيقة/DTNN من/IN الكذب/DTNN ./PUNC 

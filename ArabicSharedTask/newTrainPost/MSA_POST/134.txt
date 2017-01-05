@@ -1,0 +1,1 @@
+لا/RP يمكن/VBP كجمهور/NN ومشجعين/NNS لنادي/NNP الوحدات/NNP أن/NNP نذبحه/NNP لمجرد/NNP إخفاقه/NNP في/IN الدوري/DTNN هذا/DT العام/DTNN فجمهور/NN الفيصلي/DTNNP انتظر/VBD -LRB-/PUNC 5/CD -RRB-/PUNC أعوام/NN مع/NN فريقه/NNP لينال/NNP بطولة/NN الدوري/DTNN غير/NN المستحقة/DTJJ له/NN هذا/DT العام/DTNN كما/CC قلت/VBD سابقا/NN في/IN أحد/NN تعليقاتي/JJ 

@@ -1,0 +1,1 @@
+-LRB-/PUNC مش/NN هتقدر/NNP تغمض/VBP عيينك/NNP -RRB-/PUNC 

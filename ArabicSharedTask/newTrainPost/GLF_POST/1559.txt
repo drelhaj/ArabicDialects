@@ -1,0 +1,1 @@
+لاتخافون/NNP يا/RP جريده/NN الرياض/DTNNP كل/NOUN يوم/NN يبي/VBP يجيكم/VBP اخبار/NN مثل/NN هذي/DT واردى/VBD والسبب/NN العطآله/DTNN وقل/NN الاهتمام/DTNN بالشباب/NNP ./PUNC ؟/CD 

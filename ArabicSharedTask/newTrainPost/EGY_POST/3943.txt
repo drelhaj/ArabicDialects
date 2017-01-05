@@ -1,0 +1,1 @@
+الأخ/DTNN شوبير/NNP مكسوف/NNP يقول/VBP كلمه/NNP واحده/NNP هتخلص/NN كل/NOUN الموضوع/DTNN ./PUNC ./PUNC أنا/VBD آسف/NN يا/RP سياده/NNP المستشار/DTNN مرتضى/NNP بيك/NNP منصور/NNP أنا/VBD فعلا/NN غلطت/NN فى/IN حقك/NN وبعتذر/NN بس/NN نعمل/VBP ايه/NN فى/IN الكبر/DTNN لما/IN يمسك/VBP البنى/DTNN آدام/NN 

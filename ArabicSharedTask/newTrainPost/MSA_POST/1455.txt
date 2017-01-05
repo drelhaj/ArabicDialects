@@ -1,0 +1,1 @@
+ثم/CC موضوع/NN الخزينة/DTNN والخسارة/NNP التي/WP ابتدأ/VBD نقلها/NN على/IN أنها/NN 90/CD مليون/CD د/NN ./PUNC أ/NN ./PUNC ثم/CC تضخمت/VBD إلى/NN 130/CD مليون/CD :/PUNC هل/RP يعقل/VBN أن/NN الخزينة/DTNN لم/RP تحسب/VBP أن/NN قطع/NN غيار/NN السيارت/DTNN الأحدث/DTJJ أغلى/VBD و/CC أن/VBD الإعفاء/DTNN ما/WP شمل/VBD القطع/DTNN ؟/CD 

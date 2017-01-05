@@ -1,0 +1,1 @@
+الفيصلي/DTNNP اخذ/VBD الدوري/DTNN 30/CD مرة/NN واقول/JJ مبروك/JJ فقد/VBD كان/VBD عدد/NN فرق/NN الدوري/DTNN من/IN سنة/NN 1944/CD الى/IN 1960/CD 3/CD اندية/NN هم/PRP$ 1/CD -/PUNC الفيصلي/DTNNP 2/CD -/PUNC نادي/NN عمان/NNP 3/CD -/PUNC الاهلي/DTNNP وكان/NN الدوري/DTNN على/IN شكل/NN خماسي/JJ وطبعا/NN الفيصلي/DTNNP فاز/VBD 17/CD مرة/NN ثم/CC من/IN 1960/CD الى/IN 1976/CD 5/CD اندية/NN 

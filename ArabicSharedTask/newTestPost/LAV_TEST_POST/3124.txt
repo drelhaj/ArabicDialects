@@ -1,0 +1,1 @@
+بصراحة/NN حتكون/JJ مباراة/NN قمة/NN بلا/NNP شك/NN ونفسي/JJ احضرها/JJ في/IN الملعب/DTNN بس/NN مني/VBN عارف/NNP كيف/WRB اروح/VBP للملعب/NNP ,/PUNC ,/PUNC لأن/VBD المباراة/DTNN حتحلص/NN في/IN وقت/NN متأخر/JJ وحتكون/JJ المواصلات/DTNNS لإربد/NN صعبة/JJ :/PUNC -RRB-/PUNC 

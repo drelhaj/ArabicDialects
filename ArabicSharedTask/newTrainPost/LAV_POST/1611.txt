@@ -1,0 +1,1 @@
+شكله/NN يوم/NN 19\/6/CD يوم/NN لزواج/NN بعد/NN سنوات/NNS الحب/DTNN ,/PUNC حبيبي/NNP وائل/NNP كل/NOUN عيد/NN زواج/NN و/CC احنا/NN بألف/NNP خير/NNP و/CC العمر/DTNN كله/NNP و/CC احنا/NN سوا/NN يارب/VBP ./PUNC 

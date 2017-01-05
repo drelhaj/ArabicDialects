@@ -1,0 +1,1 @@
+احداث/NN الشغب/DTNN الكروي/DTJJ في/IN كل/NOUN العالم/DTNN و/CC تحدث/VBD ايضا/RB في/IN الجزائر/DTNNP و/CC آخرها/NN ايضا/RB الرجاء/DTNN البيضاوي/DTJJ المغربي/DTJJ مش/NN مصر/NNP فقط/RB ./PUNC ./PUNC و/CC ده/DT مالوش/NN علاقة/NN بإسم/NN البلد/DTNN او/CC شعب/NN البلد/DTNN ./PUNC 

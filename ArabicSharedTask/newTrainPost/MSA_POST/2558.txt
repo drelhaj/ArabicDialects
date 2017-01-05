@@ -1,0 +1,1 @@
+من/IN افضل/JJR الرياضات/DTNNS والعادات/NNS الصحية/DTNN هي/PRP المشي/DTNN السريع/DTJJ ،/VBD اذ/IN يعمل/VBP على/IN تقوية/NN عضلة/NN القلب/DTNN وبالتالي/JJ التقليل/DTNN من/IN مخاطر/NN الاصابة/DTNN بالنوبات/NNS القلبية/DTNN وغيرها/NN من/IN الامراض/DTNN عافانا/NNP الله/NNP واياكم/NNP ./PUNC 

@@ -1,0 +1,1 @@
+بيقولك/NNP ذذ/VBD قرارات/NNS صعبهذذ/NN القرارات/DTNNS الصعبه/DTJJ لما/NNP بتكون/NNP عارف/NNP أنه/NN الشعب/DTNN رايح/NNP ينزل/VBP على/IN الشارع/DTNN و/CC يعمل/VBP مضاهرات/NNS ,/PUNC بس/NN المشكلة/DTNN أنكم/NN عارفين/NNS إن/NN الشعب/DTNN ألأردني/NNP ساكت/NNP و/CC مش/NN راح/NN يطلع/VBP منه/NNP أي/NNP إشي/NNP .../PUNC 

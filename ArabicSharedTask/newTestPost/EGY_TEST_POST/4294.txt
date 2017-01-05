@@ -1,0 +1,1 @@
+كنت/VBD فين/NNP يا/RP قطة/NN يا/RP بيضا/NN من/IN 6/CD سنين/NNS -LRB-/PUNC اللي/WP استحوا/VBD .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC ./PUNC -RRB-/PUNC 

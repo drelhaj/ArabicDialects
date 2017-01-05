@@ -1,0 +1,1 @@
+كيفاش/NNP الناس/DTNN هاذم/NNP باش/NNP يبنيوا/VBP دولة/NN ديمقراطية/JJ بعد/NN ما/IN كانوا/VBD و/CC الشارع/DTNN و/CC من/IN وقتاش/NN ولاو/NNP خدام/NN الدكتاتور/DTNN و/CC مساعديه/NN نظاف/NN 

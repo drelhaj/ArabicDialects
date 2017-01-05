@@ -1,0 +1,1 @@
+اولاد/NN القردة/DTNN والخنازير/NNP تجبرو/NNP ./PUNC ./PUNC ونحن/VBD ننظر/VBP الى/IN بعضنا/NN البعض/NOUN وننتظر/NN من/IN يكون/VBP الضحية/DTNN التالي/DTJJ 

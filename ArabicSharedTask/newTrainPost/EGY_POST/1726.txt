@@ -1,0 +1,1 @@
+مبروك/NN لمصر/NNP وعقبال/NNP ما/WP نكتشف/VBP صنف/NN جديد/JJ من/IN المبيدات/DTNNS تقضى/VBP على/IN مافيا/NN استيراد/NN القمح/DTNN واللى/NNP ماسعدهمش/NNP ان/IN يزيد/VBP الانتاج/DTNN للفدان/NN الحى/DTNN حتى/IN نصف/NOUN اردب/NN للفدان/NNS ./PUNC وربنا/VBD معاكم/NN والف/JJ مبروك/JJ 

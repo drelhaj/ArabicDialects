@@ -1,0 +1,1 @@
+حماك/NNP الله/NNP ووفقك/NNP لما/NNP فيه/NNP خير/NN الامة/DTNN الاسلامية/DTJJ ./PUNC شكرا/NN سيدي/NNP 

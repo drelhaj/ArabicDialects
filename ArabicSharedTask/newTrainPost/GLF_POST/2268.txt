@@ -1,0 +1,1 @@
+واخيرا/NNP ./PUNC ./PUNC بس/NN الحمد/DTNN لله/NNP زين/NNP لحقنا/VBD وإلا/NN الناس/DTNN انهبلت/VBD ماينفع/NN معهم/JJ إلا/NN قوة/NN النظام/DTNN 

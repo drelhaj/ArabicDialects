@@ -1,0 +1,1 @@
+احيانا/NN ما/WP ينلامون/VBP الأطفال/DTNN مافي/JJ بديل/NN لا/RP أم/NN تربي/VBP ولا/NN أبو/NNP يسمع/VBP ,/PUNC ,/PUNC ,/PUNC 

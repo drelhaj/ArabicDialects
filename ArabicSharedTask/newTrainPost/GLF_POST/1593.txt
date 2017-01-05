@@ -1,0 +1,1 @@
+يا/RP جماعه/NN محنا/NN مكلوفين/JJ بهم/NN مره/NN البحرين/DTNNP ومره/NNP بنقلادش/NNP ومره/NNP كوبا/NNP ومره/NNP باكستان/NNP ومره/NNP الهند/DTNNP ومره/NN امريكا/NNP يكفي/VBP يرحم/VBP والديكم/NN .../PUNC حنا/NNP رايحين/VBG وطي/NN هنا/RB والربع/NN مغير/JJ مطامر/JJ يمين/NN يسار/NN ينثرون/VBP فلوسنا/NN !!!/CD 

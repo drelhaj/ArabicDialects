@@ -1,0 +1,1 @@
+ملاحظه/NNP :/PUNC تعريف/NN الزعيم/DTNN هو/PRP اكثر/JJR الانديه/DTNN حصولا/NN على/IN اللقب/DTNN بغض/NN النظر/DTNN عن/IN عددها/NN .../PUNC 

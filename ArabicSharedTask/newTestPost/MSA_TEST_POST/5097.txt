@@ -1,0 +1,1 @@
+محمود/NNP عباس/NNP ادرك/VBD ان/IN غزة/NNP ستحصل/VBD على/IN حريتها/NN وذلك/NN اخر/JJ ما/WP تتمنى/VBP سلطة/NN رام/NNP الله/NNP فالحصار/NNP هو/PRP مطلب/NN محمود/NNP عباس/NNP للتخلص/NN من/IN حماس/NNP ولكن/NNP تسير/VBP الرياح/DTNN بما/NN لا/RP تشتهي/VBP السفن/DTNN وهذا/NN ما/WP يزعج/VBP محمود/NNP عباس/NNP والنظام/NNP المصري/DTJJ واسرائيل/NNP وحماتها/NNP ./PUNC 

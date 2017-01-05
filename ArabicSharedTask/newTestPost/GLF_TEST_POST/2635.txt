@@ -1,0 +1,1 @@
+مره/NNP ابي/NNP اتفلسف/NNP اسويها/NN وتكيت/NN علي/IN يدي/NNS وانكسرت/NNP ./PUNC ./PUNC خلاص/NN بس/NN خلصت/VBD القصه/DTNN ^/NN ^/CD 

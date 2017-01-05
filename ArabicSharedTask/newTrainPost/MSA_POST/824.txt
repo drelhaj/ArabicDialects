@@ -1,0 +1,1 @@
+ولكن/VBN السيد/DTNN احمد/NNP الخلاليه/DTNNP كان/VBD ينقد/VBP الوحدات/DTNNS بخساره/NN الدوري/DTNN وخساره/NNP التأهل/DTNNP -LRB-/PUNC ضمن/NN الرفاع/DTNN التأهل/DTNN وضمن/NNP الوحدات/NNP الخروج/DTNN -RRB-/PUNC 

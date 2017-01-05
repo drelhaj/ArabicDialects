@@ -1,0 +1,1 @@
+ماشاء/NNP الله/NNP عليهم/NN ماخلو/NNP شي/NNP ./PUNC ./PUNC والله/NNP لو/IN حنا/NNP متكلين/VN على/IN ربعنا/NN زيد/NNP وعبيد/NNP ./PUNC ./PUNC كان/VBD مايصنعون/NNP ولا/VBD قلم/NN !!!/CD 

@@ -1,0 +1,1 @@
+وايضا/NN وصى/VBD الرسول/DTNN صلى/VBD الله/NNP عليه/NNP وسلم/VBD في/IN حديث/NN اخر/JJ بذات/NN الدين/DTNN والجمال/NNP والنسب/NNP ./PUNC يعني/VBP الذي/WP له/VBD اصل/NN %/PUNC مو/NNP خضي/NNP .../PUNC أوعب/NNP .../PUNC 

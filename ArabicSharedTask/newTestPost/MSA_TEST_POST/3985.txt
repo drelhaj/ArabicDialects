@@ -1,0 +1,1 @@
+فليس/NNP هناك/RB ''/NN أولاد/NN عبدون/NN ''/NN و/CC ''/NN أولاد/NN عمّان/NNP الشرقية/DTJJ ''/NN مثلا/NN ./PUNC 

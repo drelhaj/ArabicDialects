@@ -1,0 +1,1 @@
+-LRB-/PUNC ما/WP قيمة/NN حياتي/JJ ان/IN لم/RP اكن/VBP وحداتي/NNS -RRB-/PUNC 

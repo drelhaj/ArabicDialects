@@ -1,0 +1,1 @@
+بس/NN كيف/WRB يعني/VBP كاذب/JJ ما/WP أنا/VBD نرشح/VBP وعبيت/NN الطلب/DTNN بإيدي/NNP وجاوبت/NNP على/IN هذا/DT السؤال/DTNN بإيدي/JJ .../PUNC شكلوفي/JJ أكثر/NN من/IN نموذج/NN لتعبئة/NN الطلبات/DTNNS .../PUNC تعامل/NN مع/NN عمادة/NN شؤون/NN الطلبة/DTNN في/IN الجامع/DTNN الهاشمية/DTJJ وشوف/NN العجب/DTNN 

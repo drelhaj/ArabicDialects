@@ -1,0 +1,1 @@
+فازرعينا/NNP ./PUNC ./PUNC فوق/NN اهدابك/NNP ،/CD 

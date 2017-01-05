@@ -1,0 +1,1 @@
+خليك/NN طبيعي/JJ وكلمنا/VBD زي/NN ما/IN بنكلمك/NN بلاش/NNP تقعد/VBP تدعي/VBP ./PUNC انت/PRP مش/NN عاجبك/JJ التمدن/DTNN ./PUNC يبقي/VBP خلي/NN حريمك/JJ في/IN البيت/DTNN ونقطنا/NN بسكوتك/NNP وبلاش/NNP تتنطط/VBP ./PUNC 

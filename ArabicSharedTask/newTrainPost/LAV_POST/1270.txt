@@ -1,0 +1,1 @@
+يعني/VBP هلا/NNP صار/VBD نووي/JJ ايران/NNP الفزاعة/DTNN الكبيرة/DTJJ للعالم/NNP ./PUNC اذا/IN امريكا/NNP وبريطانيا/NNP عندها/NN نووي/JJ وما/JJ في/IN حدا/NN اصدر/VBD قرارات/NNS عليهم/JJ و/CC اسرائيل/NNP طبعانفس/NNP القصة/DTNN ./PUNC 

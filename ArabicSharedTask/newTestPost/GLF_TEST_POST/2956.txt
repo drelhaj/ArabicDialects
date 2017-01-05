@@ -1,0 +1,1 @@
+ويوم/NNP سووا/VBD لكم/VBG مشروع/NN ترفيهي/JJ مثل/NN هذا/DT قلتوا/VBD ورى/NN ماتحط/NNP فلوسه/NNP في/IN مجمع/NN سكني/JJ حرام/NN مليار/NN تنحط/VBP في/IN حديقة/NN وش/NN نبي/NN بها/NN ولا/NN يجيك/VBP واحد/NN يقول/VBP وراكم/NN حاطينها/JJ في/IN الغرب/DTNN وثالث/NN يقول/VBP لا/RP كذابين/NNS ./PUNC شعب/NN ينتقد/VBP لمجرد/NN الانتقاد/DTNN فقط/RB لا/RP غير/NN بدون/IN اي/NOUN فايدة/NN 

@@ -1,0 +1,1 @@
+الفيصلي/DTNNP و/CC شباب/NNP الأردن/DTNNP اسماؤهم/NN محفورة/JJ في/IN سجل/NN الابطال/DTNN لكأس/NNP الاتحاد/DTNNP والوحدات/NNS اسمه/VBN في/IN سجلات/NNS الدور/DTNN الأول/DTJJ عن/IN جدارة/NN و/CC استحقاق/NN ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+كذلك/NNP يمكن/VBP رؤيه/NN السلوك/DTNN الاحتيالي/DTJJ لدى/NN بعض/NOUN هذه/DT الشركات/DTNNS من/IN خلال/NN عدم/NN تغطية/NN هذه/DT الشركات/DTNNS لمطالبات/NNS العملاء/DTNN بصورة/NNP عادله/VBD فهي/NNP دائماً/NNP تبخسهم/VBP حقوقهم/NN ولديها/NN من/IN الموظفين/DTNNS من/IN هم/PRP متخصصون/NNS بسلب/NN حقوق/NN الناس/DTNN ./PUNC 

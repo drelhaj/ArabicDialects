@@ -1,0 +1,1 @@
+جميع/NOUN اللاعبين/DTNNS وقعوا/VBD عقود/NN الاحتراف/DTNN مع/NN النادي/DTNN -LRB-/PUNC عقبالك/NN يا/RP رأفت/VBD عارفينك/NNP مابتستغني/NNP عن/IN المارد/DTNN الأخضر/DTJJ -RRB-/PUNC 

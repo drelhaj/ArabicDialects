@@ -1,0 +1,1 @@
+عيسى/NNP السباح/DTNN :/PUNC لن/RP اخاطبك/VBP ساخاطب/NN المدرب/DTNN و/CC اعتقد/VBP ان/IN السباح/DTNN اخذ/VBD فرصته/NN كاملة/JJ ./PUNC 

@@ -1,0 +1,1 @@
+طيب/NNP .../PUNC اذا/IN ثبت/VBD شو/NNP ممكن/JJ يصير/VBP .../PUNC ممكن/JJ يرخص/VBP عنا/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

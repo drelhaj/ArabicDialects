@@ -1,0 +1,1 @@
+فين/NNP ياباشمهندس/NNP الإخوانجية/DTJJ دول/NN ./PUNC ./PUNC ولا/NN واحد/JJ من/IN الأسماء/DTNN المذكورة/DTJJ في/IN الحكومة/DTNN المقترحة/DTJJ ينتمي/VBP إلي/NN الإخوان/DTNN ولا/NN هو/PRP حقد/NN وغل/NN علي/IN الفاضي/DTNN !!/CD 

@@ -1,0 +1,1 @@
+وادي/NN حنيفه/NNP من/IN جهة/NN الدرعية/DTNN ,/PUNC يوم/NN الاربعاء/DTNN و/CC الخميس/DTNN عوايل/NNP ./PUNC ./PUNC !!/CD 

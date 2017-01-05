@@ -1,0 +1,1 @@
+بس/NN بصراحة/JJ ./PUNC ./PUNC والله/NN عيب/NN نظل/VBP نحكي/VBP عن/IN اليهود/DTNN انهم/VBD محاصرين/JJ غزة/NNP وبعترضوا/VBD السفن/DTNN ومش/NNP عارف/NNP شو/NNP ./PUNC اليهود/DTNN اعداء/NN و/CC محتلون/NNS بس/NN اللي/WP محاصر/JJ غزة/NNP ''/NN عرب/JJ ''/JJ 

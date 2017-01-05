@@ -1,0 +1,1 @@
+يا/RP حرام/NN الانديه/DTNN الاردنيه/DTJJ بالمراكز/NNP الاخيره/DTNNP .../PUNC هالبطوله/NNP بدها/NNP الفيصلي/DTNNP الزعيم/DTNN والعميد/NNP عشان/NNP تكون/VBP الانديه/DTNN الاردنيه/DTNN بالمراكز/NNP الاولى/ADJ زي/NN ما/WP كانت/VBD قبل/NN 3/CD سنوات/NNS .../PUNC 

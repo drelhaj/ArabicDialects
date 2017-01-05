@@ -1,0 +1,1 @@
+الحمدلله/DTNN اني/NNP بشجع/NNP الاهلي/DTNNP نادي/NN الاخلاق/DTNN لو/IN ابراهيم/NNP حسن/NNP في/IN الاهلي/DTNNP كان/VBD الاهلي/DTNNP وقفه/NN بس/NN فيه/NNP فرق/NN كبير/JJ بين/NN الاهلي/DTNNP المحترم/DTJJ والزمالك/NN نادي/NN البلطجه/DTNNP عرفتوا/VBD سبنا/NN الاخوىن/DTNN حسن/NNP ليه/NNP لان/NNP اهلي/NNP مبيفضلش/NNP فيه/NNP غير/NN المحترم/DTJJ 

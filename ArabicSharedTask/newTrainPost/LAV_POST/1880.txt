@@ -1,0 +1,1 @@
+حسبي/NNP الله/NNP عليهم/NN ياجماعة/NN والله/NN حرام/NN اللي/WP بصير/VBD شو/NNP خلينا/NNP للكفرة/NNP الي/IN برة/NN احنا/NN عرب/JJ ومسلمين/JJ وبنعمل/NN هيك/NNP ./PUNC ./PUNC ياريت/NNP نعرف/VBP مين/NN ورا/NN هالعملة/NNP وشو/NNP الهدف/DTNN منها/NN 

@@ -1,0 +1,1 @@
+وتحيه/NNP الى/IN صديقي/NN العزيز/DTNNP سيف/NNP ال/NNP خطاب/NNP وابو/NNP محسين/NNS وعاطف/NN المعاني/DTNN والمنطق/NN ناطق/NN وابو/NNP هزيم/NNP والمشاقبه/NNP والنسر/NNP الزعيم/DTNN الازرق/DTJJ والى/NNP فيصلاوي/NNP -/PUNC الاردن/DTNNP 

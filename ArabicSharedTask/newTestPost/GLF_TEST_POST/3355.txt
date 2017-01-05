@@ -1,0 +1,1 @@
+@/VBD يا/RP جماعة/NN الربع/NOUN نبي/NN سينما/NN ./PUNC ./PUNC يعني/VBP ارامكو/NNP عندهم/NNP سينما/NN وحي/NN السفارات/DTNNS عندهم/NN سينما/NN !/PUNC ./PUNC ./PUNC وبقية/NN الأحياء/DTNN شغالين/JJ على/IN مقاطع/NN البلوتوث/DTNN :/PUNC -RRB-/PUNC 

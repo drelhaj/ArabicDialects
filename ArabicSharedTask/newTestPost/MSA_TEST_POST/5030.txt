@@ -1,0 +1,1 @@
+والحمدالله/NNP بان/NNP شيخ/NN الاقصى/DTNNP بالف/NNP خير/NNP فهدا/NN الخبر/DTNN اسعدنا/VBD ونتمى/NN له/NN الفرج/DTNN القريب/DTJJ ونقول/NNP لكل/NNP اسير/NN -LRB-/PUNC كسر/NN قيدك/NN -RRB-/PUNC 

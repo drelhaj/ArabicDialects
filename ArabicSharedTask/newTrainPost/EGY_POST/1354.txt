@@ -1,0 +1,1 @@
+فين/NNP قانون/NN الطوارئ/DTNN منن/NN دول/NN ولا/NN هما/PRP$ مابيستخدمهوش/NNP غير/NN فى/IN السياسه/DTNN بس/NN حسبى/NNP الله/NNP ونعم/NN الوكيل/DTNN دا/NNP وزاره/NNP الداخليه/NNP هى/NNP اللى/WP واخده/VBN فلوس/NN البلد/DTNN كلها/NN 

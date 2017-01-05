@@ -1,0 +1,1 @@
+المعلم/DTNN رأفت/VBD بيمشي/NNP بالكرة/NNP .../PUNC وبتجاوز/NNP اول/ADJ لاعب/NN .../PUNC وبمد/NN الطابة/DTNN بالمقاس/NNP للعندليب/NNP والعندليب/NNP بيمشي/NNP وبيمشي/NNP وبسدد/NNP العندليب/DTNN صاروخ/NN ارض/NN ارض/NN 

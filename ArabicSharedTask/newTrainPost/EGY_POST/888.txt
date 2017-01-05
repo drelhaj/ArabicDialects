@@ -1,0 +1,1 @@
+الحرام/DTNN باين/NNP والحلال/NNP باين/NNP بمعنى/NNP ان/IN كل/NOUN انسان/NN مسؤول/NN عن/IN مصيره/NN سواء/NN اختار/VBD يعيش/VBP فى/IN نور/NN او/CC ظلامات/NNS فى/IN الاول/ADJ والاخر/NNP -LRB-/PUNC ربنا/NNP سبحانه/NNP وتعالى/NNP -RRB-/PUNC هو/PRP بس/NN ليه/NN الحق/DTNN فى/IN محاكمتهم/NN سواء/NN نار/NN او/CC جنه/NN مش/NN شويه/NNP -LRB-/PUNC ناس/NN -RRB-/PUNC 

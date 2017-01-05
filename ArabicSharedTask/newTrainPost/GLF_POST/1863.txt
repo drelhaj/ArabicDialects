@@ -1,0 +1,1 @@
+انا/PRP كمواطن/NN سعودي/JJ فقير/JJ ومعوز/NN وبلا/NN سكن/NN واعيش/NNP في/IN علبة/NN سارين/NNS وبإيجار/NN مرتفع/JJ والراتب/NN ضعيف/JJ ،/VBD اقول/VBP ما/WP تفرق/VBP معي/NN ؟/NN !/PUNC 

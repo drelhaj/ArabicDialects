@@ -1,0 +1,1 @@
+ماكش/NNP صباب/NNP حاشاك/NNP و/CC ماكش/NNP لاعق/NNP أحذية/NN زادا/NN حاشاك/JJ وماكش/JJ و/CC انت/PRP ماكش/NNP بندار/NNP حاشاك/NNP و/CC ماكش/NNP قفاف/NNP حاشاك/NNP 

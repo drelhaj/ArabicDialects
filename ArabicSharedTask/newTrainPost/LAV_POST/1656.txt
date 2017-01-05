@@ -1,0 +1,1 @@
+الفيصلي/DTNNP كما/CC قلت/VBD لكم/VBG سابقا/NN قادم/JJ بقوه/NN فاحذروا/VBD التدريبات/DTNNS على/IN قدم/NN وساق/NN والليرات/NNS بدت/VBD تهل/NN على/IN اللاعبين/DTNNS وهذا/NN اهم/JJR شيئ/NN في/IN الموضوع/DTNN -LRB-/PUNC اعطيني/JJ ليرات/NNS اعطيك/NN فنا/NN وكره/NN قدم/NN -RRB-/PUNC -LRB-/PUNC اعطيني/NNP مصاري/NNP اعطيك/NNP احلى/VBD الاهداف/DTNN -RRB-/PUNC 

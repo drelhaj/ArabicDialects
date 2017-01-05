@@ -1,0 +1,1 @@
+ليه/NNP لا/RP لجمال/NN مبارك/NNP انى/VBD ارى/VBP انه/NN احسن/JJR بكثير/NN من/IN غيره/NNP و/CC بعبارة/NN اخرى/JJ هو/PRP احسن/JJR الوحشين/DTNNS الموجودين/DTJJ على/IN الساحة/DTNN الان/DTNN وربنا/NN يستر/VBP على/IN ولايانا/NN !/PUNC 

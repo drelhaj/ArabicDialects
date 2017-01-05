@@ -1,0 +1,1 @@
+كالعادة/NNP كل/NOUN يوم/NN و/CC التاني/DTNN يطلعلنا/VBP مسؤل/NN ولا/NN موظف/NN كبير/JJ في/IN الدولة/DTNN و/CC ينتقد/VBP البرادعي/DTNN و/CC كلها/NN أساليب/NN مكشوفة/JJ الغرض/DTNN منها/NN التودد/DTNN للحزب/NN الوطني/DTJJ و/CC الطمع/DTNN في/IN منصب/NN أعلى/JJ ./PUNC ./PUNC كل/NOUN دي/NN ألعاب/NN مكشوفة/JJ يا/RP سعادة/NN المحافظ/DTNN الملوث/DTJJ !!/NN 

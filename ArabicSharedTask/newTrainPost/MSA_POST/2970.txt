@@ -1,0 +1,1 @@
+يقول/VBP نعيم/NNP :/PUNC اود/VBP ان/IN اغتنم/VBP هذه/DT لفرصه/NN لارحب/NN بالضيف/NNP الكويتي/DTJJ ./PUNC وتجدر/VBD الاشاره/DTNN بان/NNP صفحه/NNP جديده/NNP قد/RP بدات/VBD -LRB-/PUNC بهذه/NNP الزياره/DTNNP -RRB-/PUNC ويشير/NNP الى/IN تعاطفه/NN مع/NN الشعب/DTNN الكويتي/DTJJ ابن/NN العدوان/DTNN العراقي/DTJJ عامي/NNS 1990/CD _/PUNC 1991/CD 

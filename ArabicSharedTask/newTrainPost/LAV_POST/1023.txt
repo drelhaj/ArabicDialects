@@ -1,0 +1,1 @@
+ياريت/NNP يثمر/VBP مع/NN الحكومه/DTNN ويعاملونا/NNP كاردنيين/NNP ./PUNC ./PUNC لايوجد/NNP لنا/VBD اي/NOUN حقوق/NN ./PUNC لاجامغه/NNP ولا/NNP تامين/NN صحي/JJ ولا/VBD ادخال/NN سياره/NNP بجمرك/NNP اقساط/NN ولا/NN اي/NOUN خدمات/NNS تنفع/VBP المغترب/DTNN وياريت/NNP نلاقي/NNP ريق/NNP حلو/NNP بس/NN .../PUNC 

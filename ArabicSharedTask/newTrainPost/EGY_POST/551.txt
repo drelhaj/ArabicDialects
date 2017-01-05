@@ -1,0 +1,1 @@
+هتقول/NNP إيه/NNP ./PUNC ./PUNC الساحة/DTNN السياسية/DTJJ بتفرض/NN علينا/NN أمور/NN ضرورية/JJ 

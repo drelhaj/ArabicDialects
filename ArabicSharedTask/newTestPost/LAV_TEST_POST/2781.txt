@@ -1,0 +1,1 @@
+مش/NN عارف/NNP شو/NNP اعمل/VBD بهيك/NNP عيشة/NN ما/WP فيها/VBD مي/NNP ولا/NN كهرباء/NN والله/NNP العظيم/DTJJ الموت/DTNN اشرف/NNP من/IN هيك/NNP ذل/NN ./PUNC 

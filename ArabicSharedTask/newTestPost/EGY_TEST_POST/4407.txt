@@ -1,0 +1,1 @@
+ابص/VBD لروحى/NN فجأه/NN ألاقى/NN حمار/NN ففجأه/NN تعبت/VBD مالمفاجأه/NNP واشتغلت/NNP رفستى/NNP ./PUNC ./PUNC انا/PRP مش/NN عارفنى/JJ انا/PRP توهت/VBD من/IN صاحبى/NN ./PUNC ./PUNC انا/PRP مش/NN أنا/NN لا/VBP دا/NN لجامى/NN ولا/NN دى/NNP عربيتى/NNP ولا/NNP دا/NNP انا/NNP .../PUNC ولا/NNP دا/NNP انا/NNP 

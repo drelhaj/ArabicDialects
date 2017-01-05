@@ -1,0 +1,1 @@
+سمور/NNP اقعد/VBD ببيتك/NNP احضر/VBP باب/NN الحاره/DTNN احسنلك/NNP -LRB-/PUNC كأس/NNP الاردن/DTNNP للفيصلي/NNP وشكلين/NNP ما/WP بنحكي/NN -RRB-/PUNC 

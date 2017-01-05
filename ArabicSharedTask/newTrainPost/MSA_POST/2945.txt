@@ -1,0 +1,1 @@
+4/CD -/PUNC رافت/NNP ابن/NNP الحج/DTNN علي/IN يهدي/VBP سلامه/NNP لمدرب/NN المنتخب/DTNN حمدمن/NN خلال/NN فنون/NN الالعاب/DTNN و/CC صناعة/NN الاهداف/DTNN لزملائه/DTJJ في/IN الوحدات/DTNNS فهل/NN منتخبنا/JJ يحتاج/VBP لصانع/NN اهداف/NN مرموق/JJ و/CC مميز/JJ مثله/NN ام/CC اننا/VBD الان/DTNN في/IN فترة/NN تحضيرمنتخب/NN لبطولات/NNS ما/WP بعد/NN 4/CD سنوات/NNS 

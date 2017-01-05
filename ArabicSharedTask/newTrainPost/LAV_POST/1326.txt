@@ -1,0 +1,1 @@
+كنت/VBD بدي/NN أحكي/JJ عن/IN لما/NNP كان/VBD برميل/NN النفط/DTNN 147/CD دولار/NN .../PUNC بس/NN في/IN واحد/NN سقني/NNP الله/NNP يجزي/VBP كل/NOUN خير/NN .../PUNC 

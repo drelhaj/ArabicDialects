@@ -1,0 +1,1 @@
+شايف/NNP جنابك/NNP ديول/NNP الخلايق/DTNN ./PUNC ./PUNC وديلك/NNP ./PUNC ./PUNC 

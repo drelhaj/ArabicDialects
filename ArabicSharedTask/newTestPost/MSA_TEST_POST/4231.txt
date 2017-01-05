@@ -1,0 +1,1 @@
+الف/CD مبروك/NN يااستاذ/VBP محمد/NNP ،/NN تستحقها/NN بجدارة/NN ،/NN صحافي/JJ ومهني/JJ ومدير/NN ناجح/NN وقبل/NN ذلك/DT انسان/NN راقي/NN ودمث/NN ،/NN على/IN مدى/NN 6/CD سنوات/NNS عرفتك/NN فيها/NN لم/RP اجد/VBP فيك/NNP الا/RP طيبة/JJ وادبا/NN جما/NN ./PUNC 

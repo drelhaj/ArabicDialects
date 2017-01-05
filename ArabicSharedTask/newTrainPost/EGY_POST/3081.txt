@@ -1,0 +1,1 @@
+الحكم/DTNN حسبلكو/NNP 10/CD دقائق/NN زيادة/NN فوق/NN الوقت/DTNN الضائع/DTJJ علشان/NNP تجيبو/NNP جون/NNP ./PUNC ./PUNC عايزين/JJ ايه/NN تاني/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

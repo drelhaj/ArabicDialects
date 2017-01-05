@@ -1,0 +1,1 @@
+نتصورك/VBP شفتو/NNP مافيه/NNP شي/NNP بالعكس/NNP فيه/NNP توضيح/NN وإعانة/NN ليا/NNP تصور/NN و/CC أي/NN جواب/NN يجيني/VBP مع/NN العلم/DTNN انو/VBD الجواب/DTNN إلي/NNP جاني/NNP سليم/NNP 

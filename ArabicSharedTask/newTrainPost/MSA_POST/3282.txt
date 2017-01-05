@@ -1,0 +1,1 @@
+من/IN خلال/NN عرض/NN مورينيو/NNP نفسه/NN الاحظ/DTNN مدى/NN طغيان/NN المال/DTNN على/IN كل/NOUN شئ/NN عند/NN هذا/DT المدرب/DTNN حتى/IN وصلت/VBD الى/IN مرحلة/NN الذل/DTNN لاحظوا/VBD ما/WP فعل/VBD في/IN مبارارة/NN برشلونه/NNP مع/NN الجمهور/DTNN بكل/VBD استفزاز/NN وحقارة/NN اتمنى/VBP ان/IN يذهب/VBP كل/NOUN ذلك/DT هباء/NN ليس/VBD خوفا/NN ولكن/NN لانه/NNP لا/RP يستحق/VBP ./PUNC 

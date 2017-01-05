@@ -1,0 +1,1 @@
+إسرائيل/NNP ``/VBD ستتألم/NN كثيرا/NN ''/NN !!/NN دا/NNP اللى/WP ربنا/VBD قددرك/NN عليه/NN ؟/NN يعنى/VBN لافعل/NNP وكمان/NNP لاقول/NNP ؟/VBD الخوف/DTNN بس/NN إن/NN إسرائيل/NN إذا/NN إعتدت/VBD على/IN لبنان/NNP ماتجمعش/NNP توقيعات/NNS بالشجب/NNP والإستنكار/NNP على/IN الفيس/NNP بوك/NNP -/PUNC ربنا/NNP يعينك/VBP على/IN اللى/WP عندك/VBN يا/RP سولوم/NNP ./PUNC 

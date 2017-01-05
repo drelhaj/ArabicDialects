@@ -1,0 +1,1 @@
+اول/ADJ شي/NNP الحكم/DTNN مابعرف/NNP ايحكم/NNP السبب/DTNN ما/IN فوز/NN الفيصلي/DTNNP المباره/DTJJ ماكانت/NNP في/IN المستوي/DTNN ورافت/NNP ماكان/NNP في/IN المستوي/DTNN كان/VBD كل/NOUN باصاتو/NNP مو/NNP مزبوطه/NNP ووووووحداتي/NNP المارد/DTNN الاخضر/DTJJ والزرقا/NN قلبت/NN اخضر/JJ 

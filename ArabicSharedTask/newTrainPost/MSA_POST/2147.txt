@@ -1,0 +1,1 @@
+حاولي/NNP بالحسنى/NNP ,/PUNC اقنعي/NNP بالعلاج/NNP ,/PUNC و/CC لكن/CC اذا/IN أصر/VBD على/IN عدم/NN العلاج/DTNN ,/PUNC فليس/NNP أمامك/NNP سوا/NN إنك/NN تخبري/NN أهلك/NN ,/PUNC و/CC تتوجهي/VBP لمحامي/NNS شرعي/JJ و/CC القيام/DTNN بإجراءات/NNS الخلع/DTNN ./PUNC ./PUNC 

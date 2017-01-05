@@ -1,0 +1,1 @@
+بس/NN أنا/VBD عايز/NNP أعرف/NN هوه/NNP من/IN الى/IN سافرو/NNP للعلاج/NNP على/IN نفقة/NN الدوله/DTNN ؟/NN وإذا/NN كان/VBD صحيح/JJ يبقى/VBP مش/NN متسامح/JJ بالفلوس/NNP دى/NNP !/PUNC عشان/NNP دى/VBD فلوس/NN الشعب/DTNN وإذا/NN كان/VBD على/IN نفقته/NN الخاصه/DTNN فبرضو/NNP من/IN فلوس/NN الشعب/DTNN !/PUNC يعنى/VBN ينضم/VBP لشارون/NNS 

@@ -1,0 +1,1 @@
+حلوو/NNP حلووو/NNP ./PUNC ./PUNC بعدين/NNP يامشعل/NNP العنزي/DTNNP ممكن/JJ اتواصل/VBP معاك/NN 

@@ -1,0 +1,1 @@
+-LRB-/PUNC إشطة/NN يا/NN معلم/NN .../PUNC أنا/VBD أهو/NNP .../PUNC ممثل/NN كل/NOUN الشعب/DTNN المصري/DTJJ .../PUNC يا/RP لا/RP بقى/VBD لافيني/NNP ال/NNP 1500/CD -RRB-/PUNC 

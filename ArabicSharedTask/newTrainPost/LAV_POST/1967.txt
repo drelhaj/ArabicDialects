@@ -1,0 +1,1 @@
+بعدين/NNP الحلو/NNP بالموضوع/NNP انها/VBD بتزيد/NN الجمرك/DTNN على/IN الشغلات/DTNNS المفيدة/DTJJ التي/WP تقلل/VBP من/IN صرف/NN البنزين/DTNN زي/NN الهايبرد/DTNN ./PUNC 

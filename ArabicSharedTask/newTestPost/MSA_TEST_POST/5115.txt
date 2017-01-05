@@ -1,0 +1,1 @@
+كفاكم/NN هلوسة/NN فما/NN انتم/PRP الا/RP مغتصبون/NN لارض/NNP قتلتم/NNP عليها/NN انبياء/NNP الله/NNP واصبحتم/NNP بعدها/NN مجرمون/NNS وقراصنة/NN تثقلون/VBP العالم/DTNN بجرائمكم/NN المقيتة/DTNN وانكم/VN الى/IN زوال/NN حسب/NN نظرية/NN الجاذبية/DTNN -LRB-/PUNC ما/WP طار/VBD طير/NN وارتفع/JJ الا/RP كما/CC طار/VBD وقع/NN -RRB-/PUNC ./PUNC 

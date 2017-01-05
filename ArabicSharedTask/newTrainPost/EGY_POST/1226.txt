@@ -1,0 +1,1 @@
+!!!/VBD اللهم/NN إذا/NN كنت/VBD بتستعر/NN وتخجل/JJ من/IN عقيدتك/NN ./PUNC ./PUNC مش/NN كده/NN وإلا/NN إيه/NN !!/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

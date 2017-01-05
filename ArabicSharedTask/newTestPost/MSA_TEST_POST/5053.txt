@@ -1,0 +1,1 @@
+احمل/VBP المؤسسات/DTNNS الوطنية/DTJJ مسؤولية/NN عدم/NN توثيق/NN تاريخ/NN هذا/DT الرجل/DTNN الطيب/DTJJ العطر/DTNN ,/PUNC وانا/VBD متأكد/NN انه/NN سوف/RP يتم/VBP اطلاق/NN اسمه/NN على/IN شارع/NN نائي/JJ في/IN العاصمة/DTNN عمان/NNP تخليدا/NNP لأنجازاته/NNP واعطياته/NNP مع/NN ثقتي/NNS بأنه/NNP لو/IN سأل/VBD لطلب/NN بندقية/NN اخرى/JJ وان/NNP يسافر/VBP عائدا/VN بالزمن/NNP ./PUNC 

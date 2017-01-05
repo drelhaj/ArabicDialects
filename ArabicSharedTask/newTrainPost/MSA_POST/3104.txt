@@ -1,0 +1,1 @@
+هذا/DT قول/NN جلالة/NN سيدنا/NNP ونحن/NNP مع/NN تحرير/NN اي/NOUN ارض/NN اسلامية/JJ وليس/NN لانها/NN فلسطينية/JJ وبهذا/JJ يكون/VBP الهدف/DTNN سامي/NNP ونبيل/NNP وليس/NNP لاهداف/NN انتخابية/JJ او/CC العودة/DTNN لواجهة/NN المناصب/DTNN !!!!/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

@@ -1,0 +1,1 @@
+خافوا/VBD ربكم/NNP ومافي/NNP الغزل/DTNN مربح/NNP ولامكسب/NNP ,/PUNC تعصون/VBP ربكم/NNP وتمحقون/NNP بركة/NN اموالكم/NN وانتم/JJ ماتدرون/JJ ./PUNC ./PUNC 

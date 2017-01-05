@@ -1,0 +1,1 @@
+انصح/VBP الجميع/NOUN على/IN ان/IN يلتزموا/VBP بموعد/NN نوم/NN ثابت/JJ -LRB-/PUNC افضل/JJR وقت/NN للنوم/JJ كحد/NN اقصى/JJR الساعة/DTNN 10:30/CD مساءا/NN -RRB-/PUNC طيلة/NN ايام/NN الاسبوع/DTNN ما/WP عدا/VBP يوم/NN واحد/JJ حتى/IN يكسر/VBP الروتين/DTNN ويغير/NN مسار/NN خلايا/NN الدماغ/DTNN ./PUNC 

@@ -1,0 +1,1 @@
+اغرب/VBD حاجه/NN عندما/JJ تكون/VBP محلي/JJ وتحلم/NN بالعالميه/NNP ./PUNC ./PUNC صراحه/NN قويه/NN ولا/NN تنبلع/JJ ./PUNC ./PUNC النصر/DTNN العالمي/DTJJ ماراح/NNP للعالميه/NNP بسهوله/NNP ./PUNC ./PUNC كسر/NN روؤس/NN اعتى/JJ الفرق/DTNN حتى/RP وصل/VBD ./PUNC ./PUNC بس/NN بصراحه/NNP العالمي/DTJJ عالمي/JJ ويبقى/NN المحلي/DTNN يدور/VBP حول/NN نفسه/NN ./PUNC 

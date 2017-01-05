@@ -1,0 +1,1 @@
+بلاش/NNP عبط/VBD وممكن/NN حد/NN يقول/VBP لي/NNP ما/WP هو/PRP برنامج/NN البرادعي/DTNN غير/NN انه/NN سوف/RP يلغي/VBP نسبة/NN ال/DT 50/CD %/PUNC عمال/NN وفلاحين/NNS ؟/VBD وهل/NN زوجته/NN نمساوية/JJ فعلا/NN ؟/NN واولاده/NNP يحملون/VBP جنسيتها/NN ؟/NN ار/NN جو/NN الرد/DTNN 

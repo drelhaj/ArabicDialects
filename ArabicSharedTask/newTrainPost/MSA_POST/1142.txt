@@ -1,0 +1,1 @@
+المعلم/DTNN لا/RP يبحث/VBP عن/IN منح/NN وبعثات/NNS ،/NN المعلم/DTNN يبحث/VBP عن/IN اطعام/NN اولاده/NNP وان/NNP يعيش/VBP بكرامة/NN ./PUNC ويترك/NN المواقع/DTNN الادارية/DTJJ لاصحاب/NN المواقع/DTNN ./PUNC اما/RP هكذا/RB امور/NN فصدقني/JJ انها/VBD لن/RP تجدي/VBP نفعا/NN مع/NN المعلمين/DTNNS ./PUNC 

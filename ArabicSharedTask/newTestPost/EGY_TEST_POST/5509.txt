@@ -1,0 +1,1 @@
+الدكتور/DTNN رفعت/NNP السعيد/DTNNP كان/VBD بيقول/NNP انه/VBD معارضة/NN ,/PUNC ولما/NN جات/NNP المعارضة/DTJJ اللى/WP على/IN حق/NN ,/PUNC رفض/NN ينضم/VBP للبرادعى/NN ,/PUNC وقال/NN لأن/NN البرادعى/DTNN موافق/VN على/IN قيام/NN حزب/NN دينى/NNP ,/PUNC وإذا/NN به/NN بعد/NN كده/NN يستقبل/VBP الإخوان/DTNN ذات/NN نفسيهم/NN 

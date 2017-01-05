@@ -1,0 +1,1 @@
+البرتغالي/DTNN جوزيه/NNP مورينيو/NNP لم/RP يكن/VBP سوى/NN مترجم/NN للانكليزي/NNP بوبي/NNP روبسون/NNP حين/NN كان/VBD الأخير/DTNN يدرب/VBP برشلونة/NNP في/IN العقد/DTNN التسعيني/DTJJ ./PUNC 

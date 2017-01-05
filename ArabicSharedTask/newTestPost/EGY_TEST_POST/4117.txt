@@ -1,0 +1,1 @@
+يا/RP سيادة/NN الوزير/DTNN روح/NN شوف/NN مركز/NN شرطة/NN القوصية/DTNN التابع/DTJJ لمحافظة/NN اسيوط/NNP شوف/NNP بيعملو/NNP اية/NNP فى/IN الناس/DTNN بحجة/NN البحث/DTNN عن/IN سلاح/NN وبيبهدلو/NNS السيدات/DTNNS وبيهنو/NN الرجال/DTNN اما/CC اولادهم/NNP وزوجاتهم/NNP ./PUNC ./PUNC الشرطة/DTNN لقهر/NN الشعب/DTNN ./PUNC ./PUNC 

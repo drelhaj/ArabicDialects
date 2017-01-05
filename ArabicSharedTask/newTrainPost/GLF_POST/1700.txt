@@ -1,0 +1,1 @@
+نصيحه/NN لوجه/NNP الله/NNP أستقدموا/VBD من/IN البحرين/DTNNP الفيزا/DTNNP بألفين/NNP والراتب/NNP ب600/NNP ريال/NNP خالتي/NNS مستقدمه/JJ منهم/JJ شغالتين/JJ ./PUNC 

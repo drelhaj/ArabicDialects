@@ -1,0 +1,1 @@
+المطلوب/DTNN قوانين/NN تحدد/VBP استخدام/NN الاجهاض/DTNN باقرار/NN طبي/JJ حتي/IN لا/RP يصبح/VBP الاجهاض/DTNN وسيلة/NN للتخلص/NN من/IN اي/NOUN طفل/NN غير/NN مرغوب/JJ فيه/NNP ./PUNC 

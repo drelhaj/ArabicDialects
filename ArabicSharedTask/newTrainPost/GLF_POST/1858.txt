@@ -1,0 +1,1 @@
+يعني/VBP بعد/NN 200/CD سنه/NN الرياض/DTNNP بيصير/NNP فيها/NNP بحر/NN يعني/VBP ما/WP نحتاج/VBP نروح/VBP الشرقية/DTNN :/PUNC -RRB-/PUNC .../PUNC الحافظ/DTNNP الله/NNP سبحانه/NNP وهذه/NNP التنبؤات/DTNNS هدفها/NN الاثاره/DTNN والشهره/NNP لا/RP اكثر/JJR ولا/NN اقل/JJR 

@@ -1,0 +1,1 @@
+ونحن/NNP نقول/VBP -LRB-/PUNC سامحك/NNP الله/NNP -RRB-/PUNC واصاله/NNP نصري/NNP تغني/VBP -LRB-/PUNC سامحتك/NNP سامحتك/NNP -RRB-/PUNC 

@@ -1,0 +1,1 @@
+ههههههه/NNP ./PUNC ./PUNC انا/PRP لو/IN صارت/VBD معي/NN ما/IN بقبل/NN و/CC بطلع/NN من/IN الشقة/DTNN بدون/IN اواعي/NNP ./PUNC ./PUNC و/CC اذا/IN ناس/NN سألني/JJ بقلوا/VBD الدنيا/DTNN شوب/NNP و/CC مش/NN طايق/NN اوعية/NN ./PUNC ./PUNC والله/NN النصب/DTNN صاير/NN اشكال/NN الوان/NN ./PUNC ./PUNC الله/NNP يرحمنا/VBP برحمته/NN 

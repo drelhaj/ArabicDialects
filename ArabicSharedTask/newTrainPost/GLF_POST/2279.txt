@@ -1,0 +1,1 @@
+شفط/NN جيوب/NN العالم/DTNN اجل/NN مخلفه/NN تدبل/VBP نظام/NN ربوي/NNP حسبي/NNP الله/NNP عليكم/NNP ./PUNC ./PUNC يعني/VBP الواحد/DTNN مهوب/JJ لاقي/JJ يصرف/VBP على/IN عياله/NN تبون/NN يصرف/VBP لكم/VBG ./PUNC ./PUNC لكن/VBP الله/NNP يمهل/VBP ولا/NN يهمل/VBP ./PUNC ./PUNC راعو/VBD لمساكين/NNP الي/IN راتبه/NN قليل/NN وش/NN يسوي/VBP بعمره/NN والله/NN حاله/NN 

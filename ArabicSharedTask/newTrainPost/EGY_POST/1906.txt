@@ -1,0 +1,1 @@
+بقى/VBD مش/NN عارفين/NNS فين/NNP الغلط/DTNN في/IN اللي/WP قاله/NN احمد/NNP عز/NNP !!!!!!!!/NNP دي/NNP مصيبة/NN اكبر/JJR .../PUNC المهندس/DTNN احمد/NNP عز/NNP اشترط/VBD دخول/NN مصر/NNP في/IN الحرب/DTNN في/IN حال/NN لو/IN دعمتنا/VBD قطر/NNP او/CC السعودية/DTNNP او/CC ليبيا/NNP 

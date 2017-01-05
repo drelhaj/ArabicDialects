@@ -1,0 +1,1 @@
+نبارك/VBP للطالب/NNP محمد/NNP مصباح/NNP الرفاعي/DTNNP بحصوله/NNP على/IN المركز/DTNN الرابع/ADJ على/IN مستوى/NN العالم/DTNN في/IN مسابقة/NN انتل/VBD للتفوق/NNP العلمي/NNP نبارك/VBP للوطن/NN ووالده/NNP ووالدته/NNP واخوته/NNP ان/IN شاء/VBD الله/NNP يوصل/VBP بالسلامه/NNP مع/NN تمنياتنا/NN لك/NN بمزيد/NN من/IN التقدم/DTNN والنجاح/NN اخوالك/NN 

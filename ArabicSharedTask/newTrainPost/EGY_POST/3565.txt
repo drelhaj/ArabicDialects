@@ -1,0 +1,1 @@
+ياعالم/VBP .../PUNC ياهووه/NNP .../PUNC هو/PRP مفيش/NN حد/NN في/IN بر/NN المحروسة/DTNN قادر/JJ يوقف/VBP هذا/DT البلطجي/DTNN ابو/NNP صباع/NNP ''/VBD بتاع/NN زمان/NN ''/NN .../PUNC هي/PRP البلد/DTNN دي/NNP مافيهاش/NNP رجالة/NN والا/NN ايه/NN ./PUNC ./PUNC 

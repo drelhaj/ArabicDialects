@@ -1,0 +1,1 @@
+ولكن/NNP عندي/NNP استفسار/NNP ./PUNC ./PUNC ما/WP وجه/VBD التقارب/DTNN بين/NN ما/WP ذكرت/VBD في/IN مقالتك/NN آنفا/NN وبين/JJ الاية/NN ''/NN ولا/NN تزر/VBP وازرة/NN وزر/NN اخرى/JJ ''/VBD ،/NN فما/NN ذنب/NN غيري/JJ ان/IN انا/PRP اخطأت/VBD ان/IN يعاقب/VBN او/CC يكتب/VBN عليه/NN الخطأ/DTNN بزلتلي/NNP وانا/NNP مؤمن/NN بالعدل/NNP الالهي/DTJJ ؟/VBD ؟/NN !/PUNC 

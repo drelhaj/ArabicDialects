@@ -1,0 +1,1 @@
+طيب/NNP ياخوي/NNP دام/VBD ارباحكم/NNP زادت/VBD ورى/NN ماتزيد/NNP رواتب/NN الموظفين/DTNNS الضعيفين/DTJJ اللي/WP يتعبون/VBP ولهم/NN الفضل/DTNN بعد/NN الله/NNP في/IN زياده/NN الارباح/DTNN المفروض/DTJJ يطولهم/VBP الخير/DTNN نظير/NN تعبهم/NN ./PUNC 

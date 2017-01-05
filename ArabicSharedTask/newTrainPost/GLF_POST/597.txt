@@ -1,0 +1,1 @@
+ماهي/NNP غريبه/NNP على/IN شبيه/NN الريح/DTNN فديت/NNP قلبه/NNP ./PUNC ./PUNC بس/NN بصراحه/NNP يالبلطان/NNP مع/NN احترامي/NN لك/NN كل/NOUN رؤساء/NN الانديه/NN ممكن/JJ انهم/VBD يحضرون/VBP ويساندون/NNS الفرق/DTNN الوطنيه/DTJJ في/IN الاستحقاقات/DTNNS الخارجيه/DTJJ ما/WP عدا/VBP واحد/NN ./PUNC ./PUNC وفر/NN له/NN كرتون/NN علوك/NN ويجي/JJ لو/IN انك/VBD 

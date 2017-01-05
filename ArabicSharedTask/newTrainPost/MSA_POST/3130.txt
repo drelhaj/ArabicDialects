@@ -1,0 +1,1 @@
+اهلا/NN وسهلا/NNP بك/NNP ضيف/NN ابا/NN الحسين/DTNNP ضيف/NN الاردن/DTNNP كلة/NN من/IN الشمال/DTNN الى/IN الجنوب/DTNN قدمتم/NN اهلا/NN ووطئتم/JJ سهلا/JJ 

@@ -1,0 +1,1 @@
+بس/NN بلدنا/NNP هتفضل/NNP مليانة/NNP فساد/NN ./PUNC ./PUNC وللأسف/NNP عمرها/NN ما/WP هتكون/VBD المدينة/DTNN الفاضلة/DTJJ 

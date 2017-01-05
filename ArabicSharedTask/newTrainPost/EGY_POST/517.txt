@@ -1,0 +1,1 @@
+اللهم/NN ارحم/NN الاموات/DTNN يا/RP رب/NN العالمين/DTNNS ,/PUNC ولكل/NN اجل/NN كتاب/NN ,/PUNC سبحان/NN الله/NNP مفيش/NN حد/NN عارف/NNP الساعه/DTNNP اللى/WP هيموت/VBD فيها/NN ولا/NNP عارف/NNP المكان/DTNN اللى/WP هيموت/VBD فيه/NNP ولذالك/NNP ارجوا/VBD من/IN السادة/DTNN القراء/DTNN 

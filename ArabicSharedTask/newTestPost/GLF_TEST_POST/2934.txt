@@ -1,0 +1,1 @@
+ماشاء/NNP الله/NNP شكل/VBD كذا/NN منطقة/NN المزاحمية/DTNN وحولها/NN بتدهر/NN ./PUNC ./PUNC 

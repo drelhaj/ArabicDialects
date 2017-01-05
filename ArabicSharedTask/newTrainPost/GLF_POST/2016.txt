@@ -1,0 +1,1 @@
+بس/NN كم/PRP$ حسابك/JJ اذا/IN تبي/VBD تتحاسب/VBP ./PUNC -/PUNC مالعبت/NNP في/IN وقت/NN الحصاد/DTNNP كاس/NN الخليج/DTNNP والملك/NNP 520/CD -/PUNC 650/CD =/PUNC -130/CD ./PUNC يعني/VBP لازم/JJ تعطي/VBP النصر/DTNN تعويض/NN 130/CD الف/CD ./PUNC 

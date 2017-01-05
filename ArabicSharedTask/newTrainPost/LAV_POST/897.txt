@@ -1,0 +1,1 @@
+والله/NN الناس/DTNN صايرة/NN تتفنن/VBP بالاجرام/NNP وكل/NN يوم/NN بنسمع/NN عن/IN جريمة/NN بشعة/JJ ./PUNC ./PUNC بطل/NN عند/NN الناس/DTNN صبر/NN كل/NOUN واحد/NN بزعل/NNP بروح/NNP قتلوه/NNP يللي/NNP بيلاقيه/NNP بوجهه/NNP ؟/VBD ؟/NN !!/NN 

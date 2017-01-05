@@ -1,0 +1,1 @@
+وبعدين/NNP ./PUNC ./PUNC !/PUNC وش/NN الفايدة/DTNN طيب/NNP ؟/NNP 

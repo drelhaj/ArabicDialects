@@ -1,0 +1,1 @@
+وشايفلم/NNP هالايام/NNP الكل/NOUN اصبح/VBD معه/NN -LRB-/PUNC دكتواره/NNP في/IN نقد/NN الوحدات/DTNNP -RRB-/PUNC -LRB-/PUNC وفلسفه/NNP في/IN تحطيم/NN معنويات/NNS الانديه/DTNN -RRB-/PUNC والله/NN يرحمك/VBP يا/RP ستي/NNP 

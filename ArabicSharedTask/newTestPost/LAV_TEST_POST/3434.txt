@@ -1,0 +1,1 @@
+بيرتفع/NNP ضغط/NN بعض/NOUN الناس/DTNN لإن/NN الخبر/DTNN فيه/NNP :/PUNC سامي/NNP والوصل/NNP .../PUNC 

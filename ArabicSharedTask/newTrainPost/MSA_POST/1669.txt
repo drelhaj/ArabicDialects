@@ -1,0 +1,1 @@
+والصحيح/NNP هو/PRP ./PUNC ./PUNC كم/WRB هدفا/NN ستتلقي/JJ شباك/NN الوحدات/DTNNS 

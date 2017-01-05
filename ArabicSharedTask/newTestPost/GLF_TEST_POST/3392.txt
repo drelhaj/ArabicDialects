@@ -1,0 +1,1 @@
+فعلا/NN انا/PRP اعجبني/JJ تعليق/NN الاخ/DTNN خالدين/NNP عندما/NNP قال/VBD :/PUNC وش/NN ذا/NN المواطن/DTNN اللي/WP كل/NOUN يوم/NN قاعد/NN يتبرع/VBP بعضو/NNP من/IN جسمه/NN ؟/NN مرة/NN كليه/NNP .../PUNC مره/NNP كبد/NNP ./PUNC ./PUNC مره/NN انف/NN .../PUNC اصبع/NN .../PUNC الاخ/DTNN صاير/NNP محل/NN تشليح/NNP الله/NNP يجزاه/VBP خير/NN 

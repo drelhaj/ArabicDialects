@@ -1,0 +1,1 @@
+3/CD -/PUNC العمل/DTNN على/IN تحديث/NN المفاهيم/DTNN الاجتماعية/DTJJ -LRB-/PUNC والتحديث/NNP قد/RP يكون/VBP الاستنباط/DTNN من/IN الماضي/DTJJ -RRB-/PUNC 

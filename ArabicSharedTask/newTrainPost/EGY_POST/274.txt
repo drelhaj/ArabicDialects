@@ -1,0 +1,1 @@
+انت/PRP نسيت/VBD كاكا/NN وكريستيانو/NNP رونالدو/NNP وكاسياس/NNP ./PUNC ./PUNC برشلونة/NNP مين/NNP ده/DT ./PUNC ./PUNC ريال/NNP مدريد/NNP النادى/DTNNP الملكى/DTJJ هو/PRP الاعظم/DTJJR فى/IN العالم/DTNN 

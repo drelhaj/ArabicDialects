@@ -1,0 +1,1 @@
+الله/NNP يعينك/VBP يا/RP ابو/NNP محمد/NNP هناك/RB الاف/NN مثلك/NN مشردين/JJ .../PUNC ./PUNC ايه/NN يكفي/VBP انك/NN لا/RP تدفع/VBP مسقفات/NNS وضرائب/NNP الله/NNP يستر/VBP ما/WP يدفعون/VBP عن/IN قطعة/NN الارض/DTNN لانك/VBD ساكن/NN في/IN عمان/NNP 

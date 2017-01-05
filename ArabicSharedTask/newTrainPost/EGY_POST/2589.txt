@@ -1,0 +1,1 @@
+-/PUNC ملحوظه/NNP :/PUNC -/PUNC الاخ/DTNN الى/IN بيقول/NNP اكتب/VBP الاسماء/DTNN ولا/NN مش/NN عاوز/VN تكتبها/NN عشان/NN هما/PRP$ ولاد/NN ناس/JJ كبار/JJ 

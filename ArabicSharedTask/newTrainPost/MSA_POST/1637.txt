@@ -1,0 +1,1 @@
+واخيرا/NN اطلب/VBP منك/NN اخي/NN ان/IN تترفع/VBP عن/IN هذا/DT الكلام/DTNN الذي/WP لايفيد/VBD وتعلم/NN ان/IN ''/NN مايلفظ/JJ من/IN قول/NN الا/RP لديه/NN رقيب/NN عتيد/NN ''/NN صدق/NN الله/NNP العظيم/DTJJ ./PUNC 

@@ -1,0 +1,1 @@
+ذ/VBD اول/ADJ فريق/NN اردني/JJ يقيم/VBP مباراة/NN اعتزال/NN لاحد/NNP لاعبيه/NNP ,/PUNC وكانت/VBD للاعبه/NNP محمد/NNP عوض/NNP عام/NN 72/CD ./PUNC 

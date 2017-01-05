@@ -1,0 +1,1 @@
+شعب/NN فلسطين/NNP يريد/VBP قافلات/NNS صدق/NN ومحبة/NN واخلاص/JJ ./PUNC شعبنا/VBD يريد/VBP قطع/NN العلاقات/DTNNS مع/NN الانجاس/DTNN اليهود/DTJJ ./PUNC شعبنا/VBD يريد/VBP دولة/NN واحدة/JJ في/IN فلسطين/NNP والاردن/NNP تحت/NN قيادة/NN اسلامية/JJ تكون/VBP قريبة/JJ من/IN الله/NNP ./PUNC 

@@ -1,0 +1,1 @@
+1/CD -/PUNC عندما/NNP يسأل/VBP -LRB-/PUNC بضم/NN لبياء/JJ و/CC فتح/NN الألف/DTNN -RRB-/PUNC الشخص/DTNN المعني/DTNN في/IN الوزارة/DTNN أو/NN المؤسسة/DTNN و/CC يرفض/VBP الإجابة/DTNN عن/IN موضوع/NN معين/NN بشكل/NN صريح/JJ ،/JJ و/CC 

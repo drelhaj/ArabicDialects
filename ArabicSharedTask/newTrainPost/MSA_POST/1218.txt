@@ -1,0 +1,1 @@
+1/CD -/PUNC لانه/NNP خسر/VBD بينما/IN الوحدات/DTNNS لم/RP يخسر/VBP 

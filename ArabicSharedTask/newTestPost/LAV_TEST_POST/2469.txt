@@ -1,0 +1,1 @@
+الحمد/NN لله/NN الف/CD مره/NN وبعدد/NN سنوات/NNS الفرقة/DTNN بين/NN الإخوة/DTNN اللي/WP جمع/VBD شملكم/NN على/IN هالأرض/NNP وفي/NNP هالبلد/NNP الطيبة/DTNNP ./PUNC يا/RP ويلي/NNP عليكم/NNP يا/RP الفلسطينيين/DTNNS من/IN يوم/NN يومكم/VBP وانتو/NNP متفرقين/NNS ومشتتين/JJ ./PUNC ./PUNC الله/NNP لا/RP يسامح/VBP اللي/WP كان/VBD السبب/DTNN 

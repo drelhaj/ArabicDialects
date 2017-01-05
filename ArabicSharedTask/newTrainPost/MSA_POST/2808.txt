@@ -1,0 +1,1 @@
+اؤيد/VBP كاتبنا/NNP الاستاذ/DTNN مقطش/NNP بان/NNP المؤتمر/DTNN من/IN المتوقع/DTNN نجاحه/NN والاستفادة/NNP منه/NNP ./PUNC 

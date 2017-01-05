@@ -1,0 +1,1 @@
+السعودي/DTNN مايبغى/NNP يدير/VBP عمله/NN بنفسه/NNP ويبغى/NNP الأجنبي/DTNNP يجيب/VBP له/NN فلوس/NNP عشان/NNP هو/PRP كفيله/NN ومستعبده/JJ في/IN البلد/DTNN ./PUNC ./PUNC اصحوا/VBD ياناس/NNP ،/NN العالم/DTNN صار/VBD قرية/NN صغيرة/JJ ./PUNC ./PUNC اشتغل/VBD أو/NNP خل/NN غيرك/NNP يشتغل/VBP ولا/NN تقعد/VBP تبكبك/NN كالحريم/NNP !/PUNC 

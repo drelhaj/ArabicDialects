@@ -1,0 +1,1 @@
+حكم/NN احمر/JJ ايه/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN امال/NN حكم/NN ماتش/NNP المحلة/DTNNP والأتخاد/NNP والمقاولين/NNP كان/VBD لونه/NNP ايه/NN ؟/NN ؟/NN ؟/NN ؟/NN ولا/NN اسماعيل/NNP يوسف/NNP وطارق/NNP يحي/VBP كان/VBD لونهم/NN ايه/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

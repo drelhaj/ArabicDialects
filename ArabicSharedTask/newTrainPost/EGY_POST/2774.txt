@@ -1,0 +1,1 @@
+مصر/NNP الشموس/DTNNP الهالة/DTNN من/IN الزنزانين/DTNNS ./PUNC ./PUNC هالة/NNP و/CC طارحة/NN بدمنا/NN بسا/NN تين/NN 

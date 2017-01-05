@@ -1,0 +1,1 @@
+يعني/VBP أبو/NNP زايد/NNP -LRB-/PUNC حق/NN ابو/NNP ظبي/NNP -RRB-/PUNC لو/IN يصير/VBP مذيع/NN بقناة/NN فرنسية/JJ اكيد/JJ يبي/VBP يستظيف/NN رئيس/NN النصر/DTNNP أو/NNP رئيس/NN ماسا/NN أو/NNP ابو/NNP بلوتوث/NNP 

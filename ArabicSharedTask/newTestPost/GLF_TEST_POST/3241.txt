@@ -1,0 +1,1 @@
+من/IN كثر/NN الايرانيين/DTNNS في/IN الكويت/DTNNP لو/IN ترمي/VBP ابره/NNP لسقطت/NNP على/IN راس/NN ايراتي/NNP ياكثرهم/NNP ./PUNC ./PUNC وتو/VBD الحكومه/DTNN تدري/VBP بهم/NN صح/VBD النوم/DTNN ./PUNC ./PUNC الله/NNP يكفينا/VBP شرهم/NN ./PUNC وشر/NN اتباعهم/JJ ./PUNC ./PUNC في/IN بلادنا/NNP ./PUNC 

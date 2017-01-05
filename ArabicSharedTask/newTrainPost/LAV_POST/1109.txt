@@ -1,0 +1,1 @@
+طيب/NNP ليش/NNP المريضة/DTJJ استنت/VBD حتى/IN وصل/VBD الورم/DTNN الى/IN 13/CD كغم/NN 

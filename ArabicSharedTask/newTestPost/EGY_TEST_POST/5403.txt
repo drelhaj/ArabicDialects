@@ -1,0 +1,1 @@
+انا/PRP سمعت/VBD ان/IN فيه/NN واحد/JJ من/IN الوسط/DTNN الرياضى/DTJJ -LRB-/PUNC مقبول/NN من/IN جماهير/NN الاهلى/DTNN والزمالك/NN -RRB-/PUNC حيرشح/NN نفسه/NN كمان/NN ./PUNC معنى/NN كده/NNP ان/IN البرادعى/DTNN مش/NN حيطول/NN ولا/NN حتى/IN صوته/NN ./PUNC 

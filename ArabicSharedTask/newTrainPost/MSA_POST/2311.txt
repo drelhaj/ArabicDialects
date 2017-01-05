@@ -1,0 +1,1 @@
+أن/VBD الأشخاص/DTNN ،/NN الذين/WP يتمتعون/VBP بدخل/NN عالٍ/JJ ،/VBD تكون/VBP نسب/NN الضعف/DTNN الجنسي/DTJJ لديهم/NN ''/NN أقل/NN ''/NN من/IN الأشخاص/DTNN ،/VBD الذين/WP يعانون/VBP من/IN دخل/NN شهري/JJ متدنٍ/JJ ./PUNC 

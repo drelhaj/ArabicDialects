@@ -1,0 +1,1 @@
+يعني/VBP كمل/NN معروفك/JJ ./PUNC ./PUNC صراحه/NNP انا/PRP اول/ADJ مره/NN بسمع/NN فيها/NN ./PUNC ./PUNC والهم/NN 10/CD سنين/NNS بشتغلو/NNP فيها/NNP !!/VBD وين/NNP هاي/NNP موجوده/NNP ؟/CD 

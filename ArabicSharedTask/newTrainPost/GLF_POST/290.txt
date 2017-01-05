@@ -1,0 +1,1 @@
+الله/NNP لايوفق/VBD المعتدين/DTNNS ولا/NN عز/NNP الله/NNP ان/IN رجال/NN الهئية/DTNN فيهم/NNP الطيب/DTNNP ولولا/NNP الله/NNP ثم/CC الهيئة/DTNN كان/VBD تلقى/VBD العالم/DTNN كلهم/NN يعاكسون/VBP بنات/NNS خلق/NNP الله/NNP ولا/VBD احد/NN طق/NN لهم/NN خبر/NN .../PUNC 

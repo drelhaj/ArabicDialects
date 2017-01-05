@@ -1,0 +1,1 @@
+للعلم/NNP :/PUNC اشعة/NN غاما/NNP من/IN الاشعاعات/DTNNS النووية/DTJJ الشدية/DTJJ الخطورة/DTNN ،/NN لا/RP يمكن/VBP رؤيتها/NN او/CC الاحساس/DTNN بها/NN ،/NN و/CC هذا/DT من/IN عوامل/NN الخطورة/DTNN الاضافية/DTJJ للتعرض/NN لها/NN !/PUNC 

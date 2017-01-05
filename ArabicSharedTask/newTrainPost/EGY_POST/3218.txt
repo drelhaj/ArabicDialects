@@ -1,0 +1,1 @@
+يااخ/VBP ابراهيم/NNP انا/PRP عايز/JJ افهم/VBP انت/PRP ليه/NNP نزلت/VBD ارض/NN الملعب/DTNN .../PUNC وازاي/NNP اصلا/NN ./PUNC ./PUNC انت/PRP المفروض/DTNN مش/NN مع/NN الجهاز/DTNN ./PUNC ./PUNC ولو/NNP حتي/NNP اي/NOUN حد/NN قل/VBD ادبه/NNP عليك/NNP ./PUNC ./PUNC اطبع/VBD اعمل/VBP شكوي/NN واشتكي/JJ ./PUNC ./PUNC لكن/VBP البلطجة/DTNN في/IN دمك/NN من/IN زمان/NN 

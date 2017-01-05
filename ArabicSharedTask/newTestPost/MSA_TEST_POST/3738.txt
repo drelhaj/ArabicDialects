@@ -1,0 +1,1 @@
+-/PUNC يعد/VBP الفيصلي/DTNNP رغم/NN خروجه/NN من/IN دور/NN الثمانية/DTNN للمسابقة/NN الأقوى/DTNN هجوما/NN برصيد/NN 24/CD هدفا/NN سجل/VBD منها/NN 20/CD هدفا/NN في/IN مرمى/NN الطرة/DTNN ذهابا/NN وإيابا/NN يليه/VBP الوحدات/DTNNS وقد/NN سجل/VBD 22/CD هدفا/NN ،/JJ في/IN حين/NN يعد/VBN هجوم/NN كفرسوم/NNP هو/PRP الأضعف/DTNN إذ/IN لم/RP يسجل/VBN أي/NN هدف/NN .../PUNC ./PUNC 

@@ -1,0 +1,1 @@
+هو/PRP ده/DT الزمالك/DTNNP ماينفعش/NNP يشتغل/VBP فيه/NN غير/NN البلطجية/DTJJ اللى/WP زى/VBD حسام/NNP وابراهيم/NNP وهيكونوا/VBD السبب/DTNN فى/IN خراب/NN الزمالك/DTNNP وسحبه/NN الى/IN الهاوية/DTNN اكتر/NNP ماهو/NNP رايح/NNP ./PUNC وانشر/NNP بأه/NNP ياعم/NNP ارجوك/NNP ./PUNC 

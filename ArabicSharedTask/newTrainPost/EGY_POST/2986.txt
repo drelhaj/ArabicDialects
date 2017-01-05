@@ -1,0 +1,1 @@
+أما/VBD الحجة/DTNN التى/WP تعرضها/VBD هى/NN حجة/NN واهية/JJ واسمها/JJ -LRB-/PUNC حجة/NN البليد/DTNN مسح/NN التختة/DTNN -RRB-/PUNC 

@@ -1,0 +1,1 @@
+ومين/NN يعنى/VBP اللى/WP عجباه/NN طريقتكم/NNP واسلوبكم/NNP فى/IN العالم/DTNN كله/NNP لما/NNP بس/NN حيكرهوكم/NNP فى/IN فرنسا/NNP ماالعالم/NNP كله/NNP مش/NN طايقكم/NN ولا/NN طايق/NN شريعتكم/NN الارضيه/DTNN !/PUNC 

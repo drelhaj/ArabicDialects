@@ -1,0 +1,1 @@
+النتيجه/DTNN اللي/WP قلتها/NN 3/CD -/PUNC 1/CD للنصر/NN هذي/DT حتى/RP لو/IN فاز/VBD النصر/DTNNP بها/NN النتيجه/DTNN يبي/VBP يتاهل/VBP الهلال/DTNN عشان/NNP كذا/NNP لاتسوي/NNP فاهم/NNP الله/NNP يصلحك/VBP ./PUNC ./PUNC الزعيم/DTNN يبي/VBP يكرر/VBP الخماسيه/DTNN باذن/NNP الله/NNP لان/NNP النصر/DTNNP يبي/VBP يفتح/VBP الملعب/DTNN وهذا/NN مو/NN من/IN صالحه/NN 

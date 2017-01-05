@@ -1,0 +1,1 @@
+الله/NNP ستر/NNP الوحدات/NNP مبارح/NN والحمد/NNP لله/NNP انو/NNP فاز/VBD عشان/NNP الزعيم/DTNN متعطش/NN يلقاه/VBP ويطلعو/NNS من/IN الكاس/DTNN بالتخصص/NN .../PUNC الفيصلي/DTNNP الزعيم/DTNN 

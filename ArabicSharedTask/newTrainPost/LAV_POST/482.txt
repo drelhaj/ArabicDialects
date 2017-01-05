@@ -1,0 +1,1 @@
+اصرف/NN و/CC ما/WP تخلي/VBD ببالك/NN ولا/NN اشي/JJ !/PUNC يعني/VBP اللي/WP راتبه/VBD اقل/JJR من/IN 1500/CD -/PUNC 2000دينار/CD لا/RP راح/NN يقدر/VBP يشتري/VBP بيت/NN محترم/JJ ولا/VBD سياره/NNP محترمه/NNP ,/PUNC فا/NN شو/NNP ما/WP وفرت/VBD عالفاضي/JJ !/PUNC لا/RP توجع/VBP راسك/NN بالحسابات/NNS بس/NN لا/RP تتداين/VBP ولا/NN تقترض/VBP 

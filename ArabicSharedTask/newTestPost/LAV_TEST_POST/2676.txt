@@ -1,0 +1,1 @@
+والله/NN يجيرنا/VBP من/IN كل/NOUN ما/WP هو/PRP مساعد/NN على/IN ارتفاع/NN حرارة/NN الجو/DTNN والانسان/NNP المغلوب/DTJJ على/IN امره/NN والذي/JJ لا/RP يملك/VBP مكيف/NN تبريد/NN في/IN سيارته/NN او/CC بيته/NN ،/NN الله/NNP يبعد/VBP عنا/VBD الاخبار/DTNN التي/WP تساهم/VBP في/IN تنشيف/NN وعدم/NN ترطيب/NN الجو/DTNN العام/DTJJ والله/NN يستر/VBP علينا/NN من/IN كلشي/NNP مش/NN مليح/JJ ./PUNC 

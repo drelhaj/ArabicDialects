@@ -1,0 +1,1 @@
+والله/NN الحكومة/DTNN محتارة/NN شو/NNP بدها/NN تحط/VBP ضريبة/NN .../PUNC ما/WP ضل/VBD شي/NNP إلا/NN وصار/NN لعيه/NN ضريبة/NN إلا/NN الهواء/DTNN .../PUNC بجوز/NN كمان/NN كم/PRP$ من/IN يوم/NN يفرضوا/VBP ضريبة/NN عليه/NNP .../PUNC ما/WP في/IN شي/NNP بعيد/JJ .../PUNC الله/NNP يهوًنها/NNP علينا/NNP 

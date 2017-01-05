@@ -1,0 +1,1 @@
+لاتقعدون/NNP تسوون/VBP فيها/NN وتتكلمون/JJ على/IN المتوفي/DTJJ إنه/NN خاين/JJ ./PUNC ./PUNC خاين/NNP عشانه/NNP يبي/VBP يغني/VBP نفسه/NN عن/IN الذل/DTNN والفقر/NN والا/NN تبونه/NN يسرق/VBP بعدين/NNS المتخلفين/DTNNS هم/PRP موجودين/JJ هنا/RB 

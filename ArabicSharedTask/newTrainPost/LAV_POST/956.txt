@@ -1,0 +1,1 @@
+يعني/VBP كلمة/NN هتك/NN عرض/NN إكبيرة/JJ ./PUNC ./PUNC يمكن/VBP هي/PRP بس/NN كانت/VBD بتعمل/NN تاتو/NNP ./PUNC ./PUNC بس/NN عن/IN هبل/NN ./PUNC ./PUNC أنا/VBD مش/NN شايف/NNP بالخبر/NNP أي/NNP نوع/NN من/IN تحرش/NN جنسي/JJ ./PUNC ./PUNC حرام/NN نظلم/VBP المعلمة/DTNN قبل/NN ما/WP نتأكد/VBP 

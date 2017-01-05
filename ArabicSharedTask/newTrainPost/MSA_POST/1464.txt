@@ -1,0 +1,1 @@
+ما/WP ذنب/NN المواطن/DTNN الذي/WP لم/RP يكن/VBP يتوقع/VBP أن/NN يصدر/VBP القرار/DTNN فجأة/NN و/CC بدون/IN إعطاء/NN فترة/NN كافية/JJ خصوصا/NN بعد/NN نفي/NN مدير/NN الجمارك/DTNN بفرض/NN ضريبة/NN قبل/NN القرار/DTNN ببضعة/NN أيام/NN !/PUNC ؟/VBD لماذا/WRB كان/VBD القرار/DTNN مباغتاً/JJ لهذه/NN الدرجة/DTNN و/CC كأنه/NN قرار/NN بالحرب/NNP ؟/CD 

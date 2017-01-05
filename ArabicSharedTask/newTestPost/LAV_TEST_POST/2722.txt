@@ -1,0 +1,1 @@
+يعني/VBP جد/NN وزارة/NN التربيةوالتعليم/DTNN مملللة/NN ./PUNC لو/IN قرار/NN عاطل/JJ كان/VBD صاروا/VBD منفذينوا/NN بس/NN لانه/NNP شي/NNP منيح/NNP بدل/NN هل/RP زي/NN المقرف/DTNN اللي/WP بلبسوا/VBD لطلاب/NN المدارس/DTNN الحكومية/DTJJ الذي/WP ينم/VBP عن/IN قلة/NN زوق/NNP مقارنه/NNP مع/NN الدول/DTNN المجاورة/DTJJ على/IN الاقل/DTJJR مش/NN مقارنه/NN مع/NN الدول/DTNN الاجنبية/DTJJ 

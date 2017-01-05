@@ -1,0 +1,1 @@
+واحس/NNP بنفسي/NNP وفي/NNP ثواني/NN رااجعه/NNP ذااكرتي/NNS لملاهي/JJ الحكير/DTNN اللي/WP في/IN ربوة/NNP -LRB-/PUNC رياضنا/NNP المتألق/DTJJ في/IN شماله/NN فقط/RB بس/NN حبه/NN ينسيني/VBP ذا/NN الشي/DTNNP -RRB-/PUNC 

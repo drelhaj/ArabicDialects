@@ -1,0 +1,1 @@
+1/CD -/PUNC لاجديد/NNP تحت/NN الشمس/DTNN بخصوص/NN المدرب/DTNN الجديد/DTJJ القديم/DTJJ اليماني/DTJJ ./PUNC 

@@ -1,0 +1,1 @@
+وردة/NN فنانة/NN قديرة/JJ و/CC مكانتها/NN محفوظة/JJ في/IN قلوب/NN المصريين/DTNNS ،/VBD ،/NN كل/NOUN الاطراف/DTNN غلطت/NN ./PUNC ./PUNC لكن/VBP ده/DT مش/NN معناه/NN نهاية/NN العالم/DTNN ./PUNC ./PUNC التسامح/DTNN فضيلة/NN الهية/JJ ./PUNC ./PUNC تحيا/VBP مصر/NNP و/CC تحيا/VBP الجزائر/DTNNP ،/CD 

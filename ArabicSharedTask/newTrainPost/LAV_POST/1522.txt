@@ -1,0 +1,1 @@
+وماله/NN السرفيس/NNP الله/NNP يرحم/VBP باصات/NNS ادفش/NNP الله/NNP يرحم/VBP الفوكس/DTNN فاجن/NNP الله/NNP يرحم/VBP _/PUNC 190/CD -RRB-/PUNC القديمه/DTNN اذا/IN طفت/VBD السياره/DTNN وخلص/NN البنزين/DTNN كنت/NNP -LRB-/PUNC .../PUNC .../PUNC -RRB-/PUNC فيها/NNP وتمشى/NNP 50/CD كم/PRP$ اليوم/DTNN اوكتان/NNP 95/CD واوكتن/NN 90/CD واوكتان/NNS 313/CD والله/NN يستر/VBP من/IN القادم/DTNN 

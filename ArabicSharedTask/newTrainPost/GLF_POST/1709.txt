@@ -1,0 +1,1 @@
+ياليت/NNP ترحمونا/NNP وتقللو/NNP الاستقدام/DTNN ترا/VBP والله/NN تعبنا/VBD والحال/NN ما/WP يعلم/VBP به/NN الا/RP الله/NNP وترحمونا/NNP وتغيرون/NNP لنا/VBD بلد/NN السحر/DTNN غيروههها/NN ياناس/NNP ترا/VBP هم/PRP استعبدونا/VBD حسبنا/NNP الله/NNP على/IN كل/NOUN ظالم/JJ يسلم/VBP لنا/NNP ابو/NNP متعب/NNP الله/NNP يديمه/VBP 

@@ -1,0 +1,1 @@
+بشرط/VBD تكون/VBP متأكد/NN إنه/NN أنا/VBD صاحبة/NN التعليق/DTNN من/IN ايميلي/NNP لانه/NNP فيه/NN غيري/JJ بعلقوا/VBD بنفس/NN الاسم/DTNN ./PUNC وحدة/NN ماتت/VBD عشان/NN كاسة/JJ شاي/JJ ،/VBD برأيك/NNP هالشي/NNP ما/WP بيقهر/VBD ؟/NN ؟/CD 

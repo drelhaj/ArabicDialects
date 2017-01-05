@@ -1,0 +1,1 @@
+الحلقة/DTNN تقديم/NN ماجدة/NNP القاضى/DTNNP وعيب/NN موقع/NN محترم/JJ زيكم/NN يغلط/VBP غلطه/NN زاى/NNP دى/NNP حطين/NNP صورة/NN ماجدة/NNP وكاتبين/NNS تحتها/NN هند/NN القاضى/DTNN والخبر/NN المرسل/DTNN ليكم/NN مكتوب/JJ فيه/NN تقديم/NN ماجدة/NNP القاضى/DTNNP طب/NN لو/IN انتم/PRP مش/NN عارفين/NNS الصورة/DTNN برضوا/VBD مش/NN عارفين/NNS تقروا/VBD الخبر/DTNN كويس/NNP 

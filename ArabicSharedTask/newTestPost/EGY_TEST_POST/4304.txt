@@ -1,0 +1,1 @@
+اي/NOUN نمرة3/NN .../PUNC انت/PRP ياما/NNP ابو/NNP جهل/NN ياما/NN بتشتغل/NN ظالم/JJ بعد/NN الظهر/DTNN .../PUNC ياما/NNP معندكش/NNP دم/NN ./PUNC ./PUNC 

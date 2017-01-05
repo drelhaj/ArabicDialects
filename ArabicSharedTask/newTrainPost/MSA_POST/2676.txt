@@ -1,0 +1,1 @@
+3/CD -/PUNC اذا/IN اردنا/VBD ان/IN نقوم/VBP بحساب/NN لتر/NN البنزين/DTNN 95/CD فاذن/NN يجب/VBP ان/IN نضرب/VBP الرقم/DTNN 84/CD قرشا/NN في/IN 54/CD %/PUNC و/CC عليه/NNP ينتج/VBP ان/IN سعر/NN اللتر/DTNN يجب/VBP ان/IN يكون/VBP بحدود/NN 45.7/CD قرشا/NN 

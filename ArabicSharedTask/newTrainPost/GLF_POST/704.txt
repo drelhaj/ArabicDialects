@@ -1,0 +1,1 @@
+الله/NNP يسلم/VBP من/IN وقف/NN التصدير/DTNN وخلاكم/NN تعرفون/VBP الله/NNP .../PUNC ما/WP ادري/VBP كم/PRP فلوس/NNP تبون/VBP تاخذون/NN معكم/JJ للاخره/JJ ./PUNC ./PUNC الواحد/DTNN يقحش/VBP من/IN هالفلوس/NNP بالملايين/NNP ولا/NNP هي/PRP كافيته/NNP .../PUNC مع/NN ان/IN خبزة/NN تميس/NN تكفي/VBP الواحد/DTNN من/IN الجوع/DTNN ./PUNC ./PUNC 

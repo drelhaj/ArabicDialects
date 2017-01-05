@@ -1,0 +1,1 @@
+انا/PRP بقول/NN انه/NN اذا/IN دورنا/VBD منيح/NN ./PUNC ./PUNC خاف/VBD الله/NNP خاف/NNP الله/NNP انه/VBD مش/NN رح/NN تطلع/VBP بنته/NN .../PUNC 

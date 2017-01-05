@@ -1,0 +1,1 @@
+ولكن/VBN الغربة/DTNN أبت/VBD ذلك/DT والحمدلله/NN عدنا/VBD للوطن/NN والآن/NNP بانظار/NNP الفوز/DTNN بالكأس/NNP الـ/DTNNP -LRB-/PUNC 17/CD -RRB-/PUNC في/IN تاريخ/NN الزعيم/DTNN إن/NN شاء/VBD الله/NNP لتكون/NNP رقم/NN -LRB-/PUNC 70/CD -RRB-/PUNC 

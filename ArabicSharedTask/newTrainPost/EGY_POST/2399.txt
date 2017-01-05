@@ -1,0 +1,1 @@
+-LRB-/PUNC المسئول/DTNN :/PUNC -/PUNC طيب/NNP ./PUNC ./PUNC برحتك/NNP ./PUNC ./PUNC بكره/NN تشوف/NNP كلامى/NNP -RRB-/PUNC 

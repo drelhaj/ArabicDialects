@@ -1,0 +1,1 @@
+اخوي/NNP ابو/NNP ناصر/NNP لعلمك/NNP ماهو/NNP انت/PRP لحالك/NN الي/IN جت/NN عليه/NN مخالفات/NNS بالظلم/NNP والله/NNP فيه/NNP زيك/NNP كثير/NN بس/NN الله/NNP يعين/VBP ويسهل/NN وبس/NN 

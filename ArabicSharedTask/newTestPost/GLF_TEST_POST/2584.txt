@@ -1,0 +1,1 @@
+سبحان/NN ./PUNC الله/NNP ./PUNC الحين/DTNN ./PUNC اللاعب/DTNN ./PUNC يبي/VBP ./PUNC حقوقه/NN ./PUNC تقوموا/VBD ./PUNC تحسموا/VBD ./PUNC ./PUNC عليه/NNP ./PUNC ؟/CD 

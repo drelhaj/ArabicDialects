@@ -1,0 +1,1 @@
+أبي/VBD أعرف/NN ويش/NNP في/IN البحرين/DTNNP غير/NN الحقد/DTNN على/IN المواطن/DTNN السعودي/DTJJ والكراهية/NN وحنا/NN فلوسنا/NN تصرف/NN عندهم/JJ في/IN أشياء/NN غير/NN مفيدة/JJ في/IN تصوري/NN السعوديين/DTNNS لو/IN مايدخلون/NNP للبحرين/NNP تخسر/VBP سياحتهم/NN وين/NNP العقلاء/DTJJ وين/NN المفروض/DTNN تصرف/NN فلوسنا/NN في/IN بلادنا/NNP أحسن/NNP ./PUNC 

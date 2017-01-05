@@ -1,0 +1,1 @@
+اشكرك/NNP ./PUNC ./PUNC هو/PRP الموضوع/DTNN اخذ/VBD وقت/NN اكبر/JJR من/IN حجمه/NN 

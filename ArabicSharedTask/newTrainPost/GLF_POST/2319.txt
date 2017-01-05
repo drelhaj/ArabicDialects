@@ -1,0 +1,1 @@
+عز/NNP الله/NNP انك/VBD ماقصرت/NNP يامحمد/NNP الحمود/DTNNP ./PUNC ./PUNC كنت/VBD وجه/NN سعد/NNP على/IN الطلبه/DTNN المبتعثين/DTJJ في/IN البحرين/DTNNP ./PUNC ./PUNC راعي/NN فزعه/NNP ولابينك/NNP وبين/NN الطلاب/DTNN كلافه/NN ومكتبك/NN مفتوح/JJ للجميع/JJ ./PUNC الله/NNP يجزاك/VBP الف/NN خير/NN ويوفقك/NNP ويطول/NNP بعمرك/NNP ./PUNC 

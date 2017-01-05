@@ -1,0 +1,1 @@
+1/CD ./PUNC استقالة/NN الادارة/DTNN الحالية/DTJJ وانتخاب/NN ادارة/NN افضل/JJR قادرة/JJ على/IN الحفاظ/DTNN على/IN نجوم/NN الوحدات/DTNNS وتامين/NNS مستحقلت/JJ اللاعبين/DTNNS المادية/DTJJ اولا/ADJ باول/NNP 

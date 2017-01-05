@@ -1,0 +1,1 @@
+الراجل/DTNN ده/DT طول/NN عمره/NN كاذب/JJ ومصلحته/NN رقم/NN 1/CD ولا/NN يفهم/VBP فى/IN اى/NOUN شئ/NN بطيخ/NN فى/IN بطيخ/NN بيحاول/NNP يجد/VBP طريق/NN للزعامة/NN على/IN حزمة/NN من/IN القش/DTNN وهايودينا/NNP فى/IN ستين/CD داهيه/NN انه/NN الممثل/DTNN القدير/DTJJ ايمن/NNP نور/NNP 

@@ -1,0 +1,1 @@
+الله/NNP يهديك/VBP بس/NN يا/RP ابو/NNP وهيب/NNP ./PUNC ./PUNC لو/IN ما/WP اختارو/VBD الهلال/DTNNP من/IN بيختارون/NNP ./PUNC ؟/VBD ؟/NN يستحقها/NN الزعيم/DTNN رغم/NN مناخر/NN الحاقدين/DTNNS ./PUNC ./PUNC سر/NN يا/RP زعيم/NN اسيا/NNP للامام/NNP مدام/NN يقودك/VBP شبيه/NN الريح/DTNN ومن/NN خلفك/NN طوفان/NN من/IN الجماهير/DTNN تزفك/VBP لاي/NNP محفل/NN رياضي/NN 

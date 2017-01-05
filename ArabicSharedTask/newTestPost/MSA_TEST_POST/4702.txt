@@ -1,0 +1,1 @@
+-LRB-/PUNC قد/RP اسمعت/VBD لو/IN ناديت/VBD حيا/NN ولكن/NN لا/RP حياة/NN لمن/NN تنادي/VBP -RRB-/PUNC 

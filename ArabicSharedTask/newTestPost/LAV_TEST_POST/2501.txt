@@ -1,0 +1,1 @@
+كل/NOUN العالم/DTNN عم/IN بساو/NNP هذه/DT المسيرة/DTNN مش/NN بس/NN في/IN عمان/NNP ،/VBD وكل/NN كان/VBD واقف/JJ مع/NN السيدة/DTNN التي/WP تلبس/NN الزي/DTNN ،/VBD بس/NN احنا/NN ما/IN بنحب/NN اي/NOUN ايش/NN بوعي/JJ الناس/DTNN وبفهمهم/NN ،/NN خليها/NN مثل/NN النعام/DTNN !/PUNC 

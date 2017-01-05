@@ -1,0 +1,1 @@
+3-هداف/CD بمنى/NN هداف/NN يستطيع/VBP أن/NN يسجل/VBP من/IN أشباه/NN فرص/NN أمثال/NNP -LRB-/PUNC جهاد/NNP عبد/NNP المنعم/DTNNP ،/NNP جريس/NNP تادرس/NNP ،/NNP المحترف/DTJJ علاء/NNP ا/IN براهيم/NNP .../PUNC -RRB-/PUNC 

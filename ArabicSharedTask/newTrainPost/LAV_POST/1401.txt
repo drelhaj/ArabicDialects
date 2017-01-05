@@ -1,0 +1,1 @@
+بالفعل/NNP بحمد/NNP الله/NNP اني/NNP لسه/NN ما/IN تزوجت/VBD ./PUNC ./PUNC لانو/NNP قريبا/JJ جدا/NN رح/NN يكون/VBP في/IN ضريبة/NN على/IN المعاشرة/DTNN الزوجية/DTJJ مما/NN سيضطر/NN المواطنين/DTNNS للجوء/NN الى/IN الطلاق/DTNN الذي/WP سيكون/VBN بدوره/NN عليه/NN ضريبة/NN اخرى/JJ ./PUNC ./PUNC 

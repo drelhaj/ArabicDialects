@@ -1,0 +1,1 @@
+جزاك/NNP الله/NNP خير/NN ياشيخ/VBP هاذي/NN الخطب/DTNN القيمة/DTJJ موهب/NN خوينا/NN ذاك/NN يقول/VBP لا/RP تغضب/VBP ./PUNC 

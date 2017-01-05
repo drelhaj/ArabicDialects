@@ -1,0 +1,1 @@
+لولا/IN الوحدات/DTNNS وجماهيرو/NNP كان/VBD الاتحاد/DTNN فلس/NN .../PUNC .../PUNC ./PUNC ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

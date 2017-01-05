@@ -1,0 +1,1 @@
+تب/VBD كمان/NN هؤلكم/NNP سيبكم/NNP خالص/VBD منا/NN .../PUNC انت/PRP هتتنازل/NN عن/IN قيم/NN دينك/NNP بالسهولة/NNP دي/NNP حتي/NNP لو/IN كانو/NNP ببلاش/NNP -/PUNC ولو/NNP اتنازلت/NNP يبقى/VBP الحمد/NN لله/NN انك/VBD متجوزتش/NN زوجة/NN مصرية/JJ مسلمة/JJ اومسيحية/NN لأنك/NN متستهلش/JJ .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC 

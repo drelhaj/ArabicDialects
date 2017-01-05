@@ -1,0 +1,1 @@
+يا/RP أخ/NN محمود/NNP مشكلتنا/NNP انو/VBD أذا/NN الواحد/DTNN عطس/NN بينط/NN واحد/JJ بيحكيلك/NNP -LRB-/PUNC الدين/DTNN -RRB-/PUNC ./PUNC 

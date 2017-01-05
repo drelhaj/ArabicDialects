@@ -1,0 +1,1 @@
+وان/NNP اسرائيل/NNP لا/RP تطلب/VBP فلسطين/NNP من/IN احد/NN بل/CC هي/PRP تملكها/NN بقوة/NN السلاح/DTNN ./PUNC 

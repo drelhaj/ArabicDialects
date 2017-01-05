@@ -1,0 +1,1 @@
+كل/NOUN ده/DT بسبب/NN الخصخصة/DTNN والغريب/NN لانه/NN تم/VBD بيع/NN معظم/NOUN فروع/NN الجمعيات/DTNNS الاستهلاكية/DTJJ لافراد/NNP ./PUNC لابد/VBD من/IN محاكمة/NN الغريب/DTNN بتهمة/NN الخيانة/DTNN العظمى/DTJJR لهذا/NN الشعب/DTNN 

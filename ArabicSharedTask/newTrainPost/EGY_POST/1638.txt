@@ -1,0 +1,1 @@
+فلسطين/NNP .../PUNC هه/NN هه/NNP .../PUNC ولاية/NN حماسستان/NNP ./PUNC ./PUNC والقدس/NNP رايحه/NNP علي/IN فين/NNP .../PUNC 

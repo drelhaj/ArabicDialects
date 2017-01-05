@@ -1,0 +1,1 @@
+والوطنية/NN هى/NNP المصرية/DTJJ -/PUNC ومن/VBD الوطنية/DTNN المصرية/DTJJ مش/NN كدة/NN ولا/NN اية/NOUN 

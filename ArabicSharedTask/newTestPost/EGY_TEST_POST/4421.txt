@@ -1,0 +1,1 @@
+مش/NN عارف/NNP بقى/VBD حضرتك/NN نازل/JJ يزعم/VBP يزعم/VBP على/IN اية/NOUN وكأنك/NN بتنكر/NNP حاجة/NN موجودة/JJ وواضحة/NN وضوح/NN الشمس/DTNN فى/IN رابعة/ADJ النهار/DTNNP ./PUNC 

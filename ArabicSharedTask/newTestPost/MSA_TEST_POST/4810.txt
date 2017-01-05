@@ -1,0 +1,1 @@
+لاحول/NNP ولا/NNP قوة/NN إلا/NN بالله/JJ من/IN الرؤساء/DTNN الذين/WP لايملكون/VBD الا/RP الحداد/DTNN والادانات/NNS التي/WP لاتكفي/VBD امام/NN الاعداء/DTNN .../PUNC ربنا/VBD ينصر/VBP المقاومه/DTNN الفلسطينه/NN ويحمي/NNP الاقصى/DTNNP من/IN كل/NOUN مكروه/NN حسبنا/VBD الله/NNP ونعم/NN الوكيل/DTNN على/IN الرؤساء/DTNN ./PUNC 

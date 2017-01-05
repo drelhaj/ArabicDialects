@@ -1,0 +1,1 @@
+وين/NNP رافت/NNP علي/NNP يا/RP حمد/NNP ولا/NN القرار/DTNN مش/NN بايدك/NNP افضل/JJR لاعب/NN في/IN الاردن/DTNNP 

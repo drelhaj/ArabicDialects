@@ -1,0 +1,1 @@
+تنتخبو/VBP جمال/NNP حشمت/NNP يكسب/VBP مصطفي/NNP الفقي/DTNNP متسألش/NNP إزاي/NNP هيه/NNP كدة/NNP يا/RP باشوات/NNP حتي/NNP لو/IN المستشارة/DTNN نهي/VBP الزيني/DTNN حلفت/NN ميت/JJ يمين/NN برضة/NN مصطفي/NNP الفقي/DTNNP اللي/WP هيكسب/VBP 

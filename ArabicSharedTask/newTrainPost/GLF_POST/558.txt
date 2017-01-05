@@ -1,0 +1,1 @@
+انا/PRP اخبر/VBD كلمة/NN -LRB-/PUNC سكتم/NNP بكتم/NNP -RRB-/PUNC قالها/NN الفنان/DTNN المصري/DTJJ محمد/NNP سعد/NNP في/IN فيلم/NN يعني/VBP سرقه/NN عيني/NNS عينك/JJ حتى/IN الكلمات/DTNNS تسرق/VBP من/IN غيرنا/NN وش/NN هذا/DT 

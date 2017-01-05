@@ -1,0 +1,1 @@
+أنا/VBD أقول/NN يجب/VBP على/IN نادي/NN الرمثا/DTNNP أن/NNP يشتكى/VBP على/IN الحكم/DTNN للإتحاد/NN لأنه/NN ظلم/NN الرمثا/DTNNP كثيراً/NNP ./PUNC 

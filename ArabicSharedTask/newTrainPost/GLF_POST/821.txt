@@ -1,0 +1,1 @@
+طيب/NNP ليش/NNP ما/WP رفعوا/VBD ايقاف/NN الدوخي/DTNNP ؟/VBD الكل/NOUN اتفق/NN انه/NN ما/WP يستحق/VBP الطرد/DTNN اما/CC الاهلي/DTNNP مو/NNP نفس/NN الشي/NNP رفعوه/NNP عن/IN الدوسري/DTNNP لاعبهم/NNP 

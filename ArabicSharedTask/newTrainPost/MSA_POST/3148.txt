@@ -1,0 +1,1 @@
+حمى/VBD الله/NNP الاردن/DTNNP من/IN كل/NOUN عابث/NN وعابثين/NNS وطامع/NN وطامعين/NNS والذين/JJ لايرون/JJ في/IN الاردن/DTNNP سوى/NN صفقة/NN رابحة/JJ في/IN عطاء/NN محلي/JJ او/CC دولي/JJ ويبيعون/VBP دينهم/NN بشيء/JJ يسير/VBP من/IN عرض/NN الدنيا/DTNN وينسون/NNP ان/IN الاردن/DTNNP ليس/VBD مضغة/NN سائغة/JJ لهؤلاء/NN المتواطؤن/DTNNS عليه/NN خارجا/NN وداخل/NN 

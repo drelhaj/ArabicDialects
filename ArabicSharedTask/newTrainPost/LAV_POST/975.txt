@@ -1,0 +1,1 @@
+و/CC بعدين/NNP بيحكولك/NNP فوز/NN بطلوع/NN الروح/DTNN ./PUNC طب/NN كان/VBD فزتوا/VBD على/IN الرمثا/DTNNP 

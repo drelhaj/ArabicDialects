@@ -1,0 +1,1 @@
+ليه/NNP دايماً/NNP معصبة/NN ،/NN موجة/NN الحرارة/DTNN هاي/NNP مناخ/NN يعني/VBP شغلة/NN من/IN عند/NN ربنا/NN .../PUNC 

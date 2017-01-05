@@ -1,0 +1,1 @@
+بصراحة/NN مش/NN مستوعب/NN ؟/NN ؟/NN ؟/NN !!!!/NN ؟/NN ؟/NN ؟/NN ؟/NN كيف/WRB حد/NN الفقر/DTNN 46/CD دينار/NN شو/NNP هاد/NNP كفيف/NNP بقيسوها/NNP على/IN اجار/NN البيوت/DTNN و/CC لا/RP مثلا/NN الفقير/DTNN فقط/RB بياكل/NN شاي/JJ و/CC خبزا/NN مثلا/NN .../PUNC الرجاء/DTNN توضيح/NN سلة/NN الغذاء/DTNN للفقير/NNP و/CC كيفية/NN قياسها/NN ؟/NN 

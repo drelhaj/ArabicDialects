@@ -1,0 +1,1 @@
+بالعكس/NNP انا/PRP ودي/JJ يكون/VBP نظام/NN بمصادرة/NN السيارات/DTNNS الي/IN تقطع/VBP الأشارة/DTNN لأن/NN عندنا/NN شعب/NN متخلف/JJ واذا/JJ قطع/NN الأشارة/DTNN شف/NN انواع/NN السب/DTNN واشتم/NNP ؟/NNP 

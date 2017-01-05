@@ -1,0 +1,1 @@
+انته/VBD احكي/VBP قدما/NN بدك/NN تحكي/VBP الكهرباء/DTNN قاطعه/NN مافي/JJ حد/NN راح/NN يرد/VBP عليك/NN بس/NN اذا/IN قصرة/NNP بدفع/VBD فاتورة/NN الكهربا/DTNN اكيد/JJ بتلاقي/NN كل/NOUN الشركه/DTNN عندك/NNP !/PUNC 

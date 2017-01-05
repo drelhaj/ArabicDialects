@@ -1,0 +1,1 @@
+اوكي/NNP يدنا/VBD المحارمة/DTNNP بس/NN ابو/NNP كشك/NNP لاعب/NN فنان/NN وموهوب/NNP يجب/VBP ان/IN يبقى/VBP مع/NN الفيصلي/DTNNP ./PUNC ./PUNC 50/CD الف/CD مع/NN راتب/NN بكفي/NNP مهو/NNP سليم/NNP اخذ/VBD اربع/CD لعيبة/NN ولا/NN طمعان/NNP بالشباب/NNP الثانية/ADJ 

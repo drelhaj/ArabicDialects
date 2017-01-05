@@ -1,0 +1,1 @@
+لانة/NNP لما/NNP يتلفًت/VBP ويبص/NN وراة/JJ ,/PUNC لو/IN طولة/NN 185/CD سم/NN ,/PUNC شعاع/NN الروية/DTNN هيتلاقى/NNP مع/NN كل/NOUN زوايا/NN الحجارة/DTNN من/IN اعلى/JJ ./PUNC 

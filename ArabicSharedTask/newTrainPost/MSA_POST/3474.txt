@@ -1,0 +1,1 @@
+واخيرا/NNP ان/IN اتمنى/VBP من/IN الجمعية/DTNN وهي/JJ تعلم/VBP ان/IN هناك/RB 90000/CD الف/CD عانس/NN في/IN الاردن/DTNNP واتمنى/NNP من/IN جمعيات/NNS حقوق/NN المراة/DTNN ان/IN لا/RP تكون/VBP هي/PRP السبب/DTNN والمسبب/VN في/IN رفع/NN هذا/DT الرقم/DTNN الى/IN 200000/CD عانس/NN 

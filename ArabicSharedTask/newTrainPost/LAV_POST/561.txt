@@ -1,0 +1,1 @@
+كنت/VBD ناسي/NNP انو/VBD الملعب/DTNN قريب/NN عليكو/NNP كثير/NN ./PUNC ./PUNC لانو/VBD بين/NN بيوتكو/NNP 

@@ -1,0 +1,1 @@
+كنت/VBD ابيه/NNP ./PUNC ./PUNC لكن/VBP عصبيته/NN حالو/VBD بيني/NNP وبينه/NNP 

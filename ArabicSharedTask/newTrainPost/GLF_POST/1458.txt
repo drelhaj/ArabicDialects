@@ -1,0 +1,1 @@
+البطولة/DTNN ليست/VBD الفوز/DTNN على/IN الهلال/DTNNP ./PUNC ./PUNC البطوله/DTNN يبي/VBP لها/NN أبطال/NN مو/NNP مرتزقه/NNP !!!/CD 

@@ -1,0 +1,1 @@
+برافو/NNP عليهم/NNP الاتراك/DTNN ./PUNC ولا/NN خليتو/NNP الواحد/DTJJ يتمنى/VBP يكون/VBP تركي/JJ ./PUNC 

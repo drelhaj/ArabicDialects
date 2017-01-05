@@ -1,0 +1,1 @@
+الخلاصة/DTNN اذا/IN كان/VBD هناك/RB فتيات/NNS يتزوجن/VBP باعمار/NNP تقل/VBP عن/IN 14/CD عاما/NN واخريات/NNS فاتهن/JJ قطار/NN الزواج/DTNN بالالاف/NNP فاعرف/NNP انك/NNP بالاردن/NNP ./PUNC 

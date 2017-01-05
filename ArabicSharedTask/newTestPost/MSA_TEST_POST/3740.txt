@@ -1,0 +1,1 @@
+الفيصلي/DTNNP ذ/VBD الطرة/DTNN 8-1/CD ،/NN سجل/NN للفيصلي/NNP مؤيد/VN ابو/NNP كشك/NNP 2/CD ومحمد/NN خميس/NNP 2/CD وخالد/NN سعد/NNP وعامر/NNP ابو/NNP عامر/NNP وعمر/NNP غازي/NNP ومحمد/NNP عوض/NNP وللطرة/NNP عطا/NNP الله/NNP الحناوي/DTNNP .../PUNC 

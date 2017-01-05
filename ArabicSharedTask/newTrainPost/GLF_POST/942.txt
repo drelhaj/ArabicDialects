@@ -1,0 +1,1 @@
+لله/NN درك/NN ياجمهور/NNP العالمي/DTJJ ان/IN خسرت/VBD ولا/NN ربحت/VBD جمهورك/NN واحد/JJ وكل/VBD يوم/NN يزيد/VBP انا/PRP اقول/VBP تعلمو/NN من/IN جماهير/NN فارس/NNP نجد/VBP الصبر/DTNN والمؤازره/NNP مع/NN فريقهم/NNP ./PUNC ./PUNC ^/CD 

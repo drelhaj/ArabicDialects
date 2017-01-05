@@ -1,0 +1,1 @@
+8/CD -/PUNC ياريت/NNP تزور/VBP أحدى/NN الكنائس/DTNN مرتين/NNS تلاتة/NN ./PUNC ./PUNC الناس/DTNN هايرحبوا/VBD بيك/NNP .../PUNC لأنة/NN واضح/JJ أنك/VBD تسكن/VBP فى/IN منطقة/NN لايوجد/NNP بها/NN كنيسة/NN .../PUNC علشان/NN كدة/NN معلومات/NNS مشوهة/JJ عن/IN الكنيسة/DTNN 

@@ -1,0 +1,1 @@
+إذكروا/VBD الاسماء/DTNN علشان/NNP نفهم/VBP ./PUNC ./PUNC !!/VBD ليش/NNP بتحكوا/NNP بالالغاز/NNP خايفين/NNP على/IN شعوره/NN يعني/VBP .../PUNC 

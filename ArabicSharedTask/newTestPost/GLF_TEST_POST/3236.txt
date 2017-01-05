@@ -1,0 +1,1 @@
+امريكا/NNP تاج/NNP راسي/NNS ./PUNC ./PUNC صانعي/NNS الدواء/DTNN لو/IN لاهم/NNP كان/VBD ميت/JJ من/IN زمان/NN بدون/IN ما/WP يدري/VBP عني/NN احد/NN زاهلي/NNS يقولون/VBP وجع/NN ومات/NNS ولدنا/VBD وش/NN مرضة/NN ما/IN احد/NN يدري/VBP بس/NN اتت/VBD امريكا/NNP وانتذتني/NNP امريكا/NNP اقبل/VBD اقدامك/NNP 

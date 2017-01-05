@@ -1,0 +1,1 @@
+الزملكوية/DTNN دول/NN مش/NN بس/NN بلطجية/JJ لا/RP وكمان/NNS أغبياء/JJ ./PUNC يقولو/VBP إن/NN الحكام/DTNN بتظلمهم/NNP علشان/NNP الأهلى/DTNN يأخد/VBP الدورى/DTNN ./PUNC طب/NN ليه/NN الحكام/DTNN مخلوش/VN الأهلى/DTNN يكسب/VBP المقاولون/DTNNS ويريحو/NNP دماغهم/NNP ؟/CD 

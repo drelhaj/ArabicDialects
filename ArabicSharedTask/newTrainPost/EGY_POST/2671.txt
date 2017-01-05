@@ -1,0 +1,1 @@
+لما/NNP البرادعي/DTNNP هو/PRP السبب/DTNN في/IN دمار/NN العراق/DTNNP ,/PUNC طيب/NNP الريس/DTNNP كرمه/NNP ليه/NNP ؟/CD و/CC إداله/NN قلادة/NN النيل/DTNNP ,/PUNC أرفع/VBD وسام/NN في/IN مصر/NNP ليه/NNP ؟/CD 

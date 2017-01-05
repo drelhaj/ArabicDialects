@@ -1,0 +1,1 @@
+اعتقد/VBP ان/IN هذا/DT دليل/NN كافي/JJ على/IN ان/IN للزعامه/NN عنوان/NN و/CC ليست/VBD مجرد/NN كلمه/NN يطلقها/NN ايا/RP كان/VBD للفريق/NNP الذي/WP يشجع/VBP .../PUNC عندما/NN يطلق/VBP احد/NN كلمة/NN زعيم/NN لفريق/NN أخر/NN ./PUNC ./PUNC ارجو/VBP منه/NNP التفكير/DTNN مليا/JJ فلا/NN بد/NN له/NN من/IN دليل/NN ./PUNC ./PUNC 

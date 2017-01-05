@@ -1,0 +1,1 @@
+ابي/NNP لا/RP هنت/VBD 00001/CD ./PUNC %/PUNC ووعد/NN مني/VBN لا/RP أرجعه/VBP مهب/NN زي/NN الكهرب/DTNN الي/IN يبي/VBP يزرفونه/NNP ./PUNC ./PUNC ما/WP أتوقع/VBD مليون/NN ونص/NN واجده/NNP مقارنة/NN بهالمبلغ/NNP الخرافي/DTNNP ./PUNC 

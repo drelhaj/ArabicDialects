@@ -1,0 +1,1 @@
+مهو/NNP لو/IN فرجاها/NN العين/DTNN الحمرا/DTJJ من/IN اول/ADJ يوم/NN ولو/VBD قطع/NN راس/NN البسة/NN من/IN اول/ADJ ليلة/NN ما/IN بتعمل/NN هيك/NNP ./PUNC ./PUNC اصلا/NN هيك/NNP النسوان/DTNNP لازم/VBD تضل/VBP خانقهم/NN وضابعهم/NN عشان/NNP يحترموك/NNP ./PUNC ./PUNC وغير/NN هيك/NNP بقتلوك/NNP 

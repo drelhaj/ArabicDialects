@@ -1,0 +1,1 @@
+الله/NNP .../PUNC الوطن/DTNN .../PUNC الملك/DTNN 

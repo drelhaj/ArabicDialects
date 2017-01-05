@@ -1,0 +1,1 @@
+1/CD -/PUNC حضرتك/NNP مالكيش/NNP فى/IN الدين/DTNN ناقة/NN ولا/NN جمل/NN ./PUNC 

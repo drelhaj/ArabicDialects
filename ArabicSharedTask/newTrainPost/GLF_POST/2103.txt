@@ -1,0 +1,1 @@
+عطني/NN حظ/NN الهلال/DTNN وارمني/DTJJ في/IN البحر/DTNN .../PUNC الهلال/DTNNP مايقابل/NNP فريق/NN في/IN المواجهات/DTNNS الحاسمه/DTJJ الا/RP ويغيب/NN عنه/NN ابرز/JJR عناصره/NN والهلال/NN يكون/VBP مكتمل/NN ./PUNC 

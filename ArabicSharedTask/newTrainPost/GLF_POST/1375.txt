@@ -1,0 +1,1 @@
+ويترك/NNP السياره/DTNNP شغاله/NNP واذا/NNP سرقت/NN قال/VBD الامن/DTNN فيه/NNP وفيه/NNP 

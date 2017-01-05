@@ -1,0 +1,1 @@
+ولكن/VBN اليوم/DTNN الثاني/ADJ من/IN ايار/NNP هناك/RB انهيار/NN هناك/RB بركان/NN هناك/RB زلزال/NN سيضرب/NN ملعب/NN النار/DTNN والانتصار/NNP بثلاثيه/NNP رختر/NNP مصدرها/NN نادي/NN الوحدات/DTNNS وستضرب/DTJJ حصون/NN الحسين/DTNNP -/PUNC اربد/NNP الذي/WP افقدنا/VBD بالدوري/NNP 3/CD نقاط/NN وسنرد/NN له/NN الصاع/DTNN ثلاثه/NN وسنعلنها/NN من/IN اليوم/DTNN المارد/DTNN الاخضر/DTJJ كبير/JJ 

@@ -1,0 +1,1 @@
+سعر/NN الاسمنت/DTNN مافيه/NNP مشكله/NNP ارتفع/VBD اونزل/NN كلها/NN 2ريال/NN او4ريال/NNP احنا/NN نبي/NN الاراضي/DTNN تنزل/VBP بالرياض/NN المتر/DTNN للسكني/NNP وصل/VBD 800ريال/NNP يعني/VBP مساحه/NN 1000م/CD سعرها/NN 800الف/JJ ان/IN رحت/VBD للبنك/NNP جزرك/NNP وكسر/NNP اضلوعك/NNP وان/NNP استاجرت/VBD مصيبه/NN اين/WRB المفر/DTNN ./PUNC 

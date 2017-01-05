@@ -1,0 +1,1 @@
+يا/RP جماعه/NN كفايه/NN تضليل/NN للناس/NNP ياريت/NNP بعد/NN كده/NN اي/NOUN موضوع/NN له/NN علاقة/NN بالمسجد/NNP الاقصى/DTNNP تكون/VBP صورة/NN المسجد/DTNN الاقصى/DTNNP الحقيقي/DTJJ اللي/WP بقبة/NN خضراء/JJ لو/IN متعرفهوش/VBG الناس/DTNN مبقتش/NN تعرف/VBP هى/NN بتتكلم/JJ عن/IN ايه/NN 

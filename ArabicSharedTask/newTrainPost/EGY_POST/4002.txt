@@ -1,0 +1,1 @@
+احسن/VBD حاجة/NN عملها/NN روراوة/NN فى/IN حياته/NN لمصر/NNP هى/NNP ايقاف/NN ابراهيم/NNP حسن/NNP شكرا/NN بجد/NNP روراوة/NNP ويارب/NNP يقدم/VBP شكوى/NN للفيفا/JJ ضد/NN اتحاد/NN الكرة/DTNN المصرى/DTJJ خلاص/NN أنكشفنا/NN ،/NN الجزائرين/DTNNS وألي/NNP عملوه/NNP على/IN الحق/DTNN ./PUNC 

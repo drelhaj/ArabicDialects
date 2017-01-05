@@ -1,0 +1,1 @@
+ما/WP ينزلون/VBP وظائف/NN الا/RP لما/IN يحجزونهاا/NN لقرايبهم/NNP ./PUNC ./PUNC والله/NNP عاد/VBD من/IN زين/NNP الرواتب/DTNN وطالبين/NNP خبره/NNP سنتين/NNS 

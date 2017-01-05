@@ -1,0 +1,1 @@
+يستاهل/VBP ياسر/NNP ./PUNC ./PUNC هو/PRP دائما/NN الاول/ADJ في/IN كل/NOUN شيء/NN .../PUNC نتمنى/VBP له/NN التوفيق/DTNN لانه/NNP فارس/NNP الكره/DTNN السعوديه/DTJJ 

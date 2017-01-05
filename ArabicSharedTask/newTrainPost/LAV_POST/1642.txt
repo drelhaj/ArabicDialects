@@ -1,0 +1,1 @@
+وين/NN السفارة/DTNN الفلسطينيه/NN في/IN عمان/NNP !/PUNC على/IN الاقل/DTJJR مبلغ/NN 8-12/CD الاف/CD دينار/NN مش/NN صعب/JJ السفارة/DTNN تدبرهم/VBP تعتبرهم/NN مصروف/NN حفله/NN مثلا/NN ولو/NNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+على/IN كل/NOUN حال/NN سنرى/VBN غدا/NN ماذا/WP سيفعل/VBP الوحدات/DTNNS امام/NN اسود/JJ الحسين/DTNNP اربد/VBD وكم/NN هدفا/NN ستتلقى/NN شباك/NN الحسين/DTNNP اربد/NNP ./PUNC ./PUNC وبالنسبة/NN لمباراة/JJ بعد/NN غد/NN السبت/DTNN اتمنى/VBP الفوز/DTNN للفيصلي/NNP ولكنني/NNP في/IN نفس/NN الوقت/DTNN اتمنى/VBP التوفيق/DTNN للرمثا/NN 

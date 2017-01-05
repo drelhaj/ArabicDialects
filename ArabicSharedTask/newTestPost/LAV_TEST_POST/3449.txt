@@ -1,0 +1,1 @@
+وين/NNP التشجيع/DTNN على/IN فعل/NN الخير/DTNN .../PUNC المفروض/DTJJ المسؤول/DTNN عن/IN فصل/NN الموظف/DTNN يعاقب/VBN على/IN فعلته/NN .../PUNC ويعوض/NN الموظف/DTNN عن/IN الاذى/DTNN المعنوى/DTJJ اللي/WP طاله/VBD على/IN اثر/NN الفصل/DTNN .../PUNC 

@@ -1,0 +1,1 @@
+بجد/VBD قصيدة/NN جميلة/JJ جداً/NN جداً/NN ومعبرة/NN ومعلش/NN بقى/VBD يا/RP إبنى/VBD هو/PRP ده/DT حال/NN بلدنا/NN الشبعان/DTNN ما/WP بيحسش/VBD بالجوعان/NNP وانا/NNP مع/NN الوزير/DTNN فى/IN محاربة/NN الفساد/DTNN ولكنبعد/NN توفير/NN اللقمة/DTNN للغلبان/NNP وأحييك/NNP مرة/NN أخرى/VBD أيها/NN الشاعر/DTNN الساخر/DTJJ ./PUNC 

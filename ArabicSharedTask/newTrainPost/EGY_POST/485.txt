@@ -1,0 +1,1 @@
+ليه/NNP الزملكاوية/DTNNP فكرين/NNP ان/IN ناديهم/NNP احسن/VBD من/IN الاهلى/DTNN بالرغم/NNP انهم/NNP مش/NN عارفين/NNS يغلبوا/VBP الاهلى/DTNN 

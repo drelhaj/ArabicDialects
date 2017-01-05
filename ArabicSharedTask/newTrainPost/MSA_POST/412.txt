@@ -1,0 +1,1 @@
+تحليل/NN رائع/JJ وهذا/JJ ما/WP لاحظناه/VBD في/IN كل/NOUN زيارة/NN للوطن/NN ان/IN المنتجات/DTNNS الجيدة/DTJJ غالية/JJ السعو/DTNN والمنتج/NN الصيني/DTNN للاستهلاك/NNP السريع/DTJJ العطب/DTNN والواجب/NNP ان/IN المنتوجات/DTNNS المستوردة/DTJJ يجب/VBP ان/IN تخضع/VBP لمواصفات/NNS محددة/JJ كما/CC هو/PRP الحال/DTNN عليه/NNP في/IN دول/NN اخرى/JJ ./PUNC 

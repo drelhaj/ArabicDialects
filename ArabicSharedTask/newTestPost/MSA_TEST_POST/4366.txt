@@ -1,0 +1,1 @@
+فاز/VBD فريق/NN النادي/DTNN الفيصلي/DTNNP ببطولة/NN كأس/NNP الأردن/DTNNP -LRB-/PUNC 14/CD -RRB-/PUNC مرة/NN حيث/WRB انطلقت/VBD هذه/DT البطولة/DTNN لأول/VBN مرة/NN عام/NN 1980/CD وقد/NN فاز/VBD النادي/DTNN الفيصلي/DTNNP في/IN بطولتها/NN بالإضافة/NN إلى/VBD الأعوام/DTNN التالية/DTJJ :/PUNC 

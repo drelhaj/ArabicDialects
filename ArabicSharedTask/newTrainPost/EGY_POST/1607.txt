@@ -1,0 +1,1 @@
+والماتش/NNP بتاعنا/NNP جاي/NNP اهه/NNP ./PUNC ./PUNC كلها/NN اسبوع/NN وهنشوف/NNP ./PUNC ./PUNC هتتروقو/NNP ./PUNC ./PUNC وده/VBD مش/NN جديد/JJ عليكم/JJ ./PUNC ./PUNC 

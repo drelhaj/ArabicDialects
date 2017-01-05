@@ -1,0 +1,1 @@
+هذا/DT العام/DTNN حديث/NN الوموسم/DTNN الوحدات/NNP حديث/NN الصالونات/DTNNS والمنازل/NN والبيوت/NNP والشوارع/NNP البعض/NOUN يقول/VBP لي/NNP ماذ/NNP يحصل/VBP في/IN ناديكم/NNP ؟/VBD ؟/NN ؟/NN ؟/CD 

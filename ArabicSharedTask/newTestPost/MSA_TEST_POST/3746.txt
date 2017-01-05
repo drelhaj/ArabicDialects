@@ -1,0 +1,1 @@
+العمليه/DTNN بسيطه/NN امنعو/NN التدخين/DTNN بشكل/NNP قطعي/NNP واسحبوه/NNP من/IN السوق/DTNN واغلقوا/VBD مصانع/NN الدخان/DTNN وامنعو/NNP زراعته/NNP وامنعو/NNP استيراده/NNP ./PUNC ./PUNC 

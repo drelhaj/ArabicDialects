@@ -1,0 +1,1 @@
+و/CC ايه/NN الجديد/DTNN ؟/VBD ماهو/NNP أيمن/NNP سعيد/NNP من/IN يومه/NNP مقضيها/NN كروت/NNP حمرا/NNP هو/PRP و/CC عمرو/NNP فهيم/NNP ./PUNC مش/NN غريبة/JJ يعنى/VBP على/IN فرقة/NN انبى/NNP 

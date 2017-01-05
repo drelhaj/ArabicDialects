@@ -1,0 +1,1 @@
+صدقوني/NNP يا/RP إخوان/NNP أول/NNP مره/NNP في/IN حياتي/JJ أسمع/NN بأن/NN الاحباط/DTNN يؤدي/VBP بكافة/NN الاعلاميين/DTNNS الى/IN توجيه/NN الشتائم/DTNN واشعال/NN نار/NN الفتنة/DTNN ولهذا/NN أعتقد/NN أنها/NN بلطجية/JJ بكل/VBD معنى/NN الكلمه/DTNN ولا/NN يجوز/VBP .../PUNC 

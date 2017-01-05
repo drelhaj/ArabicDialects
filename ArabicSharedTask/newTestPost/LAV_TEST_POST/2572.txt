@@ -1,0 +1,1 @@
+اول/ADJ مرة/NN بسمع/NN انه/NN جمال/NN الشمايلة/DTNN كان/VBD وزير/NN فلم/NN نسمع/VBP له/NN اي/NOUN تصريح/NN ,/PUNC الله/NNP يعطيهم/VBP العافية/DTNN ./PUNC نفسي/NNP اعرف/VBP ليش/NN الوزير/DTNN بيدخل/NNP وليش/NNP بيطلع/NN من/IN الوزارة/DTNN 

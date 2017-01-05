@@ -1,0 +1,1 @@
+احمد/NNP كشكش/NNP راح/NN يخلي/VBP الفيصلى/DTNN تكشكش/NN ./PUNC ./PUNC 

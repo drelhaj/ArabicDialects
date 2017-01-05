@@ -1,0 +1,1 @@
+طيب/NNP انتم/PRP كدة/NN نسيتم/VBP وزارة/NN مهمة/JJ جدا/NN او/CC اكتر/NN ولكن/VBP انتم/PRP نسيتم/VBP وزارة/NN الدفاع/DTNN التى/WP يترأسها/VBP بابا/NN جدو/NNP ولا/VBD انتم/PRP خايفين/NNP منه/NNP نفسى/VBD قبل/NN اما/CC اموت/VBD اشوف/NN وزير/NN دفاع/NN حوالى/NOUN 50/CD سنة/NN وبس/CD 

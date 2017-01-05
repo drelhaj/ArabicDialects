@@ -1,0 +1,1 @@
+وهم/NN مبسوطين/NNS بحسنى/NNP مبارك/NNP وهو/NNP عارف/NNP كدة/NNP ,/PUNC ومش/NN هايعتقهم/NNP ,/PUNC وهم/NN يستاهلوا/VBP ,/PUNC وكل/NN واحد/JJ يريح/VBP نفسة/NN ./PUNC 

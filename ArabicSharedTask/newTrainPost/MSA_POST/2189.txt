@@ -1,0 +1,1 @@
+صحح/VBD الرمثا/DTNNP مسار/NN الكرة/DTNN الأردنية/DTJJ بإقصائه/NNP الفيصلي/DTNNP وهو/VBD الأمر/DTNN الطبيعي/DTJJ والمعقول/NN .../PUNC الرماثنة/DTNN الأبطال/DTJJ ما/WP لبثوا/VBD إلا/NN أن/NN أعادوا/VBD للمسار/NNP طبيعته/NNP وأقصوا/VBD الفيصلي/DTNNP عن/IN المنافسة/DTNN رغم/NN كل/NOUN ما/WP صدر/VBD من/IN الحكم/DTNN مكن/VBD قرارات/NNS غريبة/JJ عجيبة/JJ .../PUNC 

@@ -1,0 +1,1 @@
+لهيك/NNP ./PUNC ./PUNC الله/NNP يسعدكم/VBP ./PUNC ./PUNC نحنا/VBD امة/NN مسلمة/JJ وعربية/JJ ./PUNC ./PUNC وهالعنوان/NNP يتجاوز/VBP حدود/NN الدين/DTNN والايمان/NNP ./PUNC ./PUNC لهيك/NN ممكن/JJ تغيروه/VBP واتضمنوه/NNP في/IN المحتوى/DTNN ؟/CD 

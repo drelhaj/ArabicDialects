@@ -1,0 +1,1 @@
+بينما/IN لما/IN سعر/NN البنزين/DTNN يكون/VBP عالي/JJ الاولاد/DTNN والشباب/NN الصغار/DTNN مش/NN رايح/NN يغامر/VBP بمصروفه/NN او/CC راتبه/NN للبنزين/JJ ./PUNC ./PUNC وبلا/NN مؤاخذه/JJ اللي/WP بدو/NN يركب/VBP سياره/NN دافع/NN حقها/NN 5/CD الاف/CD او/CC 10/CD او/CC 20/CD الف/NN او/CC او/CC ما/WP بنضر/VBD لقرشين/NNS وثلاثه/NN طلعن/NNP او/CC نزلن/NNP ./PUNC ./PUNC 

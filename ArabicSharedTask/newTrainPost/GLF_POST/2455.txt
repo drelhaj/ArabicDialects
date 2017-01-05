@@ -1,0 +1,1 @@
+ههه/NNP اقول/VBP العبوا/DTNN غيرها/NN .../PUNC الاختلاط/DTNN مرفوووض/JJ قال/VBD تحضر/VBP قال/VBD .../PUNC واذا/NN احضرت/VBD الحفل/DTNN واختلطت/NNP مع/NN الرجال/DTNN هاه/NNP وبعدين/NNP .../PUNC وبعدين/NNP امهاتنا/NNP عاقلات/NNS والآحتفال/NN بالبيت/NNP مومع/NN الرجال/DTNN .../PUNC دعوة/NN غبية/NN للاختلاط/NNP .../PUNC وانتي/NNP ياعبوره/NNP لاتعودينها/NNP زين/NNP .../PUNC ا/NN 

@@ -1,0 +1,1 @@
+العتب/DTNN علينا/NNP ./PUNC ./PUNC شو/NNP فيها/NNP ازا/NNP الكل/NOUN اتفق/NN انو/VBD يصف/VBP سيارتوا/NN بباب/NN بيتو/NNP بس/NN 3/CD ايام/NN 

@@ -1,0 +1,1 @@
+ياعم/VBP صبح/NNP ،/NN 95/CD %/PUNC من/IN المبلغ/DTNN المذكور/DTJJ تم/VBD على/IN المراقص/DTNN والشراب/NN ،/NN وش/NN اللي/WP فيها/NN البحرين/DTNNP من/IN مقومات/NNS سياحية/JJ غير/NN المراقص/DTNN والبارات/NNS ./PUNC 

@@ -1,0 +1,1 @@
+ويقولون/NNP ليش/NNP الهلال/DTNNP مايطلع/NN بيانات/NNS ولاردود/NNP كثيره/NNP ./PUNC ./PUNC !!/CD 

@@ -1,0 +1,1 @@
+إذا/VBD تقولوا/VBP مس/NN كرمان/NN الإيراني/DTNNP أفشل/VBD فريق/NN وفاز/NN على/IN الهلال/DTNN وش/NN نقول/VBP عنكم/NN وأنتم/JJ تخسرون/VBP أمام/NN من/IN يفشل/VBP أمام/NN أفشل/NN فريق/NN على/IN قولتك/NN ؟/NN ؟/NN !/PUNC 

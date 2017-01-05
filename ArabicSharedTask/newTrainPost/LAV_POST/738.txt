@@ -1,0 +1,1 @@
+مبروك/NN لجمهورد/NNP المارد/DTJJ العرس/DTNN الكبير/DTJJ الذي/WP كان/VBD بالامس/NNP وهاردلك/NNP لفريق/NN الرمثا/DTNNP معشوق/NN الجماهير/DTNN الوحداتيه/DTJJ ولكننا/NNP ودنناها/NNP لغير/NNP الرمثا/DTNNP ولكن/NN مثل/NN ما/IN بقول/NN المثل/DTNN -LRB-/PUNC -LRB-/PUNC ضرب/NN الحبيب/DTNN زي/NN اكل/NN الزبيب/DTNN -RRB-/PUNC -RRB-/PUNC 

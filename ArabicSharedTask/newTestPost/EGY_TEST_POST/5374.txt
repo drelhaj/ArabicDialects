@@ -1,0 +1,1 @@
+ازاى/VBD ياسيادة/NN النقيب/DTNN تعرف/VBP اننا/NN غلابة/NN ونستحق/NN الزكاة/DTNN فعلا/NN وقولا/NN وعاوز/NN الطبيب/DTNN يدفع/VBP 50/CD الف/CD ./PUNC ./PUNC منين/NNP يعنى/VBP ؟/NN ؟/NN من/IN فلوس/NN الزكاة/DTNN قصدك/NNP 

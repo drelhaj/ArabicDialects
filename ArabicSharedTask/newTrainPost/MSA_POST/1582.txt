@@ -1,0 +1,1 @@
+ويجب/VBD على/IN رجل/NN الامن/DTNN ان/IN يحترم/VBP المواطن/DTNN ويعامل/NN معه/NN باحترام/NN فرجل/NN الامن/DTNN ليس/VBD قاضيا/NN يصدر/VBP حكما/NN على/IN الشخص/DTNN بمجرد/NNP دخوله/NNP المركز/DTNN الامني/DTJJ ويتعامل/NNP معه/NNP كأنه/NNP مجرم/NN ./PUNC ./PUNC 

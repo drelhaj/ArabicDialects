@@ -1,0 +1,1 @@
+وان/NNP كنا/VBD بدنا/NN نتعصب/VBP لفرقنا/NN بقترح/NN يا/RP نبطل/VBP نلعب/VBP ./PUNC ./PUNC أو/VBD يعطوا/VBP كل/NOUN لاعب/NN كورة/NN يركض/VBP وراها/NN ./PUNC ./PUNC وهيك/VBD ما/WP بيزعل/VBD حدا/NN ./PUNC 

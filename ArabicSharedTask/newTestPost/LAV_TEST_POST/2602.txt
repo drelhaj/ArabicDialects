@@ -1,0 +1,1 @@
+والله/NN الأيام/DTNN اللي/WP مرقوا/VBD كنت/NNP -LRB-/PUNC مفصول/JJ وشكرا/NN -RRB-/PUNC ./PUNC عجقة/NN كتير/NN وشغل/NN ومناسبات/NNS وهيك/NNP ./PUNC اليوم/DTNN الصبح/DTNN شربت/NNP كاسة/NNP شاي/NNP عدلت/VBD مزاجي/JJ ./PUNC بعدين/NN شفت/NN الخبر/DTNN في/IN الغد/DTNN وصار/NN معي/JJ صدمة/NN عاطفية/JJ :/PUNC -LRB-/PUNC 

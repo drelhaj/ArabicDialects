@@ -1,0 +1,1 @@
+من/IN يبي/VBP يدز/NN لي/NNP دمعة/NN قهر/NN ./PUNC ./PUNC هذا/DT رقم/NN الحساب/DTNN ./PUNC ./PUNC !/PUNC 

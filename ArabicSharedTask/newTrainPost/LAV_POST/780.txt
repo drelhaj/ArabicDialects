@@ -1,0 +1,1 @@
+عندما/NN قرأت/NN الخبر/DTNNP -LRB-/PUNC ويا/NNP ريتني/NNP ما/WP قرأته/NN -RRB-/PUNC انصدمت/VBD من/IN هالخبر/NNP الغريب/DTNNP 

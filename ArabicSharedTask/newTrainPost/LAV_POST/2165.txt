@@ -1,0 +1,1 @@
+سيداتي/NNP وسادتي/NNS كل/NOUN صحف/NN العالم/DTNN تكتب/VBP عن/IN الوحدات/DTNNS عن/IN المارد/DTNN الاخضر/DTJJ وماذا/NNP سيفعل/NNP الموسم/DTNN الجديد/DTJJ مع/NN درغان/NN رايحه/NN تولع/NN عمان/NNP رايحه/NNP تخضر/NNP الزرقاء/DTJJ 

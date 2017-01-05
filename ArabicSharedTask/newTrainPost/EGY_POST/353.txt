@@ -1,0 +1,1 @@
+وانت/VBD هتقول/NN ايه/NN غبر/NN كده/NNP ,/PUNC وكفايه/NNP عليك/NNP تعليق/NN -LRB-/PUNC الاصل/DTNN مصرى/JJ -RRB-/PUNC 

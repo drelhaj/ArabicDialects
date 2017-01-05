@@ -1,0 +1,1 @@
+لكني/NNP ماشريته/NNP ولا/NN فيه/NNP امل/NNP اشتري/VBD اي/NOUN فلم/NN -LRB-/PUNC راعي/NN توفير/NN -RRB-/PUNC 

@@ -1,0 +1,1 @@
+اذا/IN وسد/VBD الأمر/DTNN لغير/NNP اهليه/NNP فانتظر/NNP الساعة/DTNN -LRB-/PUNC الى/IN ادارة/NN النادي/DTNN عليكم/NNP بتقديم/NNP استقالاتكم/VBD فوارا/NN النادي/DTNN اصبح/VBD في/IN انحطاط/NN -RRB-/PUNC 

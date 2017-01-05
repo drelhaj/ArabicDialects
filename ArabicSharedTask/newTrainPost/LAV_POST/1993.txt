@@ -1,0 +1,1 @@
+احمد/NNP عبد/NNP الحليم/DTNNP هو/PRP عندليب/NN الوحدات/DTNNS ،/VBD المدفعجي/DTNN حليمو/NNP مرعبهم/NNP بصاروخياته/NNP ونظراته/NN الرجولية/DTNN ،/NN لا/RP تروح/VBP يا/RP ''/NN حليمو/NNP ''/VBD بدنا/NN شمالك/NN الطرشة/DTNN ./PUNC 

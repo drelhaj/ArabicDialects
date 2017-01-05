@@ -1,0 +1,1 @@
+-/PUNC والله/NN ياعامر/VBP شفيع/NN ما/WP حدا/VBD قدك/NN ./PUNC ./PUNC لبنان/NNP وبعدها/NN سوريا/NNP ./PUNC ./PUNC ومش/VBD ظايل/NN الا/RP تركيا/NNP 

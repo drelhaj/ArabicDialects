@@ -1,0 +1,1 @@
+كثيراً/NN ما/WP نسمع/VBP هذه/DT الجملة/DTNN تتكرر/VBP على/IN السنة/DTNN الامهات/DTNNS في/IN اي/NOUN اجتماع/NN عائلي/JJ ،/VBD فأول/NN ما/WP يقال/VBN للفتاة/NN حينما/NN يبدأ/VBP جسدها/NN بالنضج/NNP :/PUNC -LRB-/PUNC صرتي/NNS عروس/NN يلا/NN بدنا/NN انجوزك/NNP .../PUNC -RRB-/PUNC !!/NN ا/IN 

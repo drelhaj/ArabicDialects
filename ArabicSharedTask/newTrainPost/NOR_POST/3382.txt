@@ -1,0 +1,1 @@
+بركاته/NN بعض/NOUN الخواطر/DTNN أريد/NN أن/NN أسوقها/NN في/IN هذا/DT المجال/DTNN و/CC و/CC ماعادش/NNP منتدى/NN قبل/NN كل/NOUN شيء/NN السلام/DTNN عليكم/NNP و/CC رحمة/NNP الله/NNP 

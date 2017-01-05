@@ -1,0 +1,1 @@
+اعتقد/VBP ان/IN مارادونا/NNP أخطا/VBD كثيرا/NN بعدم/NN ضمه/NN للقائد/NN العملاق/DTNN خافيير/NNP زانيتي/NNP ولاعب/NN خط/NN الوسط/DTNN الرائع/DTJJ كامبياسو/NNP ,/PUNC سيكون/NNP لهما/NN تأثيير/NN سلبي/JJ على/IN الفريق/DTNN ./PUNC 

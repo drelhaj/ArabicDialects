@@ -1,0 +1,1 @@
+اولا/ADJ الف/CD مبروك/NN لفريقي/JJ الفوز/DTNN الكبير/DTJJ و/CC لكن/CC برايي/NNP انه/VBD سبب/NN رأيسي/NN لفوز/NN الوحدات/DTNNS بهذه/NN النتيجة/DTNN هو/PRP غياب/NN حارس/NN المرمى/DTNN الذي/WP لعب/VBD في/IN الذهاب/DTNN و/CC كان/VBD عند/NN حسن/NN ظن/NN جماهير/NN الرمثا/DTNNP و/CC انا/PRP بالنسبة/NN لي/NNP ارتحت/VBD عندما/NN لم/RP اراه/VBP يلعب/VBP لانه/NNP ببساطة/NNP حارس/NN مبدع/JJ 

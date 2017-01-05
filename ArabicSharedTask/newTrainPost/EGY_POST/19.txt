@@ -1,0 +1,1 @@
+انا/PRP مسيحي/JJ و/CC لكني/JJ اعلم/VBP ان/IN عقوبه/NN الفتاه/DTNN و/CC الشاب/DTNN الذي/WP حملت/VBD منه/NNP الجلد/DTNN كونهم/NN غير/NN متزوجين/JJ ./PUNC ./PUNC اما/RP هنا/RB قتلت/VBD الفتاه/DTNN و/CC عاد/VBD الزاني/DTNNP الى/IN عمله/NN و/CC خلصت/VBD الحكايه/DTNN ./PUNC ./PUNC 

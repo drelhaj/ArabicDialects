@@ -1,0 +1,1 @@
+هاذي/NNP الكلمه/DTNNP اشتهرت/VBD بعد/NN ماقلها/NN معلق/JJ مصري/JJ على/IN مباراه/NN قطر/NNP على/IN ماعتقد/NNP فازت/VBD قطر/NNP في/IN ذيك/NN المباراه/DTNN بس/NN الغريب/DTNN أن/VBD الي/IN جاب/NN الهدف/DTNN المهاجم/DTNN القطري/DTJJ ماكان/NN عربي/JJ متجنس/JJ قطري/JJ 

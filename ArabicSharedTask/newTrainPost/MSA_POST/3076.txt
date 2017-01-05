@@ -1,0 +1,1 @@
+لا/RP نطلب/VBP من/IN احد/NN ان/IN يحل/VBP لنا/NN هذه/DT المشكله/DTNN لانه/NNP لايوجد/NNP في/IN هذا/DT الوطن/DTNN الا/RP جلالة/NN الملك/DTNN المعظم/DTJJ عبدالله/NNP الثاني/DTNNP -/PUNC ابو/NNP الحسين/DTNNP هو/PRP الوحيد/DTJJ الذي/WP نطلب/VBP منه/NNP التدخل/DTNN واصدار/NN الاوامر/DTNN لحل/VBD هذه/DT المشكله/DTNN وانهائها/NN ./PUNC 

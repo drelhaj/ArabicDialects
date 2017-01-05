@@ -1,0 +1,1 @@
+احمد/NNP عيد/NNP قبل/NN ماتش/NNP الزمالك/DTNNP يهين/VBP الحكم/DTNN ويشد/NNP ايده/NNP لأسفل/NNP يتوقف/VBP مباراه/NN 

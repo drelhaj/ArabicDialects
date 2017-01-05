@@ -1,0 +1,1 @@
+شو/NNP يعني/VBP هيك/NNP بيمنعو/NNP الشعب/DTNN يطلع/VBP من/IN الأردن/DTNN ما/WP تخافو/VBP ان/IN شاء/VBD الله/NNP بيزيد/NN الأقبال/DTNN على/IN السياحة/DTNN الخارجية/DTJJ بتضل/NN احسن/JJR من/IN العقبة/DTNN اللي/WP كلها/VBD استغلال/NN بيفكروا/NNP حالهم/NNP بأرووبا/NNP .../PUNC 

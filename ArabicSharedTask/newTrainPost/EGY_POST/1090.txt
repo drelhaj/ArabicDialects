@@ -1,0 +1,1 @@
+1/CD -/PUNC الكنيسة/DTNN مفتوحة/JJ فعلا/NN وقت/NN الصلوات/DTNNS فقط/RB .../PUNC أما/NN مبانى/NN الأنشطة/DTNN الأجتماعية/DTJJ مثل/NN القاعات/DTNNS والنوادى/DTJJ الملحقة/DTJJ بالكنائس/NN تفتح/VBP كل/NOUN يوم/NN لممارسة/NN نشاطها/NN .../PUNC زى/NN قاعة/NN مسجد/NN النور/DTNN كدة/NN لو/IN كنت/VBD من/IN القاهرة/DTNNP 

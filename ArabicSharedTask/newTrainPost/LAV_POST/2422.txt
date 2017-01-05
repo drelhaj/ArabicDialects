@@ -1,0 +1,1 @@
+-/PUNC كمان/NN بتطلع/NN بالتكسي/NNP مشوار/NN 3/CD كم/NN ،/NN السايق/DTNN بحرق/NN نص/NN باكيت/NN دخان/NN بخمس/NNP دقايق/NNP ./PUNC 

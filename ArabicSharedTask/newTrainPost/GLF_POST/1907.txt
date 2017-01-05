@@ -1,0 +1,1 @@
+ابغى/VBD اعرف/VBP ليه/NN التنباك/DTNN يمنع/VBP و/IN انا/PRP اعرف/VBP بأن/NN سجائر/NN الدخان/DTNN من/IN التنباك/DTNN والا/NN عشانه/NNP -LRB-/PUNC -LRB-/PUNC تنباك/NN يمني/NN -RRB-/PUNC -RRB-/PUNC 

@@ -1,0 +1,1 @@
+واحد/NN فالعالم/NNP العربي/DTJJ من/IN عشاق/NN دوري/NN كرة/NN السلة/DTNN الأمريكي/DTJJ NBا/NN من/IN بث/NN الدوري/DTNN الأمريكي/DTJJ خويا/JJ نعطيك/VBP مثال/NN بسيط/JJ برا/NN شوف/NN قداه/NN 

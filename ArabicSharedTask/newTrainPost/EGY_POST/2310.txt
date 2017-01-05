@@ -1,0 +1,1 @@
+والله/NN حاجه/NN تجنن/NN بقي/VBD الجزائريه/DTNN تتمني/VBP فوز/NN الاهلي/DTNNP والمصريه/NNP تقول/VBP الكلام/DTNN الخايب/DTJJ ده/DT عموما/NN شكرا/NN لنوال/NN وربنا/NN يشفيكي/VBP يا/RP ماهيتاب/NNP ./PUNC مش/NN قولتلكم/NN فعلا/NN حاجه/NN تجنن/NN ./PUNC 

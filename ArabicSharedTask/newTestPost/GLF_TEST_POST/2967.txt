@@ -1,0 +1,1 @@
+مبارك/NNP عليك/VBD استاذ/NN علي/IN رجل/NN حكيم/NN من/IN عائلة/NN محترمة/JJ جهوده/NN وسمعته/NN طيبة/JJ وثقة/NN القيادة/DTNN وسام/NNP تستاهله/NNP -/PUNC ابو/NNP سامي/NNP ./PUNC زميل/NN دراسة/NN باقي/NNS لي/NNP بذمتك/NNP نصف/NOUN ريال/NN حق/NN التميسة/DTNN فطور/NN اول/ADJ متوسط/NN !!/NN 

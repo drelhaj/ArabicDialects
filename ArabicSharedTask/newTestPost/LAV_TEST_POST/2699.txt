@@ -1,0 +1,1 @@
+الله/NNP يعينكم/VBP ./PUNC ./PUNC فعلا/NN شي/NNP بوتر/NNP ./PUNC ./PUNC بس/NN توكلوا/VBD على/IN الله/NNP تعالى/VBD و/CC تفائلوا/VBD خيرا/NN ./PUNC ./PUNC وإن/NN شاء/VBD الله/NNP يكون/VBP وجه/NN الوزير/DTNN الرائع/DTJJ البرفسور/DTNN خالد/NNP الكركي/DTNNP وجه/VBD سعاده/NNP وفرح/NN ./PUNC ./PUNC 

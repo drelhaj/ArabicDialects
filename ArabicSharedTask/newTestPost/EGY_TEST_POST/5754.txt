@@ -1,0 +1,1 @@
+بحبكم/NN كلكم/NNP كده/NNP على/IN بعضكم/NNP بحلوكم/NNP ووحشكم/NNP بحبكم/NNP كلكم/NNP ميدو/NNP .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC .../PUNC ./PUNC 

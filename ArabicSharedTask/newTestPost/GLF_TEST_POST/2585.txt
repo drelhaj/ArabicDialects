@@ -1,0 +1,1 @@
+كفووو/NNP يا/RP خالد/NNP البلطان/DTNN ./PUNC ./PUNC استفد/VBD من/IN ادارة/NN الهلال/DTNN المحترفه/DTJJ و/CC سوي/NN لكم/VBG لائحة/NN داخلية/JJ تنظم/VBP هالأشياء/JJ ./PUNC ./PUNC بالتوفيق/NNP 

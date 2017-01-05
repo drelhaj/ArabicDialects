@@ -1,0 +1,1 @@
+الاهلى/DTNN عنده/NN اقوى/JJR لاعيبه/NN فى/IN مصر/NNP -LRB-/PUNC المنتخب/DTNN القومى/DTJJ +/NN منتخب/NN الشباب/DTNNP -RRB-/PUNC طيب/NNP مش/NN عارف/NNP يغلب/VBP ليه/NN ولما/NN يغلب/VBP يغلب/VBP بطلوع/NN روحنا/NNP ليه/NNP ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ارجو/VBP الاجابة/DTNN وتوصيلها/NN لادارة/NN لا/RP اسمع/VBP لا/RP ارى/VBP لا/RP اتكلم/VBP ./PUNC 

@@ -1,0 +1,1 @@
+مع/NN انني/NNP أختلف/NNP أيديولوجيآ/NNP و/CC سياسيآ/NNP مع/NN رمضان/NNP شلح/NNP إلا/NN أنه/NN في/IN مقابلة/NN الجزيرة/DTNN معه/NNP أمس/NNP قال/VBD ,/PUNC إن/NN الدم/DTNN التركي/DTJJ له/NN صفة/NN خاصة/JJ عندنا/VBD نحن/PRP الفلسطينيين/DTNNS ./PUNC 

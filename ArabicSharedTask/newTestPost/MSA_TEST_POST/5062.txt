@@ -1,0 +1,1 @@
+لاتنسى/VBD أن/NN سيدنا/NNP ونبينا/NNP محمد/NNP صلى/VBD الله/NNP عليه/NNP وسلم/NNP ,/PUNC كان/VBD عربيا/JJ ./PUNC 

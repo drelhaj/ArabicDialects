@@ -1,0 +1,1 @@
+فعلا/NN وانت/VBD في/IN شغلك/NNP -LRB-/PUNC ناشفه/NNP -RRB-/PUNC تروح/VBP البيت/DTNN في/IN النسيم/DTNN تحصل/VBP الدنيا/DTNN عايمه/NN ،/NN وطريق/NN خريص/NN غرقان/NNP .../PUNC يمكن/VBP لأن/NN النسيم/DTNN مافي/NNP تصريف/NN سيول/NNP المطر/DTNN ينزل/VBP عليه/NN أكثر/NN ./PUNC ./PUNC -LRB-/PUNC حايز/NNP -RRB-/PUNC ./PUNC ./PUNC 

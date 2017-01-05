@@ -1,0 +1,1 @@
+دولة/NN ابو/NNP عصام/NNP انت/PRP جريء/JJ و/CC حوارك/NN جريء/JJ جدا/NN و/CC لكن/CC اتمنى/VBP منك/NN و/CC تكمل/VBP جرائتك/NNP و/CC تقول/VBP كم/PRP هي/PRP ثروتك/JJ الان/DTNN انت/PRP قلت/VBD انك/NN لم/RP تكن/VBP مليونرا/NN عندما/JJ دخلت/VBD العمل/DTNN العام/DTJJ اتمنى/VBP منك/NN ان/IN تكشف/VBP عن/IN مقدار/NN ثروتك/JJ 

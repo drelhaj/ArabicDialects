@@ -1,0 +1,1 @@
+دقت/NN طبول/NN الحرب/DTNN .../PUNC اسرائيل/NNP تريد/VBP الحرب/DTNN لا/RP السلام/DTNN ./PUNC ./PUNC أشعر/NNP و/CC كأن/NNP ساعة/NN الصفر/DTNN قد/RP اقتربت/VBD وستكون/NNS فرصة/NN العرب/DTNN للتوحد/NN بكل/NN الاشكال/DTNN و/CC انهاء/NN هذا/DT الاحتلال/DTNN الغاشم/DTJJ الذي/WP يتجاوز/VBP حدود/NN فلسطين/NNP 

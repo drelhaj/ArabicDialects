@@ -1,0 +1,1 @@
+الاخ/DTNN وليد/NNP الوحداتي/DTNNP ./PUNC ./PUNC انا/PRP لا/RP اكتب/VBP تعليقات/NNS ثم/CC اعود/VBP لاتراجع/NN عنها/NN ولست/VBN بحاجة/NN الى/IN خط/NN رجعة/NN كما/CC تطلب/VBP مني/VBN ./PUNC ./PUNC انا/PRP اكتب/VBP تعليقاتي/NNS واعبر/JJ عن/IN كل/NOUN ما/WP يجول/VBP بخاطري/NNP ولست/NNP بحاجة/NNP الى/IN ان/IN اتراجع/VBP عن/IN آرائي/NNS 

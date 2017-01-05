@@ -1,0 +1,1 @@
+لو/IN كانت/VBD بطولة/NN الدوري/DTNN كبطولة/NN كاس/NN الكؤوس/DTNN تتكون/VBP فقط/RB من/IN مباراة/NN واحدة/JJ او/CC اثنتين/NNS وبعدها/NN تحرز/VBP اللقب/DTNN ./PUNC ./PUNC لقلنا/VBD ان/IN الفيصلي/DTNNP فاز/VBD بضربة/NN حظ/NN ولم/NN يكن/NNP يستحق/VBP اللقب/DTNN لانه/NNP ناله/NNP بجهد/NNP غيره/NNP 

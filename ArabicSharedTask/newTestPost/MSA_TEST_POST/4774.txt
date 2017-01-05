@@ -1,0 +1,1 @@
+أدعوا/VBD الله/NNP أن/NN يختارني/VBP لانال/NN شرف/NN الشهادة/DTNN في/IN سبيله/NNP ./PUNC ./PUNC وسبيل/NN ما/WP يحب/VBP ./PUNC ./PUNC اللهم/NN اني/JJ اسالك/NN حبك/NN وحب/NN من/IN احبك/NN وحب/NN عمل/NN يقربني/VBP لحبك/NN .../PUNC 

@@ -1,0 +1,1 @@
+سبحان/NN الله/NNP ./PUNC ./PUNC هذه/DT قدره/NN ان/IN يموت/VBP بتلك/NN الطريقة/DTNN وفي/NN ذلك/DT عبرة/NN لمن/NN يعتبر/VBN ./PUNC ./PUNC 

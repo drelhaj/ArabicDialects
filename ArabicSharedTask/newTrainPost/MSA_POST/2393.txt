@@ -1,0 +1,1 @@
+بخصوص/NNP عبد/NNP الله/NNP ذيب/NN لاعب/NN وحداتي/JJ منذ/IN الصغر/DTNN فكيف/NN لا/RP يرحب/VBP به/NN بالتدريب/NNP مع/NN اخوانه/NN فهو/NNP منهم/NNP واليهم/NNP واتوقع/NNP عوده/NNP عبدالله/NNP ذيب/VBD الى/IN نادي/NN الوحدات/DTNNP من/IN جديد/NN 

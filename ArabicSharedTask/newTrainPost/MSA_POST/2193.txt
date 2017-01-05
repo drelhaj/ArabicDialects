@@ -1,0 +1,1 @@
+نقول/VBP مبروك/NN للاندية/JJ المتأهله/DTNN ./PUNC فهي/NNP قد/RP تاهلت/VBD بجدارة/NNP واستحقاق/NNP ./PUNC فلو/NNP نظرنا/VBD لنتائج/NN الفرق/DTNN الاربعه/DTJJ في/IN دور/NN الثمانية/DTNN لوجدنا/VBD انها/NN استحقت/VBD الفوز/DTNN والتاهل/NNP ./PUNC 

@@ -1,0 +1,1 @@
+اللهم/NN ابدله/NNP دارا/NNP خيرا/NN من/IN داره/NNP واهلا/NNP خيرا/NN من/IN اهله/NN وادخله/NN الجنة/DTNN واعذه/VN من/IN عذاب/NN القبر/DTNN ومن/NN عذاب/NN النار/DTNN ./PUNC 

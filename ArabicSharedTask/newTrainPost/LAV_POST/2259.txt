@@ -1,0 +1,1 @@
+ليش/NNP يعني/VBP نتابع/VBP بس/NN توقعات/NNS الاخطبوط/DTNN باول/NNP ./PUNC العنزة/DTNN الاردنية/DTJJ ام/CC شامة/NN توقعت/VBD بان/NNP الفريق/DTNN الذي/WP سيحظى/VBD بكاس/NN العالم/DTNN هو/PRP نفسه/NN اللي/WP رح/VBD يفوز/VBP بالمباراة/NN النهائية/DTNN ./PUNC 

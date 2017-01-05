@@ -1,0 +1,1 @@
+دامها/NNP وافقت/VBD على/IN الزواج/DTNN بالسر/NNP -LRB-/PUNC المسيار/DTNN -RRB-/PUNC ومقتنعه/NN فيه/NNP ليه/NNP ماتذكرهم/NNP ./PUNC ./PUNC !/PUNC 

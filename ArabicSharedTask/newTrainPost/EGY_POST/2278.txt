@@ -1,0 +1,1 @@
+الشخصيه/DTNN المزعومه/DTJJ نيفين/NNP شكري/NNP ./PUNC ./PUNC واللى/VBD هى/NNP غالبا/NN ممكن/JJ يكون/VBP واحد/NN مش/NN واحده/NNP و/CC طبعا/NN من/IN المرتزقه/DTNN بتوع/NN الحزب/DTNN الوطنى/DTJJ .../PUNC 

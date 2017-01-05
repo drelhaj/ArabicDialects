@@ -1,0 +1,1 @@
+ان/VBP العلاقة/DTNN ليست/VBD بالمفهوم/NNP الذي/WP نعرفه/VBP جميعا/NOUN فهي/NN ليست/VBD بحاجة/NN الى/IN ثقافة/NN جنسية/JJ فأي/JJ كائن/NN في/IN الارض/DTNN يستطيع/VBP القيام/DTNN بهذه/NN العلاقة/DTNN ولكن/NN المهم/DTNN التفاهم/DTNN والحب/NN بين/NN الزوجين/DTNNS 

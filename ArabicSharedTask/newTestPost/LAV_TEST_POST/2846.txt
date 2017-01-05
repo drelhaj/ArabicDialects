@@ -1,0 +1,1 @@
+ليش/NNP هل/RP الحكي/DTNN امبين/NN الموضوع/DTNN الوزارة/DTNN ليس/VBD لها/NN القدرة/DTNN على/IN نشر/NN العلامات/DTNNS على/IN الانترنت/DTNNP خوفاُمن/NNP تكرار/NN خطأ/NN الدورة/DTNN السابقة/DTJJ كل/NOUN هل/RP تاخير/NN هييك/NNP طلع/VBD معاكوا/NN .../PUNC .../PUNC 

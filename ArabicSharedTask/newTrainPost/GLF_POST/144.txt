@@ -1,0 +1,1 @@
+ابي/NNP أعرف/NNP وش/NN المصيبة/DTNN الكبيرة/DTJJ في/IN أنه/NN البنت/DTNN تاخذ/VBP رقم/NN واحد/JJ يجري/VBP وراها/NN ,/PUNC تاخذه/NNP و/CC ترميه/NNP بعد/NN ما/IN يمشي/VBP و/CC انتهينا/VBD ,/PUNC 

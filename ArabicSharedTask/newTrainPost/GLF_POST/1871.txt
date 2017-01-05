@@ -1,0 +1,1 @@
+وين/NNP مواضيعك/NNP القديمه/DTNNP ؟/VBD ؟/NN شي/NNP صدق/NN اتعلم/NNP منه/NNP مو/NNP اشياء/NN مجمعه/NN ومقارانات/NNS بين/NN بلدان/NN و/CC مدن/NN ولا/NN وظايف/NN !!/NN 

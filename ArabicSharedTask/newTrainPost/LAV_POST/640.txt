@@ -1,0 +1,1 @@
+اخس/VBD عليك/NNP يا/RP نتنياهو/NNP .../PUNC هيك/NNP بتستقبل/NNP ضيوفك/NN .../PUNC صدق/NN إلا/NN نشجب/JJ و/CC نستنكر/VBP و/CC ندين/VBP و/CC نعري/VBP اللي/WP بتعمله/NN و/CC محنا/NN تاركينك/NNP بحالك/NNP و/CC بتشوف/NNP ./PUNC 

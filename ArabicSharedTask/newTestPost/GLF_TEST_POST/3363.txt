@@ -1,0 +1,1 @@
+أمس/VBD نشوف/NN الربيعه/DTNN يترزز/VBP قدام/NN الكاميرات/DTNNS متجاهل/VN الفساد/DTNN بوزارته/NNP وكأنه/NNP وضع/VBD وزير/NN لوزارة/NN الفصل/DTNN السيامي/DTJJ فأين/NNP هو/PRP من/IN هذا/DT الخطأ/DTNN أو/VBD السيناريو/DTNN المتكرر/DTJJ بمستشفيات/NNS الصحه/DTNN وعبثهم/NN اللامحدود/DTNN بحياة/NN المواطن/DTNN ./PUNC ./PUNC 

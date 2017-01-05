@@ -1,0 +1,1 @@
+يعني/VBP أقل/NN شي/NNP ممكن/JJ ينعمل/VBP طرد/NN السفير/DTNN الاسرائيلي/DTJJ من/IN عمان/NNP و/CC استدعاء/NN السفير/DTNN الاردني/DTJJ من/IN تل/NNP ابيب/NNP ./PUNC 

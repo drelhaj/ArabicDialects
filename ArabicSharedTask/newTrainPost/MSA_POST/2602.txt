@@ -1,0 +1,1 @@
+2/CD -/PUNC اشهر/NN البطولات/DTNNS المحلية/DTJJ التي/WP يتابعها/VBP العالم/DTNN اجمع/JJ في/IN اوروبا/NNP او/CC امريكا/NNP اللاتينية/DTJJ او/CC افريقياهي/NNS بطولات/NNS الدوري/DTNN ./PUNC ./PUNC كالدوري/NNP الاسباني/DTJJ او/CC الدوري/DTNN الانجليزي/DTJJ او/CC الدوري/DTNN الايطالي/DTJJ او/CC الفرنسي/DTJJ .../PUNC ومن/NN بعدها/NN البطولات/DTNNS الاخرى/DTJJ الاقل/DTJJR اهمية/NN 

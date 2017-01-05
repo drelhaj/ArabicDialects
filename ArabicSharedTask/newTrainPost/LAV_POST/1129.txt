@@ -1,0 +1,1 @@
+هذا/DT اللي/WP مش/NN عاجبكم/NN راح/NN مثل/NN الاردن/DTNNP منيح/JJ ./PUNC ./PUNC لأنو/NNP داخل/NN باسمها/NNP ./PUNC ./PUNC راح/VBD ببرنامج/NN منحل/NN يصلي/VBP يا/RP محترمين/NNS اه/VB واجب/NN وطني/JJ و/CC نص/NN ./PUNC ./PUNC 

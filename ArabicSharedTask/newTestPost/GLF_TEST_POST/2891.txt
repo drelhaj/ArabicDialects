@@ -1,0 +1,1 @@
+حنا/NNP دوله/NNP متطوره/NNP وقمه/NNP في/IN كل/NOUN شي/NNP واراضينا/NNP احسن/VBD اراضي/NN بالعالم/NNP واللي/NNP يبني/VBP بيت/NN عندنا/NNP ترى/VBP احسن/JJR واحد/NN بالعالم/NNP 

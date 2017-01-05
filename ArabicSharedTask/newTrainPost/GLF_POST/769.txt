@@ -1,0 +1,1 @@
+بالامانه/NNP ماعاد/NNP صار/VBD فيه/NNP سالفه/NNP غير/NN فيقاروا/NNP .../PUNC ؟/VBD ؟/NN ؟/CD 

@@ -1,0 +1,1 @@
+أنا/VBD جزائرية/JJ و/CC أقول/NN إن/NN كانت/VBD حدثت/VBD إعتداءات/NNS بأم/NNP درمان/NNP أنا/VBD ضد/NN أن/NN نحتفل/VBP بهذه/NN الأحداث/DTNN حنحتفل/NNP بإيه/NNP بإعتداء/NN مسلم/JJ على/IN اخيه/NN المسلم/DTNN و/CC الله/NNP عيب/NN ./PUNC سلام/NN كبير/JJ من/IN الجزائر/DTNNP الى/IN شعب/NN مصر/NNP الشقيق/DTJJ 

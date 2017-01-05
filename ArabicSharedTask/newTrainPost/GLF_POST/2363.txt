@@ -1,0 +1,1 @@
+ترا/VBP برسل/NN رابط/JJ الخبر/DTNN لخويك/NNP الزهراني/DTNNP ;/PUNC -/PUNC -RRB-/PUNC 

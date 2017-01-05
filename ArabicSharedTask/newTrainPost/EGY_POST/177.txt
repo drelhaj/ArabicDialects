@@ -1,0 +1,1 @@
+ليه/NNP هو/PRP بيعمل/NN ايه/NN عنى/VBD دا/NN حتى/IN اسمه/NN لعب/NN ./PUNC ./PUNC يعنى/VBP مش/NN حاجه/JJ جد/JJ ./PUNC ./PUNC 

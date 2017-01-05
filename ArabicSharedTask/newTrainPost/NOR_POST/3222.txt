@@ -1,0 +1,1 @@
+ليس/VBD بعضويتي/NNP بسم/NNP الله/NNP الرحمان/NNP الرحيم/DTNNP و/CC الصلاة/DTNN و/CC السلام/DTNN و/CC تم/VBD إيقاف/NN عضويتي/NNS أنا/VBD في/IN الحقيقة/DTNN أريد/NN أن/NN أسميها/NN حريتي/NNS 

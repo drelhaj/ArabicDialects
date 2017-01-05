@@ -1,0 +1,1 @@
+على/IN كذا/NN اسعار/NN الاراضي/DTNN التي/WP وصلت/VBD بالمخطط/NN ل/IN 1400/CD ريال/NN للمتر/NN سوف/RP تنزل/VBP الى/IN اكثر/JJR من/IN 50/CD %/PUNC على/IN الاقل/DTJJR 

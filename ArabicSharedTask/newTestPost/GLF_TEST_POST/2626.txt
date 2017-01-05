@@ -1,0 +1,1 @@
+يعجبني/VBP ذا/NN الرئيس/DTNN مدري/NNP ليش/NNP ,/PUNC يحسسك/VBP أنه/NN ماعنده/NNP تلاعب/NN في/IN السياسه/DTNN ./PUNC 

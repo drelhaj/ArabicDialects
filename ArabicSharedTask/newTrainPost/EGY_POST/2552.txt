@@ -1,0 +1,1 @@
+تأكد/VBP انك/NN مش/NN محتاج/NN تكون/VBP زي/NN حد/NN ./PUNC ./PUNC انت/PRP كده/NNP ميه/NNP ميه/NNP ./PUNC ./PUNC لو/IN قلت/VBD و/CC عملت/VBD اللي/WP قلبك/VBD هتعرف/NN توصل/VBD للناس/NNP و/CC هما/PRP يوصلولك/VBP ./PUNC ./PUNC زي/NN ما/WP عملت/VBD في/IN المقالة/DTNN دي/NNP كده/NNP !/PUNC 

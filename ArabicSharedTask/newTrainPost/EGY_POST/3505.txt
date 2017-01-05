@@ -1,0 +1,1 @@
+وايه/NNP المشكلة/DTNN يعني/VBP لما/IN ترجع/VBP وتبقي/NNS عندنا/VBD احنا/NN دلوقتي/NNS مش/NN بنتكلم/NNP ف/CC صحة/NN الحكاية/DTNN من/IN عدمها/NN احنا/NN بنتكلم/NNP ف/CC مخطوطة/NN تاريخية/JJ من/IN حق/NN بلدها/NN الأصلي/DTNN ./PUNC ./PUNC وبعدين/NNS ما/WP هو/PRP كل/NOUN واحد/NN من/IN التلاميذ/DTNN كتب/NN انجيله/NNP الخاص/DTJJ اشمعني/NNP يهوذا/NNP يعني/VBP :/PUNC -RRB-/PUNC 

@@ -1,0 +1,1 @@
+ومع/NN خروج/NN الزعيم/DTNN من/IN تلك/DT البطولة/DTNN مرفوع/JJ الراس/DTNN امام/NN شقيقه/NN الرمثا/DTNNP اصبحت/VBD البطولة/DTNN بلا/NNP نكهة/NN ولا/NN طعم/NN ولا/NN رائحة/NN ./PUNC ./PUNC لانها/NN فقدت/VBD اهم/JJR عناصرها/NN ومقوماتها/NN كبطولة/JJ الا/RP وهو/VBD الزعيم/DTNN 

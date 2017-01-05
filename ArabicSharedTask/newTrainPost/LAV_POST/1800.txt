@@ -1,0 +1,1 @@
+الحمدللة/DTNN انو/VBD غانا/NNP فازت/VBD وانتصرت/NNP على/IN الامريكيين/DTNNS واللة/NN كنت/VBD على/IN اعصابي/NNS بحضر/NN المباراة/DTNN ./PUNC ./PUNC هاي/NNP فرحة/NN جميلة/JJ انو/VBD الامريكان/DTNN خسرو/NN وانتصار/NN كبير/JJ لغانا/NN فشو/NNP غلنا/VBD واللة/NN العظيم/DTNNP ./PUNC 

@@ -1,0 +1,1 @@
+ذ/NN احرز/VBD بطولة/NN كأس/NNP الكؤوس/DTNN -LRB-/PUNC 5/CD مرات/NNS -RRB-/PUNC في/IN الاعوام/DTNN 82/CD ،/NN 91/CD ،/NN 97/CD ،/NN 98/CD ،/NN 2000/CD و2001/CD 

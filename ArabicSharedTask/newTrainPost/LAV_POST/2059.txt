@@ -1,0 +1,1 @@
+حرام/NN عليك/NNP يادكتور/NNP كيلو/NN البطيخ/DTNN بعشر/NN قروش/NN امبارح/NN شريت/NN بطيخه/NN 17/CD كيلو/NN بدينار/NN وسبعين/NNS قرش/NN وطلعت/NNP بتكسي/NNP لاني/NNP ماقدرت/NNP اشيلها/NN -LRB-/PUNC صلاه/NN النبي/DTNN -RRB-/PUNC واللي/JJ بدو/NN بطيخ/NN يوصل/VBP الزرقا/DTNNP بياعين/NNS عمان/NNP بعضهم/NNP بستغل/NNP 

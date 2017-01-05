@@ -1,0 +1,1 @@
+يعني/VBP المقال/DTNN ميحتاج/NNP ./PUNC ./PUNC البنت/VBD اذا/IN احترمت/VBD نفسها/NN بلبسها/NN واخلاقها/NN مااحد/JJ يتعرض/VBP لها/NN ./PUNC ./PUNC 

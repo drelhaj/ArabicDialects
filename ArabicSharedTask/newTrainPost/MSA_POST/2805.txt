@@ -1,0 +1,1 @@
+نلاحظ/VBP ان/IN التغطيات/DTNNS التأمينية/DTJJ لا/VBP بد/NN ان/IN تواكب/VBP المستجدات/DTNNS على/IN ارض/NN الواقع/DTNN ./PUNC وفي/NN مقدمة/NN هذه/DT المواضيع/DTNN القرصنة/DTNN البحرية/DTJJ واعجبني/VN ان/IN المؤتمر/DTNN سيناقش/NNP امور/NN فنية/JJ تتعلق/VBP بظاهرة/NN القرصنة/DTNN واعتقد/NNP انه/NNP سيكون/NNP هناك/RB توصيات/NNS مفيدة/JJ في/IN نهاية/NN المؤتمر/DTNN ./PUNC 

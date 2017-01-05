@@ -1,0 +1,1 @@
+بناتنا/NNP ورجالنا/NNP وكرتنا/NNP و/CC مع/NN العلم/DTNN واني/JJ عرفت/VBD الكثير/DTNN واحترم/JJ من/IN أخي/NN لم/RP أعرف/VBN لم/RP نهين/VBP أنفسنا/NN والغريب/JJ في/IN كل/NOUN شي/NNP 

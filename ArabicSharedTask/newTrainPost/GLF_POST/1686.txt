@@ -1,0 +1,1 @@
+دعم/NN مالي/JJ ,/PUNC موجود/JJ ,/PUNC دعم/NN معنوي/JJ موجود/JJ وبقوه/NN الإعلام/DTNN مطير/NNP المنتخب/DTNN بالعالي/NNP ههه/NNP ,/PUNC جماهير/NN موجودة/JJ ,/PUNC وش/NN اللي/WP ناقص/VBD اللاعبين/DTNNS أبي/NNP أفهم/NNP ,/PUNC ياعمي/VBP بحريقه/NN الأنديه/DTNN أهم/VBD شي/NNP المنتخب/DTNN 

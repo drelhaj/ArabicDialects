@@ -1,0 +1,1 @@
+ولا/VBD دراسة/NN تشغلهم/JJ ./PUNC ./PUNC ولا/NN سياسة/NN يتابعوها/NN ./PUNC ./PUNC ولا/VBD اهتمامات/NNS عندهم/JJ 

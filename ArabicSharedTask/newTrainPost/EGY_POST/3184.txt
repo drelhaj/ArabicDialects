@@ -1,0 +1,1 @@
+انا/PRP شايفه/NNP ان/IN الزمالكاوي/DTNNP ابراهيم/NNP حسن/NNP لم/RP يغلط/VBP في/IN اجد/VBP بدليل/NN محمد/NNP ابراهيم/NNP لم/RP يستطيع/VBP ازاله/NN القطن/DTNN من/IN على/IN جبينه/NN اصلا/NN لما/NNP طلب/VBD منه/NNP مراسل/NN مودرن/NNP سبورت/NNP والله/NNP دى/NNP تمسيليه/NNP بطوله/NNP عبد/NNP المنعم/DTNNP و/CC محمد/NNP ابراهيم/NNP 

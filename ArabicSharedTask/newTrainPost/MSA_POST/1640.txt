@@ -1,0 +1,1 @@
+أ/NN -RRB-/PUNC عام/NN 1976/CD خسر/VBD الوحدات/DTNNS ذهابا/NN وإيابا/NN -LRB-/PUNC 3-0/CD و5-3/NN -RRB-/PUNC وخسر/NN اللقب/DTNN للزعيم/NNP ./PUNC 

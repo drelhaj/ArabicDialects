@@ -1,0 +1,1 @@
+بالنسبة/NNP الى/IN ركلة/NN الجزاء/DTNN التي/WP سددها/VBD وسيم/NNP البزور/DTNN طبعا/NN كبار/JJ اللاعبين/DTNNS في/IN العالم/DTNN اضاعوا/VBD ركلات/NNS جزاء/NN ,/PUNC و/CC لكن/CC منهم/JJ من/IN اخطأ/NN و/CC البزور/DTNN اخطأ/VBD بشكل/NN عفوي/JJ 

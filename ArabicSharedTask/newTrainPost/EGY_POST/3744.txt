@@ -1,0 +1,1 @@
+اول/ADJ مرة/NN اسمع/VBP عنهم/NN ./PUNC بجد/NN الحركة/DTNN دي/NNP في/IN مصر/NNP وبتحل/NN المشاكل/DTNN ولا/NN بس/NN كلام/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

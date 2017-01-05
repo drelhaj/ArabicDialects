@@ -1,0 +1,1 @@
+جميع/NOUN محلات/NNS الحلاقة/DTNN للاجانب/NNP واضرابهم/NNP واغلاق/NN محلاتهم/JJ تحدي/NN للبلد/NNP الذي/WP يعملون/VBP فيه/NN وهذا/NN دليل/NN على/IN ان/IN البلد/DTNN يجب/VBP ان/IN تستغني/VBP عن/IN الاجنبي/DTNN اليوم/DTNN محلات/NNS الحلاقة/DTNN غدا/NN ماندري/NNP ويش/NNP ايصير/NNP يعني/VBP سوف/RP نصير/VBP تحت/NN تسلطهم/NN وين/NN مراكز/NN التدريب/DTNN للشباب/NN ./PUNC 

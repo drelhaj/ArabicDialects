@@ -1,0 +1,1 @@
+عنجد/NNP الله/NNP يعطيكو/NNP العافية/DTNN -LRB-/PUNC طالب/NN تجسير/NN مش/NN فاضي/JJ يحك/VBP راسو/NNP -RRB-/PUNC 

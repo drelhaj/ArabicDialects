@@ -1,0 +1,1 @@
+كوني/NNP وحداتي/NNP ابارك/NNP للوحدات/NNS التاهل/DTNN واقول/NNP للرمثا/NNP احذر/NN من/IN الزعيم/DTNN الاخضر/DTJJ الزعيم/DTNN الحقيقي/DTJJ ولا/NNP تظنه/NNP كالذي/NNP يدعي/VBP الزعامه/DTNN فمن/NN يدعي/VBP الزعامه/DTNN كان/VBD يجب/VBP عليه/NN ان/IN يفوز/VBP على/IN الزعيم/DTNN الوحداتي/DTJJ عاشق/VBD الزعيم/DTNN الحقيقي/DTJJ -LRB-/PUNC الوحداتي/DTJJ -RRB-/PUNC 

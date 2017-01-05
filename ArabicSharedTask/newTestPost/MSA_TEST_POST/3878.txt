@@ -1,0 +1,1 @@
+سيلتقي/NNP يوم/NN الجمعه/DTNN المقبل/DTJJ ابو/NNP الوحداتي/DTNNP -LRB-/PUNC المارد/DTNN الاخضر/DTJJ -RRB-/PUNC وابو/NNP العربي/DTNNP -LRB-/PUNC المارد/DTNN الابيض/DTJJ -RRB-/PUNC في/IN نئهائي/NNP كأس/NNP الاردن/DTNNP في/IN ملعب/NN النار/DTNN والانتصار/NNP ./PUNC 

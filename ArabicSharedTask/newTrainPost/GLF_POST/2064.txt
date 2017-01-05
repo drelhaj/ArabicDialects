@@ -1,0 +1,1 @@
+لا/RP يلعبون/VBP عليك/NN ويعطونك/NNP شيك/NNP ترى/VBP شيكاتهم/NN مضروبه/JJ ،/VBD خذ/VB حقك/VBN قبل/NN المباراة/DTNN والا/NN بعدها/NN ماراح/NN تحصل/VBP منهم/NN الا/RP مواعيد/NN عرقوب/NN -LRB-/PUNC ناس/NN طفرانه/NN من/IN اين/WRB تجيب/VBP فلوس/NNP -RRB-/PUNC !!!/CD 

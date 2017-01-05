@@ -1,0 +1,1 @@
+وانتظر/NNP في/IN الرملة/DTNNP قبر/NN اإمام/NNP النسائي/DTJJ وهو/VBD محدث/NN وقبر/NN البزار/DTNN المحدث/DTJJ الآخر/VN وهذا/NN نقطة/NN في/IN البحر/DTNN ./PUNC 

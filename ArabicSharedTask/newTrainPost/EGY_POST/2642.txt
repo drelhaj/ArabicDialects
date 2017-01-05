@@ -1,0 +1,1 @@
+من/IN غير/NN مطول/NN عشان/NNP فى/IN تعليقات/NNS مش/NN بتنزل/NN ومش/NN عارف/NNP ليه/NNP ./PUNC ./PUNC مع/NN ان/IN الصحيفه/DTNN 

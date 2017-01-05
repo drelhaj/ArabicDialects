@@ -1,0 +1,1 @@
+كلنا/VBD شعب/NN اردني/JJ واحد/JJ ./PUNC ومش/VBD ناقصنا/NNP فرقة/NN على/IN فرقة/NN ./PUNC حتى/IN الواحد/DTNN صار/VBD الايام/DTNN هي/PRP يتفرق/VBP عن/IN اخوه/NN ابن/NN امه/NN وابوه/NNP ويشعر/NNP انه/VBD احسن/JJR من/IN الجميع/NOUN ./PUNC 

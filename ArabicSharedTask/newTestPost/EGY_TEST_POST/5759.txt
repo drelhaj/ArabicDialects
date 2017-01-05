@@ -1,0 +1,1 @@
+ياعم/VBP خميس/NNP خليك/NNP فى/IN مصيبتنا/NN احسن/JJR .../PUNC لان/NNP الفلس/NN والطين/NNS المصرى/DTNN اكثر/JJR من/IN اللى/WP عند/NN جيرانا/NNP ./PUNC ./PUNC 

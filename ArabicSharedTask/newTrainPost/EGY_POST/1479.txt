@@ -1,0 +1,1 @@
+زي/NN واحد/JJ بيفسر/NN الآيات/DTNNS علي/IN كيفة/NN يقولوله/VBP صوم/NN في/IN رمضان/NNP يقول/VBP الله/NNP فاطر/NN متكمل/JJ الآية/JJ يا/RP متخلف/JJ -LRB-/PUNC -LRB-/PUNC الله/NNP فاطر/NNP السموات/DTNNS والأرض/DTJJ -RRB-/PUNC -RRB-/PUNC مش/NN لاقيين/NNS حاجة/NN ولا/NN كلمة/NN تعملوا/VBD منها/NN فرقعة/NN صحفية/NN وحسبي/NNP الله/NNP ونعم/NN الوكيل/DTNN 

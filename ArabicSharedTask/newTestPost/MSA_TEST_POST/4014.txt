@@ -1,0 +1,1 @@
+يعيش/VBP جلاله/NN الملك/DTNN ويدوم/NNP يعزه/VBP وكل/NN عام/NN والاردن/NNP بخير/NNP بمناسبه/NNP عيد/NN الاستقلال/DTNN وفي/NN هذه/DT المناسبه/DTNN العطره/DTJJ والمحببه/VN على/IN قلوب/NN كل/NOUN الاردنيين/DTNNS جميعا/NOUN ويعيش/NN الاردن/DTNNP حرا/NN ابيا/JJ وسيحقق/NN الوحدات/DTNNS كأس/NN الاردن/DTNNP بهذه/NNP المناسبه/DTNNP 

@@ -1,0 +1,1 @@
+نعلمك/VBP بأننا/NN نفتخر/VBP بأن/NN نادينا/NNP الوحدات/NNP خرج/VBD من/IN رحم/NN المعاناة/DTNN من/IN قلب/NN المخيم/DTNN و/CC هذا/DT شيئ/NN نفتخر/VBP به/NN و/CC من/IN قلب/NN المخيم/DTNN الى/IN زعامة/NN الكرة/DTNN الاردنية/DTJJ و/CC الهيمنة/DTNN عليها/NN و/CC دك/NN الفرق/DTNN رايح/NNP جاي/NNP و/CC بحبك/NNP يا/RP وحدات/NNS ./PUNC 

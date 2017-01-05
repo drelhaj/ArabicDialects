@@ -1,0 +1,1 @@
+قبل/NN عدة/NN سنوات/NNS كانوا/VBD الناس/DTNN يقولون/VBP :/PUNC انحش/NN من/IN الكوري/DTNN -LRB-/PUNC السيارات/DTNNS الكورية/DTJJ -RRB-/PUNC ./PUNC ./PUNC الحين/DTNN صاروا/VBD يقولون/VBP :/PUNC انحش/NN من/IN الياباني/DTNN .../PUNC صدق/NN دنيا/NN دواره/NNP :/PUNC -RRB-/PUNC 

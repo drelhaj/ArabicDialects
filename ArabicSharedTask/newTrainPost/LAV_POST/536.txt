@@ -1,0 +1,1 @@
+طيب/NNP انتو/NNP هيك/NNP بتخلوا/NNP الناس/DTNN تسرق/VBP وتنهب/NN وتقتل/NN .../PUNC ./PUNC ./PUNC 

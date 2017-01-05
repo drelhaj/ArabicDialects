@@ -1,0 +1,1 @@
+شاه/NNP ماعاد/NNP هو/PRP ب/IN مريض/NN ^/CD _/PUNC ^/CD 

@@ -1,0 +1,1 @@
+تيتي/VBP تيتي/NNP زي/NN ما/WP رحت/VBD زي/NN ما/IN جيتي/NNP ./PUNC أكثر/NN مشروع/NN اقتصادي/JJ مربح/JJ للحكومه/NN وسهل/JJ جدا/NN ولا/NN ينضب/VBP أبدا/NN كبئر/NN البترول/DTNN هو/PRP جيب/NN المواطن/DTNN ./PUNC مشان/NNP الله/NNP فكرو/NNP وشوفولكو/NNP مشروع/NN ربحي/NNP غير/NN جيوب/NN المواطنين/DTNNS الغلابى/DTJJ ./PUNC 

@@ -1,0 +1,1 @@
+تعديل/NN السرعات/DTNNS على/IN شوارعنا/NN الداخلية/DTNN والخارجية/JJ ,/PUNC لانه/JJ من/IN غير/NN المعقول/DTNN ان/IN تسير/VBP بسرعة/NN 100/CD او/CC 110/CD على/IN طريق/NN العقبه/DTNN ونحن/NN بعصر/NN السرعة/DTNN والسيارات/NNS اصبحت/VBD احدث/JJR ولا/NN اتحدث/VBP هنا/RB عن/IN السرعات/DTNNS الغير/DTNN معقوله/NNP ./PUNC 

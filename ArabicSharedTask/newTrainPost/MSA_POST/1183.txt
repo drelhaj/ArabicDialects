@@ -1,0 +1,1 @@
+2/CD -/PUNC اللّهُـمَّ/DTNN بِكَ/NNP أَصْـبَحْنا/NNP وَبِكَ/NNP أَمْسَـينا/NNP ،/VBD وَبِكَ/NN نَحْـيا/JJ وَبِكَ/JJ نَمُـوتُ/VBP وَإِلَـيْكَ/NN النُّـشُور/DTNN ./PUNC -LRB-/PUNC الترمذي/DTNN 5\/466/CD -RRB-/PUNC 

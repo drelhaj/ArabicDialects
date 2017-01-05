@@ -1,0 +1,1 @@
+متل/NN هيك/NNP حالة/NN الطلاق/DTNN فقط/RB .../PUNC مش/NN القتل/DTNN 

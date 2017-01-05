@@ -1,0 +1,1 @@
+لا/RP يا/RP دكتور/NNP ,/PUNC ,/PUNC ,/PUNC الا/IN القضاء/DTNN ده/DT هو/PRP رمانه/NN الميزان/DTNN وسند/NNP الغلبان/DTNNP ./PUNC 

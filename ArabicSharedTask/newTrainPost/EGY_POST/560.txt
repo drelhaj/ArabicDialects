@@ -1,0 +1,1 @@
+كلامها/NN بسيط/JJ قوى/NN ./PUNC ./PUNC شوفوا/VBD كده/NNP .../PUNC ياريت/NNP اسمعها/NN بكره/NN فى/IN الحزن/DTNN الوطنى/DTJJ .../PUNC 

@@ -1,0 +1,1 @@
+والثاني/NNP :/PUNC ''/VBD الضرب/DTNN في/IN الميت/DTNN حرام/NN ''/NN في/IN قضايا/NN نادي/NN النصر/DTNNP كافة/NN ./PUNC ./PUNC وإلا/NN ./PUNC ./PUNC وبعيداً/VBD عن/IN فيقاروا/NNP ./PUNC ./PUNC هل/RP يقارن/VBP تصريح/NN ممدوح/NNP بن/NNP عبدالرحمن/NNP على/IN الهواء/DTNN ''/NN خليل/NNP هلال/NNP ''/VBD بكلمة/NN لم/RP تثبت/VBP على/IN سامي/NNP وهي/NNP ''/VBD جبان/NN ''/NN ./PUNC ./PUNC 

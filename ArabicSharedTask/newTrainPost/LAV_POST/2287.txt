@@ -1,0 +1,1 @@
+ياريت/NNP ايضل/NNP هاد/NNP الدعم/DTNN بعد/NN مشاركه/NN المنتخب/DTNN في/IN النهائيات/DTNNS وخلق/NN برامج/NN تطوير/NN لكره/NN السله/DTNN على/IN مستوى/NN عالي/JJ وتكثيف/NN الحملات/DTNNS الاعلانيهالخاصه/DTJJ بالمنتخب/NNP و/CC الدوري/DTNN الاردني/DTJJ من/IN خلال/NN الاعلام/DTNN المرئي/DTJJ ./PUNC 

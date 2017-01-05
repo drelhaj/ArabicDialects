@@ -1,0 +1,1 @@
+ان/VBP شركات/NNS التأمين/DTNNS للاسف/NN تمارس/VBP بدورهاعمليات/NNS احتيال/NN ممنهجه/NN ،/NN فهي/JJ تقوم/VBP من/IN خلال/NN اتحادها/NN بعمليه/NNP رفع/NN مستمر/JJ للاقساط/NN التأمينيه/DTNN دون/NN مبرر/NN ان/IN أغلب/VBP هذه/DT الشركات/DTNNS تحقق/VBP ارباح/NN مجزيه/JJ و/CC مع/NN ذلك/DT تطالب/VBP برفع/NN الاقساط/DTNN التأمينيه/DTJJ بشكل/NN مستمر/JJ ./PUNC 

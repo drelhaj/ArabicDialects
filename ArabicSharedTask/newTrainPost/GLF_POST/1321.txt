@@ -1,0 +1,1 @@
+شي/NNP ممتاز/NNP ولكن/NNP الحبارى/DTNN اللي/WP تجي/VBP من/IN الدجاج/DTNN ماتأخذ/JJ من/IN شكل/NN الدجاج/DTNN ؟/NN !/PUNC 

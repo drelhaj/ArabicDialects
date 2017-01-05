@@ -1,0 +1,1 @@
+يمكن/VBP يبي/NNP يسوي/VBP صيانه/NN للبيت/NN عشان/NN يصير/VBP عنده/NN حجه/NN ويرفع/NN الإيجار/DTNN ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+تسلم/VBD ايدك/NNP وقلمك/NNP استاذ/NN تيسير/NN على/IN هذه/DT الكلمات/DTNNS الرائعة/DTJJ والموضوع/VN الاروع/DTJJR .../PUNC وبصراحة/NN كلامك/NN 100/CD %/PUNC صحيح/JJ ولا/NN غبار/NN عليه/NNP 

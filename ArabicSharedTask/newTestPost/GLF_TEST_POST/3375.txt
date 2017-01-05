@@ -1,0 +1,1 @@
+ياناس/NNP ارحمونا/NNP أعطوا/VBD بنات/NNS البلد/DTNN الأولويات/DTJJ خلوا/NN الأجانب/DTNN مكملين/NNP لهم/NNP -LRB-/PUNC اجنبية/JJ خميس/NNP وجمعة/NN قاعدة/NN في/IN البيت/DTNN والسعودية/NN داوم/NNP -RRB-/PUNC .../PUNC ياعجبي/NNP من/IN الفساد/DTNN 

@@ -1,0 +1,1 @@
+شو/NNP هالافتاءات/NNP هاي/NNP ما/WP شاء/VBD الله/NNP لعاد/NN ما/IN حدا/VBD بصوم/NNP رمضان/NNP على/IN هالحكي/NNP ./PUNC 

@@ -1,0 +1,1 @@
+عادي/NN احنا/NN شعب/NN اخر/JJ همنا/VBD المصاري/DTNN .../PUNC و/CC مش/NN عارفين/NNS وين/NN بدنا/NN انبعزق/NN مصارينا/JJ ./PUNC ./PUNC حتى/RP الحكومة/DTNN عم/NN بتفكر/NN توخذ/NN عينة/NN من/IN الشعب/DTNN الاردني/DTJJ و/CC تودية/NN على/IN اليونان/DTNNP على/IN شان/NN تحل/VBP الازمة/DTNN الاقتصادية/DTJJ باوروبا/NNP 

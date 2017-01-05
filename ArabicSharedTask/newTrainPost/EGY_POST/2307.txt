@@ -1,0 +1,1 @@
+-LRB-/PUNC المدير/DTNN ./PUNC ./PUNC اسرق/VBD يا/RP عم/NN ./PUNC انا/PRP مالى/JJ -RRB-/PUNC 

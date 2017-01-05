@@ -1,0 +1,1 @@
+والفيصلي/NNP رغم/NN خسارته/NN امام/NN الرمثا/DTNNP لا/RP يعني/VBP انه/NN خرج/VBD من/IN بطولة/NN كاس/NN الاردن/DTNNP ./PUNC ./PUNC ففرصته/NN كبيرة/JJ جدا/NN بالفوز/NNP وبلوغ/NNP الدور/DTNN الثاني/DTNNP بعكس/NNP الوحدات/NNP والذي/NNP اتوقع/VBP ان/IN يخرج/VBP بخسارة/NN معتبرة/VN على/IN يد/NN الحسين/DTNNP اربد/NNP 

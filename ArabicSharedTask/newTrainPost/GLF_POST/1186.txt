@@ -1,0 +1,1 @@
+لاوالله/NNP ضاعت/VBD احلامنا/NN بدري/NNP ياناصر/NNP تكفى/VBD ابي/NNP هالبنت-اكيد/NNP هالحين/NNP مااريد/NNP بنت/NNP عمي/NNP -/PUNC ابي/NNP وجهها/NNP مكياج/VN كانة/VB جبس/NN مع/NN اسمنت/NN لاتصدقون/NNP امزح/VBD ربنا/NNP لاتؤاخذنا/NNP 

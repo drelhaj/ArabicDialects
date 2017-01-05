@@ -1,0 +1,1 @@
+ذذ/NN يعني/VBP مش/NN موظفين/NNS -/PUNC دي/NNP عماله/NNP مؤقته/NN لانجاز/NNP مهمه/NNP معينه/NN ولاتخضع/NN للوائح/NN والقوانين/DTNNS التي/WP تنظم/VBP عمل/NN الموظفين/DTNNS الدائمين/DTJJ !!/NN 

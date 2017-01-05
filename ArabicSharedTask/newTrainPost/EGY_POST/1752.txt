@@ -1,0 +1,1 @@
+واضح/NN انك/VBD مازلت/NN متعلقة/JJ بالمرحوم/JJ و/CC كل/NOUN تفكيرك/NN فيه/NNP فتقومين/NNP بكتابة/NN كتاب/NN عنه/NN وتكتبي/NNS له/NN الشعر/DTNN ./PUNC فواضح/NN ان/IN هجوم/NN الصحافة/DTNN لم/RP يكن/VBP من/IN فراغ/NN ./PUNC و/CC اخشي/VBP ان/IN يكون/VBP كتابك/NN القادم/DTNN اسمه/NN 555/CD و/CC هو/PRP رقم/NN غرفتك/JJ بالعباسية/JJ ./PUNC فعلا/NN اللي/WP اختشوا/VBD ماتوا/VBD ./PUNC 

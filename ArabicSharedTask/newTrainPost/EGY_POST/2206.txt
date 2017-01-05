@@ -1,0 +1,1 @@
+او/CC بيكره/NN النادي/DTNN وبرضه/NNP هيكون/NNP -LRB-/PUNC زبالكاوي/NNP -RRB-/PUNC وهو/VBD نفس/NN الشخص/DTNN اللي/WP فوق/NN برضه/NNP 

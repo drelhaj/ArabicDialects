@@ -1,0 +1,1 @@
+مين/NN ما/IN شاف/JJ الوحدات/DTNNS ./PUNC ./PUNC مين/NN ما/WP خاف/VBD الوحدات/DTNNS ./PUNC ./PUNC مين/NN ما/WP استمتع/VBD بالوحدات/NNS 

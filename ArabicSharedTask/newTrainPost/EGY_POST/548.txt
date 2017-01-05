@@ -1,0 +1,1 @@
+هتقول/NNP إيه/NNP ./PUNC ./PUNC زودت/VBD فقرهم/NNP و/CC بعت/VBD نصيبهم/NNP في/IN البلد/DTNN و/CC عطلت/VBD الزراعة/DTNN و/CC بيعت/VBN المصانع/DTNN و/CC طبقت/VBD الأجندة/DTNN الأمريكية/DTJJ بحذفيرها/NN !!!/CD 

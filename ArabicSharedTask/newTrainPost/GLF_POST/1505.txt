@@ -1,0 +1,1 @@
+ههه/NNP مبروك/NNP -/PUNC ياخي/VBP تكفيكم/NN شهاده/NNP زغبي/NNP -/PUNC المشكله/DTJJ اللجنه/DTNN هاذي/NNP مو/NNP معترف/VN فيها/NN وفرحانين/NNS ياجماهير/NNP ذذذ/CD -/PUNC 

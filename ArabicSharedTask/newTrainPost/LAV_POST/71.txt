@@ -1,0 +1,1 @@
+الله/NNP يعطيكو/VBP الف/CD الف/NN عافيه/NN يا/RP نشامى/NN الاردن/DTNNP ./PUNC ./PUNC يااااااااارب/VBP التاهل/DTNN الى/IN كأس/NN اسيا/NNP يارب/NNP يكون/VBP عبد/NNP الهادي/DTNNP المحارمه/DTNNP مع/NN المنتخب/DTNN 

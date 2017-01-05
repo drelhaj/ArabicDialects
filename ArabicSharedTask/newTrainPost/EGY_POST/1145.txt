@@ -1,0 +1,1 @@
+كل/NOUN واحد/NN من/IN العبط/DTNN الى/IN بيقولو/NNP ان/IN الموضوع/DTNN كدب/VBD والىبيقول/NN الى/IN يختار/VBP دينتة/NN برحتة/NN وايةالى/NNP انتو/NNP بتقولة/NNP دة/NNP قال/VBD تعالى/VBD :/PUNC -LRB-/PUNC ان/IN الدين/DTNN عند/NN الله/NNP هو/PRP الاسلام/DTNN -RRB-/PUNC 

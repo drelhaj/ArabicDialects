@@ -1,0 +1,1 @@
+عليه/NNP العوض/DTNN ياميدو/NNP ,/PUNC والله/NNP كنا/VBD بنفتخر/NNP بيك/NNP ,/PUNC لكن/VBP تأتي/NNS الرياح/DTNN بما/NN لا/RP تشتهي/VBP السفن/DTNN ,/PUNC ان/IN شاء/VBD الله/NNP ترجع/VBP تاني/NN لمستواك/NNP المعهود/DTJJ ياكبير/NNP ,/PUNC انت/PRP بقيت/VBD كده/NNP لما/NNP رجعت/VBD الزمالك/DTNNP ,/PUNC لكن/VBP معلش/NN هترجع/VBP تاني/NN ان/IN شاء/VBD الله/NNP لمستواك/NNP ./PUNC 

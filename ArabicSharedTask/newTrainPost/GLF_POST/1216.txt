@@ -1,0 +1,1 @@
+مايعنينا/NNP الموضوع/DTNN .../PUNC !/PUNC لان/NNP البطوله/DTNNP هذي/DT ولا/NN شي/NNP ./PUNC ./PUNC 

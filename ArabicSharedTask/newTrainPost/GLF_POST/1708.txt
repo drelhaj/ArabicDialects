@@ -1,0 +1,1 @@
+2000/CD ريال/NN يدفعها/NN والمسكين/JJ الي/IN جاي/NNP يبي/VBP لقمة/NN عيش/NN له/NN ولعياله/NN يدفع/VBP 15/CD الف/CD وتروح/NN لجيب/NN المستقدم/DTNN الي/IN ما/WP يخاف/VBP الله/NNP وكل/NN شهر/NN يسحب/VBP منه/NNP 500/CD ريال/NN ./PUNC 

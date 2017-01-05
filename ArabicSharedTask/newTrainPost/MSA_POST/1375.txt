@@ -1,0 +1,1 @@
+انا/PRP كتبت/VBD في/IN تعليقي/NN السابق/DTNN بان/VBD لاعبي/NNS فريق/NN الرمثا/DTNNP اغترو/NNP بانفسهم/NNP نظرا/NN للفوز/NN على/IN فريق/NN الفيصلي/DTNNP ./PUNC ./PUNC ولكن/VBN ان/IN يستهترو/VBP بالفيصلي/NNP بهذا/NNP الشكل/DTNN ./PUNC ./PUNC فهذا/VBD خطا/NN فادح/JJ وعدم/NN تقدير/NN الامور/DTNN بما/NN يلائمها/NN 

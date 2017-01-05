@@ -1,0 +1,1 @@
+طيب/NNP هيك/NNP حليت/NNP مشكلة/NN القطايف/DTNN شو/NNP بالنسبة/NNP للحمة/NN والرز/NNP والسكر/NNP والزيت/NNP والدجاج/NN والاجبان/NNS والمعلبات/NNS ؟/VBD شو/NNP البديل/DTNN ؟/CD 

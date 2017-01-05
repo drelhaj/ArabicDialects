@@ -1,0 +1,1 @@
+ارجعلي/NNP خرج/VBD مع/NN صاحبو/NNS خذا/NN منصف/JJ ورقة/NN الدواء/DTNN قراها/NN و/CC و/CC شي/NNP وقالو/NNP لاباس/NNP عليك/NNP خوذ/NN الدواء/DTNN هذا/DT إستعملو/ADJ عشرة/JJ أيام/NN 

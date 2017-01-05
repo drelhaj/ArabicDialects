@@ -1,0 +1,1 @@
+هل/RP لاني/NNP قبيلية/NNP لي/NNP الاصل/DTNN والشرف/NNP والشخص/NNP الخضيري/DTJJ او/CC الحضري/DTJJ ما/WP له/VBD اصل/NN ولا/NN نسب/NN ./PUNC ./PUNC ما/WP هذا/DT التناقض/DTNN الم/VBD يقل/VBP الله/NNP تعالى/VBD في/IN محكم/NN التنزيل/DTNN -LRB-/PUNC إن/NN أكرمكم/DTNN عند/NN الله/NNP التقوى/DTNN -RRB-/PUNC 

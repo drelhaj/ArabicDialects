@@ -1,0 +1,1 @@
+كثيرا/NN هي/PRP صعبة/JJ أحوال/NN الناس/DTNN في/IN الأردن/DTNN -LRB-/PUNC الغالي/DTJJ -RRB-/PUNC أتمنى/VBD أن/NN تعي/VBP الحكومة/DTNN الأردنية/DTJJ أن/NN ما/WP يحدث/VBP بالأردن/NNP مؤخراً/JJ هو/PRP جديد/JJ على/IN الشارع/DTNN الاردني/DTJJ ./PUNC ./PUNC الفقر/DTNN يقود/VBP الى/IN الجهل/DTNN والجهل/NN يقود/VBP الى/IN النار/DTNN !!!!!/NN 

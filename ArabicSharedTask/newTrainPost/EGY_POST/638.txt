@@ -1,0 +1,1 @@
+انتي/NN ايه/NN حكايتك/NN انتي/NN عاجبك/JJ حال/NN البلد/DTNN و/CC الفقر/DTNN اللي/WP الناس/DTNN فيه/NNP مع/NN ان/IN بلدنا/VBD موش/NNP فقيرة/NNP 

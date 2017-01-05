@@ -1,0 +1,1 @@
+ياسمو/VBP الامير/DTNN اشوي/NNP انهم/VBD ما/WP وقفوه/VBD كان/VBD حسبوه/NN نقص/NN هم/PRP$ يعتبرون/VBP حسام/NNP غالي/NN نقص/NN وهم/NN من/IN تمنوا/NN ثبوته/NN تعطي/VBP المنشطات/DTNNS للاسترداد/NN المبالغ/DTNN التي/WP دفعة/NN له/NN ./PUNC 

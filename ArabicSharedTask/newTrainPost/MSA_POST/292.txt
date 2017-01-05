@@ -1,0 +1,1 @@
+أن/VBD تكون/VBP زوجاً/NN نموذجيا/JJ ًمهمة/NN عسيرة/NN ./PUNC ./PUNC فالحب/NNP ،/VBD والمال/NN ،/NN والجمال/NN ،/NN والجاه/NN ،/NN والعلم/JJ لا/RP يكفي/VBP ./PUNC وحتى/VBD لو/IN دخلت/VBD تلافيف/NN عقل/NN الأنثى/DTNN ،/NN وفهمت/VBD متى/WRB عليك/VBD أن/NN تصحو/VBP وترقد/NN ،/NN تجوع/VBP وتشبع/NN ،/NN تسمح/VBP وتتمنع/NN ،/NN تحاورها/NN وتخسر/NN ./PUNC 

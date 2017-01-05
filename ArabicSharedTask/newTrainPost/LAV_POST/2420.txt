@@ -1,0 +1,1 @@
+-/PUNC بدي/NN ليرة/NN زيادة/NN عشان/NN حملت/NN ''/NN الشنطة/DTNN ''/NN ./PUNC 

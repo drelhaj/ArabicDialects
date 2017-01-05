@@ -1,0 +1,1 @@
+ليش/NNP لأ/NNP .../PUNC ./PUNC ./PUNC 

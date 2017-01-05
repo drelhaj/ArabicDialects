@@ -1,0 +1,1 @@
+دي/NN اول/ADJ سلاله/NN في/IN الحيوانات/DTNNS الصيني/DTJJ بيجربوه/NN بس/NN بعد/NN كده/NN اكيد/JJ هنلاقيه/NN هنا/RB في/IN مصر/NNP قريب/JJ جدا/NN .../PUNC ./PUNC 

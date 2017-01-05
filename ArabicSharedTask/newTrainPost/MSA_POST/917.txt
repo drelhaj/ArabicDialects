@@ -1,0 +1,1 @@
+الاعتراف/DTNN بان/VBD هنالك/RB فئه/NN لاباس/NNP بها/NN من/IN الطلاب/DTNN يحملون/VBP كرامه/NN وعزة/NN نفس/NN في/IN قلوبهم/NN ,/PUNC وفئه/NN اخرى/JJ خاضعه/JJ وخانعه/NN لقرارات/NNS غير/NN سليمه/NN ./PUNC 

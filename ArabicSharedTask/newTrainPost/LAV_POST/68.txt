@@ -1,0 +1,1 @@
+بس/NN المشكلة/DTNN انه/NNP جماعة/NNP -LRB-/PUNC التحاليل/DTNNP -RRB-/PUNC تحججو/VBP انه/NN شباب/NN الاردن/DTNNP اعطا/VBD الدوري/DTNN للوحدات/NNS 3/CD سنوات/NNS فاضطروا/VBD يحكو/VBP انه/NN نفس/NN الشباب/DTNN اعطوا/VBD للفيصلي/NNP ./PUNC ليش/VBD ما/WP اخذو/VBD شباب/NN الاردن/DTNNP بدل/NN ما/WP يعطي/VBP 

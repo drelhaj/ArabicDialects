@@ -1,0 +1,1 @@
+انا/PRP ما/WP بعرف/VBD مصر/NNP شو/NNP قصدها/NN من/IN الموضوع/DTNN ./PUNC ./PUNC واحد/NN ايفهمني/NNP مصر/NNP شو/NNP بدها/NN بزبط/NN ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+6/CD ./PUNC ضرورة/NN اسناد/NN ادارة/NN فريق/NN القدم/DTNN لمن/NNP يكون/VBP قادرا/JJ على/IN النهوض/DTNN به/NNP 

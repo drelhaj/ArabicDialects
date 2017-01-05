@@ -1,0 +1,1 @@
+إيه/NN يا/RP مصريين/JJ ؟/VBD انتم/PRP إيه/NN ؟/NN ليه/NNP بتحشروا/NNP الجزائر/DTNNP في/IN كل/NOUN موضوع/NN ؟/VBD الله/NNP يشفيكم/VBP من/IN الغل/DTNN و/CC الحسد/DTNN ./PUNC ما/WP تشوفولكم/VBP طبيب/NN نفساني/JJ يعالجكم/VBP من/IN الحالة/DTNN الي/IN تأخكم/NN كلما/WRB ذكرت/VBD كأس/NN العالم/DTNN و/CC الجزائر/DTNNP ./PUNC 

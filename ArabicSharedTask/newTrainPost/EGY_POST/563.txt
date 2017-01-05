@@ -1,0 +1,1 @@
+من/IN قلب/NN نيلك/VBP جانا/NN الولد/DTNN ./PUNC ./PUNC 

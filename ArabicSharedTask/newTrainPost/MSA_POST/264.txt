@@ -1,0 +1,1 @@
+وبالرغم/NN من/IN تمتع/NN القضاء/DTNN الإسلامي/DTJJ بنوع/NN من/IN الاستقلال/DTNN والحرية/JJ ،/VBD إلا/NN أنه/NN ظلّ/NN تابعاً/NNP للسلطة/NNP التنفيذية/DTJJ وجزءاً/NN لا/RP يتجزأ/VBP منها/NN ./PUNC فالإسلام/NNP لا/RP يفصل/VBP أيضاً/NN بين/NN التنفيذ/DTNN والقضاء/NN على/IN عكس/NN ما/WP تنادي/VBP به/NN الديمقراطية/DTJJ الحديثة/DTJJ ./PUNC 

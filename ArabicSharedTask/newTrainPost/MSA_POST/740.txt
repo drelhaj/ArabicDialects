@@ -1,0 +1,1 @@
+وبالنسبة/NN للعصبية/JJ فها/NN نحن/PRP نسمع/VBP يوميا/NN عن/IN حرمان/NN البهداري/DTNN وحرمان/NNP رافت/NNP علي/NNP وحرمان/NNP عامر/NNP شفيع/NN وغيرهم/NN الكثير/DTNN ./PUNC ./PUNC برايك/NNP ما/WP هو/PRP سر/NN هذا/DT الحرمان/DTNN المتكرر/DTJJ بحق/NN لاعبي/NNS الوحدات/DTNNS دائما/NN ؟/NN ؟/NN 

@@ -1,0 +1,1 @@
+واحد/NN بيحب/NN واحدة/JJ لدرجة/NN انه/NN حرق/NN نفسه/NN عشانها/NN طيب/JJ ليه/NN راح/NN اتجوز/NN واضح/JJ انه/VBD مش/NN طبيعي/JJ ,/PUNC يحصل/VBP خلاف/NN يقوم/VBP يتجوز/NN ترفع/VBP خلع/NN يقوم/VBP حارق/NN نفسه/NN ؟/NN بالذمة/NN دي/NN ردود/NN أفعال/NN انسان/NN سوي/NN عموما/NN اله/NN يرحمه/VBP لأنه/NNP مات/NNP خلاص/NN ./PUNC 

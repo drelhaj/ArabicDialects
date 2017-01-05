@@ -1,0 +1,1 @@
+بصراحه/NNP المكان/DTNN المناسب/DTJJ وبيخفف/NNP الزحمه/DTNNP هو/PRP على/IN طريق/NN السيل/DTNN ليخدم/NNP اهل/NN الطائف/DTNNP ومكه/NNP ويكون/NNP بالمنتصف/NNP وتنشا/NN مدينة/NN حجاج/NN وقطار/NN سريع/JJ للحرمين/JJ من/IN هناك/RB هذا/DT هو/PRP الصحيح/DTNN 

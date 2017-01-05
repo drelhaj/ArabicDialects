@@ -1,0 +1,1 @@
+في/IN شبكتنا/NN ''/NN شبكة/NN ومنتديات/NNS مخيم/NN ''/NN نحيي/VBP النكبة/DTNN على/IN مدار/NN السنة/DTNN ,/PUNC ,/PUNC لان/VBD النكبة/DTNN والعودة/NN ثقافة/NN وتفاعل/NNP 

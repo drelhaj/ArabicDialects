@@ -1,0 +1,1 @@
+سوف/RP يرفع/VBP الحصار/DTNN الظالم/DTJJ عن/IN اهل/NN غزة/NNP وستصبح/NNP غزة/NNP حرة/NN ونتمنى/JJ ان/IN نرى/VBP الضفة/DTNNP الغربية/DTJJ وقد/NN حررت/VBD من/IN رجال/NN دايتون/NNP تمهيدا/NN لتحرير/NN باقي/NN ارض/NN فلسطين/NNP العربية/DTJJ من/IN البحر/DTNN الى/IN النهر/DTNN ./PUNC 

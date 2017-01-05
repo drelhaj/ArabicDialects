@@ -1,0 +1,1 @@
+2-قوانين/NNS الاحوال/DTNN الشخصية/DTJJ القديمة/DTJJ والجديدة/NN هضمت/NN حقوق/NN الرجل/DTNN وكلها/NN لصالح/NN المراة/DTNN ولذلك/NN ما/WP من/IN رجل/NN مستعد/JJ او/CC يوقع/VBP عقد/NN يكون/VBP فيه/NNP هو/PRP الطرف/DTNN الاضعف/DTJJR والخاسر/NN الوحيد/DTNN من/IN الزواج/DTNN ./PUNC 

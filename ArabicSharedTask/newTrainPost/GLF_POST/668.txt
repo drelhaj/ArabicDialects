@@ -1,0 +1,1 @@
+من/IN اسخف/NN الافلام/DTNN مايستاهل/NNP الضجه/DTNNP اللي/WP صارت/VBD ./PUNC ./PUNC على/IN شنو/NNP .../PUNC 

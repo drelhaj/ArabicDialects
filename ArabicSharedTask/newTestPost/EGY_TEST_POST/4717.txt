@@ -1,0 +1,1 @@
+ياعم/VBP حسام/NNP البلد/DTNN دى/VBD برغم/NN كل/NOUN الظلم/DTNN اللى/WP فيها/VBD مش/NN بس/NN في/IN الكورة/DTNNP ولكن/NNP .../PUNC ./PUNC ./PUNC بس/NN احسن/JJR من/IN غيرها/NN كتييييييييييييييييييييييييييييييير/NNP 

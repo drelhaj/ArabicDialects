@@ -1,0 +1,1 @@
+الى/IN اسامة/NNP ./PUNC ./PUNC الذي/WP يقول/VBP بان/NNP الوحدات/DTNNP لو/IN كان/VBD ناوي/NNP يوخذ/VBP الدوري/DTNN كان/VBD حسمو/NNP قبل/NN اسبوعين/NNS !!!/NN ههههههه/NNP ./PUNC ./PUNC انا/PRP مصدقك/JJ ./PUNC ./PUNC بس/NN شوف/NN الشباب/DTNN !!/CD 

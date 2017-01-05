@@ -1,0 +1,1 @@
+مفيش/NN حد/NN عاجبنى/JJ بعد/NN كده/NN ./PUNC كلو/NNP داخل/NN ينهب/VBP فى/IN مصر/NNP وكلو/VBD واقف/JJ مع/NN التغيير/DTNN عشان/NN ينبلو/VBP من/IN الحب/DTNN جانب/NN والله/NN اعلم/VBD بما/NN فى/IN الانفس/DTNN ./PUNC اتمنى/VBP ان/IN تكون/VBP النية/DTNN خير/NN لمصر/NNP 

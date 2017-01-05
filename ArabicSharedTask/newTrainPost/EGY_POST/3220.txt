@@ -1,0 +1,1 @@
+انتو/VBD فين/NNP ياللي/NNP قلوبكم/NNP رحيمة/NN وخايفين/JJ علي/IN نزاهة/NN اللعب/DTNN النظيف/DTJJ من/IN ماتش/NNP امبارح/NNP ./PUNC ./PUNC فين/NNP من/IN تصرفات/NNS ابراهيم/NNP بيك/NNP حسن/NNP ./PUNC ./PUNC ومن/VBD لاعيبة/NNP الزبالك/DTNNP 

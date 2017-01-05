@@ -1,0 +1,1 @@
+هذا/DT ليس/VBD بالغريب/NN ولا/NN بالمستهجن/NNP ؛/VBD المسيحية/DTNN من/IN قبل/NN تعرضت/VBD لنفس/NN الضغوطات/DTNNS وهي/NNP ديانتهم/NNP فما/NN بالك/NNP بالإسلام/NNP ./PUNC 

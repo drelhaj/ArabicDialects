@@ -1,0 +1,1 @@
+نعم/UH مبروك/VN هذا/DT الفوز/DTNN للرمثا/NN ويكفينا/NNP فوزنا/NNP ببطولة/NN الدوري/DTNN ،/VBD ويوم/NNP أمس/NNP فاز/VBD الفيصلي/DTNNP بمواهبه/NNP الجديدة/DTJJ -LRB-/PUNC محمود/NNP سليم/NNP زعترة/NNP -RRB-/PUNC والموهوب/NNP -LRB-/PUNC خليل/NNP بني/NNP عطية/NNP -RRB-/PUNC 

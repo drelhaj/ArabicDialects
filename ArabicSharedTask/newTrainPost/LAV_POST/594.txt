@@ -1,0 +1,1 @@
+والله/NN احنا/NN بنسمع/NNP باسم/NNP الاحتراف/DTNN بس/NN مافي/JJ عنا/VBD هذا/DT الحكي/DTNN ليش/NN ./PUNC ./PUNC الانديه/DTNN بدها/NN النفقات/DTNNS اللازمه/DTJJ الي/IN تغطي/VBP كافه/NN المصاريف/DTNN واحنا/NN عنا/VBD انديه/NNP بس/NN ما/WP في/IN عنا/VBD المصاريف/DTNN وبنتمنى/NNP انو/NNP يكون/VBP عنا/VBD ملعب/NN لكل/NN نادي/NN اردني/JJ .../PUNC .../PUNC ./PUNC ./PUNC 

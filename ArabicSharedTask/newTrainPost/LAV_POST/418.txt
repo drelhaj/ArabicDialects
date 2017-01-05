@@ -1,0 +1,1 @@
+شو/NNP الفكرة/DTNN ان/IN الطفل/DTNN يعيش/VBP عند/NN اخواله/NN لانه/NNP الاولى/ADJ انه/NN يعيش/VBP عند/NN ابوه/NNP ؟/VBD ؟/NN ؟/NN ؟/NN ؟/NN ؟/NN ؟/CD 

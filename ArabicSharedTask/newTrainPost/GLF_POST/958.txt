@@ -1,0 +1,1 @@
+شكلهم/NN صرفوا/VBD نضر/VBP عن/IN الحكام/DTNN الرومانيين/DTJJ على/IN شان/NN ما/WP تجي/VBP البلبله/DTNN والبيانات/NNS ،/VBD ،/NN بس/NN الهلال/DTNN قدها/NN مهما/JJ كان/VBD حكم/NN سعودي/JJ حكم/NN اجنبي/JJ ./PUNC ./PUNC بالتوفيق/NNP للزعيم/NNP ،/VBD ،/NN وإن/NN شاء/VBD الله/NNP نشوف/VBP مبارات/NN حلوه/NN خاليه/JJ من/IN المشاحنات/DTNNS ./PUNC ./PUNC 

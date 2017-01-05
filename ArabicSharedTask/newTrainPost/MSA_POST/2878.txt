@@ -1,0 +1,1 @@
+5/CD -/PUNC لو/IN قلنا/VBD ان/IN فل/NNP السيارة/DTNN من/IN البنزين/DTNN هو/PRP بحدود/NN 60/CD لتر/NN كمعدل/NN فهذا/JJ يعني/VBP ان/IN الحكومة/DTNN قد/RP صبت/VBD في/IN جيبها/NN حوالي/NOUN 14/CD دينارا/NN من/IN اصل/NN 42/CD دينارا/NN تلزمك/VBP لتعبئة/NN سيارتك/NNP بالوقود/NNP 

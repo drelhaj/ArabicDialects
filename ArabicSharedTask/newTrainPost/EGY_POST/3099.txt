@@ -1,0 +1,1 @@
+بذمتك/NN ده/DT كلام/NN تقوله/NN ./PUNC ./PUNC الحقيقة/DTNN ممدوح/NNP اسماعيل/NNP بريئ/NNP والجاني/NNP هو/PRP القضاء/DTNN المصري/DTJJ اللي/WP تجرأ/VBP عليه/NN وأعطاه/NN حكم/NN ،/NN وكمان/NN المجني/DTNN عليهم/NN مسئولين/NNS لأنهم/NN ماعرفوش/NNP يعوموا/VBP ؟/NN ؟/NN وعجبي/JJ 

@@ -1,0 +1,1 @@
+شو/NNP القصه/DTNN يا/RP عالم/NN قبل/NN شوي/NNP نفس/NN الشي/DTNNP شقيق/NN يطعن/VBP شقيقه/NN حتى/IN الموت/DTNN 

@@ -1,0 +1,1 @@
+نعرفوه/NNP عياض/NNP بن/NNP عاشوربدون/NNP تعليق/NN سيبو/NNP الناس/DTNN توقف/NN البلاد/DTNN راهي/NNP و/CC دكتور/NNP في/IN الالسنيات/DTNNS و/CC يعرف/VBP شنو/NNP يحكي/VBP الشابي/DTNNP انسان/NN محترم/JJ 

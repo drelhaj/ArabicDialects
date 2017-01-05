@@ -1,0 +1,1 @@
+تسلمي/VBP بس/NN ياريت/NNP تبطلي/VBP تمثيل/NN أحسن/NN وتوبي/JJ بجد/NN وأهم/NN حاجة/NN الأخرة/DTNN وماتقوليش/NN إن/NN إنت/VBD بتقدمي/NNS رسالة/NN لان/NN التمثيل/DTNN حاليا/NN في/IN مصر/NNP واللي/NNP بيحصل/NNP فية/NNP حرام/NN والرزق/JJ علي/IN الله/NNP وأنا/VBD كنت/VBD فرحت/NN لماتبتي/NNS قبل/NN كدة/NN وإعتزلتي/NNS 

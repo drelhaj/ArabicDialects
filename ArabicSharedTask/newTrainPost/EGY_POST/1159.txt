@@ -1,0 +1,1 @@
+مين/NNP اللى/WP بيتكلم/NN من/IN النصارى/DTNN عن/IN حرية/NN العقيدة/DTNN ؟/VBD ؟/NN ؟/NN ممكن/JJ يا/RP نصارى/VBD تقولون/VBP لنا/NN تفسير/NN لما/NNP فعلته/NN الكنيسة/DTNN مع/NN وفاء/NN قسطنطين/NNP ؟/VBD ؟/NN ؟/NN هى/NN دى/NN حرية/NN العقيدة/DTNN عندكم/NN ؟/NN ؟/NN ؟/NN ؟/CD 

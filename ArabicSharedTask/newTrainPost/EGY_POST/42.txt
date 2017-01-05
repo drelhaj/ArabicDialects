@@ -1,0 +1,1 @@
+يا/RP اخ/NN محمود/NNP من/IN مصر/NNP طبعا/NN الاهلي/DTNNP المصري/DTJJ الاكثر/DTJJR فوز/NN بالبطولات/NNS ,/PUNC بس/NN البعض/NOUN بيحبوا/NN ينسبوا/VBP الهم/DTNN اشياء/NN لا/RP دخل/VBD لنا/NN بها/NN ,/PUNC 

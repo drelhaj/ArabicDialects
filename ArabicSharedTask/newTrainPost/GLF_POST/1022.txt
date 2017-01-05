@@ -1,0 +1,1 @@
+ليش/NNP مانستضيفه/NNP ونتحاور/NNP معاه/NNP ونشوف/NNP وش/NNP عنده/NNP ./PUNC 

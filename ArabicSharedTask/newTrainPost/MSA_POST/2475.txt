@@ -1,0 +1,1 @@
+اذا/IN اردنا/VBD سياحه/NN داخليه/NNP فلا/NN بد/NN من/IN مراعاة/NN دخل/NN المواطن/DTNN الاردني/DTJJ ورفع/NN مستوى/NN الخدمه/DTNN والتنافس/NN الحر/DTNN ثم/CC التكلم/DTNN بعد/NN ذلك/DT عن/IN سياحه/NN داخليه/NNP ./PUNC 

@@ -1,0 +1,1 @@
+سياده/NNP الرئيس/DTNN لقد/RP خدمت/VBD بلدك/NN ونحن/NN كشعب/NN قدرنا/NN لك/NN انجازاتك/NNP وممكن/NNP ان/IN ننسي/VBP اخطائك/NN الجسيمه/DTNN ولكن/NN ياريس/NNP حضرتك/NNP تعبت/VBD بق/NN يكفايه/VBP كده/VB استريح/VB بقي/VBD وسيب/NN الحكم/DTNN لحد/NNP بيبحب/NNP البلد/DTNN ويبقي/NNP فضيلها/NNP ويراقب/NNP الحكومه/DTNNP انما/RP انت/PRP في/IN شرم/NNP دلوقتي/NNP ومش/NNP فاضيلنا/NNP 

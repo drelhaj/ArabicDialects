@@ -1,0 +1,1 @@
+4/CD -RRB-/PUNC عام/NN 2000/CD يشارك/VBP الزعيم/DTNN في/IN أبطال/NN الدوري/DTNN العربي/DTJJ في/IN جدة/NNP السعودية/DTNNP ويصل/NN قبل/NN النهائي/DTNN وبعدها/NN بشهرين/NNS يشارك/VBP الوحدات/DTNNS في/IN أبطال/NN الكأس/DTNN في/IN الرياض/DTNNP السعودية/DTNNP ويخرج/NNP من/IN الدور/DTNN الأول/DTJJ كالعادة/NNP 

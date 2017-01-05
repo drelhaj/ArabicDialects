@@ -1,0 +1,1 @@
+مافي/NNP بدله/NNP ب50دينار/NNP اقل/JJR شي/NNP بالسوق/NNP البدله/DTNN 100/CD او/CC 150/CD او/CC ممكن/JJ 300/CD و500/NN اما/RP لو/IN البدله/DTNN 50/CD بالوحدات/NNS كان/VBD كل/NOUN الناس/DTNN راحت/NN شرت/NN من/IN هناك/RB 

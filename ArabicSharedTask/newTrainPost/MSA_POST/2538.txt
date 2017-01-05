@@ -1,0 +1,1 @@
+ولكنني/NNP أفاجأ/VBD بطلبات/NNS المراقبين/DTNNS بأنه/NN من/IN الأفضل/DTNN أن/NN تتجه/VBP الحكومة/DTNN إلى/VBD تثبيت/NN أسعار/NN المحروقات/DTNNS بدلاً/NN من/IN تخفيضها/NN بحجة/NN أن/NN الارتفاعات/DTNNS كانت/VBD بسيطة/JJ ،/VBD ولكنني/NNS أقول/JJ يجب/VBP أن/NN تقوم/VBP الحكومة/DTNN بالتخفيض/NN لأن/NN الأسعار/DTNN أصبحت/VBD أقل/NN من/IN الفترة/DTNN السابقة/DTJJ بكثير/NNP .../PUNC 

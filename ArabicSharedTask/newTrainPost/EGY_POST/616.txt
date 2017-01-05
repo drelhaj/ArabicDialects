@@ -1,0 +1,1 @@
+وزارة/NN اية/NOUN دى/NN ؟/JJ !/PUNC .../PUNC ./PUNC ./PUNC دى/VBD ولا/NN دكان/NN حكشة/NN الحانوى/DTNN فكرونى/NN بحكشة/NN الحانوتى/DTNN لما/IN كان/VBD يقف/VBP على/IN باب/NN الدكانة/DTNN ساعة/NN صبحيحية/JJ ويدعى/VBD بصوت/NNP عالى/VBD ان/IN ربنا/NNP يسهل/VBP لة/NN ويرزقة/NN ويستفتح/NNP ,/PUNC والناس/NNP كلها/NNP تدعى/VBN ان/IN ربن/NNP ياخدة/NNP هو/PRP ./PUNC قولوا/VB آمين/NN 

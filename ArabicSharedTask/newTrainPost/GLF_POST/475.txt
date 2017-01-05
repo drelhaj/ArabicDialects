@@ -1,0 +1,1 @@
+تعليق/NN رقم/NN -LRB-/PUNC -LRB-/PUNC -LRB-/PUNC 7/CD -RRB-/PUNC -RRB-/PUNC -RRB-/PUNC اقول/VBP عندي/NNP سيكل/NNP ابو/NNP 3/CD عجلات/NNS ما/WP ودك/VBD تجربينه/NN وتنحشين/NNS من/IN اهلك/VBD بعد/NN 

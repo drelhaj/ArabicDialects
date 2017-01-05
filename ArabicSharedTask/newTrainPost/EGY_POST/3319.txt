@@ -1,0 +1,1 @@
+كان/VBD لازم/JJ الفضيحة/DTNN تبقي/VBP علني/JJ علشان/NN الكل/NOUN يتربي/VBP و/CC العقاب/DTNN يبقي/VBP شديد/JJ ./PUNC ./PUNC و/CC الزمالك/DTNNP يبقي/VBP عبرة/NN لكل/NN الفرق/DTNN ./PUNC ./PUNC الشرطة/DTNN يا/RP مفتري/JJ ؟/VBD ؟/NN ؟/NN ؟/NN دة/NN انت/PRP ليلتك/NN سودا/JJ يا/RP برهومة/JJ ./PUNC ./PUNC اعدام/NN انشاءالله/NNP :/PUNC -RRB-/PUNC -RRB-/PUNC 

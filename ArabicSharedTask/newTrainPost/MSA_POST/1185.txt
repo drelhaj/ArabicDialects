@@ -1,0 +1,1 @@
+6/CD -/PUNC اللّهُـمَّ/DTNN عافِـني/DTJJ في/IN بَدَنـي/NNP ،/VBD اللّهُـمَّ/DTNN عافِـني/JJ في/IN سَمْـعي/NNS ،/NN اللّهُـمَّ/DTNN عافِـني/DTJJ في/IN بَصَـري/NNP ،/VBD لا/RP إلهَ/VBP إلاّ/NN أَنْـتَ/DTNN ./PUNC -LRB-/PUNC ثلاثاً/CD -RRB-/PUNC 

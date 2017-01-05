@@ -1,0 +1,1 @@
+مين/NNP مصطفي/NNP رجب/NNP داه/NNP اللي/WP جاب/VBD الهدف/DTNN 

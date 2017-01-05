@@ -1,0 +1,1 @@
+طيب/NNP وش/NNP نقول/VBP عن/IN السيارات/DTNNS الأمريكية/DTJJ !!!/VBD الي/IN معروف/NN انها/NN مليانه/NNP ملاحظات/NNS ومشاكل/JJ ./PUNC ./PUNC 

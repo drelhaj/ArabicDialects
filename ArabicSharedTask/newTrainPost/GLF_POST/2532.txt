@@ -1,0 +1,1 @@
+الله/NNP عليكم/NNP يا/RP ذا/NN الجيل/DTNN ./PUNC ./PUNC 

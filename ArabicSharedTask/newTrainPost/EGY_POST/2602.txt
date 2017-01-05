@@ -1,0 +1,1 @@
+روح/NN شوف/NN الأمن/DTNN بيعمل/NNP إيه/NNP وبعدين/NNP تعالى/VBD اتكلم/VBP ،/NN مصر/NNP مخطوفة/JJ اصحوا/VBD بقى/NN ./PUNC 

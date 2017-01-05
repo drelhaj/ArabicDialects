@@ -1,0 +1,1 @@
+يا/RP ريت/NN كل/NOUN واحد/NN ناوى/NN يشتم/VBP سواء/NN مصرى/JJ أو/VBD جزائرى/NN يعرف/VBP ان/IN أكبر/VBP نسبة/NN زواج/NN مختلط/JJ بين/NN المصريين/DTNNS و/CC بين/NN اى/NOUN شعب/NN عربى/NN اخر/JJ هى/VBD مع/NN الجزائر/DTNNP .../PUNC يعنى/VBN اللى/WP ناوى/VBD يشتم/VBP حيكون/NN بيشتم/NNP اهله/NNP .../PUNC افهموا/VBD من/IN فضلكم/NN .../PUNC و/CC شكرا/NN للنشر/NNP 

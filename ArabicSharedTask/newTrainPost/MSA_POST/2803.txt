@@ -1,0 +1,1 @@
+ما/IN دام/VBD الموضوع/DTNN يتعلق/VBP بالتأمين/NNS فهي/JJ فرصة/NN للقطاع/DTNN الطبي/DTJJ من/IN خلال/NN التعريج/DTNN على/IN موضوع/NN التأمين/DTNN الصحي/DTJJ ان/IN يتم/VBP تسويق/NN الخدمات/DTNNS الطبية/DTJJ من/IN قبل/NN جمعية/NN المستشفيات/DTNNS الخاصة/DTJJ ./PUNC 

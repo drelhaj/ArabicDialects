@@ -1,0 +1,1 @@
+بعدين/NNP شو/NNP قصة/NN انه/NN فريقو/NNP كان/VBD منشغل/JJ بالمشاركات/NNS الخارجيه/DTNNP ,/PUNC وعشان/NN هيك/NNP مافاز/NNP باي/NNP لقب/NN ./PUNC 

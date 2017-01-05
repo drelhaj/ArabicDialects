@@ -1,0 +1,1 @@
+ثاني/ADJ شئ/NN بالنسبة/NNP للهزيمة/NNP الثقيلة/DTJJ اللي/WP انت/PRP بتتكلم/NN عليها/NN ياشاطر/NNP ./PUNC ./PUNC ده/DT الزمالك/DTNNP هو/PRP اللي/WP هيشيلهم/VBP في/IN عبو/NNP ويخلع/NNP زي/NN كل/NOUN مرة/NN ودي/JJ مش/NN جديدة/JJ عليهم/JJ ./PUNC ./PUNC 

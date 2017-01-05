@@ -1,0 +1,1 @@
+بس/NN حليت/NN فى/IN عنيهم/NN -/PUNC 99/CD ج/NN مقابل/NN عمل/NN قد/RP لايستغرق/VBP ساعه/NNP واحده/NNP أو/NNP لاعمل/NNP اطلاقا/NN !!/NN طب/NN وماله/NN نعتصم/NN ونهيص/NN -/PUNC ماهو/NNP اللي/WP ييجي/VBP منه/NNP احسن/VBD منه/NNP !!/VBD علي/IN رأي/NNP فهلويه/NNP مصر/NNP ./PUNC ./PUNC 

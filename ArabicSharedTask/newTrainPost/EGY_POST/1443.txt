@@ -1,0 +1,1 @@
+انا/PRP لو/IN مكان/NN صاحب/NN الصورة/DTNN رقم/NN 3/CD مش/NN هسيب/NN حقي/JJ ./PUNC وهرفع/VBN علي/IN اليوم/DTNN السابع/ADJ قيه/NN تشهير/NN ./PUNC ياعالم/VBP واحد/NN واقف/JJ هو/PRP وخطيبته/NN ./PUNC تصوروهم/VBP وتقولوا/VB ده/DT تحرش/VBP ./PUNC والله/NN عيب/NN عليكم/JJ ./PUNC ياريت/NNP يشوف/VBP الصور/DTNN والتعليق/NN بتاعي/NN ويرفع/NN عليكهم/NNP قضيه/NNP ./PUNC 

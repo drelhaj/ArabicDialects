@@ -1,0 +1,1 @@
+كلام/NN علاء/NNP صادق/NNP صحيح/JJ ولو/NN إنه/NN لا/RP هيقدم/VBP ولا/NN هيأخر/NNP وأنا/VBD مش/NN شايف/NNP فيه/NNP أي/NN خروج/NN ولا/NN هجوم/NN حتي/NNP علي/NNP شوبير/NNP ،/NN فرق/NN كبير/JJ بين/NN إنك/NN تقول/VBP علي/IN شوبير/NNP متميز/JJ أو/NN فتي/NN الإعلام/DTNN الرياضي/DTJJ الأول/DTNN ،/NN وبين/JJ إنك/VBD تقول/VBP إنه/NN هو/PRP من/IN صنع/NN الإعلام/DTNN الرياضي/DTJJ 

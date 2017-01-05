@@ -1,0 +1,1 @@
+فقد/VBD قال/VBD من/IN لا/RP يوجد/VBN اصدق/JJR من/IN قوله/NNP :/PUNC -LRB-/PUNC لا/RP يكلف/VBP الله/NNP نفساً/NN إلا/NN وسعها/NN -RRB-/PUNC ./PUNC صدق/NN الله/NNP العظيم/DTJJ 

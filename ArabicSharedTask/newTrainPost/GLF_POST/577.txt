@@ -1,0 +1,1 @@
+بالتوفيق/NNP للزعيم/NNP واليث/NNP وان/NNP شاء/VBD الله/NNP الشباب/DTNN الى/IN الدور/DTNN الثاني/ADJ وهذي/JJ هي/PRP الأندية/DTNN التي/WP ترفع/VBP الراس/DTNN مع/NN عميد/NN الأندية/DTNN مو/NN مثل/NN الفريق/DTNN لمهايطي/NNP كثير/NN التصريحات/DTNNS ولا/NN نشوفه/NN في/IN البطولات/DTNNS ./PUNC 

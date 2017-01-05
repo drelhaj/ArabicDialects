@@ -1,0 +1,1 @@
+تفيد/VBP الأخبار/DTNN عن/IN هجوم/NN اسرائيلي/JJ على/IN قارب/NN تركي/JJ في/IN المياه/DTNN الدولية/DTJJ ،/VBD من/IN الممكن/DTNN بحسب/NN المادة/DTNN السابعة/ADJ من/IN اتفاقية/NN الناتو/DTNN أن/NN تطلب/VBP تركيا/NNP من/IN أمريكا/NN أن/NN تهاجم/VBP إسرائيل/NN !/PUNC 

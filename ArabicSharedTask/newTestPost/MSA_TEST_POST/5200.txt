@@ -1,0 +1,1 @@
+قرأت/VBD خبر/NN على/IN صحيفة/NN الغد/DTNN ''/NN الذكرى/DTNN 42/CD لاستشهاد/NN العجلوني/DTNNP ''/VBD فهؤلاء/NN الرجال/DTNN هم/PRP من/WP يرفعون/VBP رأس/NN كل/NOUN أردني/NNS وعربي/JJ حر/JJ .../PUNC هؤلاء/DT من/IN افتخر/NN بهم/NN كأردني/NNP كل/NOUN همي/NN أن/NN أرى/VBD اسم/NN بلدي/JJ يتفوق/VBP في/IN كل/NOUN المجالات/DTNNS ./PUNC 

@@ -1,0 +1,1 @@
+مبروك/NN لمحمد/NNP خميس/NNP وخالد/NNP سعد/NNP افتتاح/NN المحل/DTNN الجديد/DTJJ والى/VBD الامام/DTNN والله/NNP يرزق/VBP من/IN يبحث/VBP عن/IN الرزق/DTNN والله/NNP الموفق/DTJJ 

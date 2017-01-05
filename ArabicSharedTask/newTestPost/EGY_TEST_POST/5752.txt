@@ -1,0 +1,1 @@
+ميدو/NNP بقا/VBD فى/IN خبـــر/NNP كان/VBD -LRB-/PUNC ماضـــى/NNP -RRB-/PUNC سئ/NN وحاضر/NN أسوء/JJ 

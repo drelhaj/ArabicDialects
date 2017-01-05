@@ -1,0 +1,1 @@
+بعد/NN ما/IN صرخنا/VBD ./PUNC ./PUNC سمعوا/VBD صوتنا/NNP ./PUNC ./PUNC اعطتني/NNS الممرضة/DTNN ميزان/NN الحرارة/DTNN و/CC حكتلي/NNS قيس/NN حرارته/NN .../PUNC ؟/NN ؟/CD 

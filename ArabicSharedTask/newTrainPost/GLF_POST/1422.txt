@@ -1,0 +1,1 @@
+ايه/NN صح/VBD احنا/NN بالسعوديه/NNP عادي/NN صارت/VBD ظواهر/NN أغرب/NN من/IN هذي/DT بكثير/NN ^/NN _/PUNC ^/CD 

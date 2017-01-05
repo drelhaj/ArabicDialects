@@ -1,0 +1,1 @@
+-/PUNC المتفائلين/DTNNS بالتجديد/NNP للكابتن/NNP عدنان/NNP حمد/NNP من/IN قبل/NN اتحاد/NN الكرة/DTNN من/IN اجل/NN قيادة/NN منتخبنا/NN الوطني/DTNN للسنوات/DTJJ القادمة/DTJJ ./PUNC ./PUNC فازو/NNP برهانهم/NNP على/IN المتشائمين/DTNNS بالتجديدوسيقود/NNP حمد/NNP منتخبنا/NNP الوطني/DTJJ لعدة/NN سنوات/NNS قادمة/NN باذن/NNP الله/NNP 

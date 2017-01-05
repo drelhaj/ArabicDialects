@@ -1,0 +1,1 @@
+ليش/NNP آلبعوض/NNP بريآض/NNP كآثر/NNP حيييل/NNP ./PUNC ؟/VBD ؟/CD =/PUNC -LRB-/PUNC 

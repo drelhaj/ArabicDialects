@@ -1,0 +1,1 @@
+وتعتبر/NNP تشيكيا/NNP وفق/NN مكتب/NN الإحصاء/DTNN التشيكي/DTJJ من/IN الدول/DTNN التي/WP تسجل/VBP فيها/NN حالات/NNS الانتحار/DTNN بشكل/NNP أعلى/NNP من/IN المعدل/DTNN الوسطي/DTJJ أما/NN في/IN أوروبا/NN فان/NNP الوضع/DTNN الأفضل/DTJJ في/IN هذا/DT المجال/DTNN قائم/JJ في/IN اليونان/DTNNP وأسبانيا/NNP وايطاليا/NNP ./PUNC 

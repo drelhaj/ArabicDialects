@@ -1,0 +1,1 @@
+حسبي/NNP عليهم/NNP هاليهود/NNP وش/NNP باقي/NN ما/WP سووه/VBN ./PUNC ./PUNC 

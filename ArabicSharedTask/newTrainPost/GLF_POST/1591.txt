@@ -1,0 +1,1 @@
+ما/WP شاء/VBD الله/NNP هذا/DT الصندوق/DTNN إللي/JJ يقرض/VBP المواطنين/DTNNS لبناء/NN مساكن/NN لهم/NN ./PUNC ./PUNC عجيب/NN إللي/JJ أعرفه/NN أنه/NN يمشي/VBP مثل/NN السلحفات/DTNNS إذا/NN جاء/VBD يقرض/VBP المواطن/DTNN وراه/NN يوم/NN بغى/NN يروح/VBP لكوبا/NN انطلق/VBD مثل/NN الغزال/DTNNP 

@@ -1,0 +1,1 @@
+يا/RP جماعه/NN انتو/VBD واخدين/NNP فكره/NNP وحشه/NNP اوي/NNP علي/NNP الصعيده/DTNNP -/PUNC الناس/DTNN دول/NN طيبين/JJ جدا/NN وعلي/JJ نيتهم/VBP ومش/NN كل/NOUN واحد/NN يعمل/VBP حاجه/NN نمسكه/NNP تريقه/NNP -/PUNC هو/PRP ده/DT اللي/WP احنا/NN فالحين/NNP فيه/NNP عيب/NN 

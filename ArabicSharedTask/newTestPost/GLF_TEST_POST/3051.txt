@@ -1,0 +1,1 @@
+للأمانه/NNP مااروح/NNP انا/NNP والاهل/NNP الا/RP للترفيه/NNP والاشياء/NNP اللي/WP فاقدينها/VBD عندنا/NN ./PUNC ./PUNC اولها/NN السينما/DTNN والاشياء/NN الترفيهيه/DTNN طبعا/NN ./PUNC ./PUNC 

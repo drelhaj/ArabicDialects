@@ -1,0 +1,1 @@
+اكرم/NNP سلمان/NNP :/PUNC ما/WP في/IN رباعيات/NNP باي/NNP -LRB-/PUNC بس/NN الوحدات/DTNNS ابو/NNP الرباعيات/DTNNP -RRB-/PUNC السنة/DTNN مافي/NNP القاب/NN ،/NN انصحك/NN فكر/NN في/IN الوصيف/DTNN يمكن/VBP تقدر/VBN تكون/VBP وصيف/NN بس/NN بطل/NN لاتحلم/JJ انت/PRP والفيصلي/JJ 

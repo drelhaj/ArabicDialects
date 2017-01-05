@@ -1,0 +1,1 @@
+البنت/VBD خبل/NN واهلها/NN اخبل/NN منها/NN والطائف/NN ومكه/NN مابينها/NN شي/NNP بيركبها/NNP اقرب/JJR داشر/NN ويوصلها/NN المشكلة/DTNN ليه/NNP ماتخاف/NNP الله/NNP ,/PUNC السبب/DTNN الرئيسي/DTJJ لكل/NN المشاكل/DTNN الاخلاقية/DTJJ الي/IN نشوفها/NN من/IN بعض/NOUN الفتيات/DTNNS ضعف/NN الوازع/DTNN الديني/DTJJ الله/NNP يرحمنا/NNP برحمته/NNP ./PUNC 

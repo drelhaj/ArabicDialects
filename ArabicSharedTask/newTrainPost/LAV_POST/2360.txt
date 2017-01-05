@@ -1,0 +1,1 @@
+شو/NNP هالفنجان/NNP هاد/NNP ؟/VBD والله/NN شكله/NN بيفتح/NN النفس/DTNN ./PUNC يسلموا/VBP إيديك/NNP ./PUNC بتمنى/VBD تكون/VBP عملت/NN حساب/NN حالك/NN بنفجان/NNP متله/NN ،/NN وبنسمح/NN لك/NN تحليه/NN بسكر/NNP إذا/NNP بدك/NNP :/PUNC -RRB-/PUNC 

@@ -1,0 +1,1 @@
+بقديش/NNP التذكرة/DTNN ؟/NN السنة/DTNN الماضية/DTJJ كانت/VBD ب10/NN ليرات/NNS على/IN الشخص/DTNN ./PUNC يعني/VBP إذا/NN أنا/NN وأبنائي/JJ الإثنين/DTNNS من/IN غير/NN زوجي/JJ -LRB-/PUNC عشان/NN التوفير/DTNN -RRB-/PUNC قررنا/VBD نروح/VBP بدنا/NN ندفع/VBP مبلغ/NN وقدره/NN ،/NN غير/NN الأشياء/DTNN والألعاب/NN اللي/WP لازم/VBD نشتريها/NN للأولاد/NNP عشان/NNP نعبي/NNP عينهم/NNP ./PUNC 

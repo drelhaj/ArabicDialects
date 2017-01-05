@@ -1,0 +1,1 @@
+-LRB-/PUNC كثير/NN كلام/NN قليل/NN فعل/NN ./PUNC ./PUNC وقليل/NN كلام/NN كثير/NN فعل/NN -RRB-/PUNC 

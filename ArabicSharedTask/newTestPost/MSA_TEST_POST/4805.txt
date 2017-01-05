@@ -1,0 +1,1 @@
+اسرائيل/NNP ما/WP دفعها/VBD هذا/DT العمل/DTNN الجبروتي/DTJJ الا/RP من/IN طعفنا/NN وقلة/NN حيلتنا/NN .../PUNC .../PUNC رحمة/NN اللة/DTNN على/IN شهداءنا/NN ./PUNC 

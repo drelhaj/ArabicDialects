@@ -1,0 +1,1 @@
+ألف/VBD مبروك/NN للطلبة/NN الذين/WP فازوا/VBD ./PUNC ./PUNC وحظاً/NN أفور/NNP للذين/NNP اجتثوا/VBD ،/NN أقصد/NN خسروا/VBD ./PUNC 

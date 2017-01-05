@@ -1,0 +1,1 @@
+النهارده/DTNN وانا/NN داخل/NN الجامعه/DTNN اتمنعت/VBD كالعاده/NNP فبقول/NNP لامين/NNP الشرطه/DTNNP فى/IN تصريحات/NNS نازله/JJ فى/IN جريدة/NN اليوم/DTNN السابع/ADJ بتشير/NN لحقوقنا/VBD وان/NNP احنا/NN ندخل/VBP الجامعه/DTNN بكل/NN بساطى/NN رد/NN وقالى/NNP -LRB-/PUNC هاتلى/NNP الجرنان/DTNNP ده/DT وانا/NN اقطعه/NN -RRB-/PUNC 

@@ -1,0 +1,1 @@
+الف/CD مليون/NN مبرووك/NN لفريق/NN الوحدات/DTNNS .../PUNC .../PUNC حاب/NN اشوف/NN تعليقات/NNS لمصدومين/NNP لانهم/NNP مارح/NNP يدخلو/NNP يقرأو/VBP الخبر/DTNN لانه/NNP بينغص/NNP عليهم/NNP !!!!!!!!/CD مليون/CD مبرووك/NN ا/IN 

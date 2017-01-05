@@ -1,0 +1,1 @@
+ولم/VBD تنسى/VBP جلالتها/NN اطفال/NN فلسطين/NNP المحرومين/DTJJ من/IN التعليم/DTNN الجيد/DTJJ والمدارس/NNP الملائمه/DTNNP لانجاح/NNP العمليه/DTNNP التربويه/DTNN من/IN خلال/NN المبادره/DTNN بدعم/NN مدارس/NN واطفال/NN فلسطين/NNP ./PUNC 

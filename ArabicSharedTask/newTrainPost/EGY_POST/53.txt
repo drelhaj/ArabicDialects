@@ -1,0 +1,1 @@
+.../PUNC سيهتفت/NNP الجمهووور/DTNNP اليوم/DTNN ويقوووول/NNP دي/NNP مش/NN كورة/NNP دي/NNP مزيكا/NNP 

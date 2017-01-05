@@ -1,0 +1,1 @@
+4/CD -/PUNC حازم/NNP امام/NN 8/CD ماتشات/NNS فين/NNP بقى/VBD عقوبات/NNS حسام/NNP عاشور/NNP وجمعة/NN ./PUNC 

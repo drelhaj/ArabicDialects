@@ -1,0 +1,1 @@
+حلاة/NN الثوب/DTNN رجعته/NNP منه/NNP وفيه/NNP ويشلك/NNP في/IN هالزواج/NNP من/IN قلة/NN بنات/NNS ديرتك/NNP ,/PUNC ,/PUNC عشان/NN تشوف/VBP لك/NN وحده/JJ من/IN غير/NN مذهبك/JJ لو/IN كنت/VBD في/IN دوله/NNP ثانيه/NNP قلنا/VBD ماعليش/NNP بس/NN في/IN هالبلد/NNP اللي/WP فيها/VBD التفرقه/DTNN حد/NN النخاع/DTNN مايصير/NNP ./PUNC 

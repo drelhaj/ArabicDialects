@@ -1,0 +1,1 @@
+يا/RP جماعة/NN نادي/NN الزمالك/DTNNP نادي/NN كبير/JJ ،/VBD وعيب/NN جداً/NN ما/WP حدث/VBD من/IN إبراهيم/NNP حسن/NNP ،/VBD لأن/NN إبراهيم/NNP حسن/NNP لم/RP يذهب/VBP إلى/NN مكان/NN وإلا/NN عمل/NN مليون/NN مشكلة/NN ،/NN وكله/NN كلام/NN فارغ/JJ ،/VBD وسيعمل/NN على/IN خلق/NN عداوات/NNS كثيرة/JJ لنادي/NNS الزمالك/DTNNP هو/PRP في/IN غنى/NN عنها/NN ./PUNC 

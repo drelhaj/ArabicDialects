@@ -1,0 +1,1 @@
+مانشستر/NNP يونايتد/NNP اتبهدل/NNP من/IN الحكم/DTNN فى/IN ماتش/NNP تشيلسى/NNP ةو/NNP قرب/NN يخسر/VBP الدورى/DTNN الانجليزى/DTJJ مش/NN الدورى/DTNN المعفن/DTJJ بتاعنا/NNP و/CC مااتهمش/NNP حد/NN بالتربص/NN و/CC تعمد/NN اضاعة/NN الدورى/DTNN عليه/NNP ./PUNC 

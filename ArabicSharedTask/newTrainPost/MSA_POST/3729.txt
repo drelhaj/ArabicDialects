@@ -1,0 +1,1 @@
+مبروك/NN والف/JJ مبروك/JJ لممثل/VBD المملكة/DTNN الاردنية/DTJJ الهاشمية/DTJJ وكلنا/NN يد/NN واحدة/JJ مع/NN ممثل/NN السلة/DTNN الاردنية/DTJJ ./PUNC ./PUNC والف/NN مبروك/JJ يا/RP بطل/NN الجديد/DTNN للسلة/NN الادنية/DTNN ./PUNC ./PUNC وكل/VBD عام/NN وانتم/CD بالف/NN خير/NN بعيد/NN الاستقلال/DTNN .../PUNC 

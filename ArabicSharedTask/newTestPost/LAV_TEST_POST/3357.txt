@@ -1,0 +1,1 @@
+حبيت/NN اعطي/VBP معلومه/NN ارجو/VBP نشرها/NN ان/IN مثل/NN هذا/DT الحراج/DTNN يتكون/VBP بمعرفة/NN اهل/NN معارض/NN السليل/DTNN حيث/WRB يقوم/VBP صاحب/NN المزاد/DTNN بالمرور/NNP على/IN جميع/NOUN المعارض/DTNN واخذ/NN جميع/NOUN ما/WP عندهم/VBD وبيعه/NN بالسعر/NNP المحدد/DTJJ من/IN قبل/NN صاحب/NN المعرض/DTNN بطريقة/NN المزايدة/DTNN -LRB-/PUNC المرحه/DTNN -RRB-/PUNC 

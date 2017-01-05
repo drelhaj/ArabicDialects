@@ -1,0 +1,1 @@
+انس/NNP يا/RP هيفاء/NNP وهبي/NNP الاسطول/DTNN وزدوري/NNP على/IN -LRB-/PUNC كر/NN -RRB-/PUNC اركبي/NNP عليه/NNP اريحلك/NNP يوصلم/VBP الى/IN الضيعه/DTNN 

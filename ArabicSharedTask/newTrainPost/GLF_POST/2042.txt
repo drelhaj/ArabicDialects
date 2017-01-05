@@ -1,0 +1,1 @@
+ههه/NNP عارف/NNP لهم/NN يا/RP المصري/DTJJ ./PUNC ./PUNC بس/NN هين/NNP بتلعب/NNP غصبن/NNP عن/IN خشمك/NN ./PUNC ./PUNC عارف/NNP ليه/NNP بئى/NNP ؟/VBD لأنه/NN رئيس/NN النادي/DTNN حيوريك/NNP العين/DTNNP الحمراء/DTNNP 

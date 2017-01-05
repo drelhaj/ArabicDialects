@@ -1,0 +1,1 @@
+يا/RP أخي/NN ألف/VBD حمدالله/NNP على/IN سلامتك/NNP والله/NNP يجزاك/VBP كل/NOUN خير/NN على/IN تنازل/NN عن/IN أخيك/NNP .../PUNC والله/NNP انك/NNP ماجور/NNP عند/NN ربك/NN ولا/NN يهمك/VBP الكلام/DTNN الفاضي/DTJJ .../PUNC 

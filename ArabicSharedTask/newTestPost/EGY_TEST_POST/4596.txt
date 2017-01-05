@@ -1,0 +1,1 @@
+اوكا/NNP بيعتبر/NNP الاتحاد/DTNN وسيلة/NN لشغل/NN أوقات/NNS الفراغ/DTNN فمرة/NNP ترك/VBD نادي/NN الاتحاد/DTNNP في/IN فترة/NN الاعداد/DTNN و/CC سافر/VBD السعودية/DTNNP و/CC مرات/NNS أخرى/VBD ترك/NN النادي/DTNN لارتباطه/NNP بسبوبة/NNP في/IN امريكا/NNP .../PUNC ./PUNC ./PUNC هو/PRP فاكر/NNP نفسه/NNP الجوهري/DTJJ 

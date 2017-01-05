@@ -1,0 +1,1 @@
+لكن/CC اقول/VBP كما/CC تدين/VBP تدان/NN ./PUNC ./PUNC بيجيها/NN عيال/NN ويكبرون/NNP ويتزوجون/NNP وتصير/NN ام/CC زوج/NN ,/PUNC فلتتقي/NNP ربها/NNP ,/PUNC ولتعلم/NNP ان/IN الام/DTNN هي/PRP التي/WP ربت/VBD وكبرت/NN وتعبت/NN من/IN الظلم/DTNN عدم/NN رد/NN الجميل/DTNN لها/NN ./PUNC 

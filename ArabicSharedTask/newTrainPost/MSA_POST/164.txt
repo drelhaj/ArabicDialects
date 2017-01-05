@@ -1,0 +1,1 @@
+والسنة/NN الماضة/DTNN مجموعة/NN الوحدات/DTNNS كانت/VBD من/IN اضعف/JJR المجموعات/DTNNS وعلى/NN الرغم/DTNN من/IN حصولها/NN على/IN البطولات/DTNNS الاخلية/DTJJ لم/RP يكون/VBP لها/NN اي/NOUN بصمة/NN في/IN الخارج/DTNN .../PUNC 

@@ -1,0 +1,1 @@
+ممتاز/NNP الى/IN الامام/DTNN يا/RP ملكنا/NN مشروع/NN جميل/NN والله/NN بس/NN المشكلة/DTNN في/IN بعض/NOUN الناس/DTNN اللي/WP يجونها/VBP والله/NN ماذبحنا/JJ في/IN الرياض/DTNNP الا/RP هالاشكال/NNP خوال/NNP على/IN اشكال/NN غريبة/JJ من/IN 20/CD سنه/NN في/IN الرياض/DTNNP اول/ADJ مره/NN اشوف/NN هالاشكال/NNP يخربون/VBP المكان/DTNN لو/IN انه/VBD في/IN اوروبا/NNP .../PUNC 

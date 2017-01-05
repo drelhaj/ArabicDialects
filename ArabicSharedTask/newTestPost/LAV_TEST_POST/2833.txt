@@ -1,0 +1,1 @@
+من/IN كام/NN يوم/NN ماما/NNP حكتلي/NNP جيب/NNP وانت/NNP مروح/NN ضمة/NN نعنع/VBP انا/PRP بشتريها/NN من/IN زمان/NN في/IN بريزة/NNP صارة/NNP بعشرين/NNP قرش/NN عشان/NNP رمضان/NNP ليش/NNP بستغلو/NNP الناس/DTNN برمضان/NNP ولله/NNP حرام/NN عليهم/JJ بدل/NN ما/WP يصفو/VBP النية/DTNN برمضان/NNP بسيرو/NNP اشرار/NNP الله/NNP يهدي/VBP الجميع/NOUN 

@@ -1,0 +1,1 @@
+بيناتنا/NNP .../PUNC .../PUNC .../PUNC .../PUNC والله/NN غير/NN عندو/NN الحق/DTNN .../PUNC .../PUNC .../PUNC 

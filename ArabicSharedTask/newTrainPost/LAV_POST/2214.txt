@@ -1,0 +1,1 @@
+فكرتك/NN تقوليلي/JJ اعمل/VBP كاسة/NN عصير/NN واللا/NN كوكتيل/NN بهالحر/NNP اللي/WP بشوي/VBN الحجر/DTNN ./PUNC ./PUNC بتقوليلي/NNP اعمل/VBP شاي/NNP ؟/NN ؟/CD 

@@ -1,0 +1,1 @@
+اولا/ADJ نفصل/VBP الطالبات/DTNNS المتغيبات/DTJJ ./PUNC ./PUNC مش/NN لما/NNP نصلح/VBP حال/NN المدارس/DTNN !!/NN ده/DT المدرسين/DTNNS نفسهم/NN بيستاذنوا/NNP من/IN فترة/NN المدرسة/DTNN عشان/NNP يدوا/VBP دروس/NN الصبح/DTNN 

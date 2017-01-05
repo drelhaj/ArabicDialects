@@ -1,0 +1,1 @@
+مشكلة/NN محمد/NNP عبد/NNP انه/VBD ما/WP يتقن/VBP اللهجة/DTNN النجدية/DTJJ بالحيل/NNP ولازم/NNP يغلط/VBP اذا/IN كان/VBD عالهو/VBD في/IN النطق/DTNN عشان/NNP كذا/NNP يكره/VBP خالد/NNP عبدالرحمن/NNP .../PUNC كاظم/NNP الساهر/DTNNP عالمي/NNS ؟/NN ؟/NN ؟/NN ايه/NN هين/NN مش/NN للدرجه/NNP دي/NNP لو/IN يفكنا/VBD من/IN ''/NN النحوي/DTNN ''/NN كان/VBD ازين/JJ له/NN 

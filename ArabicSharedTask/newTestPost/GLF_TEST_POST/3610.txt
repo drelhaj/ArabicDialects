@@ -1,0 +1,1 @@
+امس/NN اسرائيل/NNP تسوي/VBP تجارب/NN في/IN اخواننا/NN الفلسطينيين/DTNNS و/CC مصر/NNP تدور/VBP على/IN السينما/DTNN و/CC الافلام/DTNN و/CC هم/PRP جيران/NN .../PUNC 

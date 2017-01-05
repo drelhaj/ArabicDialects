@@ -1,0 +1,1 @@
+كان/VBD على/IN المسلمين/DTNNS أنفسهم/NN اتخاذ/NN خطوات/NNS للاندماج/JJ في/IN المجتمعات/DTNNS الأوروبية/DTJJ ./PUNC النقاب/DTNN موضة/NN جديدة/JJ صدرها/NN المتزمتون/DTNNS للدول/NNP العربية/DTJJ -LRB-/PUNC الآن/DTNN في/IN الأردن/DTNN وللأسف/NNP -RRB-/PUNC وللدول/NNP الأوروبية/DTNNP ./PUNC 

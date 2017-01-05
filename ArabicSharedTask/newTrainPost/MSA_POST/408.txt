@@ -1,0 +1,1 @@
+اوافق/VBP الرأي/DTNN ان/IN الاغراق/DTNN بمنتجات/NNS مستوردة/JJ من/IN بلاد/NN كالصين/NNP وغيرها/NN دون/NN وضع/NN مواصفات/NNS تؤكد/VBP على/IN الجودة/DTNN بالتأكيد/NNP سيضر/NNP الصناعة/DTNN الوطنية/DTJJ ./PUNC 

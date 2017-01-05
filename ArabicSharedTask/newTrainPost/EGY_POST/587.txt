@@ -1,0 +1,1 @@
+كل/NOUN سنه/NN وانت/NN طيب/JJ بمناسبه/NN شم/NN النسيم/DTNN ./PUNC ./PUNC عيد/NN الاجداد/DTNN العظام/DTJJ الفراعنه/DTNN اللى/WP انت/PRP طبعا/NN مش/NN من/IN ضمن/NN احفادهم/NN ./PUNC ./PUNC انت/PRP من/IN احفاد/NN بنى/NN قريظه/NN وابو/NNP لهب/NN الصحرواى/DTNN ./PUNC 

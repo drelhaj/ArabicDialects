@@ -1,0 +1,1 @@
+هذا/DT هو/PRP الرجل/DTNN و/CC ليس/RP سواه/NN ./PUNC 

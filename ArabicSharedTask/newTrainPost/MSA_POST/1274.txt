@@ -1,0 +1,1 @@
+الرياضة/DTNN تعطي/VBP من/IN يعطيها/NN والفريق/NNP الذي/WP يجتهد/VBP ويلعب/NN في/IN الملعب/DTNN بفنيات/NNS عالية/JJ يستحق/VBP الفوز/DTNN وناشد/NN الحكام/DTNN بالحيادية/NN وعدم/NN التعاطف/DTNN مع/NN فرق/NN على/IN خساب/NN الفرق/DTNN الاخرى/DTJJ ./PUNC 

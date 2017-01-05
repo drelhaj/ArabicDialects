@@ -1,0 +1,1 @@
+وعلى/VBD فكرة/NN ./PUNC ./PUNC انا/PRP اتحدى/VBD اي/NOUN وحداتي/NNS يدعي/VBP بان/NNP فريق/NN الوحدات/DTNNS هو/PRP الزعيم/DTNN ان/IN يكتب/VBP مقالة/NN عن/IN فريقه/NN وان/NNP يستخدم/VBP كلمة/NN الزعيم/DTNN فقط/RB دون/NN استخدام/NN كلمة/NN مرافقة/NN لكي/JJ لا/RP يظن/VBP القاريء/DTNN بان/NNP المقصود/DTNN هو/PRP الفيصلي/DTNNP ./PUNC ./PUNC 

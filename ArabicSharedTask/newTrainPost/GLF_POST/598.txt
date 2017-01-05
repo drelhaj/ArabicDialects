@@ -1,0 +1,1 @@
+يا/RP حليلهم/NNP يوسعون/NNP الصدر/DTNNP ./PUNC ./PUNC لا/RP ينسون/VBP كيس/NN الفصفص/DTNN :/PUNC -RRB-/PUNC 

@@ -1,0 +1,1 @@
+ماهي/NNP خلاص/NN بقت/NN غابة/NN .../PUNC وحيوانات/NNS الأمن/DTNN اتفرعنوا/VBD وفاكرين/NNS محدش/JJ قادر/JJ عليهم/JJ .../PUNC لكن/VBP معلش/NN معدش/NNP فاضل/NNP كتير/NNP ./PUNC ./PUNC يومهم/VBP قرب/NN ./PUNC ./PUNC 

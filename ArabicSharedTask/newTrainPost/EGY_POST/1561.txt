@@ -1,0 +1,1 @@
+وبعد/VBD تفجير/NN هذة/DT القنبلة/DTNN اية/NOUN اللى/WP حايحصل/VBD يعنى/VBP ولا/NN حاجة/NN .../PUNC وسيادة/NN الوزير/DTNN مش/NN فاضى/NN عمال/NN يظبط/VBP فى/IN ضريبة/NN السكن/DTNN وبيفكر/NNP فى/IN ضريبة/NN تانية/JJ وتالتة/JJ .../PUNC واللى/VBN مش/NN عاجبة/JJ يضرب/VBP راسة/NN فى/IN فى/IN الحيط/DTNN ولا/NN حساب/NN ولا/NN عقاب/NN ./PUNC 

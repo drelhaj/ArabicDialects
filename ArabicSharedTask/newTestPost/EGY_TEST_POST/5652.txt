@@ -1,0 +1,1 @@
+أنا/VBD عايز/NNP أعرف/NN السبب/DTNN وراء/NN عدم/NN نشر/NN تعليقاتي/NN ،/NN أنا/VBD ملاحظ/NN بقالي/JJ أسبوع/JJ تعليقاتي/VBP بتنشروا/NN بعضها/NN و/CC البعض/NOUN الأخر/DTNN لأ/NN و/CC بعت/VBD إيميل/NNP للدعم/NNP الفني/DTJJ من/IN ثلاث/CD أيام/NN و/CC محدش/NN عبرني/JJ خالص/JJ ./PUNC ./PUNC ممكن/JJ أطلع/VBP على/IN السبب/DTNN ؟/NN ؟/NN !!/NN 

@@ -1,0 +1,1 @@
+-LRB-/PUNC -LRB-/PUNC يَا/NN أَيَّتُهَا/NN النَّفْسُ/DTNN الْمُطْمَئِنَّةُ/DTJJ ارْجِعِي/NNP إِلَى/NNP رَبِّكِ/NNP رَاضِيَةً/NNP مَرْضِيَّةً/NNP فَادْخُلِي/NNP فِي/NNP عِبَادِي/NNP وَادْخُلِي/NNP جَنَّتِي/NNP -RRB-/PUNC -RRB-/PUNC 

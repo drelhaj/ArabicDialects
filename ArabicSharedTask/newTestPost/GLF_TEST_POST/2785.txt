@@ -1,0 +1,1 @@
+يسعد/VBP مساكم/NN جميعا/NOUN اصدقاء/NN الحرف/DTNN ./PUNC ./PUNC من/IN جد/NN اشتقت/VBD لكم/VBG جميعا/NOUN ومحبوبتي/NNS الغاليه/DTNN الدلوعه/DTJJ -LRB-/PUNC جريدة/NN الرياض/DTNNP -RRB-/PUNC ./PUNC ./PUNC 

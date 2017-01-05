@@ -1,0 +1,1 @@
+مبارك/NNP لك/NN اينها/NN الاستاذة/DTNN ووفقك/NNP الله/NNP وعلمك/NN ونفعك/NN والمسلمين/NNS بما/NN علمك/NNP ./PUNC آمين/NNS ./PUNC 

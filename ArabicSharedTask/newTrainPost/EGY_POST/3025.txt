@@ -1,0 +1,1 @@
+حسام/NNP البدرى/DTNNP أنا/VBD مش/NN هغلط/NN فيك/NNP بس/NN هقولك/NNP كلمة/NN واحدة/JJ لو/IN أنت/VBD أهلاوى/NN بجد/NNP ولو/NNP بتحب/NN الأهلى/DTNN بجد/NNP أعتذر/NNP دلوقتى/NNP حالا/NN عن/IN المهمة/DTNN وخلى/VBD عندك/NN شجاعة/NN ./PUNC 

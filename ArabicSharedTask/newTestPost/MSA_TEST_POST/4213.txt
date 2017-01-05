@@ -1,0 +1,1 @@
+كل/NOUN هذا/DT وانت/VBD تقول/VBP هيمنه/NNP على/IN كل/NOUN البطولات/DTNNS ./PUNC كما/CC قلت/VBD لك/NN ادعوا/VBD وسندعوا/VBD معك/NN ان/IN يمر/VBP الموسم/DTNN القادم/DTJJ لكم/VBG على/IN خير/NN ,/PUNC ,/PUNC ,/PUNC ,/PUNC هذا/DT اذا/IN اردت/VBD التفكير/DTNN بموضوعية/JJ لا/RP عاطفيه/NNP ./PUNC 

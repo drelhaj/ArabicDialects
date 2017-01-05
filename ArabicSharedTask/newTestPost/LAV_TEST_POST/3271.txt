@@ -1,0 +1,1 @@
+اكيد/JJ اذا/IN فيه/NNP حريق/NN يركب/VBP سيارته/NN ويمشي/JJ ./PUNC ./PUNC مشكلة/NN يعني/VBP ؟/NN 

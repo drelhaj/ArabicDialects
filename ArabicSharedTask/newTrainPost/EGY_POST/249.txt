@@ -1,0 +1,1 @@
+بتاريخ/NNP :/PUNC الأحد/DTNN ،/VBD 4/CD أبريل/NN 2010/CD -/PUNC 22:55/CD يا/RP عم/NN ايمن/NNP اسكت/NNP الله/NNP يخليك/VBP الناس/DTNN زهقت/NN منك/NN .../PUNC 

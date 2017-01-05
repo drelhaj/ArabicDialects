@@ -1,0 +1,1 @@
+دلوقتى/NNP هيقولوا/NNP كل/NOUN الكويت/DTNNP اعضاء/NN فى/IN الحزب/DTNN الوطنى/DTJJ !/PUNC 

@@ -1,0 +1,1 @@
+نعم/UH ./PUNC ./PUNC عندما/NN يغيب/VBP الإسلام/DTNN والوازع/DTJJ الديني/DTJJ ويتحول/NNP الإنسان/DTNNP الى/IN حيوان/NN يركض/VBP وراء/NN اشباع/NN غرائزة/NNP الحيوانية/DTJJ ,/PUNC فلا/NN عجب/NN ان/IN يحدث/VBP هذا/DT !/PUNC لا/RP حول/NN ولا/NN قوة/NN الا/RP بالله/NNP 

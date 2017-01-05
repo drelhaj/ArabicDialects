@@ -1,0 +1,1 @@
+بالتوفيق/NNP لنادي/NNP الشباب/DTNNP وكل/VBD الشكر/DTNN لرئيس/NN نادي/NN الهلال/DTNNP وربي/NNP كفو/NNP وفوق/NN مستوى/NN سطحيات/NNS العقول/DTNN وأجسام/NNP العجول/DTNNP ./PUNC ./PUNC !!/CD 

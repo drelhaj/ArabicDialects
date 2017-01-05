@@ -1,0 +1,1 @@
+انا/PRP بقترح/JJ على/IN حكومتنا/NNP العتيدة/DTJJ بدل/NN ما/WP تعجق/VBP حالها/NN وتحط/NN كاميرات/NNS وتكلف/JJ حالها/JJ ./PUNC ./PUNC أنا/VBD برأيي/NNP تحط/VBP على/IN كل/NOUN مواطن/NN مبلغ/NN 150/CD دينار/NN اردني/JJ سنويا/JJ بدل/NN مخالفات/NNS تدفع/VBP عند/NN الترخيص/DTNN هيك/VBD قلم/NN قايم/JJ عالبركة/JJ وهيك/VBD بتوفر/NN عحالها/NN كاميرات/NNS وغيرو/NNP 

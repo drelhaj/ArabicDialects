@@ -1,0 +1,1 @@
+يا/RP جماعة/NN البلد/DTNN دى/VBD مش/NN بتاعتنا/NN فريحوا/NN نفسيكم/NN استنوا/VBD دوركم/NNP فى/IN فيرس/NNP سى/NNP او/CC السرطان/DTNN علشان/NNP متتعبوش/NNP نفسكم/NN ولا/NN تغيير/NN ولا/NN عبير/NNP لان/NNP مفيش/NN فايدة/JJ يذهب/VBP ظالم/JJ ويأتى/NN ديكتاتور/NN هو/PRP ده/DT حال/NN مصر/NNP وحيفضل/NN هذا/DT الحال/DTNN بوسة/NN كوسة/NN مصر/NNP اتوكست/VBD وحتفضل/NN موكوسة/JJ 

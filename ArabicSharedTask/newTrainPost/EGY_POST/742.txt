@@ -1,0 +1,1 @@
+حد/NN أدنى/VBD للأجور/NN ايه/NN وكلام/NN ايه/NN و/CC حكم/NN قضائي/JJ مين/NN ./PUNC هما/PRP دول/NN بيهتموا/NNP بحالنا/NNP ولا/NN بالناس/NNP والله/NNP مش/NN مبالغة/NN لكنه/NNP مستكتر/NNP علينا/NN الروح/DTNN الربنا/DTJJ الحطها/DTJJ فينا/NNP و/CC بيقول/NNP كتر/NNP خيري/NNP اني/NNP سايبها/NNP فيهم/NNP ./PUNC دلوقتي/NNS موارد/NN الدولة/DTNN قليلة/JJ ./PUNC 

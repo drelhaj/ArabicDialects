@@ -1,0 +1,1 @@
+يا/RP جماعة/NN الخير/DTNN عنا/VBD الجو/DTNN بالسعودية/NNP وتحديداً/NNP بالدمام/NNP هاي/NNP الايم/DTNN ولعة/NN ./PUNC ./PUNC رطوبة/NN بالنهار/NNP والليل/NNP ودرجات/NNS الحراة/DTNN اقلها/NN 44/CD -/PUNC واحيانا/NNP توصل/VBD للـ/NN 50/CD ./PUNC ./PUNC 

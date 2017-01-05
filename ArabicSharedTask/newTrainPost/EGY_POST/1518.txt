@@ -1,0 +1,1 @@
+محمد/NNP حسام/NNP دائما/NN مفسد/NN ،/NN جاء/VBD للجنة/NN الحكام/DTNN ليفسد/NN ما/WP حاول/VBD جمال/NN الغندور/DTNNP اصلاحة/NN ولاكن/JJ هي/PRP مصر/NNP متحبش/NN قلي/NN المفسدين/DTNNS جمال/NNP الغندور/DTNNP عمال/NN يطلع/VBP حكام/NN صغار/JJ السن/DTNN عشان/NNP يون/NNP هناك/RB حكام/NN في/IN المستقبل/DTNN بدل/NN من/IN انهردة/NN بنجيب/NN حكم/NN اجنبي/JJ لمباراة/JJ المحلة/DTNN والجونة/NN 

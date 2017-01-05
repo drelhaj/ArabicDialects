@@ -1,0 +1,1 @@
+نعم/UH حيل/NNP غبيه/NNP ./PUNC ./PUNC يعني/VBP الشاب/DTNN يسوي/VBP نفسه/NN شهم/NN وبطل/JJ 

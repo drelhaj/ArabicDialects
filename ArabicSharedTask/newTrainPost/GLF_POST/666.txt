@@ -1,0 +1,1 @@
+انا/PRP شفت/NN الفيلم/DTNN أكثر/NN من/IN مرة/NN ورائع/JJ جداً/JJ ,/PUNC ,/PUNC واجاد/NN المخرج/DTNN والممثلين/VN بتجسيد/NN الخيال/DTNN العلمي/DTJJ ,/PUNC ,/PUNC وحتى/VBD بالأدوار/NNP وطريقة/NN ادائها/NN ./PUNC ./PUNC اللي/WP ماشاهده/NNP لايفوته/NNP 

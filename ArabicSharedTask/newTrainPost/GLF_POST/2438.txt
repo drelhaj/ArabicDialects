@@ -1,0 +1,1 @@
+قبل/NN لا/RP تطالعين/VBP الناس/DTNN طالعي/JJ في/IN منظرك/NN ./PUNC ./PUNC بالعكس/NNP جاين/NNP يسترون/VBP علي/IN بنات/NNS الناس/DTNN مو/NNP جاين/NNP يعروضون/VBP اشكالهم/NN لك/NN 

@@ -1,0 +1,1 @@
+خليك/NN اصيل/JJ يا/RP حسنى/VBD وارجع/JJ لناديك/NN الاسماعيلى/DTNN ولو/NNP ببلاش/NNP ومتنساش/NNP انك/NNP صرحت/VBD بانك/NNP لن/RP تلعب/VBP فى/IN مصر/NNP لغير/NN الاسماعيلى/DTNN 0/CD 00/CD -LRB-/PUNC شعبيتك/NNP فى/IN الاسماعيلية/DTNNP فقط/RB -RRB-/PUNC وافمها/VN انت/PRP نصيحة/NN من/IN زملكاوى/NN بيحبك/NNP 0/CD 

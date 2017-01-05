@@ -1,0 +1,1 @@
+طيب/NNP ليش/NNP تنبسطون/NNP ./PUNC ./PUNC يعني/VBP عاجبكم/NN الوضع/DTNN ؟/CD 

@@ -1,0 +1,1 @@
+بالتأكيد/NNP كأس/NNP العالم/DTNN هو/PRP ما/WP ينتظره/VBP الناس/DTNN كل/NOUN اربعة/CD اعوام/NN ولكن/NN القدرة/DTNN الشرائية/DTJJ لممواطنين/NNP تمنعهم/NNP بالتأكيد/NNP لعدم/NN شراء/NN البطاقات/DTNNS يعني/VBP 100/CD او/CC 145/CD او/CC حتى/IN 85/CD دينار/NN كلها/NN كثيرة/JJ في/IN ظل/NN الظروف/DTNN الراهنة/DTJJ 

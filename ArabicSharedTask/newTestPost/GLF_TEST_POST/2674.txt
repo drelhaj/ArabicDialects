@@ -1,0 +1,1 @@
+أووو/VBD أووو/NNP أووو/NNP ،/VBD تكفون/NN ودي/JJ أخذ/VBD الصورة/DTNN عشان/NN إذا/NN ما/WP رضوا/VBD الصغار/DTNN ينامون/VBP اخوفهم/NN فيها/NNP :/PUNC -RRB-/PUNC ./PUNC 

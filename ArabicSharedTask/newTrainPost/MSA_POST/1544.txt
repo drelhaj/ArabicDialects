@@ -1,0 +1,1 @@
+ثانيا/ADJ ./PUNC ./PUNC لم/RP تتعلم/VBP الحكومة/DTNN من/IN قصة/NN الطفايلة/DTNN وهذا/NN ما/WP جعل/VBD الناس/DTNN تقوم/VBP بنفس/NN الافعال/DTNN وذلك/NN لعدم/NN وجود/NN رادع/NN 

@@ -1,0 +1,1 @@
+كأنه/NNP كبسه/NNP زر/NN شغلت/VBD كل/NOUN اشي/NN ./PUNC ./PUNC كأنه/NNP باب/NNP وانفتح/NNP .../PUNC شو/NNP اللي/WP صار/VBD للناس/NN ؟/CD 

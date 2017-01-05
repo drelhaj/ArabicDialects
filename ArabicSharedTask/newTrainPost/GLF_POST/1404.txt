@@ -1,0 +1,1 @@
+طيب/NNP واللي/NNP ما/WP اخذ/VBD ورده/NN وش/NN ذنبه/NN ./PUNC ؟/CD 

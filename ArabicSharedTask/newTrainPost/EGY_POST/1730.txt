@@ -1,0 +1,1 @@
+ده/DT ممكن/JJ يكون/VBP السبب/DTNN رقم/NN خمسين/CD .../PUNC لكن/VBP مس/NN واحد/JJ واتنين/JJ وتالتة/JJ .../PUNC :/PUNC ض/CD 

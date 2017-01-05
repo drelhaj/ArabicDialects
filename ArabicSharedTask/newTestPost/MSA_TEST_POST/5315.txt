@@ -1,0 +1,1 @@
+وانت/VBD سعادة/NNP العميد/DTNN محمد/NNP عرابي/NNP نخلة/NNP ماذا/WP ستقول/VBN لربك/NN وانت/NN واقف/JJ بين/NN يديه/VBP :/PUNC نعم/NN ضحيت/NN بالموظفين/JJ من/IN اجل/NN عقدي/NNS والالاف/DTNN التي/WP ستاخذها/NN والتامين/NNP الصحي/DTJJ الذي/WP ناضلت/VBD من/IN اجل/NN ابقائه/NN للعام/NN القادم/DTNN ،/VBD هل/RP هكذا/RB تحب/VBP ان/IN تنهي/VBP مسيرتك/JJ الاكاديمية/DTNN 

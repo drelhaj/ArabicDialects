@@ -1,0 +1,1 @@
+صحيح/JJ اننا/VBD ندفع/VBP ضرائب/NN كثيره/NN يعني/VBP انا/PRP بدفع/NN 33/CD %/PUNC من/IN راتبي/NNS للدولة/JJ ./PUNC بس/NN المدهش/DTJJ انو/VBD لما/IN ما/WP يكون/VBP عندي/JJ شغل/NN او/CC بكون/NN في/IN اجازة/NN او/CC ابني/NN عمرو/NNP سنتين/NNS بعطوني/JJ اجازة/NN ابوبة/NN سنة/NN يعني/VBP بصير/NN عطال/NN بطال/NN بس/NN راتبي/JJ بضل/NN ماشي/NNP وكاني/NNP شغال/NNP كل/NOUN يوم/NN ./PUNC 

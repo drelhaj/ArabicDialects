@@ -1,0 +1,1 @@
+امين/NNP ./PUNC ./PUNC الله/NNP يوفقهم/VBP ويرجعهم/NN لاهاليهم/NNP بخير/NNP ./PUNC نشامى/VBD الوطن/DTNN ورجاله/NNP 

@@ -1,0 +1,1 @@
+يمكن/VBP يتحسن/VBP الوضع/DTNN بس/NN فيه/NN ناس/NN كتير/NN خسروا/VBD باليورو/NNP .../PUNC وبالذات/NNS شركات/NNS الصرافة/DTNN -LRB-/PUNC مو/NN محال/NN صرافة/NN -RRB-/PUNC 

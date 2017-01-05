@@ -1,0 +1,1 @@
+انا/PRP بقول/NNP بكفي/NNP ضحك/VBD عالناس/NNP ،/NN يعني/VBP اولويات/NNS الحكومه/DTNN الحاليه/DTJJ وكل/NN الحكومات/DTNNS اللي/WP قبلها/NN و/CC بعدها/NN ستبقى/NN تخويف/NN الناس/DTNN و/CC جعلهم/NN لا/RP يفكرون/VBP الا/RP بلقمة/NN الخبز/DTNN ،/CD 

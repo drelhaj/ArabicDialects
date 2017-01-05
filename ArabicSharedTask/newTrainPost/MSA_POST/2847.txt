@@ -1,0 +1,1 @@
+ارتفع/VBD عدد/NN الوفايات/DTNNS إلى/VBD 7/CD وفايات/NNS وليس/NNP 6/CD لان/NN حالة/NN توفيت/VBN بعد/NN الحادث/DTNN ببضع/NN ساعات/NNS 

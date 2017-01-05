@@ -1,0 +1,1 @@
+واضح/NN انك/VBD سعيد/NNP ومتفائل/NN بس/NN مهما/JJ بلغت/VBD درجة/NN التفاؤل/DTNN لا/RP تصل/VBP الى/IN هذا/DT الحد/DTNN .../PUNC شو/NNP 200/CD سنة/NN ؟/CD ؟/NN ؟/NN ؟/NN ما/WP بكفو/VBD دراسة/NN واعادة/JJ طرح/VBD عطاء/NN ومن/NN ثم/CC سحبه/NN .../PUNC 

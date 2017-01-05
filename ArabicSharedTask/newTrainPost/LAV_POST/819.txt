@@ -1,0 +1,1 @@
+و/CC ياريت/VBN كمان/NN يطلعوا/VBP قانون/NN لمنع/NN رمي/NN القمامة/DTNN على/IN الشوارع/DTNN و/CC ألأرصفة/NN لانه/NNP إشي/NNP بيخزي/NNP و/CC خاصة/NN من/IN أصحاب/NN المحلات/DTNNS التجاريه/DTJJ و/CC أجبارهم/DTJJ على/IN وضع/NN سلال/NN للقمامة/NN أمام/NN محلاتهم/JJ ./PUNC 

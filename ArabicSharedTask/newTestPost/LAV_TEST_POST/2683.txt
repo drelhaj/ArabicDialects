@@ -1,0 +1,1 @@
+طيب/NNP ليش/NNP هيك/NNP بعملو/NNP بس/NN عالقليل/NNP يعطونا/NNP موعد/NN محدد/JJ حتى/RP لو/IN متأخر/JJ .../PUNC والله/NN زودوها/NN واستنينا/NNP كتيير/NNP ليش/NNP بلعبو/NNP بأعصابنا/NNP يطلعو/VBP هالنتائج/NN خلينا/NN نخلص/VBP ويخلصو/NNP كل/NOUN مرة/NN واحد/JJ بحكي/VBP شي/NNP وبعديين/NNS يعني/VBP 

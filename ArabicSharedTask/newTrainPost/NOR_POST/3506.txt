@@ -1,0 +1,1 @@
+ليفه/NNP الاستحمام/DTNN كريم/NNP للشعر/NNP علشان/NNP التسريحه/DTNN و/CC فكها/NN و/CC سيروم/NNP و/CC الحمام/DTNNP منشفة/NN شامبو/NNP بلسم/NNP للشعر/NNP صابون/NN سائل/JJ لليدين/JJ و/CC الاستحمام/DTNN 

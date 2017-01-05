@@ -1,0 +1,1 @@
+يعني/VBP جايه/NNP تقاطع/NN ذبح/NN الحيوانات/DTNNS على/IN وجه/NN رمضان/NNP ؟/VBD ؟/NN ّ/NN شو/NNP بدنا/NN نوكل/VBP في/IN هذا/DT الشهر/DTNN ؟/NN !/PUNC نقضيها/NN بطاطا/NN وبندوره/NNP برأيك/NNP ؟/VBD ؟/PRP يا/RP شيخه/NNP هو/PRP في/IN بعد/NN اللحم/DTNN الاحمر/DTJJ واللحم/NN الابيض/DTNN المتوسط/DTJJ ؟/VBD ؟/NN !!!!!!/NN اللحمه/DTNN وبس/NN والباقي/NNS خس/NN 

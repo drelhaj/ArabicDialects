@@ -1,0 +1,1 @@
+ليتني/NNP معهم/NNP اتضاربت/NNP ./PUNC ./PUNC اول/ADJ شئ/NN بسويه/NNP بفقع/NNP وجه/VBD وزير/NN التعليم/DTNN العالي/DTJJ ./PUNC !/PUNC ههه/NNP افهموها/NNP 

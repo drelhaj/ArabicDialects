@@ -1,0 +1,1 @@
+خد/NN بالك/NN الأسماء/DTNN دى/VBD فيها/NN أخوانجية/JJ .../PUNC ومافيهاش/NN ولا/NN نصرانى/NN .../PUNC يبقى/VBP تعيش/VBP مصر/NNP حرة/NN مستقلة/JJ فى/IN ظل/NN القائد/DTNN أبن/VBD القائد/DTNN .../PUNC جمال/NNP محمد/NNP خسنى/NNP مبارك/NNP .../PUNC الرئيس/DTNN القادم/DTJJ بفكر/NNP الشباب/DTNNP .../PUNC كفاية/NN عواجيز/NNP 

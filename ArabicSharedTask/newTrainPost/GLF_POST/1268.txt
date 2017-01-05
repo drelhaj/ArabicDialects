@@ -1,0 +1,1 @@
+امنية/NN تتنزل/VBP وتشوف/NN رجال/NN المرور/DTNN اللي/WP على/IN طريق/NN الملك/DTNN فهد/NNP كيف/WRB يمشي/VBP السير/DTNN -/PUNC كل/NOUN واحد/NN ماسك/NNP جواله/NNP ويطقطق/NNP فيه/NNP وعن/NN الطريق/DTNN ما/WP مشى/VBD وهو/NN اصلاً/NN ما/WP يدري/VBP الطريق/DTNN مشى/VBD ولا/NN لأ/NN 

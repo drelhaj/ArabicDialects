@@ -1,0 +1,1 @@
+بالله/NNP هذي/DT منتزهات/NNS شي/NNP يفشل/VBP في/IN البلدان/DTNN المتقدمه/DTJJ كل/NOUN حي/NN في/IN حديقه/NN متميزه/JJ وا/VBD لأخت/NN مصوره/NN حديقه/NN مافيها/NN شجر/NN ولا/NN خضار/NN ولا/NN نافورة/JJ ولا/VBD حتى/IN وردة/NN ولا/NN أدري/JJ كيف/WRB ينراحلها/VBP وجالسه/NN تمدح/VBP بليز/NN أكتبي/JJ عن/IN حاجة/NN مفيده/JJ أحسن/JJ !/PUNC 

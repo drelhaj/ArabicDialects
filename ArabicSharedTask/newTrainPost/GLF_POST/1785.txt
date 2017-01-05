@@ -1,0 +1,1 @@
+ياناس/NNP خفوا/VBD شوي/NNP من/IN أكل/NN الرز/DTNN ./PUNC ./PUNC ترا/VBP اللي/WP تسوونه/VBP خطر/NN على/IN الصحة/DTNN .../PUNC 

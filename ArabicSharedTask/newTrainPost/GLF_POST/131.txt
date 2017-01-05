@@ -1,0 +1,1 @@
+طيب/NNP وش/NNP ظنكم/NN يسوون/VBP الشباب/DTNN اعمارهم/JJ وصلت/VBD ال30/DTNN وهم/NN لسى/NN عزاب/NN الين/DTNN متى/NNP نصبر/NNP دام/VBD الغلا/DTNN في/IN كل/NOUN مكان/NN ./PUNC 

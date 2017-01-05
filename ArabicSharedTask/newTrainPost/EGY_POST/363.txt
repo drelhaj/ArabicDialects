@@ -1,0 +1,1 @@
+يا/RP سيادة/NN الوزير/DTNN المحافظ/DTJJ احب/VBD افكر/VBP سيادتك/NNP ان/IN زيارة/NN سيادتك/NNP للمطرانيه/NNP عمل/NN سياسى/JJ برضه/NN مش/NN علشان/NN سعادتك/NNP بتموت/NNP فى/IN دباديب/NN الاقباط/DTNN ./PUNC يبقى/VBP الراجل/DTNN يعمل/VBP اللى/WP هو/PRP عاوزه/NN مش/NN حلال/NNP للوطنى/NNP و/CC حرام/NN عالبرادعى/JJ 

@@ -1,0 +1,1 @@
+مع/NN كل/NOUN الحب/DTNN لهذا/NN الوطن/DTNN الغالي/DTJJ الوطن/DTNN الذي/WP نعشق/VBP الذي/WP نفتديه/VBP بارواحنا/NNP نقول/VBP كل/NOUN عام/NN وانت/VBD بالف/NNP خير/NN يا/RP وطننا/NN الحبيب/DTNNP -/PUNC حماك/NNP الله/NNP من/IN كل/NOUN مكروه/NN -/PUNC وانتم/NNP يا/RP اهل/NN الاردن/DTNNP كونوا/VBD الاوفياء/DTNN لهذا/NN الوطن/DTNN الغالي/DTJJ 

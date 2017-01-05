@@ -1,0 +1,1 @@
+تكلفة/NN النقل/DTNN ارتفعت/VBD ,/PUNC كنا/VBD مخفضين/NNS لما/IN كان/VBD غالي/NN قبل/NN تسع/CD سنين/NNS ,/PUNC ما/IN بدنا/NN نخفضه/NN عشان/NNP لما/NNP يغلى/VBP كمان/NN سبع/CD سنين/NNS ما/WP نغلّي/VBP -LRB-/PUNC طبعا/NN رح/NN تغلي/VBP ب/IN 100/CD حجه/NN جديده/JJ -RRB-/PUNC ./PUNC ./PUNC و/CC كل/NOUN من/IN هالحكي/NNP ./PUNC ./PUNC 

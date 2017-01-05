@@ -1,0 +1,1 @@
+يهمو/VBP سمعة/NN البلاد/DTNN موش/NNP باش/NNP يوري/NNP للعالم/NNP انو/NNP موشو/NNP ديمقراطي/NNP و/CC مضهرلي/NNP خاطر/NNP الشعب/DTNN التونسي/DTJJ و/CC متحضر/JJ و/CC يقبل/VBP الراي/DTNN المخالف/DTJJ 

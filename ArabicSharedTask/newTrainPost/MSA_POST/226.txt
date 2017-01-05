@@ -1,0 +1,1 @@
+إن/VBD من/IN يعرف/VBP علم/NN الحديث/DTNN ورجاله/NN وما/NN عانوه/JJ في/IN جمع/NN الحديث/DTNN وإيصاله/NN صحيحا/JJ مميزا/JJ عن/IN الضعيف/DTJJ ،/NN معنوناً/JJ مفهرسا/JJ تأخذ/VBD منه/NNP ضالتك/NNP بأقرب/NNP طريقة/NN يعجب/VBP من/IN أمة/NN هانت/NNP عليها/NN نفسها/NN فهانت/NNP على/IN غيرها/NN ،/NN وأخاف/NN آأن/NN تكون/VBP هانت/NNP على/IN الله/NNP ./PUNC 

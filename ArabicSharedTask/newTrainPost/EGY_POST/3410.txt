@@ -1,0 +1,1 @@
+ايه/NN انتم/PRP فاكرينا/NN عرايس/NN بتلعبو/NNP بيها/NN ؟/NN ؟/NN تعبتونا/NN وقرفتونا/NN .../PUNC سيبو/NNP مصر/NNP في/IN حالها/NN بقى/VBD ليه/NNP عاوزين/NNS تخربوها/NN ؟/NN ؟/NN ؟/NN ؟/CD 

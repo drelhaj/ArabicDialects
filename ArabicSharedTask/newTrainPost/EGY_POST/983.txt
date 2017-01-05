@@ -1,0 +1,1 @@
+دا/NNP لو/IN علاقة/NN بفراخ/NN الجمعية/DTNN ./PUNC ./PUNC و/CC السمك/DTNN لبن/VBD تمر/VBP هندى/NN ./PUNC ./PUNC 

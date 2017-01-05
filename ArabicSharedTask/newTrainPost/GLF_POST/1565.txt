@@ -1,0 +1,1 @@
+-LRB-/PUNC مظرى/NN -RRB-/PUNC مضري/JJ من/IN لابة/NN ٍيوم/NNP الملاقى/DTNNP -LRB-/PUNC ظواري/NNP -RRB-/PUNC ضواري/NNP ياما/NNP سهرنا/NNP حاكم/NN ما/WP يطرى/VBP واليوم/NN دنياً/JJ ضاع/VBD فيها/NN افتكاري/JJ تشكي/VBP لمن/NN يبكي/VBP له/NN الجود/DTNN طرى/NNP -LRB-/PUNC ظراب/NN -RRB-/PUNC ضراب/NN هامات/NNS العدا/DTNN ما/WP يداري/VBP ./PUNC 

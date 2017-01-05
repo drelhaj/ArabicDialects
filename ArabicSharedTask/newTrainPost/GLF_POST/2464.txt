@@ -1,0 +1,1 @@
+تبي/VBP توسع/NN صدر/NN الأم/DTNN وظف/NN وليده/NN ,/PUNC أماتتعب/NN هاالمسكينة/NNP ثم/CC تخليه/NN تناظر/VBP ولده/NN يتتن/VBP جنب/NN شهادته/NN هذي/DT والله/NN البلشة/DTNN ./PUNC 

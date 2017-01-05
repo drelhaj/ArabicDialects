@@ -1,0 +1,1 @@
+2/CD -/PUNC وضع/NN خطة/NN تنموية/JJ لمعالجة/NN الفقر/DTNN -/PUNC البطالة/DTNN -LRB-/PUNC قد/RP تكون/VBP العودة/DTNN إلى/VBD الزراعة/DTNN التي/WP تتطلبها/VBP الأسواق/DTNN الأوروبية/DTJJ والخليجية/NN ،/NN وكما/NN نعلم/VBP أن/NN هولندا/NNP تنتج/VBP من/IN الخس/DTNN فقط/RB مائة/NN ألف/CD حبة/NN يوميا/NN -RRB-/PUNC 

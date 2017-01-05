@@ -1,0 +1,1 @@
+انا/PRP مش/NN عارف/NNP ايه/NN دخل/NN الاسلام/DTNN في/IN الموضوع/DTNN -/PUNC الاسلام/DTNNP اكبر/JJR بكتير/NN من/IN انه/NN نحكم/VBP بيه/NNP في/IN تلوين/NN بيض/NN او/CC حاجة/NN تفرح/VBP الاطفال/DTNN و/CC تنمي/VBP طاقة/NN الابتكار/DTNN عندهم/NNP 

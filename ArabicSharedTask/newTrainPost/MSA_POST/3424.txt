@@ -1,0 +1,1 @@
+الرباعييه/DTNN التاريخيه/DTJJ كلكم/NNP تعرفونها/NNP -LRB-/PUNC بطولات/NNS الموسم/DTNN -RRB-/PUNC لا/RP تليق/VBP الا/RP بالزعيم/NN الوحدات/DTNNS المارد/DTJJ الاخضر/DTJJ 

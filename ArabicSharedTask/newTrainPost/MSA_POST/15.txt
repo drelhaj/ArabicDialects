@@ -1,0 +1,1 @@
+وكسبت/VBD مصر/NNP وكرة/NN القدم/DTNN المصرية/DTJJ وإدارة/NN الاهلي/DTNNP مدربا/NN وطنيا/JJ ووفرت/VBD هذه/DT الإدارة/DTNN على/IN نفسها/NN أموالا/NN طائلة/JJ كانت/VBD ستذهب/NN لجيب/NN مدرب/NN أجنبي/JJ دون/NN ان/IN يطلب/VBP منه/NNP صنع/NN فريق/NN جديد/JJ بل/CC وربما/JJ وجد/VBD من/IN يختلق/NN له/NN اعذارا/NN لو/IN فقد/VBD البطولة/DTNN ./PUNC 

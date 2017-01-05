@@ -1,0 +1,1 @@
+لما/NNP صاحب/NN المقال/DTNN يكتب/VBP :/PUNC صعيدى/NNP ./PUNC كده/NNP معناه/NNP انه/NNP عاوز/VN الناس/DTNN تدخل/VBP على/IN اساس/NN ان/IN هى/VBD نكتة/NN 

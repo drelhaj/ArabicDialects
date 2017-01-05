@@ -1,0 +1,1 @@
+هى/VBD دى/NN مصر/NNP أم/NN الدنيا/DTNN .../PUNC .../PUNC ماتستغربش/NNP فأنت/NNP فى/IN مصر/NNP 

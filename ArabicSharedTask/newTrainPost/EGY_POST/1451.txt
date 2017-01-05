@@ -1,0 +1,1 @@
+طيب/NNP انا/NNP هسأل/NNP الى/IN كاتب/NN الموضوع/DTNN ده/DT الاستاذ/DTNN \//VBD محمود/NNP عبدالراضى/NNP والاستاذ/NNP \//VBD اسلام/NNP النحراوى/DTNN 

@@ -1,0 +1,1 @@
+وقال/NN رئيس/NN نادي/NN خرجا/NNP الرياضي/DTNNP أسامه/NNP الزعبي/DTNNP ان/IN اللقاء/DTNN يندرج/VBP في/IN اطار/NN سياسة/NN النادي/DTNN في/IN استضافة/NN المسؤولين/DTNNS للاطلاع/DTJJ على/IN واقع/NN الخدمات/DTNNS المقدمة/DTJJ لاتاحة/NN المجال/DTNN امام/NN المواطنين/DTNNS لعرض/NN مطالبهم/JJ امام/NN المسؤولين/DTNNS ./PUNC 

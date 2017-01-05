@@ -1,0 +1,1 @@
+شو/NNP ما/WP حكينا/VBD او/CC سوينا/NN بدون/IN فايدة/NN لانه/NNP في/IN انقسام/NN في/IN الري/DTNN العام/DTJJ كل/NOUN واحد/NN بدور/NN على/IN مصلحته/NN .../PUNC بس/NN الجوع/DTNN ما/IN اله/NN دين/NN ولا/NN وطن/NN و/CC حسبي/NNP الله/NNP و/CC نعم/NN الوكيل/DTNN 

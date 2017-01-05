@@ -1,0 +1,1 @@
+تبوني/VBP الصراحة/DTNN ./PUNC ./PUNC الي/IN يبي/NNP يخفف/VBP من/IN وزنه/NN 

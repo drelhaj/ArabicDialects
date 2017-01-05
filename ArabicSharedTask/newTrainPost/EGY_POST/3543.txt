@@ -1,0 +1,1 @@
+وياابراهيم/NNP ياحسن/NNP حسبي/NNP الله/NNP ونعم/NN الوكيل/DTNN فيك/NNP لانك/NNP بتثير/NNP الفتنه/DTNN تاني/NN بين/NN ماهير/NN الاهلي/DTNNP والزمالك/VN الي/IN يارب/VBP تبطل/NN تخلف/NN شويه/NN وتشجع/JJ فريقها/JJ بدون/IN تعصب/NN لكن/VBP أعتقد/NN ده/DT في/IN الاحلام/DTNN ./PUNC 

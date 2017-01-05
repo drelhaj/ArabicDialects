@@ -1,0 +1,1 @@
+يا/RP خيبتى/NNP -/PUNC مش/NN قادرين/JJ نحمى/VBP وزير/NN الداخلية/DTNN فى/IN العاصمة/DTNN -/PUNC تقوم/VBP تتكلم/VBP عن/IN عدم/NN اتحاد/NN العرب/DTNN عن/IN العرب/DTNN -/PUNC بلا/NNP خيبة/NN 

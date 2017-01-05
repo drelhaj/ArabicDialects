@@ -1,0 +1,1 @@
+أقول/NNP الله/NNP يحفظك/VBP لاتدافع/NN وإنت/NN بعيد/JJ وماأنت/VBD وسط/NN الحدث/DTNN عشان/NNP تحكم/VBP على/IN المرشدين/DTNNS إنت/VBD تجيك/VBP تقارير/NN ثلاثة/CD أرباعها/NN شخابيط/NN وضحك/NN على/IN المسؤولين/DTNNS ،/NN ،/NN -LCB-/NN كل/NOUN شئ/NN تمام/NN طال/VBD عمرك/NN ئفي/NN زمن/NN كثر/NN فيه/NN المفسدين/DTNNS من/IN المزورين/DTNNS والكذابين/DTJJ ./PUNC ./PUNC 

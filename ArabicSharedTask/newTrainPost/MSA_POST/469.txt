@@ -1,0 +1,1 @@
+الدرع/DTNN فرصه/NNP للمدرب/NNP للوقوف/NNP على/IN فريقيه/NNP ولاعبيه/NNP فلماذا/NNP الالغاء/DTNN وان/NNP برأي/NNP الشخصي/DTJJ ان/IN تبقى/VBP بطوله/NN الدرع/DTNN للكشف/NNP ايضا/RB عن/IN المواهب/DTNN المخفيه/DTJJ ./PUNC 

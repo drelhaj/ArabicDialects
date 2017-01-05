@@ -1,0 +1,1 @@
+بالسلامةيا/NNP شباب/NNP والله/NN عين/NNP وطرقتكم/NNP ،/VBD يالله/NNP البركة/DTNN بالشباب/NN ما/WP بقصروا/VBD وبجيبوا/VBD الكأس/DTNN للنادي/NNP ان/IN شاءالله/NNP ./PUNC ./PUNC 

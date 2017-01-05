@@ -1,0 +1,1 @@
+انا/PRP شخصيا/NN ارى/VBP ان/IN البرنامج/DTNN تافه/JJ و/CC سخيف/JJ ولا/NN يقدم/VBP اي/NOUN نوع/NN من/IN الفن/DTNN الحقيقي/DTJJ ,/PUNC و/CC عندما/NN ادخل/VBP مقهى/NN يعرضه/VBP اطلب/VBP ان/IN يغير/VBP القناه/DTNN او/CC اقوم/VBP انا/PRP بتغير/NN المقهى/DTNN ./PUNC 

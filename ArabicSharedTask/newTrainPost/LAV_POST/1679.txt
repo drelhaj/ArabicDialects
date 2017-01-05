@@ -1,0 +1,1 @@
+لاحول/NNP ولا/NNP قوة/NN الا/RP بالله/NN .../PUNC الله/NNP يعين/VBP الناس/DTNN .../PUNC شو/NNP استفاد/VBD الناس/DTNN من/IN تخفيض/NN السعر/DTNN بعد/NN هالضريبه/NNP .../PUNC ياخي/VBP المفروض/DTNN يدورو/VBP على/IN حلول/NN تخفف/VBP مش/NN تزيد/VBP الطين/DTNN بله/NN ./PUNC 

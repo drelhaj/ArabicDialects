@@ -1,0 +1,1 @@
+-LRB-/PUNC رافت/NNP يا/RP كابتنا/VBD الدوري/DTNN خاوه/NNP النا/DTNNP -RRB-/PUNC 

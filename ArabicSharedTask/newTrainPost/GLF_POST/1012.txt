@@ -1,0 +1,1 @@
+الحين/DTNN محمد/NNP نجيب/NNP صار/VBD راس/NN الفتنه/DTNN ؟/VBD ؟/NN والمشكلة/NN انه/NN مقدم/NN برنامج/NN والضيوف/NNP كلهم/NNP سعودين/NNP ./PUNC ./PUNC والي/NN يتصلون/VBP سعودين/NNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+قرضكم/NN لا/RP يبني/VBP بيت/NN ولا/NN يفك/VBP من/IN دين/NN !!/NN فلا/NN حنا/NNP اللي/WP بنينا/VBD البيت/DTNN ولا/NN سلمنا/NN من/IN الدين/DTNN !!/NN فخذوها/NN ./PUNC ./PUNC بيت/NN شعبي/JJ والعمر/JJ مهو/JJ من/IN كثره/NN !!/NN 

@@ -1,0 +1,1 @@
+ميرسي/NNP أوي/NNP يادكتور/NNP عزت/NNP أبوعوف/NNP على/IN المسلسل/DTNN ومزيد/NN من/IN التقدم/DTNN وألاجتهاد/NNP ./PUNC 

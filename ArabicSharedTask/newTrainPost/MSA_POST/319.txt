@@ -1,0 +1,1 @@
+الوحدات/DTNNS سقط/VBD سهوا/NN -LRB-/PUNC خساره/NN الدوري/DTNN -RRB-/PUNC الوحدات/DTNNS سقط/VBD -LRB-/PUNC رغما/NN عنه/NN -RRB-/PUNC بالبطوله/NNP العربيه/DTNNP ولكنه/NN عائد/NN بقوه/NNP عائد/NN من/IN جديد/NN فاتحدوا/VBD ايها/RP الوحداتييه/DTNN المارد/DTJJ منكم/NN واليكم/NN المارد/DTNN زعيمنا/NNP وعميدنا/NNP وليس/NNP لنا/VBD سواه/NNP 

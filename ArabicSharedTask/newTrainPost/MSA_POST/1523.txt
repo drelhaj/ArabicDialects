@@ -1,0 +1,1 @@
+وكان/NN باعة/NN جائلون/JJ يبيعون/VBP قمصان/NN -LRB-/PUNC تي/NN ./PUNC شيرت/NN -RRB-/PUNC وحقائب/NN قد/RP نبهوا/VBD الشرطة/DTNN مساء/NN السبت/DTNN الماضي/DTJJ إلى/VBD دخان/NN ينبعث/VBP من/IN سيارة/NN نيسان/NNP باثفايندر/NNP متوقفة/JJ ومحركها/NN دائر/NN وأنوارها/NN مضاءة/NN بالقرب/JJ من/IN مسرح/NN في/IN برودواي/NNP 

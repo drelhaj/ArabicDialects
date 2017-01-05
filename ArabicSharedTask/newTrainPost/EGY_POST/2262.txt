@@ -1,0 +1,1 @@
+سؤال/NN و/CC أرجو/NN الإجابة/DTNN عليه/NNP :/PUNC مش/NN ده/DT عثمان/NNP محمد/NNP عثمان/NNP بتاع/NN التنميه/DTNN الأقتصاديه/DTJJ فى/IN دولة/NN القطاميه/DTNNP هايتس/NNP المتحده/DTNNP ؟/VBD الراجل/DTNN ده/DT أبشع/ADJ من/IN عز/NN .../PUNC على/IN الأقل/DTNN عز/NN بيشوف/NN مصر/NNP من/IN اللاب/NN توب/NNP أنما/NN ده/DT بيشوفها/NN مش/NN عارف/NNP منين/NNP !!!!/CD 

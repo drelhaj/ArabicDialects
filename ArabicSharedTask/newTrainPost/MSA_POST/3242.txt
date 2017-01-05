@@ -1,0 +1,1 @@
+رغم/NN أنني/JJ ضد/NN القرار/DTNN الفرنسي/DTJJ -LRB-/PUNC الذي/WP ستتبعه/NN دول/NN أخري/JJ قريباً/JJ -RRB-/PUNC حيث/WRB أن/VBD أساسه/NN هو/PRP كره/NN المسلمين/DTNNS ،/VBD اعتقد/VBP أن/NN حضر/VBD المظاهر/DTNN المنفرة/DTJJ في/IN الإسلام/DTNN سيخدم/NN المسلمين/DTNNS على/IN المدى/DTNN البعيد/DTJJ ./PUNC 

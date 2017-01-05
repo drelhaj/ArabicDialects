@@ -1,0 +1,1 @@
+ياخي/VBP راتبي/NNP الفين/CD ريال/NN وعلي/NN مخالفات/NNS قيمتها/NN 1100/CD ريال/NN ولو/VBD ما/WP اسدد/VBD خلال/NN شهر/NN تتضاعف/VBP الى/IN الحد/DTNN الاعلى/DTJJ لاحول/NNP ولا/NNP قوة/NN الا/RP بالله/NNP 

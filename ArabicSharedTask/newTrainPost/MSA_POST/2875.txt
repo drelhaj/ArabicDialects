@@ -1,0 +1,1 @@
+1/CD -/PUNC عندما/NNP كانت/VBD اسعار/NN النفط/DTNN قد/RP وصلت/VBD الى/IN ارقام/NN قياسية/JJ في/IN العام/DTNN 2008/CD و/CC هي/PRP 147/CD دولار/NN للبرميل/NN ،/NN كان/VBD سعر/NN البنزين/DTNN 95/CD هو/PRP 84/CD قرسا/NN للتر/NN الواحد/DTNN 

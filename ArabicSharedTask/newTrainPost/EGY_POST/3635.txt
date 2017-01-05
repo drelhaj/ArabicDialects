@@ -1,0 +1,1 @@
+لازم/VBD رئيس/NN الجمهوريه/DTNN وشيخ/NN الازهر/DTNNP يتدخلو/VBP لانهاء/NN الخصومه/DTNN بينهم/NNP ./PUNC لان/VBD ياجماعه/NNP لو/IN متصلحوش/NNP يبقى/VBP مصر/NNP كده/NNP انتهت/VBD من/IN الوجود/DTNN ./PUNC 

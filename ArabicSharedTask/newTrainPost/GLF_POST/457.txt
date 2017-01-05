@@ -1,0 +1,1 @@
+انالله/NNP وانا/NNP اليه/NNP راجعون/NNP هذي/DT نهاية/NN التربيه/DTNN والتعب/NN اللي/WP تعبه/VBP لين/NNP كبرت/VBD ,/PUNC يالله/VBP لاتبلانا/NNP واجعلنا/NNP بارين/NNP بوالدينا/NNP يارب/NNP 

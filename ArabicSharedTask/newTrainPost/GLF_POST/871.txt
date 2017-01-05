@@ -1,0 +1,1 @@
+الرديف/DTNN وتسوون/NNP كذا/NNP وشلون/NNP لو/IN لعبنا/VBD كاملين/NNP سيثور/NNP بركان/NN سامي/NNP من/IN جديد/NN ./PUNC 

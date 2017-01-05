@@ -1,0 +1,1 @@
+وين/NNP كانت/VBD توقعاتك/NNP العام/DTNN الماضي/DTJJ لما/NNP حصدنا/NNP الاخضر/DTJJ و/CC اليابس/DTJJ ،/VBD وين/NN راحت/NN توقعاتك/NNP في/IN مبارة/NN الرمثا/DTNNP و/CC الفيصلي/DTNNP ،/VBD على/IN كلن/NN بكرة/NN انشاء/NN الله/NNP بكون/NNP الرد/DTNN على/IN خيبة/NN توقعاتك/NNP بالنتيجة/NNP مش/NN بالحكي/NNP الفاضي/DTJJ ./PUNC سلم/VBD يا/RP توقعات/NNS ./PUNC 

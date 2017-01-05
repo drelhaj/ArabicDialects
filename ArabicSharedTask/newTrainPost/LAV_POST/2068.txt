@@ -1,0 +1,1 @@
+تحياتي/VBP الى/IN الاخ/DTNN رامز/NNP غيث/NNP ورشاد/NN الصاحب/DTNN وشكرا/NN على/IN كلامكم/NNP الطيب/DTNNP تجاهي/NN ./PUNC ./PUNC وكلنا/VBD بنكتب/NNP وبنتنافس/NNP وبنتناقش/NNP في/IN سبيل/NN مصلحة/NN الرياضة/DTNN الاردنية/DTJJ مع/NN بعض/NOUN المشادات/DTNNS الحميدة/DTJJ والغير/NN خارجة/JJ عن/IN ادب/NN الحوار/DTNN والنقاش/NNP ./PUNC ./PUNC 

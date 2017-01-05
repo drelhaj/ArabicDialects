@@ -1,0 +1,1 @@
+طير/NN ياعمي/VBP بس/NN ./PUNC ./PUNC يقالك/VBP مسوي/NN فيها/NN المؤدب/DTNN المحترم/DTJJ ./PUNC ./PUNC دام/VBD انك/NNP عارف/NNP ان/IN القرار/DTNN بيصدر/NNP ليش/NNP تكلم/VBD ./PUNC ./PUNC وخليل/NNP جلال/NNP من/IN حكام/NN رشواتكم/NN يالطفارا/NNP وتقولها/NN بعد/NN صريحه/NN تربطني/NNP فيه/NNP علاه/NNP جيده/NNP 

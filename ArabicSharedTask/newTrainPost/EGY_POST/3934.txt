@@ -1,0 +1,1 @@
+بجد/NNP ماشوفتش/NNP أسوء/NN من/IN كدة/NN -/PUNC شوبير/NNP -/PUNC من/IN استهانة/NN بذوي/NN الأحتياجات/DTNNS الخاصة/DTJJ من/IN أهلة/NN وتلويث/NN آذان/NN المشاهدين/DTNNS بغير/NN الحقائق/DTNN وعدم/NN مراقبة/NN الله/NNP في/IN القول/DTNN والعمل/NNP 

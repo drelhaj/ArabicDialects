@@ -1,0 +1,1 @@
+اشي/VB البسة/NN واشي/NNP خضار/NNP وفواكه/NNP واشي/NNP مواد/NN زراعية/JJ واسمدة/JJ ./PUNC ./PUNC يعني/VBP الموضوع/DTNN من/IN اولو/NNP لآخرو/NNP مش/NN مستاهل/NN كل/NOUN هالزعل/NN والتحقيقات/NNS اللي/WP رايحة/NN تحصل/VBP 

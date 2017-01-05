@@ -1,0 +1,1 @@
+سبحان/NN الله/NNP اللحين/DTJJ تقول/VBP الجماهير/DTNN السعودية/DTJJ -LRB-/PUNC ليش/NN ما/WP تقول/VBP الجماهير/DTNN الهلالية/DTNNP -RRB-/PUNC وبعدين/NNS خل/NN عنك/NN التحيز/DTNN والأستاذ/NNP نجيب/NNP اكبر/JJR من/IN كلامك/NN يا/RP صديقي/JJ ,/PUNC 

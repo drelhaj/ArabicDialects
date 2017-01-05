@@ -1,0 +1,1 @@
+هاهم/NNP أبناءك/NNP ياكبير/NNP ./PUNC ./PUNC الانتماء/DTNN والاصالة/NN ترد/NN من/IN نشأ/NN في/IN كنف/NN نادي/NN الوحدات/DTNNS وعقبال/NN ما/WP نأكل/VBP الكنايف/DTNN بالحصول/NNP عللى/NNP -LRB-/PUNC كأس/NNP الأردن/DTNNP -RRB-/PUNC 

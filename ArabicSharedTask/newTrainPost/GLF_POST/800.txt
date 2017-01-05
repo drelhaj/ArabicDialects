@@ -1,0 +1,1 @@
+سمعتو/NNP الكلام/NNP العقلاني/DTJJ موب/NN كلام/NN انا/PRP صاحب/NN السمو/DTNN الملكي/DTJJ الامير/DTNN --/NNP --/VBD --/NN ما/WP علي/IN من/WP احد/NN 

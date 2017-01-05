@@ -1,0 +1,1 @@
+غريبه/NNP فريق/NN القرن/DTNN اللي/WP يمثلنا/VBP محلى/NN مع/NN العلم/DTNN انه/VBD يوحد/VBP لدينا/NN افرقه/NN شاركة/JJ في/IN في/IN محافل/NN عالميه/NNP مثل/NN النصر/DTNNP والاتحاد/NNP ./PUNC ./PUNC يازمن/VBP العجائب/DTNN !!!/CD 

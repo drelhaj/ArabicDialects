@@ -1,0 +1,1 @@
+حسونة/NNP يا/RP كبتنا/VBD الدوري/DTNN خاوة/NN النا/NN ./PUNC ومع/NN تحياتي/VBP لكل/NN واحد/JJ فيصلاوي/JJ .../PUNC .../PUNC كأس/NN الكوؤس/DTNN لونوا/VBD ازرق/JJ والدرع/NN وكاس/NN الاردن/DTNNP كلهم/NNP للفيصلي/NNP .../PUNC 

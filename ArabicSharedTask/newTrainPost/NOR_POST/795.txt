@@ -1,0 +1,1 @@
+ماللي/NNP يكبو/VBP في/IN سعد/NNP الفايس/DTNNP بوك/NNP عندهم/NNP حسابات/NNS فيه/NNP من/IN كاملة/NN عندهم/NN فايسبوك/NNP و/CC انا/PRP نحلف/VBP والله/NN أعلم/NN انو/NNP أكثر/NNP 

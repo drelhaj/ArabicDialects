@@ -1,0 +1,1 @@
+الاساس/DTNN ان/IN يكون/VBP هناك/RB تناغم/NN في/IN التعليمات/DTNNS والقرارات/NNS وان/NNP تكون/VBP امتدادا/NN لبعضها/JJ حتى/IN يتسم/VBP السوق/DTNN بالاستقرار/NNP ./PUNC تحليل/NN علمي/JJ ويمكن/JJ ان/IN يكون/VBP موضوع/NN لندوة/NN او/CC حوار/NN ./PUNC 

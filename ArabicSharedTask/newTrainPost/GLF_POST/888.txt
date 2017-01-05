@@ -1,0 +1,1 @@
+يارجال/NNP عساك/NNP سالم/NNP رادوي/NNP سوا/NN الهوايل/DTNN وجميع/NN الاشياء/DTNN الممكنة/DTJJ هالموسم/NNP ركل/NNP رفس/NNP اكواع/NN تهجم/NN على/IN اللاعبين/DTNNS و/CC الحكام/DTNN وماشفناه/NNP توقف/VBD الى/IN الموسم/DTNN القادم/DTJJ على/IN قولتك/NNP 

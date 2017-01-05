@@ -1,0 +1,1 @@
+كلمة/NN أنا/VBD كي/IN قلت/VBD كلمتي/NNS على/IN مسيرة/NN النادي/DTNN الصفاقسي/DTNNP في/IN من/WP زيد/NNP ارضية/NN ملعب/NN الطيب/DTNNP المهيري/DTJJ و/CC ضيقو/VBD أنا/NN أعوذ/NN بالله/NNP 

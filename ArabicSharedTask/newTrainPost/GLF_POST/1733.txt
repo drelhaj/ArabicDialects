@@ -1,0 +1,1 @@
+اولا/ADJ ./PUNC ./PUNC احترم/VBD مجلس/NN الشورى/DTNN واقدرره/NNP ./PUNC ./PUNC لكن/VBP حرام/NN عليكم/JJ توافقون/VBP وترفضون/NNS بدون/IN اذن/NN المواطن/DTNN ./PUNC ./PUNC فيه/NN ناس/NN حالتهم/JJ على/IN قدهم/NN بس/NN مايقدرون/NNP يجيبون/VBP خدامه/NN او/CC سوااق/NN بهذي/NN القيمه/DTNN 

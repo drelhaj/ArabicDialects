@@ -1,0 +1,1 @@
+ايه/NN المقال/DTNN المتفبرك/DTJJ ده/DT .../PUNC ./PUNC ./PUNC لا/RP دكتور/NN علاء/NNP عمل/NN لقاء/NN مع/NN الشرور/DTNN ولا/NNP حاجه/NNP ./PUNC ./PUNC دول/NN عمالين/NNS يضحكوا/VBP على/IN نفسهم/NN فى/IN اعلامهم/NN وعلشان/NN حد/NN يصدقهم/VBP يجيبوا/VBP اسم/NN اعلامى/NN كبير/JJ من/IN ام/NN الدنيا/DTNN 

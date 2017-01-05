@@ -1,0 +1,1 @@
+يعني/VBP الكل/NOUN مش/NN مصدق/NNP انه/VBD في/IN صفقه/NN مثل/NN هيك/NNP ,/PUNC وانا/VBD متأكد/NN انه/NN الصفقه/DTNN مش/NN هيك/NNP ولأن/NNP الصفقه/DTNNP فيها/NN فلوس/NNP للنادي/NNP الفيصلي/DTNNP وستدفع/NN بالخفاء/NN والحدق/JJ يفهم/VBP ./PUNC 

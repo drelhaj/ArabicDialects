@@ -1,0 +1,1 @@
+أنا/VBD نفسى/NN أعرف/NN إيه/NN إللى/VBD دخل/NN الجملة/DTNN دى/VBD فى/IN الموضوع/DTNN ''/NN ولا/NN ينتمى/VBP لأى/NN حزب/NN سياسى/JJ ''/VBD شكل/NN إللى/JJ قايلها/JJ صعيدى/VBD برده/NNP ./PUNC ./PUNC 

@@ -1,0 +1,1 @@
+اعتبار/VBG رئيس/NN الجامعه/DTNN وعميد/NN شؤون/NN الطلبه/DTNN مقصرين/VN في/IN الدور/DTNN المطلوب/DTJJ منهم/JJ في/IN هذا/DT الصدد/DTNN ./PUNC 

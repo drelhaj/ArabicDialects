@@ -1,0 +1,1 @@
+،/VBD ،/NN جميل/JJ !/PUNC لكن/VBP هم/PRP الطب/DTNN يقتصر/VBP ^/NN _/PUNC ^/CD ./PUNC ./PUNC تجيبون/VBP ناس/NN ./PUNC ./PUNC للبيطره/NNP يجربون/VBP على/IN الناس/DTNN ./PUNC ./PUNC ؟/VBD المستشفيات/DTNNS الحكومية/DTJJ رديئه/NN تعزك/NN فلوسك/NNP ./PUNC ./PUNC والي/NN ماعندها/NN فلوس/NNP ./PUNC ./PUNC الله/NNP يجيب/VBP الخير/DTNN لهم/NN 

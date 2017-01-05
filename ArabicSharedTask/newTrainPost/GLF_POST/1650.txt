@@ -1,0 +1,1 @@
+مب/NN كل/NOUN ورده/NN ./PUNC ./PUNC تعبر/VBP عن/IN الود/DTNN ./PUNC ./PUNC لك/NN ./PUNC ./PUNC !/PUNC 

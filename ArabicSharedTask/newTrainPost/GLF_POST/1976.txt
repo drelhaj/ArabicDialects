@@ -1,0 +1,1 @@
+صراحه/NNP انا/NNP هلالي/NNP لكن/VBP بكل/NN صراحه/NN بكل/NN صراحه/NN الهلال/DTNNP ماراح/NNP ياخذ/VBP البطوله/DTNN يحلم/VBP ياخذ/VBP البطوله/DTNN دام/VBD فيه/NNP ابطال/NN اليابان/DTNNP وكوريا/NN الجنوبيه/DTNN للاسف/NN مستواهم/NN اعلى/JJ من/IN مستوى/NN فريقنا/NNP باربع/NNP مرات/NNS 

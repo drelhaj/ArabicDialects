@@ -1,0 +1,1 @@
+اللهم/NN لا/RP شماتة/NN في/IN النظام/DTNN ورجاله/NNP ./PUNC عودة/NN كمال/NNP الشاذلي/DTNNP إلي/NN مطار/NN القاهرة/DTNNP محمولا/JJ علي/IN نقالة/NN من/IN أمريكا/NN ./PUNC والرئيس/NNP مقدرش/NNP ينزل/VBP سلم/NN الطائرةفي/DTNN مطار/NN شرم/NNP الشيخ/DTNNP ./PUNC وشيخ/NN الأزهر/DTNN توفاه/NNP الله/NNP في/IN مطار/NN الرياض/DTNNP ./PUNC 

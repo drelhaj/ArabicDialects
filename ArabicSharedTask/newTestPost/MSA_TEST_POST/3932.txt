@@ -1,0 +1,1 @@
+ويبدو/NNP أن/VBD أكثر/NN الناس/DTNN انتحارا/NN يتواجدون/VBP في/IN دول/NN البلطيق/DTNN حيث/WRB تم/VBD تسجيل/NN 40/CD حالة/NN انتحار/NN لكل/NN 100/CD الف/CD نسمة/NN أما/NN أكثر/NN الشعوب/DTNN انتحارا/NN فهم/NN سكان/NN ليتوانيا/NNP حيث/WRB انتحر/VBD في/IN عام/NN 2002/CD مثلا/NN 44/CD ،/NN 7/CD شخصا/NN من/IN اصل/NN كل/NOUN 100/CD الف/CD نسمة/NN أي/JJ 1551/CD شخصا/NN ./PUNC 

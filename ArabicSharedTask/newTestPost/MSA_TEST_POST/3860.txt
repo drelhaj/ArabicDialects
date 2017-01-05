@@ -1,0 +1,1 @@
+./PUNC ./PUNC لا/RP لتهويد/NN القدس/DTNNP .../PUNC وان/NNP طال/VBD الزمان/DTNN فالقدس/NNP عائدة/VN وفلسطين/NNS كلها/NN عربية/JJ .../PUNC 

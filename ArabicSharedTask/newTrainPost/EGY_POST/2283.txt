@@ -1,0 +1,1 @@
+يا/RP جماعة/NN اسم/NN نيفين/NNP شكرى/NNP صاحبة/NN التعليق/DTNN رقم/NN 1/CD دة/NN من/IN الامن/DTNN المصرى/DTJJ علشان/NN يشتت/VBP المعلقين/DTNNS على/IN الخبار/DTNN ونفتكر/NNP ان/IN فى/IN حد/NN فعلا/NN بيحب/NN الريس/DTNN او/CC الحزب/DTNN الوطنى/DTJJ 

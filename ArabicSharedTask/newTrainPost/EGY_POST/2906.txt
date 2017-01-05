@@ -1,0 +1,1 @@
+مش/NN انت/PRP بتاع/NN شوبير/NNP برضه/NNP .../PUNC مالك/NNP انت/PRP ياعم/VBP ومال/NN التعليم/DTNN ./PUNC ./PUNC خليك/VBD في/IN الكورة/DTNNP احسن/VBD وبلاش/NN سفسطة/JJ في/IN اللي/WP مالكش/NNP فيه/NNP ./PUNC !!!!!!/CD 

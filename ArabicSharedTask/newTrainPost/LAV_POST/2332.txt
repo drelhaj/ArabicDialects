@@ -1,0 +1,1 @@
+./PUNC ./PUNC الا/IN اذا/IN الباص/DTNN اله/NN طابق/NN لحال/NN ./PUNC ولا/VBD شو/NNP رأي/NNP باقي/NN المعلقين/DTNNS ؟/CD 

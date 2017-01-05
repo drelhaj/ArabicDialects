@@ -1,0 +1,1 @@
+لكل/VBD مواطن/NN ,/PUNC ,/PUNC لازم/VBD تعرف/VBP إن/NN ظهور/NN الناس/DTNN دى/VBD على/IN التليفزيون/DTNNS وفى/VBD الجرائد/DTNN على/IN حسابك/NN وأنك/NN بتدفع/NN الثمن/DTNN من/IN جيبك/NNP مباشرة/NN 

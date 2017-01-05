@@ -1,0 +1,1 @@
+جاي/NNP العم/VBD الخواجة/DTNN بيقول/NNP الأن/NNP ان/IN -LRB-/PUNC جمي/NNP مبارك/NNP -RRB-/PUNC خداع/NN بعد/NN السنين/DTNNS دي/NN كلها/NN لسة/NN جاي/NNP يا/RP خوجة/NNP تقول/VBP كدة/NN و/CC بعدين/NN يزعل/VBP منك/NN صحبك/NN جمي/JJ و/CC أبوة/NN لألألألألألأ/DTNN ./PUNC مش/NN كده/NNP الكلام/NNP ./PUNC 

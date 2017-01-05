@@ -1,0 +1,1 @@
+ليه/NNP إذا/VBD جاء/VBD شيء/NN بخصوص/NN الإسلام/DTNN ./PUNC ./PUNC تناسيتوا/VBD الحرية/DTNN ./PUNC ./PUNC 

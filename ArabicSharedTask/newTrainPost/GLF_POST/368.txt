@@ -1,0 +1,1 @@
+اذا/IN مايبون/NNP يشتغلون/VBP في/IN غيرهم/NNP ./PUNC ./PUNC ناقصين/NNS الاجانب/DTNN ماتحملنا/VBD التجار/DTNN وارتفاع/NNP اسعارهم/NNP تجي/VBP انت/PRP ووجهك/NNP .../PUNC الي/IN مايداوم/NN اسحب/NN رخصتة/NN يتأدبون/VBP البقية/DTNN 

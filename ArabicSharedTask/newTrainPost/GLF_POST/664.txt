@@ -1,0 +1,1 @@
+يامايكل/VBP تراك/NN رفعت/NNP ضغطي/NNP هاللحين/NNP عندك/NNP كاثرينا/NNP زيتا/NNP جونز/NNP اللي/WP تتطش/VBP الطير/DTNN من/IN السماء/DTNN -LRB-/PUNC رايحة/NN معها/NN وطي/NN -RRB-/PUNC وتقول/NNP ابي/NNP وابي/NNP ماراحت/NNP الا/RP علينا/VBD حنا/NNP اللي/WP نتزوج/VBP عمامنا/NN بس/NN بدون/IN اشناب/NN 

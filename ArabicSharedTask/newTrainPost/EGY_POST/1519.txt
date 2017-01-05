@@ -1,0 +1,1 @@
+انت/PRP هتتحاسب/DTNN عند/NN ربنا/NN عشان/NN بتحاول/NN تجامل/NN الاندية/DTNN سواء/NN الاهلي/DTNNP او/CC الذمالك/DTNN ودلوقتي/NNS هما/PRP$ مش/NN طيقنك/NNP لان/NNP قلي/NNP بيتجامل/NNP لما/NNP هيأخد/NNP حقة/NN هيزعل/NNP وانت/NNP قي/NN عودتهم/JJ علي/IN كدة/NN علي/IN حساب/NN الحكام/DTNN اشرب/NN بقي/VBD ووريني/NNP هتعمل/NNP اية/NNP في/IN الاسابيع/DTNN قلي/NNP جية/NNP ./PUNC 

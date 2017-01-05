@@ -1,0 +1,1 @@
+2/CD -/PUNC والله/NNP يلزم/VBP وقفه/NN عند/NN قوله/NN تعالى/VBD -LRB-/PUNC -LRB-/PUNC وَمَنْ/NN أَعْرَضَ/NN عَنْ/NN ذِكْرِي/JJ فَإِنَّ/JJ لَهُ/VBD مَعِيشَةً/NN ضَنكًا/NN وَنَحْشُرُهُ/NN يَوْمَ/VBP الْقِيَامَةِ/DTNN أَعْمَى/DTJJ -RRB-/PUNC -RRB-/PUNC 

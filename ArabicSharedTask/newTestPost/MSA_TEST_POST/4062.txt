@@ -1,0 +1,1 @@
+تحية/NN الى/IN شعبنا/NN الواحد/DTNN في/IN فلسطين/NNP والاردن/NNP وان/NNP شاء/VBD الله/NNP نعود/VBP دولة/NN واحدة/JJ تحكم/VBP بكتاب/NNP الله/NNP وسنة/NN نبيه/NNP ./PUNC 

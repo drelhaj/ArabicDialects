@@ -1,0 +1,1 @@
+ان/VBP هذا/DT النموذج/DTNN موجود/JJ فعلا/NN في/IN الجامعات/DTNNS ولكن/VBD هناك/RB دكتور/NN مشهور/JJ في/IN الجامعة/DTNN الاردنية/DTJJ وينصب/NN نفسه/NN حاميا/JJ للمستهلك/NN يفعل/VBP اكثر/NOUN من/IN ذلك/DT مع/NN طلابه/NN ./PUNC 

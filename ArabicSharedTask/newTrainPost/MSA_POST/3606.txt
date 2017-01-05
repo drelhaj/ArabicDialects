@@ -1,0 +1,1 @@
+لماذا/WRB الابتعاد/DTNN عن/IN الطريقة/DTNN الاسلامية/DTJJ في/IN الذبح/DTNN ./PUNC والاسلام/NN كله/NN رفق/NN بالحيوان/NNP ./PUNC بعد/NN حوالي/NOUN الف/CD واربعمئة/NN عام/NN من/IN الذبح/DTNN الاسلامي/DTJJ تريدوا/VBD الرفق/DTNN بالحيوان/NNP وتخديره/NNP قبل/NN الذبح/DTNN ./PUNC ./PUNC استشيروا/VBD المستهلك/DTNN اولا/ADJ 

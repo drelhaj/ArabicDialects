@@ -1,0 +1,1 @@
+بقا/NN ده/DT شكل/NN واحد/JJ ممكن/JJ تحبه/VBP واحده/NN زى/NN سوزان/NNP تميم/NNP .../PUNC .../PUNC ./PUNC ده/DT عباره/NN عن/IN شوال/NN فلوس/NNP اخدت/VBD منه/NNP شويه/NNP وبعدين/NNP دلقته/NNP .../PUNC .../PUNC ./PUNC 

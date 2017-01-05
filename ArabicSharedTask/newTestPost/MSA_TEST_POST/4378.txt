@@ -1,0 +1,1 @@
+ذ/VBD هداف/NN العرب/DTNN اللاعب/DTNN الاردني/DTJJ جريس/NNP تادرس/NNP -/PUNC احد/NN لاعبين/NNS الفيصلي/DTNNP ./PUNC 

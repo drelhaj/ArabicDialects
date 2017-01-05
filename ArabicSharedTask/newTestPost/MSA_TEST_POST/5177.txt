@@ -1,0 +1,1 @@
+يا/RP سيدي/NNP تقبل/NN الله/NNP ./PUNC ./PUNC واحتسب/NNP علقتك/NNP بالخيرزانة/NNP في/IN سبيل/NN الله/NNP 

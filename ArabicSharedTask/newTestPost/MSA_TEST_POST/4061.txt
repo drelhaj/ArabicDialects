@@ -1,0 +1,1 @@
+انا/PRP استغرب/VBD من/IN الصحف/DTNN العربية/DTJJ التي/WP تقول/VBP عن/IN اسد/NN فلسطين/NNP رئيس/NN الوزراء/DTNN الفلسطيني/DTJJ .../PUNC المقال/DTJJ .../PUNC من/IN اقاله/NN ./PUNC 

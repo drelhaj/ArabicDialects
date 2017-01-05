@@ -1,0 +1,1 @@
+مافيه/NNP احلاء/NN من/IN كذا/NN بس/NN وين/NNP -LRB-/PUNC الموظفه/DTNNP -RRB-/PUNC 

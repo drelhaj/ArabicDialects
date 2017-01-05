@@ -1,0 +1,1 @@
+من/IN رأيي/NN أن/NN تؤجل/VBP هالحكي/NNP شوي/NNP ./PUNC زي/NN ما/WP بحكي/VBP المثلّ/DTNN :/PUNC ال/DT ×/ADJ ×/VB لب/NN الي/IN بي/NN ×/NN ×/NN وي/JJ ما/IN بيخوفّ/NN ./PUNC 

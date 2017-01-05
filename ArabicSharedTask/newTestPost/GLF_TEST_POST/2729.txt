@@ -1,0 +1,1 @@
+بالله/NNP عليك/NNP يا/RP شيخ/NN تفهم/NN هالكلام/NNP لهيئة/NN الرياض/DTNNP ./PUNC ./PUNC 

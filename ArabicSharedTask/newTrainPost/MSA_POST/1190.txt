@@ -1,0 +1,1 @@
+12/CD -/PUNC رَضيـتُ/NNP بِاللهِ/NNP رَبَّـاً/NNP وَبِالإسْلامِ/NNP ديـناً/NNP وَبِمُحَـمَّدٍ/NNP صلى/VBD الله/NNP عليه/NNP وسلم/NNP نَبِيّـاً/NNP ./PUNC -LRB-/PUNC ثلاثاً/CD -RRB-/PUNC -LRB-/PUNC أبو/NNP داود/NNP 4\/318/CD -RRB-/PUNC 

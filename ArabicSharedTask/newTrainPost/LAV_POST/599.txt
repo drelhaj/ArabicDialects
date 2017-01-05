@@ -1,0 +1,1 @@
+اقسم/VBD بالله/NNP العظيم/DTJJ اني/NNP كنت/NNP اخد/VBD 10/CD دنانير/NN مصروف/NN اسبوعي/JJ ويشمل/NN ذهاب/NN واياب/JJ من/IN عمان/NNP الى/IN اربد/NNP ./PUNC بصراحه/NNP ربنا/VBD يسرها/NN واتخرجنا/NNP ./PUNC علعموم/NNP هلحكي/NNP سنه/NNP 2000/CD 

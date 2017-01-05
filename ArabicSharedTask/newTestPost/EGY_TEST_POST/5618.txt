@@ -1,0 +1,1 @@
+ده/DT انا/PRP حتى/IN بحب/NN المشبك/DTNN الدمياطي/DTJJ أوي/NNP ./PUNC ./PUNC بذمتك/NNP موش/NNP البقين/DTNNS دول/NN كانوا/VBD أتقالوا/VBD على/IN نفاق/NN الست/DTNNP نيفين/NNP أحسن/NNP ولا/VBD انت/PRP حزب/NNP وطنى/NNP ؟/CD 

@@ -1,0 +1,1 @@
+يابن/VBP الحلال/DTNN لن/RP ينجح/VBP المرور/DTNN دايم/NNP هناك/RB واسطه/NN للي/JJ يقطع/VBP اشاره/NN او/CC اللي/WP يخالف/VBP اعطيك/NN مثال/NN لو/IN قطع/VBD اشاره/NN واحد/JJ ليس/VBD عنده/NN واسطه/NNP لن/RP يخرج/VBP من/IN الحجز/DTNN الا/RP بعد/NN 24/CD بينما/IN اللي/WP يعرف/VBP احد/NN بالمرور/NN يتوسط/VBP له/NN ويطلع/JJ !/PUNC 

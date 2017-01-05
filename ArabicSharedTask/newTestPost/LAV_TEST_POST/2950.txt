@@ -1,0 +1,1 @@
+مشان/NNP الله/NNP ليش/NNP هيك/NNP يالإتحاد/NNP ليش/NNP هيك/NNP ياالإعلام/NNP .../PUNC بس/NN الإهتمام/DTNN بكرة/NN القدم/DTNN ./PUNC ./PUNC ؟/VB !/PUNC ؟/VB !/PUNC ؟/VB !/PUNC 

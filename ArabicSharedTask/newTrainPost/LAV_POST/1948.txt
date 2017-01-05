@@ -1,0 +1,1 @@
+على/IN كل/NOUN حال/NN الخط/DTNN الارضي/DTJJ فصلتو/NNP ./PUNC ./PUNC وانترنت/VBD مش/NN جايب/JJ من/IN عندهم/NN ./PUNC ./PUNC وموبايل/NNP لو/IN اخر/JJR شركة/NN مش/NN مشترك/JJ معهم/JJ ./PUNC ./PUNC والله/NN الغلط/DTNN مبين/VN بس/NN شو/NNP نحكي/NNP 

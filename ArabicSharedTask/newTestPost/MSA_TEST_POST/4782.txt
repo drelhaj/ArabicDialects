@@ -1,0 +1,1 @@
+صدق/VBD الله/NNP فصدقه/NNP الله/NNP ./PUNC ./PUNC رحم/VBD الله/NNP هذا/DT البطل/DTNN الصنديد/DTJJ وأسكنه/NN فسيح/JJ جنانه/NN .../PUNC 

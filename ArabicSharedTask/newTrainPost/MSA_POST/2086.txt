@@ -1,0 +1,1 @@
+كل/NOUN العوامل/DTNN المساعدة/DTJJ -LRB-/PUNC ظلم/NN تحكيمي/JJ ,/PUNC أرض/VBD ,/PUNC جمهور/NN و/CC وقت/NN اضافي/JJ مبالغ/NN فيه/NNP لم/RP تشفع/VBP لفريق/NN الفيصلي/DTNNP ليفوز/NNP بالمباراة/NNP -RRB-/PUNC ./PUNC 

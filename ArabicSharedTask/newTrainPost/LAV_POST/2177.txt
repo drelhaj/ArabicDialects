@@ -1,0 +1,1 @@
+السؤال/DTNN الان/DTNN ؟/NN ليش/NN فيه/NNP فقر/NN طيب/NNP ليش/NNP فيه/NNP جيوب/NN جديدة/JJ بتظهر/NN ؟/NN المشكلة/DTNN تتزايد/VBP وين/NN الحلول/DTNN ؟/NN ؟/NN طيب/JJ غير/NN الفقراء/DTNN -LRB-/PUNC الاغنياء/DTNN -RRB-/PUNC ؟/VBD ؟/NN كم/PRP$ بصرفوا/VBD سنويا/NN طيب/JJ ليش/VBD ما/WP فيه/VBD دراسة/NN للاغنياء/JJ ونسبتهم/JJ وكيف/NN توزيعهم/NN عالمحافظات/NNS ؟/JJ 

@@ -1,0 +1,1 @@
+طيب/NNP ليش/NNP يمنعون/VBP الشباب/DTNN من/IN الأسواق/DTNN والمنتزهات/NNS روغم/NNP أنها/VBD في/IN أماكن/NN عامة/JJ ./PUNC 

@@ -1,0 +1,1 @@
+اقول/VBP احمدي/NN ربك/NN بس/NN و/CC ابلعي/NNS العافيه/DTNN ترى/VBP غيرك/NN حريم/JJ ينامون/VBP بالشوارع/NN و/CC عيالهم/NN متمرمطين/NNS وراهم/JJ ما/WP احد/NN عارف/NNP من/IN ابوهم/NNP !/PUNC 

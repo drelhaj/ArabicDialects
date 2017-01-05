@@ -1,0 +1,1 @@
+طيب/NNP ولية/NN القرارات/DTNNS والعقوبات/NNS الرادعة/DTNN تكون/VBP علي/IN الزمالك/DTNNP بس/NN فين/NNP عقوبات/NNS الشرطة/DTNN وفين/NN عقوبات/NNS الحكم/DTNN الذى/WP كان/VBD السبب/DTNN الرئيسى/DTJJ فى/IN تلك/DT المهذلة/DTNN حسبنا/VBD اللة/NN ونعم/NN الوكيل/DTNN 

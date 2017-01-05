@@ -1,0 +1,1 @@
+الله/NNP اكبر/JJR يا/RP ابو/NNP محيسن/NNP ,/PUNC ,/PUNC ,/PUNC ,/PUNC انت/PRP رجل/NN بتقول/NN انك/VBD بتصوم/NN النوافل/DTNN وبتعرف/NN حق/NN ربنا/NN جيدا/JJ ,/PUNC ,/PUNC ,/PUNC ,/PUNC واللي/VN بعرف/NN حق/NN ربنا/VBD ما/WP بزيف/VBD الحقائق/DTNN ويدعي/NNP علم/NNP كل/NOUN شيء/NN خاصة/JJ اذا/IN تعلق/VBN الامر/DTNN بالوحدات/NNS ./PUNC 

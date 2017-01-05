@@ -1,0 +1,1 @@
+الله/NNP يستر/VBP هالبلد/NNP .../PUNC وبعدين/NNS ما/IN بدنا/NN نفتك/VBP من/IN هالشغلة/NN ./PUNC ./PUNC 

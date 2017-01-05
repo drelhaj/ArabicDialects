@@ -1,0 +1,1 @@
+-/PUNC الاخ/DTNN محمد/NNP السوالمة/DTNNP ./PUNC ./PUNC بلشنا/VBD نتخوث/VBP عبعض/NN ؟/NN ؟/NN !!/NN هاي/NNP الزرقاء/DTJJ والنتيجة/NN ستكون/NN زرررقاء/JJ 

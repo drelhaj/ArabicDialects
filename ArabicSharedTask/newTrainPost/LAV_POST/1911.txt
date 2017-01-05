@@ -1,0 +1,1 @@
+ليش/NNP لسه/NNP بكير/NNP باقي/NN من/IN السنه/DTNN ستة/CD اشهر/NN وبعد/VBN في/IN مجال/NN لضرايب/NN كمان/NN لسه/NN في/IN ضريبة/NN الهوا/NN اللي/WP منتفسه/NN وضريبة/NN .../PUNC ولسه/NNP كتير/NNP ضرايب/NNP 

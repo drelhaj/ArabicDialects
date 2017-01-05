@@ -1,0 +1,1 @@
+أشير/VBD عليكم/NN بخط/NN ممتاز/JJ والسعودية/JJ أوقفوا/VBD طيراتهم/NN عليه/NNP بسبب/NNP فشلهم/NNP ./PUNC ./PUNC الا/IN وهو/NN خط/NN النمسا/DTNNP لايفوتكم/NNP ./PUNC ./PUNC وادعوا/VBD لي/NNP ياناس/NNP ولاتهون/NNP سما/NN ./PUNC 

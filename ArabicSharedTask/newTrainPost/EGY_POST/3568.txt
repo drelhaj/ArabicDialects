@@ -1,0 +1,1 @@
+ابراهيم/NNP مش/NN عارف/NNP بيعمل/NNP ايه/NN هو/PRP مش/NN عارف/NNP ان/IN الناس/DTNN عايزة/JJ تستمع/VBP مش/NN تتخانق/VBP وتسمع/NN الشتائم/DTNN 

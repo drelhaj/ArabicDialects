@@ -1,0 +1,1 @@
+هو/PRP الدعم/DTNN العربي/DTJJ العربي/DTJJ للقضايا/NNP والشعوب/NNP العربيه/DTNNP والاسلاميه/NNP و/CC العالميه/DTNNP ./PUNC وخاصه/NNP ان/IN التاريخ/DTNN الاسلامي/DTJJ والعربي/NNS حافل/JJ ببطولات/NNS العلم/DTNN والقوه/NNP والسلام/NNP والقياده/NNP ./PUNC والله/NNP الموفق/DTJJ ./PUNC 

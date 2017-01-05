@@ -1,0 +1,1 @@
+يمكن/VBP بعد/NN كده/NN الواحد/DTNN ينزل/VBP الشارع/DTNN يجيب/VBP رغيف/NN عيش/NN يدفع/VBP .../PUNC ./PUNC ثمن/NN الشارع/DTNN الذين/WP رصفوه/VBD بنيه/NNP اساسيه/NNP وكمان/NNP فيه/NNP ليه/NNP تانى/NNP 

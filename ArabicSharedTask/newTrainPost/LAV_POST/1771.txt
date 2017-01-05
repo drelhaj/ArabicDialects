@@ -1,0 +1,1 @@
+بتقول/NN الحكومة/DTNN وعلى/VBD لسان/NN وير/NN التنمية/DTNN السياسية/DTJJ المعايطة/DTJJ للمواطن/NN الاردني/DTNN عنا/VBD تنمية/NN سياسية/JJ فليش/NN ما/WP بتشارك/VBD فيها/NN وتكون/NN مواطن/NN ديمقراطي/NNP له/NNP كامل/NNP الحقوق/DTNN ؟/NN !!/NN اي/NOUN شي/NNP غاااااد/NNP على/IN هيك/NNP تنمية/NN سياسية/JJ تفصل/VBP على/IN مزاج/NN الحكومة/DTNN ./PUNC 

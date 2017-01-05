@@ -1,0 +1,1 @@
+يا/RP حماعة/NN كل/NOUN اكم/NN يوم/NN تعديل/NN وزاري/JJ و/CC بيصفي/JJ عنا/VBD وزراء/NN متقاعدين/JJ و/CC عباء/NN جديد/JJ و/CC ابناء/NN لهو/NN يزاحموننا/VBP على/IN كل/NOUN شئ/NN و/CC سيارات/NNS فارهه/JJ ./PUNC ./PUNC مالها/NN المتسوبيشي/DTNN ؟/VBD ؟/NN غاندي/NNP كان/VBD يركب/VBP من/IN صناعة/NN بلده/NNP ./PUNC ./PUNC بعدين/NNP ليش/NNP وين/NN المساعدات/DTNNS ؟/NN ؟/CD 

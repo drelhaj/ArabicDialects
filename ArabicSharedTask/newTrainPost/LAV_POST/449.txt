@@ -1,0 +1,1 @@
+لما/NNP تسير/VBP الليلة/DTNN بفندق/NN 5/CD نجوم/NN 10/CD دنانير/NN بالليلة/NN ممكن/JJ نسير/VBP ننزل/VBP على/IN العقبة/DTNN ./PUNC عفففففو/NNP عنا/VBD خلونا/NN ننبسط/NN شوي/NNP -LRB-/PUNC .../PUNC ./PUNC ./PUNC -RRB-/PUNC 

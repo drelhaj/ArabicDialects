@@ -1,0 +1,1 @@
+شو/NNP جنس/NN هالبشر/NNP هاي/NNP ،/VBD وكمان/NN مشارك/NN بجنازتها/NN وسايق/NN الامبيلانص/DTNN ،/VBD والله/NN الدنيا/DTNN اخر/NN زمن/NN .../PUNC 

@@ -1,0 +1,1 @@
+و/CC هو/PRP ماله/NNP .../PUNC يهتم/VBP بمنتخب/NN ابناء/NN القردة/DTNN الذي/WP يدربهم/VBP أحسن/NN له/NN .../PUNC ناس/NN حشرية/JJ .../PUNC و/CC خلي/NN نروح/VBP في/IN كارثة/NN هو/PRP ماله/NN ؟/NN 

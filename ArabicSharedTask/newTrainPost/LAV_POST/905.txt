@@ -1,0 +1,1 @@
+لا/RP حول/NN ولا/NN اقوة/NN الا/RP بالله/NNP على/IN كثرة/NN حوادث/NN القتل/DTNN عنا/VBD في/IN الاردن/DTNNP كل/NOUN يوم/NN او/CC بعد/NN يوم/NN نسمع/VBP عن/IN جريمة/NN قتل/NN شو/NNP الي/IN عم/NN بصير/NNP .../PUNC اللهم/NN عافينا/NNP وعفو/NNP عنا/VBD ./PUNC 

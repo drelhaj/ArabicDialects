@@ -1,0 +1,1 @@
+كل/NOUN شي/NNP ممنوع/JJ وتبغون/NNS سياحة/NN في/IN بلدكم/NNP ./PUNC ./PUNC 

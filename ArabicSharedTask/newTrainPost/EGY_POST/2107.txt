@@ -1,0 +1,1 @@
+يابركه/VBP فضيلة/NN الامام/DTNN الاكبر/DTJJR اسمه/NN احمد/NNP الطيب/DTNNP وليس/NNP احمد/NNP النجار/DTNNP اكيد/JJ اتن/VBD بتحاول/NNP تعمل/VBP عفش/NN جديد/JJ في/IN البيت/DTNN واختلط/NNP عليك/NNP الامر/DTNN 

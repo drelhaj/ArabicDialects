@@ -1,0 +1,1 @@
+-LRB-/PUNC 70/CD -RRB-/PUNC بطولة/NN ولا/NNP علاقة/NN ولا/NN ذنب/NN للزعيم/NN بحذف/NN تاريخ/NN كامل/JJ من/IN رصيده/NN هو/PRP تاريخ/NN تزامن/NN مع/NN ظهور/NN ونشأة/NN واستقلال/NN الوطن/DTNN لا/RP ذنب/NN لنا/VBD لحذفه/NN لنمشي/JJ على/IN أهواء/NN البعض/NOUN وشكرا/NN للجميع/JJ !!!!!/JJ 

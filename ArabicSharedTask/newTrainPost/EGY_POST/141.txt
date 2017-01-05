@@ -1,0 +1,1 @@
+رحت/VBD في/IN ديزني/NNP في/IN اورلاندو/NNP لكن/VBP ما/WP قدرتش/VBD اركب/NN القطار/DTNN اول/ADJ ما/WP شفته/VBD ركبتي/NNS بدأت/NN تتخبط/VBP ./PUNC بس/NN بنات/NNS خالي/JJ العفاريت/DTNN ركبوه/NNP وانبسطوا/NNP :/PUNC -RRB-/PUNC 
