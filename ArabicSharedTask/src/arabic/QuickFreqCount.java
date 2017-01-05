@@ -21,9 +21,9 @@ public class QuickFreqCount {
 	public static void main(String args[]) throws IOException {
 
 		map = new HashMap<>();
-String dialect = "LAV";
+String dialect = "EGY";
 		// create a file channel and buffer.
-		FileChannel fileChannel = FileChannel.open(Paths.get("E:\\arabicSharedTaskGit\\ArabicSharedTask\\all\\all"+dialect+".txt"));
+		FileChannel fileChannel = FileChannel.open(Paths.get("E:\\arabicSharedTaskGit\\ArabicSharedTask\\newAll\\all"+dialect+".txt"));
 		ByteBuffer buffer = ByteBuffer.allocate(1000);
 
 		int noOfBytesRead = fileChannel.read(buffer);
@@ -54,7 +54,7 @@ String dialect = "LAV";
 		fileChannel.close();
 
 		// print map output to file
-		String txtFile = "E:\\arabicSharedTaskGit\\ArabicSharedTask\\all\\all-"+dialect+"_FreqList2.txt";
+		String txtFile = "E:\\arabicSharedTaskGit\\ArabicSharedTask\\newTrain\\all\\all-"+dialect+"_FreqList2.txt";
 		writer = new PrintWriter(txtFile, "UTF-8");
 
 		for (String key : map.keySet()) {

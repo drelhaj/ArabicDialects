@@ -179,15 +179,15 @@ public class MyFilteredLearner {
 		File modelDir = new File("model");
 		modelDir.mkdir();
 		
-		classifierName = "NN";//SMO
+		classifierName = "NaiveBayse";//SMO
 		
 		MyFilteredLearner learner;
 			learner = new MyFilteredLearner();
-			learner.loadDataset("arff/AllClassesTruncate.arff");
+			learner.loadDataset("E:\\arabicSharedTaskGit\\ArabicSharedTask\\arff\\AllClasses.arff");
 			// Evaluation must be done before training
 			learner.evaluate();
 			learner.learn();
-			learner.saveModel("model/AllClassesTruncate20_NN_"+classifierName+".dat");
+			learner.saveModel("model/AllClasses"+classifierName+".dat");
 		
 	}
 	 

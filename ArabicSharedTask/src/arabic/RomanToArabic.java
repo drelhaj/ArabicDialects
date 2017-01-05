@@ -15,7 +15,7 @@ public class RomanToArabic {
 		
 		createDirectories();
 
-		String text = new String(Files.readAllBytes(Paths.get("task2-train.txt")), StandardCharsets.UTF_8);
+		String text = new String(Files.readAllBytes(Paths.get("north.txt")), StandardCharsets.UTF_8);
 		//System.out.println(text);
 		String numericLabels = keepLabels(text);
 		String textArabic = convertToArabic(numericLabels);

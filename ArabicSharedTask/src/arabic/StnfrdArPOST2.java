@@ -13,7 +13,7 @@ public class StnfrdArPOST2 {
 static PrintWriter w1;
 static int counter = 0;
 static String folderName = "NOR";
-static File dir = new File("dataset/"+folderName);
+static File dir = new File("datasetZaidan/"+folderName);
 static MaxentTagger tagger;
 static String fileName = "";
 
@@ -24,7 +24,7 @@ static String fileName = "";
 		tagger =  new MaxentTagger("E:/workspace/jarfiles/stanford-postagger-full-2011-04-20/models/arabic-accurate.tagger");
 
 		
-		String postDIR = "dataset/"+folderName+"/taggedFiles";
+		String postDIR = "datasetZaidan/"+folderName+"_POST";
 		new File(postDIR).mkdir();
 
 	
@@ -40,7 +40,7 @@ static String fileName = "";
 		    System.out.println(textFile);
 		    String text = new String(Files.readAllBytes(Paths.get(textFile)), StandardCharsets.UTF_8);
 		    
-			w1 = new PrintWriter(postDIR+"\\"+fileName+".post");
+			w1 = new PrintWriter(postDIR+"\\"+fileName);
 			String textTagged = tagArbText(text);
 			 w1.println(textTagged);
 			 System.out.println(textTagged);

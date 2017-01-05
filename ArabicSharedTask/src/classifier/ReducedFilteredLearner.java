@@ -81,12 +81,12 @@ public class ReducedFilteredLearner {
 			//filter.setOptions(weka.core.Utils.splitOptions("weka.filters.unsupervised.attribute.StringToWordVector -R first-last -W 500 -prune-rate -1.0 -C -T -I -N 1 -L -stemmer weka.core.stemmers.SnowballStemmer -M 1 -tokenizer \"weka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 1\"\""));
 			CharacterNGramTokenizer tokeniser = new CharacterNGramTokenizer();
 			tokeniser.setNGramMinSize(1);
-			tokeniser.setNGramMaxSize(5);
+			tokeniser.setNGramMaxSize(3);
 			filter.setTokenizer(tokeniser);
 			filter.setUseStoplist(false);
 			filter.setLowerCaseTokens(false);
 			filter.setOutputWordCounts(true);
-			filter.setWordsToKeep(1000);
+			filter.setWordsToKeep(200);
 			classifier = new FilteredClassifier();
 			classifier.setFilter(filter);			
 			if(classifierName.equals("NaiveBayse"))
@@ -129,12 +129,12 @@ public class ReducedFilteredLearner {
 			filter.setAttributeIndices("last");
 			CharacterNGramTokenizer tokeniser = new CharacterNGramTokenizer();
 			tokeniser.setNGramMinSize(1);
-			tokeniser.setNGramMaxSize(5);
+			tokeniser.setNGramMaxSize(3);
 			filter.setTokenizer(tokeniser);
 			filter.setUseStoplist(false);
 			filter.setLowerCaseTokens(false);
 			filter.setOutputWordCounts(true);
-			filter.setWordsToKeep(1000);		
+			filter.setWordsToKeep(200);		
 			classifier.setFilter(filter);	
 			if(classifierName.equals("NaiveBayse"))
 			classifier.setClassifier(new NaiveBayes());//
@@ -198,13 +198,13 @@ public class ReducedFilteredLearner {
 	 */
 	public static void main (String[] args) throws Exception {
 		
-		classifierName = "NN";//SMO
+		classifierName = "KNN";//SMO
 
 		
 		System.out.println("Present Project Directory : "+ System.getProperty("user.dir"));
 		ReducedFilteredLearner learner;
 			learner = new ReducedFilteredLearner();
-			learner.loadDataset("arff/AllClasses.arff");
+			learner.loadDataset("E:\\arabicSharedTaskGit\\ArabicSharedTask\\arff\\AllClasses.arff");
 			// Evaluation must be done before training
 			learner.evaluate();
 			learner.learn();

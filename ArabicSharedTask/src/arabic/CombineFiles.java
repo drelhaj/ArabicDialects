@@ -8,9 +8,9 @@ import java.io.PrintWriter;
 import org.apache.commons.io.FileUtils;
 
 public class CombineFiles {
-	static String dialect = "MSA";
-	static String dirFrom = "E:\\arabicSharedTaskGit\\ArabicSharedTask\\dataset2\\"+dialect;
-	static String dirTo = "E:\\arabicSharedTaskGit\\ArabicSharedTask\\all";
+	static String dialect = "LAV";
+	static String dirFrom = "E:\\arabicSharedTaskGit\\ArabicSharedTask\\newTestPost\\"+dialect+"_TEST_POST";
+	static String dirTo = "E:\\arabicSharedTaskGit\\ArabicSharedTask\\newTestPost";
 	
 	static int wordCount = 0;
 	static String content = "";
@@ -23,7 +23,7 @@ public class CombineFiles {
 		file2.mkdir();
 		
 
-		PrintWriter out = new PrintWriter(dirTo + File.separator + "all"+dialect+".txt");
+		PrintWriter out = new PrintWriter(dirTo + File.separator + "test"+dialect+".txt");
 
 		File folder = new File(dirFrom);
 		File[] listOfFiles = folder.listFiles();
@@ -34,7 +34,7 @@ public class CombineFiles {
 
 				content = FileUtils.readFileToString(file);
 
-				out.println(content);
+				out.println(content.replace("EGY", "?").replace("GLF", "?").replace("LAV", "?").replace("MSA", "?").replace("NOR", "?"));
 				out.flush();
 			}
 		}
