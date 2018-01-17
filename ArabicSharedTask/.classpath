@@ -6,5 +6,11 @@
 	<classpathentry kind="lib" path="E:/workspace/jarfiles/weka-3.7.3.jar"/>
 	<classpathentry kind="lib" path="E:/workspace/jarfiles/stanford-postagger-full-2011-04-20/stanford-postagger-2011-04-20.jar"/>
 	<classpathentry kind="lib" path="E:/workspace/jarfiles/commons-lang-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jarfiles/FarasaDiacritize.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jarfiles/FarasaPOSJar.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jarfiles/FarasaSegmenterJar.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jarfiles/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jarfiles/stanford-segmenter-3.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/jarfiles/trove-3.0.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

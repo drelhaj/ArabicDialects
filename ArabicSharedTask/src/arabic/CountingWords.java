@@ -1,7 +1,6 @@
 package arabic;
 
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;
 import java.nio.channels.FileChannel;
@@ -12,21 +11,23 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.regex.Pattern;
-
+/**
+ * Class to count words in text (this works for very large text files and it's quick)
+ * @author Dr Mahmoud El-Haj @ Lancaster University
+ *
+ */
 public class CountingWords {
 
 	static Map<String, Integer> map;
-	static PrintWriter writer;
-
-	public static void main(String args[]) throws IOException {
+	
+	//String textFile: text file you want to count words for
+	public static int countWords(String textFile) throws IOException {
 
 		map = new HashMap<>();
-String dialect = "EGY";
-String text2 = "";
-int wordCount = 0;
+
+		int wordCount = 0;
 		// create a file channel and buffer.
-		FileChannel fileChannel = FileChannel.open(Paths.get("E:\\arabicSharedTaskGit\\ArabicSharedTask\\newTestPost\\test"+dialect+".txt"));
+		FileChannel fileChannel = FileChannel.open(Paths.get(textFile));
 		ByteBuffer buffer = ByteBuffer.allocate(1000);
 
 		int noOfBytesRead = fileChannel.read(buffer);
@@ -57,10 +58,7 @@ wordCount += wordsList.size();
 		fileChannel.close();
 
 		
-		System.out.println("number of words " + dialect +" : "+wordCount);
-
-		//String[] words = Pattern.compile("\\s+").split(text2.trim());
-		//System.out.println(dialect + " has " + words.length + " words");
+		return wordCount;
 		
 		
 	}

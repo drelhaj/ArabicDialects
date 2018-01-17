@@ -1,0 +1,46 @@
+Arff Creator:
+ARFFCreatorExtraFeaturesReducedLREC2018.java (In OSMAN)
+
+Final (For LREC2018 ARFF Files)
+Training: E:\arabicSharedTaskGit\ArabicSharedTask\arff\LREC2018_INDEP_DART_mixedFreqLists_Train.arff
+Testing:  E:\arabicSharedTaskGit\ArabicSharedTask\arff\LREC2018_INDEP_DART_mixedFreqLists_Test.arff
+
+Learner and Classifier:
+LREC2018Classifier.java (in Package Classifier in Project ArabicSharedTask)
+
+
+Preprocessing and creating Frequency and Bivalency Lists:
+Combine independent training files into one (CombineTrainingFiles.java in ArabicSharedTask Project)
+Create Dialectical MSA with Bivalency removed (KeepDialectsMSA.java)
+Remove Bivalency from dialectical dataset (RemoveDuplicates.java)
+
+-----------------------
+
+
+LREC2018_INDEP_DART_BestReducedFeatures_Test.arff
+LREC2018_INDEP_DART_BestReducedFeatures_Train.arff
+=== Attribute Selection on all input data ===
+Number of attributes: 50 (features)
+Search Method:
+	Greedy Stepwise (forwards).
+	Start set: no attributes
+	Merit of best subset found:    0.294
+
+Attribute Subset Evaluator (supervised, Class (nominal): 1 class):
+	CFS Subset Evaluator
+	Including locally predictive attributes
+
+Selected attributes: 25,26,27,28,29,30,38,50 : 8
+                     readability
+                     pureMSA
+                     pureEGY
+                     pureGLF
+                     pureLAV
+                     pureNOR
+                     Conjunctions
+                     typeTokenRatio
+					 
+					 
+					 
+
+					 ==============================================================================

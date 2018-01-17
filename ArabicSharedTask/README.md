@@ -5,8 +5,10 @@
 <li>Open Source tool for Arabic Dialect Identification (DID)</li>
 <li>The code and classifiers are all in Java.</li>
 <li>I've provide the training and testing dataset both taged and in plain text format.</li>
-<li>I'll add details soon on how to run this and how to use the classifiers.</li>
 </ul>
+
+The results of this code are published at LREC 2018.
+Paper: Arabic Dialect Identification in the Context of Bivalency and Code-Switching. Authors: Mahmoud El-Haj, Paul Rayson, Mariam Aboelezz
 
 
 <h3>Contact</h3>

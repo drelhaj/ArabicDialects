@@ -1,4 +1,4 @@
-package testing;
+package classifier;
 
 /**
  * A Java class that implements a simple text classifier, based on WEKA.
@@ -20,22 +20,48 @@ import weka.classifiers.lazy.IBk;
 import weka.classifiers.trees.J48;
 
 	/**
-	 * This class implements a simple text classifier in Java using WEKA.
+	 * This class implements the learning and classifier in Java using WEKA.
 	 * It loads a file with the text to classify, and the model that has been
 	 * learnt with MyFilteredLearner.java.
 	 */
-	 public class CompetetionClassifier {
+	 public class LearningAndClassification {
 
 			
 			/**
-			 * This method performs the classification of the instance.
+			 * This method performs the training (learning) and classification of the instance.
+			 * It uses the ARFF files created using ARFFCreator class
 			 * Output is done at the command-line.
 			 */
 			
 		static PrintWriter writer;
 		static int counter = 0;
+		
+		
+		
+		
+		public static void main(String[] args) throws Exception {
+			long startTime = System.currentTimeMillis();
+			//provide the training and testing ARFF files 
+			LearningAndClassification.predict("arff/LREC2018_INDEP_DART_mixedFreqLists_Train.arff","arff/LREC2018_INDEP_DART_mixedFreqLists_Test.arff");
+			
+			long estimatedTime = System.currentTimeMillis() - startTime;
+			
+			String time = String.format("%d min, %d sec", 
+				    TimeUnit.MILLISECONDS.toMinutes(estimatedTime),
+				    TimeUnit.MILLISECONDS.toSeconds(estimatedTime) - 
+				    TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(estimatedTime))
+				);
+			
+			System.out.println(time);
+			
+		}
+		
+		
+		
+		//the method predicts results for both unseen testing data using the created ARFF file, it also requires the training ARFF file (as provided in the main method above)
 		public static void predict(String trainingFile, String testingFile) throws Exception {
-			writer = new PrintWriter("arff/resultsLREC/"+trainingFile.replace("arff/", "").replace(".arff", "")+".txt");
+			writer = new PrintWriter("results/"+trainingFile.replace("arff/", "").replace(".arff", "")+".txt");//this file will contain your classification results
+																												//
 			
 			Classifier classifier = null;
 
@@ -108,31 +134,9 @@ import weka.classifiers.trees.J48;
 			}
 			
 
-
-	           /*	ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("model/Trunc20withReadabilityandFreqListsReducedTrain.dat"));
-	            out.writeObject(classifier);
-	            out.close();
-	 			System.out.println("===== Saved model: model/Trunc20withReadabilityandFreqListsReducedTrain.dat =====");
-*/
 				
 			}
-			public static void mainClass() throws Exception {
-				long startTime = System.currentTimeMillis();
-				CompetetionClassifier.predict("arff/LREC2018_INDEP_DART_mixedFreqLists.arff","arff/LREC2018TestPostComp.arff");
-				
-				long estimatedTime = System.currentTimeMillis() - startTime;
-				
-				String time = String.format("%d min, %d sec", 
-					    TimeUnit.MILLISECONDS.toMinutes(estimatedTime),
-					    TimeUnit.MILLISECONDS.toSeconds(estimatedTime) - 
-					    TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(estimatedTime))
-					);
-				
-				System.out.println(time);
 
-
-				
-			}
 			
 			
 	}

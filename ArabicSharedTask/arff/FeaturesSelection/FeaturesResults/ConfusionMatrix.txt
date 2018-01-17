@@ -1,0 +1,41 @@
+Classifier	Features	Training Accuracy	Testing Accuracy
+J48	AllFeatures	75.6638777737359	64.43230473940646	0.756638777737359	0.7549077799307791
+=== Confusion Matrix ===
+
+    a    b    c    d    e   <-- classified as
+ 3263  201  203  331   63 |    a = EGY
+  254 1760  175  319   38 |    b = GLF
+  248  207 1561  393   54 |    c = LAV
+  375  339  374 2473  170 |    d = MSA
+   65   29   48  128 3423 |    e = NOR
+
+NB	AllFeatures	56.960106705468654	47.394064668536835	0.5696010670546866	0.7466578030194717
+=== Confusion Matrix ===
+
+    a    b    c    d    e   <-- classified as
+ 1486 1900   87   33  555 |    a = EGY
+   13 2338   15   90   90 |    b = GLF
+   13 1111  960   57  322 |    c = LAV
+   19 1898   93 1051  670 |    d = MSA
+   27   46   18   42 3560 |    e = NOR
+
+KNN	AllFeatures	62.71977688856554	53.35892514395393	0.6271977688856554	0.6240497492680436
+=== Confusion Matrix ===
+
+    a    b    c    d    e   <-- classified as
+ 2364  379  482  678  158 |    a = EGY
+  416 1419  259  430   22 |    b = GLF
+  444  285 1146  482  106 |    c = LAV
+  624  397  451 2050  209 |    d = MSA
+  108   24   76  119 3366 |    e = NOR
+
+SMO	AllFeatures	76.29441008851704	66.11545843791525	0.7629441008851704	0.7904459725973578
+=== Confusion Matrix ===
+
+    a    b    c    d    e   <-- classified as
+ 3371   62   37  518   73 |    a = EGY
+  403 1573   17  535   18 |    b = GLF
+  509   67 1231  601   55 |    c = LAV
+  393   86   67 3047  138 |    d = MSA
+  101   17    7  206 3362 |    e = NOR
+

@@ -13,6 +13,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Creates Word Frequency lists (quick and works for large files)
+ * 
+ * @author Dr Mahmoud El-Haj @ Lancaster University
+ *
+ */
 public class QuickFreqCount {
 
 	static Map<String, Integer> map;
@@ -21,48 +27,58 @@ public class QuickFreqCount {
 	public static void main(String args[]) throws IOException {
 
 		map = new HashMap<>();
-String dialect = "EGY";
-		// create a file channel and buffer.
-		FileChannel fileChannel = FileChannel.open(Paths.get("E:\\arabicSharedTaskGit\\ArabicSharedTask\\newAll\\all"+dialect+".txt"));
-		ByteBuffer buffer = ByteBuffer.allocate(1000);
+		String[] dialects = { "EGY", "LAV", "NOR", "GLF", "MSA" };// classes
+																	// containing
+																	// text
+																	// files.
 
-		int noOfBytesRead = fileChannel.read(buffer);
+		for (int w = 0; w < dialects.length; w++) {
+			map.clear();
 
-		while (noOfBytesRead != -1) {
+			// create a file channel and buffer.
+			FileChannel fileChannel = FileChannel.open(Paths.get("Training\\TrainingPlain\\" + dialects[w] + ".txt"));
+			ByteBuffer buffer = ByteBuffer.allocate(1000);
 
-			// flip buffer between reading and writing.
-			buffer.flip();
+			int noOfBytesRead = fileChannel.read(buffer);
 
-			// loop through buffer contents
-			while (buffer.hasRemaining()) {
+			while (noOfBytesRead != -1) {
 
-				// extract text from the buffer
-				CharBuffer line = Charset.defaultCharset().decode(buffer);
-				String text = line.toString();
+				// flip buffer between reading and writing.
+				buffer.flip();
 
-				text = text.replaceAll("[\\p{P}\\p{Digit}]"," ").replaceAll("[^\\p{InArabic}]+"," ").replaceAll(" +", " ").trim();
-				// using BreakIterator to get words
-				List<String> wordsList = getWords(text.toLowerCase());
+				// loop through buffer contents
+				while (buffer.hasRemaining()) {
 
-				countWords((String[]) wordsList.toArray(new String[0]));
+					// extract text from the buffer
+					CharBuffer line = Charset.defaultCharset().decode(buffer);
+					String text = line.toString();
 
+					text = text.replaceAll("[\\p{P}\\p{Digit}]", " ").replaceAll("[^\\p{InArabic}]+", " ")
+							.replaceAll(" +", " ").trim();//keeps only Arabic characters
+					
+					// using BreakIterator to get words
+					List<String> wordsList = getWords(text.toLowerCase());
+
+					countWords((String[]) wordsList.toArray(new String[0]));
+
+				}
+				buffer.clear();
+				noOfBytesRead = fileChannel.read(buffer);
 			}
-			buffer.clear();
-			noOfBytesRead = fileChannel.read(buffer);
+			// close channel when no more text (bytes) remaining in the buffer.
+			fileChannel.close();
+
+			// print map output to file
+			String txtFile = "Training\\TrainingPlain\\" + dialects[w] + "_FreqList.txt";//creates a frequency list for each class (dialect).
+			writer = new PrintWriter(txtFile, "UTF-8");
+
+			for (String key : map.keySet()) {
+				writer.println(key);
+				writer.flush();
+			}
+
+			writer.close();
 		}
-		// close channel when no more text (bytes) remaining in the buffer.
-		fileChannel.close();
-
-		// print map output to file
-		String txtFile = "E:\\arabicSharedTaskGit\\ArabicSharedTask\\newTrain\\all\\all-"+dialect+"_FreqList2.txt";
-		writer = new PrintWriter(txtFile, "UTF-8");
-
-		for (String key : map.keySet()) {
-			writer.println(key);
-			writer.flush();
-		}
-
-		writer.close();
 	}
 
 	public static void countWords(String[] words) {
